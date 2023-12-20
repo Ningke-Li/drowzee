@@ -23,6 +23,7 @@ Download English wikipedia pages and articles dump from [Download URL](https://d
 The benchmark dataset is in [ALL Benchmark](./data/all_dataset.json)
 
 ### Code Structure
+```
 .
 ├── code
 │   ├── fact_extractor
@@ -58,7 +59,7 @@ The benchmark dataset is in [ALL Benchmark](./data/all_dataset.json)
     ├── text-davinci-003
     ├── vicuna-13b-v1.3
     └── vicuna-13b-v1.5
-        
+```  
 
 ### Acknowledgements
 
