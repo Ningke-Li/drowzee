@@ -1,7 +1,7 @@
 ## Drowzee
 
 
-This is a peer-review version of datasets and source code for ISSTA-24 paper 'Drowzee: Detecting Fact-conflicting Hallucination in Large Language Models via Logic Programming aided Metamorphic Testing'.
+This is a peer-review version of datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic Testing for Fact-conflicting Hallucination Detection in Large Language Models'.
 
 ### Overview
 ![Alt text](fig/drowzee-overview.jpg)
@@ -38,6 +38,8 @@ The benchmark dataset is in [ALL Benchmark](./data/all_dataset.json)
 │   │   ├── prompt_template.py
 │   │   └── result_filter.py
 │   └── reponse_evaluation
+│       ├── calculation
+│       │   └── answer_test.py
 │       ├── gpt
 │       │   ├── test_chatgpt.py
 │       │   └── test_gpt4.py
@@ -53,12 +55,10 @@ The benchmark dataset is in [ALL Benchmark](./data/all_dataset.json)
 └── res
     ├── chatgpt
     ├── gpt-4
-    ├── llama2-13b-chat
+    ├── llama2-70b-chat
     ├── llama2-7b-chat
-    ├── mistral-7b-instruct
-    ├── text-davinci-003
-    ├── vicuna-13b-v1.3
-    └── vicuna-13b-v1.5
+    ├── mistral-7b-instruct-v0.2
+    └── mixtral8x7b
 ```  
 
 ### Acknowledgements
@@ -68,3 +68,4 @@ This project makes use of the following open source projects:
 - [WikiExtractor](https://github.com/attardi/wikiextractor): A tool for extracting plain text from Wikipedia dumps.
 - [PySwip](https://github.com/yuce/pyswip): PySwip is a Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs.
 - [vLLM](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs.
+- [StanfordCoreNLP](https://nlp.stanford.edu/software/corenlp.html): A suite of NLP tools.

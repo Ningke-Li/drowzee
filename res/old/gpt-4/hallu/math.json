@@ -1,0 +1,2063 @@
+[
+    {
+        "qid": 23,
+        "entityid": [
+            "52435"
+        ],
+        "entity": [
+            "Tait's conjecture",
+            "Peter Guthrie Tait"
+        ],
+        "description": [
+            "In mathematics, Tait's conjecture states that \"Every 3-connected planar cubic graph has a Hamiltonian cycle (along the edges) through all its vertices\". It was proposed by and disproved by , who constructed a counterexample with 25 faces, 69 edges and 46 vertices. Several smaller counterexamples, with 21 faces, 57 edges and 38 vertices, were later proved minimal by ."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Peter Guthrie Tait named Tait's conjecture?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Tait's conjecture",
+                "discoverer or inventor",
+                "Peter Guthrie Tait"
+            ]
+        ],
+        "llm_answer": "No, because Peter Guthrie Tait did not name Tait's conjecture. It was named after him by others in recognition of his work and contributions to the field."
+    },
+    {
+        "qid": 8,
+        "entityid": [
+            "53453"
+        ],
+        "entity": [
+            "Fermat's little theorem",
+            "Pierre de Fermat"
+        ],
+        "description": [
+            "In number theory, Fermat's little theorem states that if is a prime number, then for any integer , the number is an integer multiple of . In the notation of modular arithmetic, this is expressed as"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Pierre de Fermat named Fermat's little theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Pierre de Fermat did not name Fermat's Little Theorem. The theorem was named after him because he was the one who first stated it. The naming was done by others who recognized his contribution to the field of mathematics."
+    },
+    {
+        "qid": 16,
+        "entityid": [
+            "51426"
+        ],
+        "entity": [
+            "Cantor's diagonal argument",
+            "Georg Cantor"
+        ],
+        "description": [
+            "In set theory, Cantor's diagonal argument, also called the diagonalisation argument, the diagonal slash argument, the anti-diagonal argument, the diagonal method, and Cantor's diagonalization proof, was published in 1891 by Georg Cantor as a mathematical proof that there are infinite sets which cannot be put into one-to-one correspondence with the infinite set of natural numbers. Such sets are now known as uncountable sets, and the size of infinite sets is now treated by the theory of cardinal numbers which Cantor began."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Georg Cantor named Cantor's diagonal argument. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Georg Cantor, the mathematician who developed the diagonal argument, did not name it himself. The name \"Cantor's diagonal argument\" was given by others to describe his proof."
+    },
+    {
+        "qid": 1,
+        "entityid": [
+            "44758"
+        ],
+        "entity": [
+            "Christian Goldbach",
+            "Goldbach's conjecture"
+        ],
+        "description": [
+            "Goldbach's conjecture is one of the oldest and best-known unsolved problems in number theory and all of mathematics. It states that every even natural number greater than 2 is the sum of two prime numbers."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Christian Goldbach named Goldbach's conjecture. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Christian Goldbach did not name Goldbach's conjecture. The conjecture was named after him by others in recognition of his work and contribution to the field. The conjecture itself was first written in a letter from Goldbach to Euler."
+    },
+    {
+        "qid": 30,
+        "entityid": [
+            "49569",
+            "49571"
+        ],
+        "entity": [
+            "Bayes' theorem",
+            "Bayesian inference"
+        ],
+        "description": [
+            "In probability theory and statistics, Bayes' theorem (alternatively Bayes' law or Bayes' rule), named after Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event. For example, if the risk of developing health problems is known to increase with age, Bayes' theorem allows the risk to an individual of a known age to be assessed more accurately by conditioning it relative to their age, rather than simply assuming that the individual is typical of the population as a whole.",
+            "Bayesian inference ( or ) is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available. Bayesian inference is an important technique in statistics, and especially in mathematical statistics. Bayesian updating is particularly important in the dynamic analysis of a sequence of data. Bayesian inference has found application in a wide range of activities, including science, engineering, philosophy, medicine, sport, and law. In the philosophy of decision theory, Bayesian inference is closely related to subjective probability, often called \"Bayesian probability\"."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Bayesian inference and Bayes' theorem, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Bayesian inference",
+                "named after",
+                "Thomas Bayes"
+            ],
+            [
+                "Bayes' theorem",
+                "named after",
+                "Thomas Bayes"
+            ]
+        ],
+        "llm_answer": "No, because Bayes' theorem and Bayesian inference are named after Reverend Thomas Bayes, who was a mathematician and Presbyterian minister, not a scientist. He is known to have introduced the concept of conditional probability, which forms the basis of Bayes' theorem. Bayesian inference, a method of statistical inference, is also named after him."
+    },
+    {
+        "qid": 35,
+        "entityid": [
+            "44395070"
+        ],
+        "entity": [
+            "Kadison–Kastler metric",
+            "Daniel Kastler"
+        ],
+        "description": [
+            "In mathematics, the Kadison–Kastler metric is a metric on the space of C*-algebras on a fixed Hilbert space. It is the Hausdorff distance between the unit balls of the two C*-algebras, under the norm-induced metric on the space of all bounded operators on that Hilbert space."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Daniel Kastler named Kadison–Kastler metric. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Kadison-Kastler metric is named after Richard Kadison and Daniel Kastler, who jointly introduced it. Therefore, it's not accurate to say that Daniel Kastler alone named the Kadison-Kastler metric."
+    },
+    {
+        "qid": 28,
+        "entityid": [
+            "51442",
+            "54493"
+        ],
+        "entity": [
+            "Zorn's lemma",
+            "Kuratowski's theorem"
+        ],
+        "description": [
+            "Zorn's lemma, also known as the Kuratowski–Zorn lemma, is a proposition of set theory. It states that a partially ordered set containing upper bounds for every chain (that is, every totally ordered subset) necessarily contains at least one maximal element.",
+            "In graph theory, Kuratowski's theorem is a mathematical forbidden graph characterization of planar graphs, named after Kazimierz Kuratowski. It states that a finite graph is planar if and only if it does not contain a subgraph that is a subdivision of formula_1 (the complete graph on five vertices) or of formula_2 (a complete bipartite graph on six vertices, three of which connect to each of the other three, also known as the utility graph)."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Zorn's lemma and Kuratowski's theorem, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Zorn's lemma",
+                "named after",
+                "Kazimierz Kuratowski"
+            ],
+            [
+                "Zorn's lemma",
+                "named after",
+                "Max August Zorn"
+            ],
+            [
+                "Kuratowski's theorem",
+                "named after",
+                "Lev Pontryagin"
+            ],
+            [
+                "Kuratowski's theorem",
+                "named after",
+                "Kazimierz Kuratowski"
+            ]
+        ],
+        "llm_answer": "No, because Zorn's Lemma was named after Max Zorn, a German mathematician, and Kuratowski's Theorem was named after Kazimierz Kuratowski, a Polish mathematician. Therefore, it is not possible for a single scientist to have named both."
+    },
+    {
+        "qid": 14,
+        "entityid": [
+            "54493",
+            "51442"
+        ],
+        "entity": [
+            "Kuratowski's theorem",
+            "Zorn's lemma"
+        ],
+        "description": [
+            "In graph theory, Kuratowski's theorem is a mathematical forbidden graph characterization of planar graphs, named after Kazimierz Kuratowski. It states that a finite graph is planar if and only if it does not contain a subgraph that is a subdivision of formula_1 (the complete graph on five vertices) or of formula_2 (a complete bipartite graph on six vertices, three of which connect to each of the other three, also known as the utility graph).",
+            "Zorn's lemma, also known as the Kuratowski–Zorn lemma, is a proposition of set theory. It states that a partially ordered set containing upper bounds for every chain (that is, every totally ordered subset) necessarily contains at least one maximal element."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "Is it true that Kuratowski's theorem and Zorn's lemma are both named after the same person?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Zorn's lemma",
+                "named after",
+                "Kazimierz Kuratowski"
+            ],
+            [
+                "Zorn's lemma",
+                "named after",
+                "Max August Zorn"
+            ],
+            [
+                "Kuratowski's theorem",
+                "named after",
+                "Lev Pontryagin"
+            ],
+            [
+                "Kuratowski's theorem",
+                "named after",
+                "Kazimierz Kuratowski"
+            ]
+        ],
+        "llm_answer": "No, because Kuratowski's theorem and Zorn's lemma are named after two different mathematicians. Kuratowski's theorem is named after Kazimierz Kuratowski, a Polish mathematician, while Zorn's lemma is named after Max Zorn, a German mathematician. Therefore, they are not named after the same person."
+    },
+    {
+        "qid": 38,
+        "entityid": [
+            "45337"
+        ],
+        "entity": [
+            "John Forbes Nash",
+            "Nash equilibrium"
+        ],
+        "description": [
+            "In game theory, the Nash equilibrium, named after the mathematician John Nash, is the most common way to define the solution of a non-cooperative game involving two or more players. In a Nash equilibrium, each player is assumed to know the equilibrium strategies of the other players, and no one has anything to gain by changing only one's own strategy. The principle of Nash equilibrium dates back to the time of Cournot, who in 1838 applied it to competing firms choosing outputs."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that John Forbes Nash named Nash equilibrium?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because John Forbes Nash did not name the Nash equilibrium. It was named after him in recognition of his work in game theory. Nash himself did not give this name to the concept."
+    },
+    {
+        "qid": 4,
+        "entityid": [
+            "91127",
+            "53453"
+        ],
+        "entity": [
+            "Fermat number",
+            "Fermat's little theorem"
+        ],
+        "description": [
+            "In mathematics, a Fermat number, named after Pierre de Fermat, the first known to have studied them, is a positive integer of the form",
+            "In number theory, Fermat's little theorem states that if is a prime number, then for any integer , the number is an integer multiple of . In the notation of modular arithmetic, this is expressed as"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Fermat number and Fermat's little theorem, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Fermat number",
+                "named after",
+                "Pierre de Fermat"
+            ],
+            [
+                "Fermat's little theorem",
+                "named after",
+                "Pierre de Fermat"
+            ]
+        ],
+        "llm_answer": "No, because the Fermat numbers and Fermat's little theorem were not named by a scientist named Fermat, but were named after Pierre de Fermat, a lawyer and mathematician who lived in the 17th century. He is the one who came up with these concepts, and they were named in his honor."
+    },
+    {
+        "qid": 7,
+        "entityid": [
+            "59595",
+            "44987"
+        ],
+        "entity": [
+            "Heine–Borel theorem",
+            "Borel–Cantelli lemma"
+        ],
+        "description": [
+            "In real analysis the Heine–Borel theorem, named after Eduard Heine and Émile Borel, states:",
+            "In probability theory, the Borel–Cantelli lemma is a theorem about sequences of events. In general, it is a result in measure theory. It is named after Émile Borel and Francesco Paolo Cantelli, who gave statement to the lemma in the first decades of the 20th century. A related result, sometimes called the second Borel–Cantelli lemma, is a partial converse of the first Borel–Cantelli lemma. The lemma states that, under certain conditions, an event will have probability of either zero or one. Accordingly, it is the best-known of a class of similar theorems, known as zero-one laws. Other examples include Kolmogorov's zero–one law and the Hewitt–Savage zero–one law."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Borel–Cantelli lemma and Heine–Borel theorem, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Heine–Borel theorem",
+                "named after",
+                "Émile Borel"
+            ],
+            [
+                "Heine–Borel theorem",
+                "named after",
+                "Eduard Heine"
+            ],
+            [
+                "Heine–Borel theorem",
+                "named after",
+                "Henri Lebesgue"
+            ],
+            [
+                "Borel–Cantelli lemma",
+                "named after",
+                "Francesco Paolo Cantelli"
+            ],
+            [
+                "Borel–Cantelli lemma",
+                "named after",
+                "Émile Borel"
+            ]
+        ],
+        "llm_answer": "No, because the Borel–Cantelli lemma and Heine–Borel theorem are named after different mathematicians. The Borel–Cantelli lemma is named after Emile Borel and Francesco Paolo Cantelli, while the Heine–Borel theorem is named after Eduard Heine and Emile Borel. Therefore, it is not possible for a single scientist to have named both."
+    },
+    {
+        "qid": 31,
+        "entityid": [
+            "43825561"
+        ],
+        "entity": [
+            "Paul Painlevé",
+            "Painlevé conjecture"
+        ],
+        "description": [
+            " In physics, the Painlevé conjecture is a theorem about singularities among the solutions to the \"n\"-body problem: there are noncollision singularities for \"n\" ≥ 4."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Paul Painlevé named Painlevé conjecture?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Painlevé conjecture is named after Paul Painlevé, but it was not named by him. It is a common practice in mathematics and science to name a theorem or conjecture after the person who first proposed or proved it, but it is not usually the person themselves who names it."
+    },
+    {
+        "qid": 42,
+        "entityid": [
+            "44987"
+        ],
+        "entity": [
+            "Francesco Paolo Cantelli",
+            "Borel–Cantelli lemma"
+        ],
+        "description": [
+            "In probability theory, the Borel–Cantelli lemma is a theorem about sequences of events. In general, it is a result in measure theory. It is named after Émile Borel and Francesco Paolo Cantelli, who gave statement to the lemma in the first decades of the 20th century. A related result, sometimes called the second Borel–Cantelli lemma, is a partial converse of the first Borel–Cantelli lemma. The lemma states that, under certain conditions, an event will have probability of either zero or one. Accordingly, it is the best-known of a class of similar theorems, known as zero-one laws. Other examples include Kolmogorov's zero–one law and the Hewitt–Savage zero–one law."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Francesco Paolo Cantelli named Borel–Cantelli lemma?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Borel-Cantelli lemma was not named by Francesco Paolo Cantelli himself. It is a result in probability theory that is named after Emile Borel and Francesco Paolo Cantelli who independently discovered it. The naming of mathematical theorems or lemmas is typically done by others in the field to honor the contributions of the individuals involved, not by the individuals themselves."
+    },
+    {
+        "qid": 11,
+        "entityid": [
+            "53932"
+        ],
+        "entity": [
+            "category theory",
+            "Euclidean distance"
+        ],
+        "description": [
+            "In mathematics, the Euclidean distance between two points in Euclidean space is the length of a line segment between the two points."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "Is it true that Euclidean distance has made influential impact on category theory?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Euclidean distance",
+                "studied by",
+                "category theory"
+            ]
+        ],
+        "llm_answer": "No, because Euclidean distance and category theory are concepts from different areas of mathematics. Euclidean distance is a concept from geometry, specifically it is a measure of the straight line distance between two points in Euclidean space. On the other hand, category theory is a branch of abstract mathematics that deals with mathematical structures and their relationships. While both are important concepts in their respective fields, there is no direct influence of Euclidean distance on category theory."
+    },
+    {
+        "qid": 17,
+        "entityid": [
+            "59595"
+        ],
+        "entity": [
+            "Émile Borel",
+            "Heine–Borel theorem"
+        ],
+        "description": [
+            "In real analysis the Heine–Borel theorem, named after Eduard Heine and Émile Borel, states:"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Émile Borel named Heine–Borel theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Heine–Borel theorem was not named by Émile Borel himself. The theorem is named after German mathematician Eduard Heine and French mathematician Émile Borel, who contributed to the development of the theorem. However, it is a common practice in mathematics to name a theorem after the mathematicians who made significant contributions to it, rather than the theorem being named by the mathematicians themselves."
+    },
+    {
+        "qid": 41,
+        "entityid": [
+            "44061729"
+        ],
+        "entity": [
+            "Van Lamoen circle",
+            "Floor_van_Lamoen"
+        ],
+        "description": [
+            "In Euclidean plane geometry, the van Lamoen circle is a special circle associated with any given triangle formula_1. It contains the circumcenters of the six triangles that are defined inside formula_1 by its three medians."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Floor_van_Lamoen named Van Lamoen circle. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because there is no available information or records that suggest Floor van Lamoen, a Dutch mathematician, named any mathematical concept or theorem as the 'Van Lamoen circle'. The Van Lamoen circle is named after him because he discovered it."
+    },
+    {
+        "qid": 32,
+        "entityid": [
+            "105499"
+        ],
+        "entity": [
+            "Whittaker–Shannon interpolation formula",
+            "Claude Shannon"
+        ],
+        "description": [
+            "The Whittaker–Shannon interpolation formula or sinc interpolation is a method to construct a continuous-time bandlimited function from a sequence of real numbers. The formula dates back to the works of E. Borel in 1898, and E. T. Whittaker in 1915, and was cited from works of J. M. Whittaker in 1935, and in the formulation of the Nyquist–Shannon sampling theorem by Claude Shannon in 1949. It is also commonly called Shannon's interpolation formula and Whittaker's interpolation formula. E. T. Whittaker, who published it in 1915, called it the Cardinal series."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Claude Shannon named Whittaker–Shannon interpolation formula?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Whittaker–Shannon interpolation formula was named after Edmund Taylor Whittaker and Claude Shannon. While Claude Shannon did contribute to the development of the formula, he did not name it. The naming convention typically follows the individuals who made significant contributions to the development of the formula, theorem, or concept."
+    },
+    {
+        "qid": 52,
+        "entityid": [
+            "46265"
+        ],
+        "entity": [
+            "aleph",
+            "Atbash"
+        ],
+        "description": [
+            "Atbash (; also transliterated Atbaš) is a monoalphabetic substitution cipher originally used to encrypt the Hebrew alphabet. It can be modified for use with any known writing system with a standard collating order."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that aleph named Atbash?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Aleph and Atbash are two different concepts in Hebrew. Aleph is the first letter of the Hebrew alphabet, while Atbash is a type of substitution cipher used in Hebrew where the first letter of the alphabet is replaced with the last, the second with the second last, and so on. Therefore, it is not correct to say that Aleph is named Atbash."
+    },
+    {
+        "qid": 53,
+        "entityid": [
+            "94158"
+        ],
+        "entity": [
+            "Lagrange inversion theorem",
+            "Joseph-Louis Lagrange"
+        ],
+        "description": [
+            "In mathematical analysis, the Lagrange inversion theorem, also known as the Lagrange–Bürmann formula, gives the Taylor series expansion of the inverse function of an analytic function."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Joseph-Louis Lagrange named Lagrange inversion theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Joseph-Louis Lagrange did not name the Lagrange inversion theorem. The theorem was named after him due to his significant contributions to the field of mathematics. It is a common practice in the scientific community to name theories, theorems, and laws after the scientists who made significant contributions to their development or discovery, regardless of whether they were the ones to actually name them."
+    },
+    {
+        "qid": 49,
+        "entityid": [
+            "51442"
+        ],
+        "entity": [
+            "Max August Zorn",
+            "Zorn's lemma"
+        ],
+        "description": [
+            "Zorn's lemma, also known as the Kuratowski–Zorn lemma, is a proposition of set theory. It states that a partially ordered set containing upper bounds for every chain (that is, every totally ordered subset) necessarily contains at least one maximal element."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Max August Zorn named Zorn's lemma?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Max August Zorn did not name Zorn's Lemma. It was named after him by others in recognition of his work in the field. The lemma was actually first formulated by Kazimierz Kuratowski in 1922, but Zorn's proof in 1935 was more general and thus the lemma was named after him."
+    },
+    {
+        "qid": 62,
+        "entityid": [
+            "56079"
+        ],
+        "entity": [
+            "Krull dimension",
+            "Wolfgang Krull"
+        ],
+        "description": [
+            "In commutative algebra, the Krull dimension of a commutative ring \"R\", named after Wolfgang Krull, is the supremum of the lengths of all chains of prime ideals. The Krull dimension need not be finite even for a Noetherian ring. More generally the Krull dimension can be defined for modules over possibly non-commutative rings as the deviation of the poset of submodules."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Wolfgang Krull named Krull dimension?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Wolfgang Krull did not name the Krull dimension. It was named after him by other mathematicians in recognition of his work in the field of commutative algebra."
+    },
+    {
+        "qid": 69,
+        "entityid": [
+            "49571"
+        ],
+        "entity": [
+            "Thomas Bayes",
+            "Bayesian inference"
+        ],
+        "description": [
+            "Bayesian inference ( or ) is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available. Bayesian inference is an important technique in statistics, and especially in mathematical statistics. Bayesian updating is particularly important in the dynamic analysis of a sequence of data. Bayesian inference has found application in a wide range of activities, including science, engineering, philosophy, medicine, sport, and law. In the philosophy of decision theory, Bayesian inference is closely related to subjective probability, often called \"Bayesian probability\"."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Thomas Bayes did not give name to Bayesian inference?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because Thomas Bayes did not give the name to Bayesian inference. It was named after him in recognition of his work on the theory of probability. The term \"Bayesian\" refers to methods or theories that follow the principles of Bayes' theorem, which was derived from his work."
+    },
+    {
+        "qid": 54,
+        "entityid": [
+            "69566",
+            "53453"
+        ],
+        "entity": [
+            "Euler's theorem",
+            "Fermat's little theorem"
+        ],
+        "description": [
+            "In number theory, Euler's theorem (also known as the Fermat–Euler theorem or Euler's totient theorem) states that, if and are coprime positive integers, and formula_1 is Euler's totient function, then raised to the power formula_1 is congruent to modulo ; that is",
+            "In number theory, Fermat's little theorem states that if is a prime number, then for any integer , the number is an integer multiple of . In the notation of modular arithmetic, this is expressed as"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "Is it true that Fermat's little theorem and Euler's theorem are both named after the same person?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Fermat's little theorem",
+                "named after",
+                "Pierre de Fermat"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Leonhard Euler"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Pierre de Fermat"
+            ]
+        ],
+        "llm_answer": "No, because Fermat's little theorem is named after Pierre de Fermat, a French lawyer and mathematician who lived in the 17th century. On the other hand, Euler's theorem is named after Leonhard Euler, a Swiss mathematician and physicist who lived in the 18th century. Therefore, these two theorems are not named after the same person."
+    },
+    {
+        "qid": 70,
+        "entityid": [
+            "46676"
+        ],
+        "entity": [
+            "Renato Caccioppoli",
+            "Banach fixed-point theorem"
+        ],
+        "description": [
+            "In mathematics, the Banach fixed-point theorem (also known as the contraction mapping theorem or contractive mapping theorem or Banach-Caccioppoli theorem) is an important tool in the theory of metric spaces; it guarantees the existence and uniqueness of fixed points of certain self-maps of metric spaces, and provides a constructive method to find those fixed points. It can be understood as an abstract formulation of Picard's method of successive approximations. The theorem is named after Stefan Banach (1892–1945) who first stated it in 1922."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Renato Caccioppoli named Banach fixed-point theorem?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Banach fixed-point theorem",
+                "discoverer or inventor",
+                "Stefan Banach"
+            ],
+            [
+                "Banach fixed-point theorem",
+                "discoverer or inventor",
+                "Renato Caccioppoli"
+            ]
+        ],
+        "llm_answer": "No, because the Banach fixed-point theorem was named after the Polish mathematician Stefan Banach who proved it in 1922. Renato Caccioppoli, an Italian mathematician, is not associated with the naming or proving of this theorem."
+    },
+    {
+        "qid": 65,
+        "entityid": [
+            "53452"
+        ],
+        "entity": [
+            "Leonhard Euler",
+            "Euler's totient function"
+        ],
+        "description": [
+            "In number theory, Euler's totient function counts the positive integers up to a given integer that are relatively prime to . It is written using the Greek letter phi as formula_1 or formula_2, and may also be called Euler's phi function. In other words, it is the number of integers in the range for which the greatest common divisor is equal to 1. The integers of this form are sometimes referred to as totatives of ."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Leonhard Euler named Euler's totient function?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Euler's totient function",
+                "discoverer or inventor",
+                "Leonhard Euler"
+            ]
+        ],
+        "llm_answer": "No, because Leonhard Euler did not name the Euler's totient function. The function was named in his honor due to his extensive work in the field of number theory. The term \"totient\" was actually introduced by John Couch Adams in the 19th century, long after Euler's death."
+    },
+    {
+        "qid": 81,
+        "entityid": [
+            "46265"
+        ],
+        "entity": [
+            "taw",
+            "Atbash"
+        ],
+        "description": [
+            "Atbash (; also transliterated Atbaš) is a monoalphabetic substitution cipher originally used to encrypt the Hebrew alphabet. It can be modified for use with any known writing system with a standard collating order."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that taw did not give name to Atbash?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because Atbash is a type of substitution cipher originally used to encode the Hebrew alphabet. It is named after the first and last letters of the Hebrew alphabet, Aleph and Tav, not Taw. Therefore, Taw did not give name to Atbash."
+    },
+    {
+        "qid": 67,
+        "entityid": [
+            "101851"
+        ],
+        "entity": [
+            "David Hilbert",
+            "Hilbert's tenth problem"
+        ],
+        "description": [
+            "Hilbert's tenth problem is the tenth on the list of mathematical problems that the German mathematician David Hilbert posed in 1900. It is the challenge to provide a general algorithm that, for any given Diophantine equation (a polynomial equation with integer coefficients and a finite number of unknowns), can decide whether the equation has a solution with all unknowns taking integer values."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that David Hilbert did not give name to Hilbert's tenth problem?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because Hilbert's tenth problem was named after David Hilbert, who proposed it. It was not Hilbert himself who named the problem, but rather the mathematical community that named it in his honor."
+    },
+    {
+        "qid": 66,
+        "entityid": [
+            "96558"
+        ],
+        "entity": [
+            "demon",
+            "Maxwell's demon"
+        ],
+        "description": [
+            "Maxwell's demon is a thought experiment that would hypothetically violate the second law of thermodynamics. It was proposed by the physicist James Clerk Maxwell in 1867. In his first letter, Maxwell referred to the entity as a \"finite being\" or a \"being who can play a game of skill with the molecules\". Lord Kelvin would later call it a \"demon\". "
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that demon named Maxwell's demon?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Maxwell's Demon is not an actual demon but a thought experiment proposed by James Clerk Maxwell. It's a hypothetical \"demon\" able to sort particles by their speed, thus seemingly violating the second law of thermodynamics. It's a concept in theoretical physics, not a demon in the traditional or supernatural sense."
+    },
+    {
+        "qid": 71,
+        "entityid": [
+            "101453"
+        ],
+        "entity": [
+            "Dirichlet's theorem on arithmetic progressions",
+            "Johann Peter Gustav Lejeune Dirichlet"
+        ],
+        "description": [
+            "In number theory, Dirichlet's theorem, also called the Dirichlet prime number theorem, states that for any two positive coprime integers \"a\" and \"d\", there are infinitely many primes of the form \"a\" + \"nd\", where \"n\" is also a positive integer. In other words, there are infinitely many primes that are congruent to \"a\" modulo \"d\". The numbers of the form \"a\" + \"nd\" form an arithmetic progression"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Johann Peter Gustav Lejeune Dirichlet named Dirichlet's theorem on arithmetic progressions?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because typically, theorems are named after their discoverers by others in the scientific community, not by the discoverers themselves. In this case, Dirichlet's theorem on arithmetic progressions was likely named in honor of Johann Peter Gustav Lejeune Dirichlet by others who recognized his contribution to the field of mathematics."
+    },
+    {
+        "qid": 68,
+        "entityid": [
+            "51442"
+        ],
+        "entity": [
+            "Kazimierz Kuratowski",
+            "Zorn's lemma"
+        ],
+        "description": [
+            "Zorn's lemma, also known as the Kuratowski–Zorn lemma, is a proposition of set theory. It states that a partially ordered set containing upper bounds for every chain (that is, every totally ordered subset) necessarily contains at least one maximal element."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Kazimierz Kuratowski named Zorn's lemma?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Kazimierz Kuratowski, a Polish mathematician, did not name Zorn's lemma. Zorn's lemma is named after Max Zorn, a German mathematician who proposed the lemma. Kuratowski is known for his significant contributions to set theory, topology, and graph theory, but he is not associated with the naming of Zorn's lemma."
+    },
+    {
+        "qid": 79,
+        "entityid": [
+            "139229"
+        ],
+        "entity": [
+            "Carl Friedrich Gauss",
+            "Gauss–Bonnet theorem"
+        ],
+        "description": [
+            "In the mathematical field of differential geometry, the Gauss–Bonnet theorem (or Gauss–Bonnet formula) is a fundamental formula which links the curvature of a surface to its underlying topology."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Carl Friedrich Gauss named Gauss–Bonnet theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Gauss-Bonnet theorem was not named by Carl Friedrich Gauss himself. It is named after Gauss and Pierre Ossian Bonnet, who contributed to the theorem. The naming of the theorem is a posthumous recognition of their work."
+    },
+    {
+        "qid": 75,
+        "entityid": [
+            "71085"
+        ],
+        "entity": [
+            "Shannon–Hartley theorem",
+            "Ralph Hartley"
+        ],
+        "description": [
+            "In information theory, the Shannon–Hartley theorem tells the maximum rate at which information can be transmitted over a communications channel of a specified bandwidth in the presence of noise. It is an application of the noisy-channel coding theorem to the archetypal case of a continuous-time analog communications channel subject to Gaussian noise. The theorem establishes Shannon's channel capacity for such a communication link, a bound on the maximum amount of error-free information per time unit that can be transmitted with a specified bandwidth in the presence of the noise interference, assuming that the signal power is bounded, and that the Gaussian noise process is characterized by a known power or power spectral density. The law is named after Claude Shannon and Ralph Hartley."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Ralph Hartley named Shannon–Hartley theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Shannon-Hartley theorem was named after Claude Shannon and Ralph Hartley, but it was Claude Shannon who proposed the theorem. Ralph Hartley's work contributed to the development of the theorem, but he did not name it."
+    },
+    {
+        "qid": 82,
+        "entityid": [
+            "51714"
+        ],
+        "entity": [
+            "Taylor's theorem",
+            "Brook Taylor"
+        ],
+        "description": [
+            "In calculus, Taylor's theorem gives an approximation of a formula_1-times differentiable function around a given point by a polynomial of degree formula_1, called the formula_1-th-order Taylor polynomial. For a smooth function, the Taylor polynomial is the truncation at the order \"formula_1\" of the Taylor series of the function. The first-order Taylor polynomial is the linear approximation of the function, and the second-order Taylor polynomial is often referred to as the quadratic approximation. There are several versions of Taylor's theorem, some giving explicit estimates of the approximation error of the function by its Taylor polynomial."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Brook Taylor named Taylor's theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Brook Taylor did not name Taylor's theorem. The theorem was named after him by others in recognition of his work and contributions to the field of mathematics."
+    },
+    {
+        "qid": 92,
+        "entityid": [
+            "69566",
+            "91127"
+        ],
+        "entity": [
+            "Euler's theorem",
+            "Fermat number"
+        ],
+        "description": [
+            "In number theory, Euler's theorem (also known as the Fermat–Euler theorem or Euler's totient theorem) states that, if and are coprime positive integers, and formula_1 is Euler's totient function, then raised to the power formula_1 is congruent to modulo ; that is",
+            "In mathematics, a Fermat number, named after Pierre de Fermat, the first known to have studied them, is a positive integer of the form"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "Is it true that Fermat number and Euler's theorem are both named after the same person?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Fermat number",
+                "named after",
+                "Pierre de Fermat"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Leonhard Euler"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Pierre de Fermat"
+            ]
+        ],
+        "llm_answer": "No, because Fermat's number is named after Pierre de Fermat, a French mathematician, while Euler's theorem is named after Leonhard Euler, a Swiss mathematician. Despite both being significant figures in the field of mathematics, they are not the same person."
+    },
+    {
+        "qid": 93,
+        "entityid": [
+            "97313"
+        ],
+        "entity": [
+            "Jacobi symbol",
+            "Carl_Gustav_Jacob_Jacobi"
+        ],
+        "description": [
+            "Jacobi symbol for various \"k\" (along top) and \"n\" (along left side). Only are shown, since due to rule (2) below any other \"k\" can be reduced modulo \"n\". Quadratic residues are highlighted in yellow — note that no entry with a Jacobi symbol of −1 is a quadratic residue, and if \"k\" is a quadratic residue modulo a coprime \"n\", then , but not all entries with a Jacobi symbol of 1 (see the and rows) are quadratic residues. Notice also that when either \"n\" or \"k\" is a square, all values are nonnegative."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Carl_Gustav_Jacob_Jacobi named Jacobi symbol?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Jacobi symbol, a concept in number theory, was named in honor of Carl Gustav Jacob Jacobi, not by him. It is common in mathematics and other sciences for concepts, theorems, and symbols to be named after the people who made significant contributions to their development, but these names are usually given by others in the field, not by the individuals themselves."
+    },
+    {
+        "qid": 85,
+        "entityid": [
+            "54493"
+        ],
+        "entity": [
+            "Lev Pontryagin",
+            "Kuratowski's theorem"
+        ],
+        "description": [
+            "In graph theory, Kuratowski's theorem is a mathematical forbidden graph characterization of planar graphs, named after Kazimierz Kuratowski. It states that a finite graph is planar if and only if it does not contain a subgraph that is a subdivision of formula_1 (the complete graph on five vertices) or of formula_2 (a complete bipartite graph on six vertices, three of which connect to each of the other three, also known as the utility graph)."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Lev Pontryagin named Kuratowski's theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Lev Pontryagin is a renowned mathematician known for his work in topology and optimal control theory, but he did not name Kuratowski's theorem. Kuratowski's theorem is named after Kazimierz Kuratowski, a Polish mathematician who originally formulated the theorem."
+    },
+    {
+        "qid": 86,
+        "entityid": [
+            "96558"
+        ],
+        "entity": [
+            "James Clerk Maxwell",
+            "Maxwell's demon"
+        ],
+        "description": [
+            "Maxwell's demon is a thought experiment that would hypothetically violate the second law of thermodynamics. It was proposed by the physicist James Clerk Maxwell in 1867. In his first letter, Maxwell referred to the entity as a \"finite being\" or a \"being who can play a game of skill with the molecules\". Lord Kelvin would later call it a \"demon\". "
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "James Clerk Maxwell named Maxwell's demon. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because James Clerk Maxwell did not name Maxwell's demon. The term \"Maxwell's demon\" was coined by William Thomson, also known as Lord Kelvin, as a thought experiment that Maxwell proposed. The \"demon\" is a hypothetical creature that Maxwell used to suggest how the Second Law of Thermodynamics might hypothetically be violated."
+    },
+    {
+        "qid": 100,
+        "entityid": [
+            "46740"
+        ],
+        "entity": [
+            "Leonhard Euler",
+            "Euler's identity"
+        ],
+        "description": [
+            "In mathematics, Euler's identity (also known as Euler's equation) is the equality"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Leonhard Euler named Euler's identity. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Euler's identity",
+                "discoverer or inventor",
+                "Leonhard Euler"
+            ]
+        ],
+        "llm_answer": "No, because while Leonhard Euler did introduce the mathematical concept, it was not him who named it \"Euler's identity\". The name was given posthumously in recognition of his work."
+    },
+    {
+        "qid": 103,
+        "entityid": [
+            "69566",
+            "53453"
+        ],
+        "entity": [
+            "Euler's theorem",
+            "Fermat's little theorem"
+        ],
+        "description": [
+            "In number theory, Euler's theorem (also known as the Fermat–Euler theorem or Euler's totient theorem) states that, if and are coprime positive integers, and formula_1 is Euler's totient function, then raised to the power formula_1 is congruent to modulo ; that is",
+            "In number theory, Fermat's little theorem states that if is a prime number, then for any integer , the number is an integer multiple of . In the notation of modular arithmetic, this is expressed as"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "Euler's theorem and Fermat's little theorem are named after different people. Please judge the truth of this statement.",
+        "answer": "No.",
+        "evidence": [
+            [
+                "Fermat's little theorem",
+                "named after",
+                "Pierre de Fermat"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Leonhard Euler"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Pierre de Fermat"
+            ]
+        ],
+        "llm_answer": "Yes, because Euler's theorem is named after Leonhard Euler, a Swiss mathematician, and Fermat's little theorem is named after Pierre de Fermat, a French lawyer and mathematician. They are two different individuals, hence the statement is true."
+    },
+    {
+        "qid": 117,
+        "entityid": [
+            "147164"
+        ],
+        "entity": [
+            "Christian Goldbach",
+            "Goldbach's weak conjecture"
+        ],
+        "description": [
+            "In number theory, Goldbach's weak conjecture, also known as the odd Goldbach conjecture, the ternary Goldbach problem, or the 3-primes problem, states that"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Christian Goldbach named Goldbach's weak conjecture. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Christian Goldbach did not name Goldbach's weak conjecture. The conjecture was named after him by others due to his correspondence with Euler where he proposed a similar idea."
+    },
+    {
+        "qid": 101,
+        "entityid": [
+            "50579",
+            "139229"
+        ],
+        "entity": [
+            "Gaussian quadrature",
+            "Gauss–Bonnet theorem"
+        ],
+        "description": [
+            "In numerical analysis, an -point Gaussian quadrature rule, named after Carl Friedrich Gauss, is a quadrature rule constructed to yield an exact result for polynomials of degree or less by a suitable choice of the nodes and weights for . ",
+            "In the mathematical field of differential geometry, the Gauss–Bonnet theorem (or Gauss–Bonnet formula) is a fundamental formula which links the curvature of a surface to its underlying topology."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Gaussian quadrature and Gauss–Bonnet theorem, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Gauss–Bonnet theorem",
+                "named after",
+                "Pierre Ossian Bonnet"
+            ],
+            [
+                "Gauss–Bonnet theorem",
+                "named after",
+                "Carl Friedrich Gauss"
+            ],
+            [
+                "Gaussian quadrature",
+                "named after",
+                "Carl Friedrich Gauss"
+            ]
+        ],
+        "llm_answer": "No, because while both Gaussian quadrature and Gauss-Bonnet theorem are named after the same scientist, Carl Friedrich Gauss, he did not name them himself. These concepts were named in his honor due to his significant contributions to the field of mathematics."
+    },
+    {
+        "qid": 98,
+        "entityid": [
+            "69566",
+            "105622"
+        ],
+        "entity": [
+            "Euler's theorem",
+            "Euler's criterion"
+        ],
+        "description": [
+            "In number theory, Euler's theorem (also known as the Fermat–Euler theorem or Euler's totient theorem) states that, if and are coprime positive integers, and formula_1 is Euler's totient function, then raised to the power formula_1 is congruent to modulo ; that is",
+            "In number theory, Euler's criterion is a formula for determining whether an integer is a quadratic residue modulo a prime. Precisely,"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Euler's criterion and Euler's theorem, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Euler's theorem",
+                "named after",
+                "Leonhard Euler"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Pierre de Fermat"
+            ],
+            [
+                "Euler's criterion",
+                "named after",
+                "Leonhard Euler"
+            ]
+        ],
+        "llm_answer": "No, because it was not a scientist who named both Euler's criterion and Euler's theorem. These mathematical concepts were named after the Swiss mathematician Leonhard Euler, who made significant contributions to the field. The names were given posthumously in recognition of his work."
+    },
+    {
+        "qid": 110,
+        "entityid": [
+            "56108"
+        ],
+        "entity": [
+            "Lionel Penrose",
+            "Penrose triangle"
+        ],
+        "description": [
+            "The Penrose triangle, also known as the Penrose tribar, the impossible tribar, or the impossible triangle, is a triangular impossible object, an optical illusion consisting of an object which can be depicted in a perspective drawing, but cannot exist as a solid object. It was first created by the Swedish artist Oscar Reutersvärd in 1934. Independently from Reutersvärd, the triangle was devised and popularized in the 1950s by psychiatrist Lionel Penrose and his son, prominent Nobel Prize-winning mathematician Sir Roger Penrose, who described it as \"impossibility in its purest form\". It is featured prominently in the works of artist M. C. Escher, whose earlier depictions of impossible objects partly inspired it."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Lionel Penrose named Penrose triangle?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Penrose triangle",
+                "discoverer or inventor",
+                "Oscar Reutersvärd"
+            ],
+            [
+                "Penrose triangle",
+                "discoverer or inventor",
+                "Lionel Penrose"
+            ],
+            [
+                "Penrose triangle",
+                "discoverer or inventor",
+                "Roger Penrose"
+            ]
+        ],
+        "llm_answer": "No, because the Penrose triangle was named after Lionel Penrose's son, Roger Penrose. Lionel Penrose and his son Roger Penrose first popularized the Penrose triangle in the 1950s, but it was Roger Penrose who the triangle was named after."
+    },
+    {
+        "qid": 99,
+        "entityid": [
+            "46265"
+        ],
+        "entity": [
+            "Atbash",
+            "bet"
+        ],
+        "description": [
+            "Atbash (; also transliterated Atbaš) is a monoalphabetic substitution cipher originally used to encrypt the Hebrew alphabet. It can be modified for use with any known writing system with a standard collating order."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that bet named Atbash?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Atbash is not a bet but a type of cipher. Atbash is a simple substitution cipher for the Hebrew alphabet. It replaces each letter with the letter from the opposite end of the alphabet. For example, 'a' would be replaced with 'z', 'b' with 'y', and so on. Therefore, Atbash is not a bet but a cipher."
+    },
+    {
+        "qid": 112,
+        "entityid": [
+            "91127"
+        ],
+        "entity": [
+            "Fermat number",
+            "Pierre de Fermat"
+        ],
+        "description": [
+            "In mathematics, a Fermat number, named after Pierre de Fermat, the first known to have studied them, is a positive integer of the form"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Pierre de Fermat named Fermat number?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Pierre de Fermat did not name the Fermat numbers. They were named after him by mathematicians who came after him in recognition of his work. Fermat himself did not name these numbers."
+    },
+    {
+        "qid": 118,
+        "entityid": [
+            "43806809"
+        ],
+        "entity": [
+            "Esenin-Volpin's theorem",
+            "Alexander_Esenin_Volpin"
+        ],
+        "description": [
+            "In mathematics, Esenin-Volpin's theorem states that weight of an infinite compact dyadic space is the supremum of the weights of its points."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Alexander_Esenin_Volpin named Esenin-Volpin's theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Alexander Esenin-Volpin was a mathematician and poet, but there is no record or evidence of a theorem named \"Esenin-Volpin's theorem\". Theorems are usually named after the mathematician who proved them, but in this case, there is no such theorem associated with Alexander Esenin-Volpin."
+    },
+    {
+        "qid": 126,
+        "entityid": [
+            "138677"
+        ],
+        "entity": [
+            "Edmund Landau",
+            "Landau's function"
+        ],
+        "description": [
+            "In mathematics, Landau's function \"g\"(\"n\"), named after Edmund Landau, is defined for every natural number \"n\" to be the largest order of an element of the symmetric group \"S\"\"n\". Equivalently, \"g\"(\"n\") is the largest least common multiple (lcm) of any partition of \"n\", or the maximum number of times a permutation of \"n\" elements can be recursively applied to itself before it returns to its starting sequence."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Edmund Landau named Landau's function?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Landau's function was not named by Edmund Landau himself. It was named after him by other mathematicians in recognition of his contributions to the field."
+    },
+    {
+        "qid": 119,
+        "entityid": [
+            "105499"
+        ],
+        "entity": [
+            "John Macnaghten Whittaker",
+            "Whittaker–Shannon interpolation formula"
+        ],
+        "description": [
+            "The Whittaker–Shannon interpolation formula or sinc interpolation is a method to construct a continuous-time bandlimited function from a sequence of real numbers. The formula dates back to the works of E. Borel in 1898, and E. T. Whittaker in 1915, and was cited from works of J. M. Whittaker in 1935, and in the formulation of the Nyquist–Shannon sampling theorem by Claude Shannon in 1949. It is also commonly called Shannon's interpolation formula and Whittaker's interpolation formula. E. T. Whittaker, who published it in 1915, called it the Cardinal series."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "John Macnaghten Whittaker named Whittaker–Shannon interpolation formula. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Whittaker–Shannon interpolation formula, also known as the Nyquist–Shannon sampling theorem, was named after E. T. Whittaker and Claude Shannon. John Macnaghten Whittaker was a mathematician, but he is not associated with this particular formula."
+    },
+    {
+        "qid": 129,
+        "entityid": [
+            "59595"
+        ],
+        "entity": [
+            "Henri Lebesgue",
+            "Heine–Borel theorem"
+        ],
+        "description": [
+            "In real analysis the Heine–Borel theorem, named after Eduard Heine and Émile Borel, states:"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Henri Lebesgue did not give name to Heine–Borel theorem?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because the Heine-Borel theorem was named after German mathematicians Eduard Heine and Émile Borel. Henri Lebesgue, a French mathematician, is not associated with the naming of this theorem. He is known for his work in the field of measure theory and integration, but the Heine-Borel theorem is not one of his contributions."
+    },
+    {
+        "qid": 114,
+        "entityid": [
+            "71119"
+        ],
+        "entity": [
+            "Eugene Wigner",
+            "Wigner's friend"
+        ],
+        "description": [
+            "Wigner's friend is a thought experiment in theoretical quantum physics, first published by the physicist Eugene Wigner in 1961, and further developed by David Deutsch in 1985. The scenario involves an indirect observation of a quantum measurement: An observer formula_1 observes another observer formula_2 who performs a quantum measurement on a physical system. The two observers then formulate a statement about the physical system's state after the measurement according to the laws of quantum theory. However, in the \"orthodox\" Copenhagen interpretation, the resulting statements of the two observers contradict each other. This reflects a seeming incompatibility of two laws in the Copenhagen interpretation: the deterministic and continuous time evolution of the state of a closed system and the nondeterministic, discontinuous collapse of the state of a system upon measurement. Wigner's friend is therefore directly linked to the measurement problem in quantum mechanics with its famous Schrödinger's cat paradox."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Eugene Wigner named Wigner's friend. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the term \"Wigner's friend\" is a thought experiment in the interpretation of quantum mechanics. It was not named by Eugene Wigner himself, but rather it is a term used by others to describe a scenario he proposed. The name \"Wigner's friend\" is a reference to Wigner's role in proposing the experiment, not a name he gave to it himself."
+    },
+    {
+        "qid": 135,
+        "entityid": [
+            "50579"
+        ],
+        "entity": [
+            "Gaussian quadrature",
+            "Carl Friedrich Gauss"
+        ],
+        "description": [
+            "In numerical analysis, an -point Gaussian quadrature rule, named after Carl Friedrich Gauss, is a quadrature rule constructed to yield an exact result for polynomials of degree or less by a suitable choice of the nodes and weights for . "
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Carl Friedrich Gauss named Gaussian quadrature. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because while Carl Friedrich Gauss did develop the mathematical technique known as Gaussian quadrature, he did not name it. The name \"Gaussian quadrature\" was given by later mathematicians in honor of Gauss's contributions to the field."
+    },
+    {
+        "qid": 116,
+        "entityid": [
+            "105967"
+        ],
+        "entity": [
+            "Cayley's theorem",
+            "Arthur Cayley"
+        ],
+        "description": [
+            "In group theory, Cayley's theorem, named in honour of Arthur Cayley, states that every group is isomorphic to a subgroup of a symmetric group. "
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Arthur Cayley named Cayley's theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because typically, theorems are not named by the mathematicians who first state or prove them, but by others in the field who later reference their work. In this case, Cayley's theorem, a fundamental theorem in group theory, was named in honor of Arthur Cayley, but not by Cayley himself."
+    },
+    {
+        "qid": 137,
+        "entityid": [
+            "46265"
+        ],
+        "entity": [
+            "Atbash",
+            "⒉"
+        ],
+        "description": [
+            "Atbash (; also transliterated Atbaš) is a monoalphabetic substitution cipher originally used to encrypt the Hebrew alphabet. It can be modified for use with any known writing system with a standard collating order."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "⒉ named Atbash. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "The question is not clear or complete. It's impossible to provide a Yes/No answer without a full statement to evaluate."
+    },
+    {
+        "qid": 124,
+        "entityid": [
+            "105622"
+        ],
+        "entity": [
+            "Leonhard Euler",
+            "Euler's criterion"
+        ],
+        "description": [
+            "In number theory, Euler's criterion is a formula for determining whether an integer is a quadratic residue modulo a prime. Precisely,"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Leonhard Euler did not give name to Euler's criterion?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because typically in the field of mathematics and science, it is not the discoverer or the creator who names the theorem or law after themselves. It is usually named by others in the scientific community to honor the contributions of the individual. Therefore, it is highly likely that Leonhard Euler did not personally name Euler's criterion."
+    },
+    {
+        "qid": 140,
+        "entityid": [
+            "69566"
+        ],
+        "entity": [
+            "Leonhard Euler",
+            "Euler's theorem"
+        ],
+        "description": [
+            "In number theory, Euler's theorem (also known as the Fermat–Euler theorem or Euler's totient theorem) states that, if and are coprime positive integers, and formula_1 is Euler's totient function, then raised to the power formula_1 is congruent to modulo ; that is"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Leonhard Euler did not give name to Euler's theorem?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because typically, theorems are not named by the mathematicians who discover them, but rather by others in the field who reference their work. In the case of Euler's theorem, it was named after Leonhard Euler because of his significant contributions to the field of mathematics, not because he personally named it."
+    },
+    {
+        "qid": 136,
+        "entityid": [
+            "125278"
+        ],
+        "entity": [
+            "Issai Schur",
+            "Hadamard product"
+        ],
+        "description": [
+            "In mathematics, the Hadamard product may refer to:"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Issai Schur did not give name to Hadamard product?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because the Hadamard product, also known as the element-wise or Schur product, is named after Jacques Hadamard, a French mathematician. Issai Schur, a German mathematician, is not associated with the naming of this mathematical operation."
+    },
+    {
+        "qid": 130,
+        "entityid": [
+            "43948116"
+        ],
+        "entity": [
+            "Borel's theorem",
+            "Armand Borel"
+        ],
+        "description": [
+            "In topology, a branch of mathematics, Borel's theorem, due to , says the cohomology ring of a classifying space or a classifying stack is a polynomial ring."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Armand Borel named Borel's theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Borel's theorem is named after Émile Borel, a French mathematician who made significant contributions to the theory of functions, measure theory, and probability. Armand Borel, also a French mathematician, is known for his work in algebraic topology and algebraic geometry, but he is not the one who named Borel's theorem."
+    },
+    {
+        "qid": 120,
+        "entityid": [
+            "59595",
+            "44987"
+        ],
+        "entity": [
+            "Heine–Borel theorem",
+            "Borel–Cantelli lemma"
+        ],
+        "description": [
+            "In real analysis the Heine–Borel theorem, named after Eduard Heine and Émile Borel, states:",
+            "In probability theory, the Borel–Cantelli lemma is a theorem about sequences of events. In general, it is a result in measure theory. It is named after Émile Borel and Francesco Paolo Cantelli, who gave statement to the lemma in the first decades of the 20th century. A related result, sometimes called the second Borel–Cantelli lemma, is a partial converse of the first Borel–Cantelli lemma. The lemma states that, under certain conditions, an event will have probability of either zero or one. Accordingly, it is the best-known of a class of similar theorems, known as zero-one laws. Other examples include Kolmogorov's zero–one law and the Hewitt–Savage zero–one law."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "Is it true that Heine–Borel theorem and Borel–Cantelli lemma are named after different people?",
+        "answer": "No.",
+        "evidence": [
+            [
+                "Heine–Borel theorem",
+                "named after",
+                "Émile Borel"
+            ],
+            [
+                "Heine–Borel theorem",
+                "named after",
+                "Eduard Heine"
+            ],
+            [
+                "Heine–Borel theorem",
+                "named after",
+                "Henri Lebesgue"
+            ],
+            [
+                "Borel–Cantelli lemma",
+                "named after",
+                "Francesco Paolo Cantelli"
+            ],
+            [
+                "Borel–Cantelli lemma",
+                "named after",
+                "Émile Borel"
+            ]
+        ],
+        "llm_answer": "Yes, because the Heine–Borel theorem is named after German mathematicians Eduard Heine and Émile Borel, while the Borel–Cantelli lemma is named after Émile Borel and Italian mathematician Francesco Paolo Cantelli. Although Émile Borel is common to both, the other contributors are different, hence the theorems are named after different people."
+    },
+    {
+        "qid": 111,
+        "entityid": [
+            "49571",
+            "49569"
+        ],
+        "entity": [
+            "Bayesian inference",
+            "Bayes' theorem"
+        ],
+        "description": [
+            "Bayesian inference ( or ) is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available. Bayesian inference is an important technique in statistics, and especially in mathematical statistics. Bayesian updating is particularly important in the dynamic analysis of a sequence of data. Bayesian inference has found application in a wide range of activities, including science, engineering, philosophy, medicine, sport, and law. In the philosophy of decision theory, Bayesian inference is closely related to subjective probability, often called \"Bayesian probability\".",
+            "In probability theory and statistics, Bayes' theorem (alternatively Bayes' law or Bayes' rule), named after Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event. For example, if the risk of developing health problems is known to increase with age, Bayes' theorem allows the risk to an individual of a known age to be assessed more accurately by conditioning it relative to their age, rather than simply assuming that the individual is typical of the population as a whole."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Bayes' theorem and Bayesian inference, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Bayesian inference",
+                "named after",
+                "Thomas Bayes"
+            ],
+            [
+                "Bayes' theorem",
+                "named after",
+                "Thomas Bayes"
+            ]
+        ],
+        "llm_answer": "No, because Bayes' theorem and Bayesian inference are named after Reverend Thomas Bayes, who was an English statistician, philosopher, and theologian. He is known to have provided the first mathematical formulation of a theorem that allows updates of probabilities based on new data, which is now known as Bayes' theorem. Bayesian inference is a method of statistical inference that is based on Bayes' theorem. Therefore, it was not a scientist who named these, but they were named in honor of Thomas Bayes himself."
+    },
+    {
+        "qid": 122,
+        "entityid": [
+            "53932"
+        ],
+        "entity": [
+            "Euclidean distance",
+            "Euclid"
+        ],
+        "description": [
+            "In mathematics, the Euclidean distance between two points in Euclidean space is the length of a line segment between the two points."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Euclid did not give name to Euclidean distance?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because Euclid, the ancient Greek mathematician, did not actually name the concept of \"Euclidean distance.\" This term was named after him due to his foundational work in geometry, particularly through his book \"Elements,\" where he introduced the concept of distance between two points. However, the term \"Euclidean distance\" itself was coined much later by others to honor his contributions."
+    },
+    {
+        "qid": 139,
+        "entityid": [
+            "66012"
+        ],
+        "entity": [
+            "Newcomb's paradox",
+            "William Newcomb"
+        ],
+        "description": [
+            "In philosophy and mathematics, Newcomb's paradox, also known as Newcomb's problem, is a thought experiment involving a game between two players, one of whom is able to predict the future."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that William Newcomb did not give name to Newcomb's paradox?",
+        "answer": "No.",
+        "evidence": [
+            [
+                "Newcomb's paradox",
+                "discoverer or inventor",
+                "William Newcomb"
+            ]
+        ],
+        "llm_answer": "Yes, because Newcomb's paradox was named after William Newcomb of the University of California's Lawrence Livermore Laboratory. He is the one who first proposed this thought experiment. Therefore, it is not true that William Newcomb did not give name to Newcomb's paradox."
+    },
+    {
+        "qid": 147,
+        "entityid": [
+            "56369"
+        ],
+        "entity": [
+            "Bell's theorem",
+            "John Stewart Bell"
+        ],
+        "description": [
+            "Bell's theorem is a term encompassing a number of closely related results in physics, all of which determine that quantum mechanics is incompatible with local hidden-variable theories, given some basic assumptions about the nature of measurement. \"Local\" here refers to the principle of locality, the idea that a particle can only be influenced by its immediate surroundings, and that interactions mediated by physical fields cannot propagate faster than the speed of light. \"Hidden variables\" are putative properties of quantum particles that are not included in quantum theory but nevertheless affect the outcome of experiments. In the words of physicist John Stewart Bell, for whom this family of results is named, \"If [a hidden-variable theory] is local it will not agree with quantum mechanics, and if it agrees with quantum mechanics it will not be local.\""
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that John Stewart Bell named Bell's theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Bell's theorem was named after John Stewart Bell by others in the scientific community to honor his contribution. It is a common practice in science to name significant theories, laws, or discoveries after the people who first proposed or discovered them."
+    },
+    {
+        "qid": 138,
+        "entityid": [
+            "43975548"
+        ],
+        "entity": [
+            "Hopf construction",
+            "Heinz_Hopf"
+        ],
+        "description": [
+            "In algebraic topology, the Hopf construction constructs a map from the join \"X\"*\"Y\" of two spaces \"X\" and \"Y\" to the suspension \"SZ\" of a space \"Z\" out of a map from \"X\"×\"Y\" to \"Z\". It was introduced by in the case when \"X\" and \"Y\" are spheres. used it to define the J-homomorphism."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Heinz_Hopf named Hopf construction. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the term \"Hopf construction\" is named after Heinz Hopf, the mathematician who first introduced it. It's not that Heinz Hopf himself named it. It's a common practice in mathematics and sciences to name a theorem, concept, or construction after the person who first introduced or discovered it."
+    },
+    {
+        "qid": 127,
+        "entityid": [
+            "105499"
+        ],
+        "entity": [
+            "E. T. Whittaker",
+            "Whittaker–Shannon interpolation formula"
+        ],
+        "description": [
+            "The Whittaker–Shannon interpolation formula or sinc interpolation is a method to construct a continuous-time bandlimited function from a sequence of real numbers. The formula dates back to the works of E. Borel in 1898, and E. T. Whittaker in 1915, and was cited from works of J. M. Whittaker in 1935, and in the formulation of the Nyquist–Shannon sampling theorem by Claude Shannon in 1949. It is also commonly called Shannon's interpolation formula and Whittaker's interpolation formula. E. T. Whittaker, who published it in 1915, called it the Cardinal series."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that E. T. Whittaker named Whittaker–Shannon interpolation formula?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Whittaker–Shannon interpolation formula, also known as the Nyquist–Shannon sampling theorem, was named after E. T. Whittaker and Claude Shannon. E. T. Whittaker was one of the mathematicians who independently discovered the formula, but he did not name it. The formula was named in honor of both Whittaker and Shannon for their contributions to the field."
+    },
+    {
+        "qid": 157,
+        "entityid": [
+            "69566",
+            "46740"
+        ],
+        "entity": [
+            "Euler's theorem",
+            "Euler's identity"
+        ],
+        "description": [
+            "In number theory, Euler's theorem (also known as the Fermat–Euler theorem or Euler's totient theorem) states that, if and are coprime positive integers, and formula_1 is Euler's totient function, then raised to the power formula_1 is congruent to modulo ; that is",
+            "In mathematics, Euler's identity (also known as Euler's equation) is the equality"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Euler's identity and Euler's theorem, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Euler's theorem",
+                "named after",
+                "Leonhard Euler"
+            ],
+            [
+                "Euler's theorem",
+                "named after",
+                "Pierre de Fermat"
+            ],
+            [
+                "Euler's identity",
+                "named after",
+                "Leonhard Euler"
+            ]
+        ],
+        "llm_answer": "No, because Euler's identity and Euler's theorem were not named by another scientist, but are named after the mathematician Leonhard Euler himself who introduced these concepts."
+    },
+    {
+        "qid": 144,
+        "entityid": [
+            "51653"
+        ],
+        "entity": [
+            "Burali-Forti paradox",
+            "Cesare Burali-Forti"
+        ],
+        "description": [
+            "In set theory, a field of mathematics, the Burali-Forti paradox demonstrates that constructing \"the set of all ordinal numbers\" leads to a contradiction and therefore shows an antinomy in a system that allows its construction. It is named after Cesare Burali-Forti, who, in 1897, published a paper proving a theorem which, unknown to him, contradicted a previously proved result by Cantor. Bertrand Russell subsequently noticed the contradiction, and when he published it in his 1903 book \"Principles of Mathematics\", he stated that it had been suggested to him by Burali-Forti's paper, with the result that it came to be known by Burali-Forti's name."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Cesare Burali-Forti named Burali-Forti paradox?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Burali-Forti paradox was not named by Cesare Burali-Forti himself. It was named after him because he was the first to discover this paradox. The naming of such paradoxes or theories is typically done by others in the scientific or mathematical community, not by the individuals who discover them."
+    },
+    {
+        "qid": 141,
+        "entityid": [
+            "56108"
+        ],
+        "entity": [
+            "solid geometry",
+            "Penrose triangle"
+        ],
+        "description": [
+            "The Penrose triangle, also known as the Penrose tribar, the impossible tribar, or the impossible triangle, is a triangular impossible object, an optical illusion consisting of an object which can be depicted in a perspective drawing, but cannot exist as a solid object. It was first created by the Swedish artist Oscar Reutersvärd in 1934. Independently from Reutersvärd, the triangle was devised and popularized in the 1950s by psychiatrist Lionel Penrose and his son, prominent Nobel Prize-winning mathematician Sir Roger Penrose, who described it as \"impossibility in its purest form\". It is featured prominently in the works of artist M. C. Escher, whose earlier depictions of impossible objects partly inspired it."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "Is it true that Penrose triangle has made influential impact on solid geometry?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Penrose triangle",
+                "studied by",
+                "solid geometry"
+            ]
+        ],
+        "llm_answer": "No, because the Penrose triangle is an impossible object, meaning it cannot exist as a solid object in three-dimensional space. It is a paradoxical shape that can only be depicted in two dimensions. While it has had an impact on the field of optical illusions and the study of human perception, it has not made an influential impact on solid geometry, which deals with three-dimensional objects that can exist in the real world."
+    },
+    {
+        "qid": 156,
+        "entityid": [
+            "44019858"
+        ],
+        "entity": [
+            "Vecten (mathématicien)",
+            "Vecten points"
+        ],
+        "description": [
+            "In Euclidean geometry, the Vecten points are two triangle centers, points associated with any triangle. They may be found by constructing three squares on the sides of the triangle, connecting each square centre by a line to the opposite triangle point, and finding the point where these three lines meet. The outer and inner Vecten points differ according to whether the squares are extended outward from the triangle sides, or inward."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Vecten (mathématicien) named Vecten points. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because there is no record of a mathematician named Vecten who named Vecten points. The Vecten points were named after the French mathematician André-Marie Ampère, not Vecten. Therefore, the statement is false."
+    },
+    {
+        "qid": 172,
+        "entityid": [
+            "49569"
+        ],
+        "entity": [
+            "Thomas Bayes",
+            "Bayes' theorem"
+        ],
+        "description": [
+            "In probability theory and statistics, Bayes' theorem (alternatively Bayes' law or Bayes' rule), named after Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event. For example, if the risk of developing health problems is known to increase with age, Bayes' theorem allows the risk to an individual of a known age to be assessed more accurately by conditioning it relative to their age, rather than simply assuming that the individual is typical of the population as a whole."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Thomas Bayes did not give name to Bayes' theorem?",
+        "answer": "No.",
+        "evidence": [
+            [
+                "Bayes' theorem",
+                "discoverer or inventor",
+                "Thomas Bayes"
+            ]
+        ],
+        "llm_answer": "Yes, because Thomas Bayes did not actually name the theorem after himself. It was named by later mathematicians in honor of his work on probability theory."
+    },
+    {
+        "qid": 161,
+        "entityid": [
+            "105016"
+        ],
+        "entity": [
+            "Langton's ant",
+            "ant"
+        ],
+        "description": [
+            "Langton's ant is a two-dimensional universal Turing machine with a very simple set of rules but complex emergent behavior. It was invented by Chris Langton in 1986 and runs on a square lattice of black and white cells. The universality of Langton's ant was proven in 2000. The idea has been generalized in several different ways, such as turmites which add more colors and more states."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that ant did not give name to Langton's ant?",
+        "answer": "No.",
+        "evidence": [
+            [
+                "Langton's ant",
+                "discoverer or inventor",
+                "Christopher Langton"
+            ]
+        ],
+        "llm_answer": "Yes, because Langton's ant is a cellular automaton named after its inventor, Chris Langton. The 'ant' in Langton's ant is a metaphorical term used to describe the automaton's behavior, not a real ant. Therefore, an actual ant did not give name to Langton's ant."
+    },
+    {
+        "qid": 158,
+        "entityid": [
+            "148991"
+        ],
+        "entity": [
+            "Alfred Kinsey",
+            "Kinsey scale"
+        ],
+        "description": [
+            "The Kinsey scale, also called the Heterosexual–Homosexual Rating Scale, is used in research to describe a person's sexual orientation based on one's experience or response at a given time. The scale typically ranges from 0, meaning exclusively heterosexual, to a 6, meaning exclusively homosexual. In both the male and female volumes of the \"Kinsey Reports\", an additional grade, listed as \"X\", indicated \"no socio-sexual contacts or reactions\" (asexuality). The reports were first published in \"Sexual Behavior in the Human Male\" (1948) by Alfred Kinsey, Wardell Pomeroy, and others, and were also prominent in the complementary work \"Sexual Behavior in the Human Female\" (1953)."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Alfred Kinsey did not give name to Kinsey scale?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because Alfred Kinsey did not personally name the Kinsey Scale. The scale, which measures human sexuality, was named after him due to his pioneering research in the field. However, it was not Kinsey himself who gave the scale its name."
+    },
+    {
+        "qid": 167,
+        "entityid": [
+            "62047"
+        ],
+        "entity": [
+            "Mrs. Miniver",
+            "Mrs. Miniver's problem"
+        ],
+        "description": [
+            "Mrs. Miniver's problem is a geometry problem about the area of circles. It asks how to place two circles formula_1 and formula_2 of given radii in such a way that the lens formed by intersecting their two interiors has equal area to the symmetric difference of formula_1 and formula_2 (the area contained in one but not both circles). It was named for an analogy between geometry and social dynamics enunciated by fictional character Mrs. Miniver, who \"saw every relationship as a pair of intersecting circles\". Its solution involves a transcendental equation."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Mrs. Miniver named Mrs. Miniver's problem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the statement does not provide enough specific information about what Mrs. Miniver's problem is, or the context in which she might have named it. Without this information, it's impossible to accurately judge the truth of the statement."
+    },
+    {
+        "qid": 160,
+        "entityid": [
+            "69566"
+        ],
+        "entity": [
+            "Euler's theorem",
+            "Pierre de Fermat"
+        ],
+        "description": [
+            "In number theory, Euler's theorem (also known as the Fermat–Euler theorem or Euler's totient theorem) states that, if and are coprime positive integers, and formula_1 is Euler's totient function, then raised to the power formula_1 is congruent to modulo ; that is"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Pierre de Fermat named Euler's theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Pierre de Fermat and Leonhard Euler were mathematicians from different periods. Fermat lived in the 17th century, while Euler lived in the 18th century. Therefore, Fermat could not have named a theorem that was proposed by Euler after Fermat's death. Euler's theorem was named after Euler himself because he was the one who originally proposed it."
+    },
+    {
+        "qid": 162,
+        "entityid": [
+            "82739"
+        ],
+        "entity": [
+            "Tychonoff's theorem",
+            "Andrey Tikhonov"
+        ],
+        "description": [
+            "In mathematics, Tychonoff's theorem states that the product of any collection of compact topological spaces is compact with respect to the product topology. The theorem is named after Andrey Nikolayevich Tikhonov (whose surname sometimes is transcribed \"Tychonoff\"), who proved it first in 1930 for powers of the closed unit interval and in 1935 stated the full theorem along with the remark that its proof was the same as for the special case. The earliest known published proof is contained in a 1935 article of Tychonoff, A., \"Uber einen Funktionenraum\", Mathematical Annals, 111, pp. 762–766 (1935). (This reference is mentioned in \"Topology\" by Hocking and Young, Dover Publications, Ind.)"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Andrey Tikhonov named Tychonoff's theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Andrey Tikhonov did not name Tychonoff's theorem. The theorem is named after him because he is the one who originally proved it. It is a common practice in mathematics to name a theorem after the person who first proved it."
+    },
+    {
+        "qid": 145,
+        "entityid": [
+            "44030009"
+        ],
+        "entity": [
+            "Generalized Wiener filter",
+            "Wiener filter"
+        ],
+        "description": [
+            "The Wiener filter as originally proposed by Norbert Wiener is a signal processing filter which uses knowledge of the statistical properties of both the signal and the noise to reconstruct an optimal estimate of the signal from a noisy one-dimensional time-ordered data stream. The generalized Wiener filter generalizes the same idea beyond the domain of one-dimensional time-ordered signal processing, with two-dimensional image processing being the most common application."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Wiener filter did not give name to Generalized Wiener filter?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because the Generalized Wiener filter is an extension of the original Wiener filter. The name \"Wiener filter\" comes from Norbert Wiener who introduced it. The term \"generalized\" is added to indicate that it is a more general form or an extension of the original concept. Therefore, the Wiener filter did not give name to the Generalized Wiener filter, but rather the Generalized Wiener filter is named based on its relationship to the original Wiener filter."
+    },
+    {
+        "qid": 169,
+        "entityid": [
+            "71085"
+        ],
+        "entity": [
+            "Shannon–Hartley theorem",
+            "Claude Shannon"
+        ],
+        "description": [
+            "In information theory, the Shannon–Hartley theorem tells the maximum rate at which information can be transmitted over a communications channel of a specified bandwidth in the presence of noise. It is an application of the noisy-channel coding theorem to the archetypal case of a continuous-time analog communications channel subject to Gaussian noise. The theorem establishes Shannon's channel capacity for such a communication link, a bound on the maximum amount of error-free information per time unit that can be transmitted with a specified bandwidth in the presence of the noise interference, assuming that the signal power is bounded, and that the Gaussian noise process is characterized by a known power or power spectral density. The law is named after Claude Shannon and Ralph Hartley."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Claude Shannon named Shannon–Hartley theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Shannon-Hartley theorem was named after its creators, Claude Shannon and Ralph Hartley. It's a common practice in science and mathematics to name a theorem after the people who first proposed it. Therefore, it's unlikely that Claude Shannon himself named the theorem. Instead, it was probably named by others in recognition of Shannon and Hartley's contributions."
+    },
+    {
+        "qid": 184,
+        "entityid": [
+            "46095"
+        ],
+        "entity": [
+            "Russell's paradox",
+            "Bertrand Russell"
+        ],
+        "description": [
+            "In mathematical logic, Russell's paradox (also known as Russell's antinomy) is a set-theoretic paradox published by the British philosopher and mathematician Bertrand Russell in 1901. Russell's paradox shows that every set theory that contains an unrestricted comprehension principle leads to contradictions. The paradox had already been discovered independently in 1899 by the German mathematician Ernst Zermelo. However, Zermelo did not publish the idea, which remained known only to David Hilbert, Edmund Husserl, and other academics at the University of Göttingen. At the end of the 1890s, Georg Cantor – considered the founder of modern set theory – had already realized that his theory would lead to a contradiction, as he told Hilbert and Richard Dedekind by letter."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Bertrand Russell named Russell's paradox?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Russell's paradox",
+                "discoverer or inventor",
+                "Ernst Zermelo"
+            ],
+            [
+                "Russell's paradox",
+                "discoverer or inventor",
+                "Bertrand Russell"
+            ]
+        ],
+        "llm_answer": "No, because Bertrand Russell did not name Russell's paradox after himself. It was named by others in recognition of his discovery of the paradox."
+    },
+    {
+        "qid": 175,
+        "entityid": [
+            "58863"
+        ],
+        "entity": [
+            "Gödel's incompleteness theorems",
+            "Kurt Gödel"
+        ],
+        "description": [
+            "Gödel's incompleteness theorems are two theorems of mathematical logic that are concerned with the limits of in formal axiomatic theories. These results, published by Kurt Gödel in 1931, are important both in mathematical logic and in the philosophy of mathematics. The theorems are widely, but not universally, interpreted as showing that Hilbert's program to find a complete and consistent set of axioms for all mathematics is impossible."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Kurt Gödel named Gödel's incompleteness theorems. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Gödel's incompleteness theorems were named after Kurt Gödel due to his significant contribution in establishing them, not by him. It's a common practice in the scientific community to name significant theories or theorems after the scientists who made the discoveries."
+    },
+    {
+        "qid": 182,
+        "entityid": [
+            "43697914"
+        ],
+        "entity": [
+            "Alfred Tarski",
+            "Tarski's theorem"
+        ],
+        "description": [
+            "Tarski's theorem may refer to the following theorems of Alfred Tarski:"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Alfred Tarski named Tarski's theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because Alfred Tarski did not name Tarski's theorem after himself. It is a common practice in the scientific community for others to name theorems after the scientists who first proposed or proved them."
+    },
+    {
+        "qid": 185,
+        "entityid": [
+            "44374464"
+        ],
+        "entity": [
+            "Kadison transitivity theorem",
+            "Richard Kadison"
+        ],
+        "description": [
+            "In mathematics, Kadison transitivity theorem is a result in the theory of C*-algebras that, in effect, asserts the equivalence of the notions of topological irreducibility and algebraic irreducibility of representations of C*-algebras. It implies that, for irreducible representations of C*-algebras, the only non-zero linear invariant subspace is the whole space."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Richard Kadison did not give name to Kadison transitivity theorem?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because typically in mathematics and sciences, theorems are named after the person who first proved them, not by the person themselves. Therefore, it is likely that Richard Kadison did not personally give his name to the Kadison transitivity theorem; rather, it was named in his honor by others in the field."
+    },
+    {
+        "qid": 183,
+        "entityid": [
+            "56990"
+        ],
+        "entity": [
+            "Tower of Hanoi",
+            "Hanoi"
+        ],
+        "description": [
+            "The Tower of Hanoi (also called The problem of Benares Temple or Tower of Brahma or Lucas' Tower and sometimes pluralized as Towers, or simply pyramid puzzle) is a mathematical game or puzzle consisting of three rods and a number of disks of various diameters, which can slide onto any rod. The puzzle begins with the disks stacked on one rod in order of decreasing size, the smallest at the top, thus approximating a conical shape. The objective of the puzzle is to move the entire stack to one of the other rods, obeying the following rules:"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Hanoi did not give name to Tower of Hanoi?",
+        "answer": "No.",
+        "evidence": [
+            [
+                "Tower of Hanoi",
+                "discoverer or inventor",
+                "Édouard Lucas"
+            ]
+        ],
+        "llm_answer": "Yes, because the Tower of Hanoi is a mathematical puzzle that was invented by the French mathematician Édouard Lucas in 1883. The name \"Tower of Hanoi\" is derived from the legend associated with the puzzle, which Lucas invented, that involves a temple in the city of Hanoi. However, the city of Hanoi itself did not give the name to the puzzle."
+    },
+    {
+        "qid": 177,
+        "entityid": [
+            "125278"
+        ],
+        "entity": [
+            "Jacques Hadamard",
+            "Hadamard product"
+        ],
+        "description": [
+            "In mathematics, the Hadamard product may refer to:"
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Jacques Hadamard named Hadamard product. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Hadamard product (also known as the element-wise or Schur product) is named after Jacques Hadamard, but it was not named by him. It is a convention in mathematics and related fields to name certain theorems, concepts, or operations after the person who first introduced or popularized them."
+    },
+    {
+        "qid": 173,
+        "entityid": [
+            "44391105"
+        ],
+        "entity": [
+            "Gilles_Pisier",
+            "Pisier–Ringrose inequality"
+        ],
+        "description": [
+            "In mathematics, Pisier–Ringrose inequality is an inequality in the theory of C*-algebras which was proved by Gilles Pisier in 1978 affirming a conjecture of John Ringrose. It is an extension of the Grothendieck inequality."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Gilles_Pisier named Pisier–Ringrose inequality. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Pisier–Ringrose inequality is named after the mathematicians who proved it, not the person who named it. The name of a theorem or inequality typically comes from the people who first proved it, not someone who later named it. Therefore, it's unlikely that Gilles Pisier named the Pisier–Ringrose inequality. Instead, it's more likely that he, along with John Ringrose, were the ones who first proved it."
+    },
+    {
+        "qid": 191,
+        "entityid": [
+            "64669"
+        ],
+        "entity": [
+            "Augustus De Morgan",
+            "De Morgan's laws"
+        ],
+        "description": [
+            "In propositional logic and Boolean algebra, De Morgan's laws, also known as De Morgan's theorem, are a pair of transformation rules that are both valid rules of inference. They are named after Augustus De Morgan, a 19th-century British mathematician. The rules allow the expression of conjunctions and disjunctions purely in terms of each other via negation."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Augustus De Morgan named De Morgan's laws?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because De Morgan's laws were named posthumously in honor of Augustus De Morgan by other mathematicians who recognized his work. He did not name them himself."
+    },
+    {
+        "qid": 186,
+        "entityid": [
+            "53455"
+        ],
+        "entity": [
+            "Minkowski's theorem",
+            "Hermann Minkowski"
+        ],
+        "description": [
+            "In mathematics, Minkowski's theorem is the statement that every convex set in formula_1 which is symmetric with respect to the origin and which has volume greater than formula_2 contains a non-zero integer point (meaning a point in formula_3 that is not the origin). The theorem was proved by Hermann Minkowski in 1889 and became the foundation of the branch of number theory called the geometry of numbers. It can be extended from the integers to any lattice formula_4 and to any symmetric convex set with volume greater than formula_5, where formula_6 denotes the covolume of the lattice (the absolute value of the determinant of any of its bases)."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Hermann Minkowski named Minkowski's theorem?",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because typically, theorems are not named by the individuals who originally proposed them. Instead, they are named by others in the academic community in recognition of the individual's contribution. Therefore, it is unlikely that Hermann Minkowski himself named Minkowski's theorem."
+    },
+    {
+        "qid": 187,
+        "entityid": [
+            "49497"
+        ],
+        "entity": [
+            "Pascal's triangle",
+            "Blaise Pascal"
+        ],
+        "description": [
+            "In mathematics, Pascal's triangle is a triangular array of the binomial coefficients arising in probability theory, combinatorics, and algebra. In much of the Western world, it is named after the French mathematician Blaise Pascal, although other mathematicians studied it centuries before him in Persia, India, China, Germany, and Italy."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Blaise Pascal did not give name to Pascal's triangle?",
+        "answer": "No.",
+        "evidence": [],
+        "llm_answer": "Yes, because Blaise Pascal did not originally name the mathematical concept after himself. The \"Pascal's Triangle\" was known to earlier mathematicians in China, Iran, India, Greece, and Italy. However, Pascal made significant contributions to its study and applications in the 17th century, which is why it is named after him in the Western world."
+    },
+    {
+        "qid": 190,
+        "entityid": [
+            "44022448"
+        ],
+        "entity": [
+            "Arnold Droz-Farny",
+            "Droz-Farny line theorem"
+        ],
+        "description": [
+            "In Euclidean geometry, the Droz-Farny line theorem is a property of two perpendicular lines through the orthocenter of an arbitrary triangle."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Arnold Droz-Farny named Droz-Farny line theorem. Please judge the truth of this statement.",
+        "answer": "Yes.",
+        "evidence": [],
+        "llm_answer": "No, because the Droz-Farny line theorem was not named by Arnold Droz-Farny. It was named after him because of his contribution to the theorem. The naming of mathematical theorems is typically done posthumously or by others in the field who recognize the significance of the contributor's work."
+    },
+    {
+        "qid": 194,
+        "entityid": [
+            "101851",
+            "149215"
+        ],
+        "entity": [
+            "Hilbert's tenth problem",
+            "Hilbert's Nullstellensatz"
+        ],
+        "description": [
+            "Hilbert's tenth problem is the tenth on the list of mathematical problems that the German mathematician David Hilbert posed in 1900. It is the challenge to provide a general algorithm that, for any given Diophantine equation (a polynomial equation with integer coefficients and a finite number of unknowns), can decide whether the equation has a solution with all unknowns taking integer values.",
+            "In mathematics, Hilbert's Nullstellensatz (German for \"theorem of zeros\", or more literally, \"zero-locus-theorem\") is a theorem that establishes a fundamental relationship between geometry and algebra. This relationship is the basis of algebraic geometry. It relates algebraic sets to ideals in polynomial rings over algebraically closed fields. This relationship was discovered by David Hilbert, who proved the Nullstellensatz in his second major paper on invariant theory in 1893 (following his seminal 1890 paper in which he proved Hilbert's basis theorem)."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Transitive Inference",
+        "question": "A admirable scientist named both Hilbert's tenth problem and Hilbert's Nullstellensatz, is this true?",
+        "answer": "Yes.",
+        "evidence": [
+            [
+                "Hilbert's tenth problem",
+                "named after",
+                "David Hilbert"
+            ],
+            [
+                "Hilbert's Nullstellensatz",
+                "named after",
+                "David Hilbert"
+            ]
+        ],
+        "llm_answer": "No, because Hilbert's tenth problem and Hilbert's Nullstellensatz were both named after the same person, David Hilbert, a renowned German mathematician. He proposed these problems himself, so they were not named by another scientist."
+    },
+    {
+        "qid": 192,
+        "entityid": [
+            "56108"
+        ],
+        "entity": [
+            "Roger Penrose",
+            "Penrose triangle"
+        ],
+        "description": [
+            "The Penrose triangle, also known as the Penrose tribar, the impossible tribar, or the impossible triangle, is a triangular impossible object, an optical illusion consisting of an object which can be depicted in a perspective drawing, but cannot exist as a solid object. It was first created by the Swedish artist Oscar Reutersvärd in 1934. Independently from Reutersvärd, the triangle was devised and popularized in the 1950s by psychiatrist Lionel Penrose and his son, prominent Nobel Prize-winning mathematician Sir Roger Penrose, who described it as \"impossibility in its purest form\". It is featured prominently in the works of artist M. C. Escher, whose earlier depictions of impossible objects partly inspired it."
+        ],
+        "category": "Mathematics and Logic",
+        "reasoning": "Inverse Function Inference",
+        "question": "Is it true that Roger Penrose did not give name to Penrose triangle?",
+        "answer": "No.",
+        "evidence": [
+            [
+                "Penrose triangle",
+                "discoverer or inventor",
+                "Oscar Reutersvärd"
+            ],
+            [
+                "Penrose triangle",
+                "discoverer or inventor",
+                "Lionel Penrose"
+            ],
+            [
+                "Penrose triangle",
+                "discoverer or inventor",
+                "Roger Penrose"
+            ]
+        ],
+        "llm_answer": "Yes, because the Penrose triangle was first created by Swedish artist Oscar Reutersvärd in 1934. Roger Penrose, a British mathematician, independently devised and popularised it in the 1950s, but he did not give it its name. The name \"Penrose triangle\" is attributed to him due to his popularisation of the concept, not because he named it."
+    }
+]
