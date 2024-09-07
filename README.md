@@ -1,7 +1,8 @@
 ## Drowzee
 
 
-This is a peer-review version of datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic Testing for Fact-conflicting Hallucination Detection in Large Language Models'.
+This is the old version of datasets and source code for OOPSLA-24 paper 'Drowzee: Metamorphic Testing for Fact-conflicting Hallucination Detection in Large Language Models'.
+The latest will be updated soon.
 
 ### Overview
 ![Alt text](fig/drowzee-overview.jpg)
