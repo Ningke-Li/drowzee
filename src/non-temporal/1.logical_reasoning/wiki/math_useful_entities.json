@@ -1,0 +1,3990 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q11518",
+        "entityLabel": "Pythagorean theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q132469",
+        "entityLabel": "Fermat's Last Theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26708",
+        "entityLabel": "binomial theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q170181",
+        "entityLabel": "law of sines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182714",
+        "entityLabel": "Heron's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q164321",
+        "entityLabel": "law of cosines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184871",
+        "entityLabel": "Euler's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q670235",
+        "entityLabel": "fundamental theorem of arithmetic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182505",
+        "entityLabel": "Bayes' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192760",
+        "entityLabel": "fundamental theorem of algebra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184410",
+        "entityLabel": "four color theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1217677",
+        "entityLabel": "fundamental theorem of calculus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200787",
+        "entityLabel": "Gödel's incompleteness theorems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189136",
+        "entityLabel": "mean value theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190557",
+        "entityLabel": "L'Hôpital's rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204819",
+        "entityLabel": "Euler's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188295",
+        "entityLabel": "Fermat's little theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207952",
+        "entityLabel": "law of large numbers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173300",
+        "entityLabel": "De Morgan's laws"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188276",
+        "entityLabel": "pigeonhole principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23389",
+        "entityLabel": "Nash equilibrium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190556",
+        "entityLabel": "de Moivre's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193286",
+        "entityLabel": "Rolle's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q487132",
+        "entityLabel": "infinite monkey theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190546",
+        "entityLabel": "Cauchy–Schwarz inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203586",
+        "entityLabel": "Poincaré conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q285719",
+        "entityLabel": "Thales' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q386292",
+        "entityLabel": "prime number theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208216",
+        "entityLabel": "triangle inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193878",
+        "entityLabel": "Chinese remainder theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q245098",
+        "entityLabel": "intermediate value theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207455",
+        "entityLabel": "chain rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190391",
+        "entityLabel": "central limit theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193882",
+        "entityLabel": "Menelaus' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q322666",
+        "entityLabel": "Cramer's rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241868",
+        "entityLabel": "Thévenin's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213603",
+        "entityLabel": "Ceva's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q321237",
+        "entityLabel": "Green's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q459547",
+        "entityLabel": "Ptolemy's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q468887",
+        "entityLabel": "Law of tangents"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q470877",
+        "entityLabel": "Stirling's approximation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193910",
+        "entityLabel": "Euler's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q474881",
+        "entityLabel": "Cantor's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913764",
+        "entityLabel": "Cauchy's integral formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q205472",
+        "entityLabel": "Zipf's law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q276082",
+        "entityLabel": "Wilson's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q468422",
+        "entityLabel": "principle of excluded middle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q513028",
+        "entityLabel": "Bézout's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q468391",
+        "entityLabel": "Bolzano–Weierstrass theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q578555",
+        "entityLabel": "Noether's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3757563",
+        "entityLabel": "intercept theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q729471",
+        "entityLabel": "Cantor's diagonal argument"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q338886",
+        "entityLabel": "divergence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q651593",
+        "entityLabel": "Norton's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q679800",
+        "entityLabel": "Nyquist–Shannon sampling theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q632546",
+        "entityLabel": "Bertrand's postulate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1137206",
+        "entityLabel": "Taylor's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q725944",
+        "entityLabel": "Runge–Kutta method"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q737851",
+        "entityLabel": "Banach–Tarski paradox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q739403",
+        "entityLabel": "Stewart's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q868437",
+        "entityLabel": "law of noncontradiction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181054",
+        "entityLabel": "Euclidean division"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q467756",
+        "entityLabel": "Stokes' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q505798",
+        "entityLabel": "Lagrange's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1065257",
+        "entityLabel": "squeeze theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q877489",
+        "entityLabel": "Apollonius' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q828284",
+        "entityLabel": "parallel axis theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q249514",
+        "entityLabel": "Chebyshev's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q518131",
+        "entityLabel": "Jensen's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q751319",
+        "entityLabel": "Minimax"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q852183",
+        "entityLabel": "Viviani's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q260060",
+        "entityLabel": "charge-parity-time symmetry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q637418",
+        "entityLabel": "Napoleon's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1071948",
+        "entityLabel": "polynomial remainder theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1506253",
+        "entityLabel": "Euclid's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q728969",
+        "entityLabel": "Torricelli's law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q752375",
+        "entityLabel": "extreme value theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q620602",
+        "entityLabel": "virial theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q646523",
+        "entityLabel": "Pick's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q656772",
+        "entityLabel": "Cayley–Hamilton theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149348",
+        "entityLabel": "Brahmagupta's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q841893",
+        "entityLabel": "Desargues' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q842436",
+        "entityLabel": "Markov's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q844118",
+        "entityLabel": "modus tollens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q537518",
+        "entityLabel": "Bretschneider's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q657903",
+        "entityLabel": "Waring's problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q919125",
+        "entityLabel": "parallelogram law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q756946",
+        "entityLabel": "Lagrange's four-square theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q834025",
+        "entityLabel": "Cauchy's integral theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q174955",
+        "entityLabel": "Catalan's conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q318767",
+        "entityLabel": "Abel's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q908669",
+        "entityLabel": "Ehrenfest theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913447",
+        "entityLabel": "Morley's trisector theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q937921",
+        "entityLabel": "Simson line"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q899002",
+        "entityLabel": "Pascal's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1340623",
+        "entityLabel": "classification of finite simple groups"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q731894",
+        "entityLabel": "Hölder's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q755092",
+        "entityLabel": "Minkowski inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q33481",
+        "entityLabel": "Arrow's impossibility theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q255996",
+        "entityLabel": "equipartition theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q260928",
+        "entityLabel": "Jordan curve theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q472883",
+        "entityLabel": "quadratic reciprocity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q925854",
+        "entityLabel": "angle bisector theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1050037",
+        "entityLabel": "Coase theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1057919",
+        "entityLabel": "Sylow theorems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180345",
+        "entityLabel": "rational root theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q253214",
+        "entityLabel": "Heine–Borel theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q576478",
+        "entityLabel": "Liouville's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1060321",
+        "entityLabel": "Gaussian integral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1110301",
+        "entityLabel": "Y-Δ transform"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1141747",
+        "entityLabel": "Carnot's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q914099",
+        "entityLabel": "alternating series test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1052678",
+        "entityLabel": "Baire category theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2071632",
+        "entityLabel": "Rouché–Capelli theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q830513",
+        "entityLabel": "residue theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q845088",
+        "entityLabel": "Pappus's centroid theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q282023",
+        "entityLabel": "Euler–Maclaurin formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q377047",
+        "entityLabel": "butterfly theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q657482",
+        "entityLabel": "Abel–Ruffini theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q922012",
+        "entityLabel": "Green–Tao theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1423818",
+        "entityLabel": "Euler's theorem in geometry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q755991",
+        "entityLabel": "Atiyah–Singer index theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q866116",
+        "entityLabel": "Hahn–Banach theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q617417",
+        "entityLabel": "isoperimetric inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q619985",
+        "entityLabel": "multinomial theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q649469",
+        "entityLabel": "modularity theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1375963",
+        "entityLabel": "converse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425308",
+        "entityLabel": "Brahmagupta theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1457052",
+        "entityLabel": "well-ordering theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1989192",
+        "entityLabel": "law of total probability"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2372261",
+        "entityLabel": "law of identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848375",
+        "entityLabel": "implicit function theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q851166",
+        "entityLabel": "Pappus's hexagon theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q119450",
+        "entityLabel": "Brianchon's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q377276",
+        "entityLabel": "Cook–Levin theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q550402",
+        "entityLabel": "Dirichlet's theorem on arithmetic progressions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1072412",
+        "entityLabel": "Weierstrass M-test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1077741",
+        "entityLabel": "hairy ball theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1209055",
+        "entityLabel": "Mollweide's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q910563",
+        "entityLabel": "Young's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q914517",
+        "entityLabel": "Fermat's theorem on sums of two squares"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q931001",
+        "entityLabel": "inverse function theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q966873",
+        "entityLabel": "Kepler conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1033910",
+        "entityLabel": "Cantor–Bernstein–Schroeder theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1379344",
+        "entityLabel": "Descartes' rule of signs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1426292",
+        "entityLabel": "uniform boundedness principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2044612",
+        "entityLabel": "Laplace expansion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q765987",
+        "entityLabel": "Heine–Cantor theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q856032",
+        "entityLabel": "CAP theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q893496",
+        "entityLabel": "Borel–Cantelli lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32028",
+        "entityLabel": "superposition theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179208",
+        "entityLabel": "Cayley's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q279090",
+        "entityLabel": "Brahmagupta–Fibonacci identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q523876",
+        "entityLabel": "spin-statistics theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1196538",
+        "entityLabel": "Descartes' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q918099",
+        "entityLabel": "Ramsey's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944238",
+        "entityLabel": "Parseval's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944297",
+        "entityLabel": "open mapping theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1035674",
+        "entityLabel": "Tusi-couple"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1048874",
+        "entityLabel": "Theorema Egregium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1052752",
+        "entityLabel": "Stolz–Cesàro theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1057416",
+        "entityLabel": "Eisenstein's criterion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1357684",
+        "entityLabel": "Riesz representation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1370316",
+        "entityLabel": "Casey’s theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1572474",
+        "entityLabel": "Lindemann–Weierstrass theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2347139",
+        "entityLabel": "Carnot's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q727102",
+        "entityLabel": "Fermat's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q794042",
+        "entityLabel": "Bessel's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q847822",
+        "entityLabel": "68–95–99.7 rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848092",
+        "entityLabel": "Borsuk–Ulam theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q859122",
+        "entityLabel": "Cauchy–Hadamard theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q373593",
+        "entityLabel": "law of cotangents"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q530152",
+        "entityLabel": "Picard–Lindelöf theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q608294",
+        "entityLabel": "Max-flow min-cut theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1064471",
+        "entityLabel": "Earnshaw's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1068283",
+        "entityLabel": "Löwenheim–Skolem theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1068976",
+        "entityLabel": "Hilbert's Nullstellensatz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140119",
+        "entityLabel": "Morera's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1146791",
+        "entityLabel": "Fermat polygonal number theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149022",
+        "entityLabel": "Fubini's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149255",
+        "entityLabel": "Dirichlet's test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q922367",
+        "entityLabel": "master theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q976033",
+        "entityLabel": "Gelfond–Schneider theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q999783",
+        "entityLabel": "Buckingham π theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1051423",
+        "entityLabel": "Cauchy condensation test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1542114",
+        "entityLabel": "Bézout's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1631992",
+        "entityLabel": "Steiner–Lehmus theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1752621",
+        "entityLabel": "Sylvester's law of inertia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2428364",
+        "entityLabel": "Clausius theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3147827",
+        "entityLabel": "Vandermonde's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q742833",
+        "entityLabel": "Gauss–Bonnet theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q766722",
+        "entityLabel": "Liouville's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q859102",
+        "entityLabel": "Cauchy's convergence test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q428134",
+        "entityLabel": "Gauss–Markov theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q536640",
+        "entityLabel": "Hall's marriage theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q594571",
+        "entityLabel": "van Aubel's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1065966",
+        "entityLabel": "isomorphism theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1067156",
+        "entityLabel": "dominated convergence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1068085",
+        "entityLabel": "closed graph theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1137014",
+        "entityLabel": "Tychonoff's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1143540",
+        "entityLabel": "Heckscher–Ohlin theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1155313",
+        "entityLabel": "Integral test for convergence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q902052",
+        "entityLabel": "Gödel's completeness theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q927051",
+        "entityLabel": "Riemann mapping theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1637085",
+        "entityLabel": "Poynting's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1668861",
+        "entityLabel": "Picard theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1752988",
+        "entityLabel": "Kutta–Joukowski theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1896455",
+        "entityLabel": "Varignon's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2075125",
+        "entityLabel": "Karush–Kuhn–Tucker conditions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2576932",
+        "entityLabel": "nth-term test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2734084",
+        "entityLabel": "Bohr–Mollerup theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q537618",
+        "entityLabel": "Banach–Alaoglu theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q649616",
+        "entityLabel": "isosceles triangle theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1148012",
+        "entityLabel": "coupon collector's problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149225",
+        "entityLabel": "Euler's four-square identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149458",
+        "entityLabel": "compactness theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1151539",
+        "entityLabel": "Jacobi identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1153588",
+        "entityLabel": "Helmholtz decomposition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1188392",
+        "entityLabel": "Zeckendorf's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1202608",
+        "entityLabel": "De Gua's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q939927",
+        "entityLabel": "Stone–Weierstrass theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1330377",
+        "entityLabel": "Burnside's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1632419",
+        "entityLabel": "Pontryagin duality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1756194",
+        "entityLabel": "Shannon–Hartley theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226868",
+        "entityLabel": "geometric mean theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2310718",
+        "entityLabel": "Pitot theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2493651",
+        "entityLabel": "Bertrand's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q226014",
+        "entityLabel": "Poincaré recurrence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q240950",
+        "entityLabel": "Faltings' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q303402",
+        "entityLabel": "rank–nullity theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q320577",
+        "entityLabel": "Yoneda lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q467205",
+        "entityLabel": "fundamental theorems of welfare economics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q588736",
+        "entityLabel": "Millman's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q595466",
+        "entityLabel": "Dini's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q648511",
+        "entityLabel": "median voter theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1139041",
+        "entityLabel": "Cauchy's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149189",
+        "entityLabel": "Rearrangement inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1051925",
+        "entityLabel": "resolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1317350",
+        "entityLabel": "Chen's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1348736",
+        "entityLabel": "Rybczynski theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1376515",
+        "entityLabel": "no-hair theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425077",
+        "entityLabel": "spectral theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1428736",
+        "entityLabel": "Chebyshev's sum inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1452678",
+        "entityLabel": "Penrose–Hawking singularity theorems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1477053",
+        "entityLabel": "Arzelà–Ascoli theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1503239",
+        "entityLabel": "symmetry of second derivatives"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2411312",
+        "entityLabel": "Shannon's source coding theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2449984",
+        "entityLabel": "Miquel's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2996637",
+        "entityLabel": "Leibniz integral rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3267775",
+        "entityLabel": "proof that π is irrational"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17099544",
+        "entityLabel": "Pascal's rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454926",
+        "entityLabel": "Bloch theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q834211",
+        "entityLabel": "Wallace–Bolyai–Gerwien theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837902",
+        "entityLabel": "Kuratowski's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q865665",
+        "entityLabel": "Birkhoff's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45286",
+        "entityLabel": "Cauchy–Binet formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117553",
+        "entityLabel": "Modigliani–Miller theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q318754",
+        "entityLabel": "summation by parts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422187",
+        "entityLabel": "Myhill–Nerode theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q479834",
+        "entityLabel": "Abel's test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q656645",
+        "entityLabel": "Hilbert's basis theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1151100",
+        "entityLabel": "Itō's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1152521",
+        "entityLabel": "Mohr–Mascheroni theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1153584",
+        "entityLabel": "monotone convergence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1191319",
+        "entityLabel": "Radon–Nikodym theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1191862",
+        "entityLabel": "Rouché's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913327",
+        "entityLabel": "Tellegen's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q954210",
+        "entityLabel": "Savitch's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q954454",
+        "entityLabel": "handshaking lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1008566",
+        "entityLabel": "Gauss–Lucas theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1317367",
+        "entityLabel": "Japanese theorem for cyclic polygons"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1317813",
+        "entityLabel": "Schur's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1330788",
+        "entityLabel": "Weierstrass factorization theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1422068",
+        "entityLabel": "fixed-point theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1443036",
+        "entityLabel": "Parseval's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2004664",
+        "entityLabel": "Kolmogorov's zero-one law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2039117",
+        "entityLabel": "first Pythagorean trigonometric identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226962",
+        "entityLabel": "Casorati–Weierstrass theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2345282",
+        "entityLabel": "Noisy-channel coding theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2346904",
+        "entityLabel": "Euler's criterion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2621270",
+        "entityLabel": "Routh–Hurwitz stability criterion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454932",
+        "entityLabel": "Varignon's theorem (mechanics)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105222412",
+        "entityLabel": "five color theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5421989",
+        "entityLabel": "exterior angle theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q748233",
+        "entityLabel": "Sylvester–Gallai theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q776578",
+        "entityLabel": "Artin–Wedderburn theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q859176",
+        "entityLabel": "Cayley's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q287347",
+        "entityLabel": "gradient theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q371685",
+        "entityLabel": "Kraft's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q372037",
+        "entityLabel": "Seifert–van Kampen theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q510733",
+        "entityLabel": "Gronwall's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q516403",
+        "entityLabel": "Euler's polyhedron formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q617388",
+        "entityLabel": "Little's Law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149185",
+        "entityLabel": "Goodstein's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1182249",
+        "entityLabel": "deduction theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1188048",
+        "entityLabel": "Barbier's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q943246",
+        "entityLabel": "Wedderburn's little theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944604",
+        "entityLabel": "tennis racket theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q953062",
+        "entityLabel": "Reynolds transport theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q978688",
+        "entityLabel": "Gershgorin circle theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1030949",
+        "entityLabel": "Pedoe's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1046232",
+        "entityLabel": "Szemerédi's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1370201",
+        "entityLabel": "argument principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1564541",
+        "entityLabel": "Perron–Frobenius theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7840113",
+        "entityLabel": "triangle postulate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9363284",
+        "entityLabel": "Riemann–Lebesgue  lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1683356",
+        "entityLabel": "Japanese theorem for cyclic quadrilaterals"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1752516",
+        "entityLabel": "Riemann series theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1789863",
+        "entityLabel": "Routh's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226691",
+        "entityLabel": "Kirchhoff's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2981012",
+        "entityLabel": "Monge's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23041626",
+        "entityLabel": "Legendre's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124419940",
+        "entityLabel": "inscribed angle theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q740093",
+        "entityLabel": "Peano existence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q844612",
+        "entityLabel": "Brun's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q858978",
+        "entityLabel": "Castigliano's method"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q868279",
+        "entityLabel": "Harnack's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60190",
+        "entityLabel": "principle of explosion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q248931",
+        "entityLabel": "Poincaré–Bendixson theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q660799",
+        "entityLabel": "Darboux's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q681406",
+        "entityLabel": "Euler's rotation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149522",
+        "entityLabel": "Lami's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1166774",
+        "entityLabel": "Stone's representation theorem for Boolean algebras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1191709",
+        "entityLabel": "Egorov's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1227702",
+        "entityLabel": "Dirichlet's unit theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q899853",
+        "entityLabel": "H-theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q906809",
+        "entityLabel": "Hellmann–Feynman theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q928813",
+        "entityLabel": "Menger's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q977912",
+        "entityLabel": "Stolper–Samuelson theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q990530",
+        "entityLabel": "Erdős–Mordell inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1343972",
+        "entityLabel": "divergence of the sum of the reciprocals of the primes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1346677",
+        "entityLabel": "Tietze extension theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1361393",
+        "entityLabel": "Lusin's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1479613",
+        "entityLabel": "Weil conjectures"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1503309",
+        "entityLabel": "geometrization conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1724049",
+        "entityLabel": "Wolstenholme's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1809539",
+        "entityLabel": "pizza theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1893717",
+        "entityLabel": "Rice's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2063099",
+        "entityLabel": "Poincaré duality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2096184",
+        "entityLabel": "Plancherel theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2222575",
+        "entityLabel": "Shell theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226855",
+        "entityLabel": "Sharkovskii's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2488476",
+        "entityLabel": "well-ordering principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527044",
+        "entityLabel": "Pappus' area theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3534036",
+        "entityLabel": "Pompeiu's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q766522",
+        "entityLabel": "fundamental theorem of Galois theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q857089",
+        "entityLabel": "de Branges's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q897769",
+        "entityLabel": "König's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q517378",
+        "entityLabel": "Boole's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q643826",
+        "entityLabel": "Slutsky's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q655196",
+        "entityLabel": "Roy's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1070305",
+        "entityLabel": "Chernoff bound"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1075398",
+        "entityLabel": "Jung's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1097021",
+        "entityLabel": "Minkowski's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1135706",
+        "entityLabel": "Harnack's principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1136043",
+        "entityLabel": "Hurwitz's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1186808",
+        "entityLabel": "Lucas' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1206853",
+        "entityLabel": "Lagrange's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944228",
+        "entityLabel": "Hardy's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q976607",
+        "entityLabel": "Erdős–Szekeres theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1038716",
+        "entityLabel": "identity theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1050203",
+        "entityLabel": "Cantor's intersection theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1050230",
+        "entityLabel": "maximum modulus principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054170",
+        "entityLabel": "Hadwiger–Finsler inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1369453",
+        "entityLabel": "Kronecker–Weber theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1375989",
+        "entityLabel": "Neyman–Pearson lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1429231",
+        "entityLabel": "Cauchy formula for repeated integration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1631749",
+        "entityLabel": "Lester's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1632301",
+        "entityLabel": "Sturm's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1914905",
+        "entityLabel": "Ramanujan–Nagell equation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2093886",
+        "entityLabel": "primitive element theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2154318",
+        "entityLabel": "Ruki sound law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15872491",
+        "entityLabel": "Newton's theorem (quadrilateral)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226774",
+        "entityLabel": "König's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2247110",
+        "entityLabel": "law of total expectation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2635326",
+        "entityLabel": "structured program theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2703389",
+        "entityLabel": "Linnik's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2919401",
+        "entityLabel": "Ostrowski's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3771212",
+        "entityLabel": "Proth's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4116459",
+        "entityLabel": "Niven's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4971339",
+        "entityLabel": "British flag theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q730222",
+        "entityLabel": "ham sandwich theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q737458",
+        "entityLabel": "Jordan–Hölder theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q744925",
+        "entityLabel": "Condorcet's jury theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q846840",
+        "entityLabel": "Erdős–Kac theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q132427",
+        "entityLabel": "Rademacher's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q172298",
+        "entityLabel": "primary decomposition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q198740",
+        "entityLabel": "law of the iterated logarithm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q211981",
+        "entityLabel": "Hartman–Grobman theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q225973",
+        "entityLabel": "Ore's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q282649",
+        "entityLabel": "pentagonal number theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q376166",
+        "entityLabel": "cut-elimination"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q379048",
+        "entityLabel": "Riemann–Roch theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q392440",
+        "entityLabel": "monstrous moonshine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q535366",
+        "entityLabel": "Montel's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q571154",
+        "entityLabel": "Fejér's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q574902",
+        "entityLabel": "Tarski's undefinability theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q579515",
+        "entityLabel": "Rao–Blackwell theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q583147",
+        "entityLabel": "Sard's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q601134",
+        "entityLabel": "Shapiro inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q642620",
+        "entityLabel": "Krein–Milman theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q657820",
+        "entityLabel": "Fredholm alternative"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1108687",
+        "entityLabel": "factor theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1134776",
+        "entityLabel": "Dilworth's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1187646",
+        "entityLabel": "fundamental theorem on homomorphisms"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1189968",
+        "entityLabel": "Riesz's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1227703",
+        "entityLabel": "Dirichlet's approximation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1305766",
+        "entityLabel": "Poincaré–Hopf theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q918258",
+        "entityLabel": "Fagnano's problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q967972",
+        "entityLabel": "open mapping theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1023483",
+        "entityLabel": "Courant–Friedrichs–Lewy condition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1037559",
+        "entityLabel": "Pólya enumeration theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1047749",
+        "entityLabel": "Turán's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1048488",
+        "entityLabel": "Morrie's law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1315949",
+        "entityLabel": "Mittag-Leffler's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1361031",
+        "entityLabel": "Frobenius theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1365087",
+        "entityLabel": "Hadamard's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1422649",
+        "entityLabel": "Koopmans' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1424496",
+        "entityLabel": "Hensel's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1434158",
+        "entityLabel": "fluctuation-dissipation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1630588",
+        "entityLabel": "Hurwitz's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1687147",
+        "entityLabel": "Sprague–Grundy theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1694565",
+        "entityLabel": "Vinogradov's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1855610",
+        "entityLabel": "De Moivre–Laplace theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1935689",
+        "entityLabel": "Dynkin system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2094241",
+        "entityLabel": "Hopf–Rinow theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2253746",
+        "entityLabel": "Bertrand's ballot theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2387196",
+        "entityLabel": "Peirce's law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18206266",
+        "entityLabel": "Euclid–Euler theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18430596",
+        "entityLabel": "trillium theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18630480",
+        "entityLabel": "Euler's quadrilateral theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5456213",
+        "entityLabel": "Five circles theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5503689",
+        "entityLabel": "Friedlander–Iwaniec theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q764287",
+        "entityLabel": "Van der Waerden's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q890875",
+        "entityLabel": "Bohr–Van Leeuwen theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q892869",
+        "entityLabel": "Bonse's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q268031",
+        "entityLabel": "Abel's binomial theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q512897",
+        "entityLabel": "Brooks' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q538557",
+        "entityLabel": "Leibniz formula for determinants"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q587081",
+        "entityLabel": "Kolmogorov–Arnold–Moser theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q599876",
+        "entityLabel": "Cochran's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q606254",
+        "entityLabel": "Farkas' lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q612021",
+        "entityLabel": "Gibbard–Satterthwaite theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q656198",
+        "entityLabel": "Maschke's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1077462",
+        "entityLabel": "König's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1103054",
+        "entityLabel": "Lions–Lax–Milgram theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1135224",
+        "entityLabel": "Wigner's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1154428",
+        "entityLabel": "absorption law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1186134",
+        "entityLabel": "Poncelet–Steiner theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1187196",
+        "entityLabel": "Degen's eight-square identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1188734",
+        "entityLabel": "Weitzenböck's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1306092",
+        "entityLabel": "Nash embedding theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1314061",
+        "entityLabel": "Miller theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q930173",
+        "entityLabel": "Muirhead's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q935404",
+        "entityLabel": "Binet–Cauchy identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q994401",
+        "entityLabel": "four-vertex theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q995926",
+        "entityLabel": "perpendicular axis theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6403282",
+        "entityLabel": "Lagrange's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7208500",
+        "entityLabel": "Poisson limit theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1471282",
+        "entityLabel": "Radon's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1614464",
+        "entityLabel": "Cauchy–Kowalevski theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1622794",
+        "entityLabel": "Hoeffding's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1632433",
+        "entityLabel": "Helly's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1747439",
+        "entityLabel": "Kolmogorov's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1785610",
+        "entityLabel": "Poncelet's closure theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1789463",
+        "entityLabel": "Raabe's test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1914255",
+        "entityLabel": "maximum principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2116294",
+        "entityLabel": "Singleton bound"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2197859",
+        "entityLabel": "squared triangular number"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14943261",
+        "entityLabel": "Liouville-Arnold theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226822",
+        "entityLabel": "Vizing's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2266397",
+        "entityLabel": "intersecting chords theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2275191",
+        "entityLabel": "Lebesgue differentiation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2301141",
+        "entityLabel": "Wiener–Khinchin theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2338929",
+        "entityLabel": "Steinitz exchange lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2500408",
+        "entityLabel": "Thébault's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15940470",
+        "entityLabel": "Legendre's three-square theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2709660",
+        "entityLabel": "Sylvester's criterion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2912340",
+        "entityLabel": "Law of truly large numbers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527034",
+        "entityLabel": "Cauchy's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62913479",
+        "entityLabel": "Carnot's theorem (perpendiculars)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5300067",
+        "entityLabel": "double negation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q729359",
+        "entityLabel": "Hadamard three-circle theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q733336",
+        "entityLabel": "Sperner's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q751120",
+        "entityLabel": "Thue–Siegel–Roth theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q804316",
+        "entityLabel": "Baker–Campbell–Hausdorff formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q831721",
+        "entityLabel": "Lovász local lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837506",
+        "entityLabel": "Theorem on friends and strangers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q867839",
+        "entityLabel": "Rosser's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q195133",
+        "entityLabel": "Wigner–Eckart theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204884",
+        "entityLabel": "Löb's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q255847",
+        "entityLabel": "No free lunch in search and optimization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q284960",
+        "entityLabel": "Mordell–Weil theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q339606",
+        "entityLabel": "modus ponendo tollens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q356895",
+        "entityLabel": "adiabatic theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q510197",
+        "entityLabel": "Tutte theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q544369",
+        "entityLabel": "Glivenko–Cantelli theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q643513",
+        "entityLabel": "Riesz–Fischer theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1068385",
+        "entityLabel": "Clairaut's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1227685",
+        "entityLabel": "Dirichlet conditions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1308502",
+        "entityLabel": "Church–Rosser theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q909517",
+        "entityLabel": "Feit–Thompson theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913849",
+        "entityLabel": "minimax theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q929547",
+        "entityLabel": "Myers's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q948116",
+        "entityLabel": "consensus theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1032886",
+        "entityLabel": "Hales–Jewett theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1035624",
+        "entityLabel": "Hermite–Hadamard inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1048466",
+        "entityLabel": "Jensen's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054182",
+        "entityLabel": "Ono's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1058662",
+        "entityLabel": "Darboux's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7457534",
+        "entityLabel": "seven circles theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1505529",
+        "entityLabel": "Runge's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1547975",
+        "entityLabel": "Mermin–Wagner theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1568612",
+        "entityLabel": "Marden's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8074796",
+        "entityLabel": "Zsigmondy's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9289849",
+        "entityLabel": "conjunction elimination"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1785872",
+        "entityLabel": "Berry–Esseen theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1933521",
+        "entityLabel": "Kleene's recursion theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1937896",
+        "entityLabel": "Road coloring problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1959890",
+        "entityLabel": "Hausdorff paradox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1996305",
+        "entityLabel": "Burnside's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2013213",
+        "entityLabel": "Reuschle's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2046647",
+        "entityLabel": "Karhunen–Loève theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2109761",
+        "entityLabel": "uniformization theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10861254",
+        "entityLabel": "generalized Stokes' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15859323",
+        "entityLabel": "Anne's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2394548",
+        "entityLabel": "Hurewicz theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2468326",
+        "entityLabel": "Zermelo's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2474925",
+        "entityLabel": "fundamental lemma of calculus of variations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2612539",
+        "entityLabel": "Bombieri–Vinogradov theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2694495",
+        "entityLabel": "existence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2902746",
+        "entityLabel": "Erdős–Graham problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3291120",
+        "entityLabel": "class number formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3491629",
+        "entityLabel": "Pontryagin's maximum principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3497142",
+        "entityLabel": "Barrow's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527069",
+        "entityLabel": "Engel's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527115",
+        "entityLabel": "Lüroth's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17103352",
+        "entityLabel": "maximum power transfer theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527240",
+        "entityLabel": "midpoint theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3661294",
+        "entityLabel": "Kelvin's circulation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3984053",
+        "entityLabel": "Fourier inversion theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4408070",
+        "entityLabel": "de Finetti's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4807194",
+        "entityLabel": "Askey–Gasper inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4979609",
+        "entityLabel": "Brun–Titchmarsh theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96375449",
+        "entityLabel": "Conway circle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q721695",
+        "entityLabel": "Szemerédi–Trotter theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q737892",
+        "entityLabel": "Bendixson–Dulac theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q794269",
+        "entityLabel": "Betti's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826791",
+        "entityLabel": "Bernstein inequalities"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q830124",
+        "entityLabel": "Girsanov theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837551",
+        "entityLabel": "Frobenius theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q842953",
+        "entityLabel": "Lebesgue's density theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q850495",
+        "entityLabel": "Wick's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q872088",
+        "entityLabel": "Boolean prime ideal theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q138596",
+        "entityLabel": "Mostowski collapse lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q277987",
+        "entityLabel": "Teichmüller–Tukey lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q544292",
+        "entityLabel": "Lagrange inversion theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q552367",
+        "entityLabel": "Berge's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1136262",
+        "entityLabel": "optical theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1139430",
+        "entityLabel": "Hurwitz's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1287074",
+        "entityLabel": "Noether normalization lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1307676",
+        "entityLabel": "Künneth theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q898252",
+        "entityLabel": "Dini test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q900831",
+        "entityLabel": "fluctuation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q951327",
+        "entityLabel": "Pasch's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1050932",
+        "entityLabel": "Hartogs' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6549441",
+        "entityLabel": "limit comparison test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5656674",
+        "entityLabel": "Hardy–Ramanujan theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7137494",
+        "entityLabel": "Paris–Harrington theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7322366",
+        "entityLabel": "Ribet's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7359380",
+        "entityLabel": "Rogers–Ramanujan identities"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425564",
+        "entityLabel": "Gibbs' inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1529941",
+        "entityLabel": "Peter–Weyl theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1786419",
+        "entityLabel": "Kramers theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1930577",
+        "entityLabel": "Herbrand's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1938251",
+        "entityLabel": "Hasse–Minkowski theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1945137",
+        "entityLabel": "monotonicity of entailment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1966978",
+        "entityLabel": "Lévy's continuity theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1980541",
+        "entityLabel": "Jacobi's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2028341",
+        "entityLabel": "Ado's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11704319",
+        "entityLabel": "Generalized Gauss-Bonnet theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15844093",
+        "entityLabel": "van Schooten's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226677",
+        "entityLabel": "Gelfand–Mazur theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2397775",
+        "entityLabel": "Krull's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2495664",
+        "entityLabel": "universal coefficient theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17004731",
+        "entityLabel": "chain rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2540738",
+        "entityLabel": "Cartan–Dieudonné theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2600653",
+        "entityLabel": "Taylor–Proudman theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2607007",
+        "entityLabel": "hinge theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2631152",
+        "entityLabel": "Carathéodory's extension theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2904195",
+        "entityLabel": "diagonal lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2996944",
+        "entityLabel": "spherical law of cosines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3229329",
+        "entityLabel": "Artin–Rees lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527100",
+        "entityLabel": "Kruskal's tree theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527189",
+        "entityLabel": "correspondence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18016465",
+        "entityLabel": "Gauss-Wantzel theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18640217",
+        "entityLabel": "Fermat's right triangle theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527230",
+        "entityLabel": "Von Staudt–Clausen theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527233",
+        "entityLabel": "Kolmogorov's three-series theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527241",
+        "entityLabel": "Krull's principal ideal theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527247",
+        "entityLabel": "Six circles theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3711844",
+        "entityLabel": "Friedrichs' inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3889376",
+        "entityLabel": "Carmichael's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3915398",
+        "entityLabel": "Brunn–Minkowski theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3983976",
+        "entityLabel": "mean value theorem for integrals"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3984001",
+        "entityLabel": "Cauchy's mean-value theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4455031",
+        "entityLabel": "Fáry's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5047048",
+        "entityLabel": "Cartan–Hadamard theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5132839",
+        "entityLabel": "Clifford's circle theorems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5282267",
+        "entityLabel": "disjunction introduction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5372452",
+        "entityLabel": "Nernst heat theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q777924",
+        "entityLabel": "Tijdeman's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q781220",
+        "entityLabel": "Van Lamoen circle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q856158",
+        "entityLabel": "Midy's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32182",
+        "entityLabel": "Balinski's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q137164",
+        "entityLabel": "Besicovitch covering theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191693",
+        "entityLabel": "Lebesgue's decomposition theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q266291",
+        "entityLabel": "Bloch's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q318714",
+        "entityLabel": "Abel's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q357192",
+        "entityLabel": "Holland's schema theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q378741",
+        "entityLabel": "Carleman's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q387743",
+        "entityLabel": "Poisson summation formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q401905",
+        "entityLabel": "Skorokhod's representation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420714",
+        "entityLabel": "Akra–Bazzi method"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q488541",
+        "entityLabel": "Fisher separation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q588218",
+        "entityLabel": "Koebe quarter theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q650738",
+        "entityLabel": "folk theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1119094",
+        "entityLabel": "Paley–Wiener theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1127312",
+        "entityLabel": "consequentia mirabilis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140200",
+        "entityLabel": "PCP theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1242402",
+        "entityLabel": "Doob's martingale inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1306095",
+        "entityLabel": "Whitney embedding theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q929777",
+        "entityLabel": "Gromov–Hausdorff convergence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1052005",
+        "entityLabel": "Frege's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054106",
+        "entityLabel": "Cox's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1056283",
+        "entityLabel": "May's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6795830",
+        "entityLabel": "maximum-margin hyperplane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5638112",
+        "entityLabel": "Hadwiger's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5721923",
+        "entityLabel": "Henry George Theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7106530",
+        "entityLabel": "Osgood's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7200963",
+        "entityLabel": "Planar separator theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7249519",
+        "entityLabel": "Prokhorov's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7341043",
+        "entityLabel": "Robbins' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7510574",
+        "entityLabel": "Siegel–Walfisz theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1472120",
+        "entityLabel": "Hellinger–Toeplitz theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1551745",
+        "entityLabel": "Woodbury matrix identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1568811",
+        "entityLabel": "Hahn decomposition theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1631086",
+        "entityLabel": "Jordan–Chevalley decomposition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7888360",
+        "entityLabel": "structure theorem for finitely generated modules over a principal ideal domain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1766814",
+        "entityLabel": "sₘₙ theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1888583",
+        "entityLabel": "Holditch's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1964537",
+        "entityLabel": "Mergelyan's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1995468",
+        "entityLabel": "Hölder's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2027347",
+        "entityLabel": "optional stopping theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2134013",
+        "entityLabel": "Raychaudhuri equation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2185349",
+        "entityLabel": "fundamental theorem of Riemannian geometry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10369454",
+        "entityLabel": "Noether's second theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11352023",
+        "entityLabel": "Vitali convergence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226625",
+        "entityLabel": "Commandino's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226714",
+        "entityLabel": "Legendre's theorem on spherical triangles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2267175",
+        "entityLabel": "tangent-secant theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2270905",
+        "entityLabel": "Poincaré–Birkhoff–Witt theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2443110",
+        "entityLabel": "Cubic reciprocity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2471737",
+        "entityLabel": "Carathéodory's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2473965",
+        "entityLabel": "ugly duckling theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2478371",
+        "entityLabel": "envelope theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15895894",
+        "entityLabel": "Finsler–Hadwiger theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2621667",
+        "entityLabel": "Bing metrization theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2638931",
+        "entityLabel": "convolution theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2917311",
+        "entityLabel": "Goldbach–Euler theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3001796",
+        "entityLabel": "Skolem–Noether theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3007384",
+        "entityLabel": "Post's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3018544",
+        "entityLabel": "Riemann–Siegel formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3298255",
+        "entityLabel": "Soddy's hexlet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3526996",
+        "entityLabel": "Kolmogorov extension theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3526998",
+        "entityLabel": "Excision theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527009",
+        "entityLabel": "Baker's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527056",
+        "entityLabel": "De Bruijn–Erdős theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527155",
+        "entityLabel": "Robertson–Seymour theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527185",
+        "entityLabel": "Whitehead theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527201",
+        "entityLabel": "Invariance of domain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527219",
+        "entityLabel": "Weierstrass preparation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3984032",
+        "entityLabel": "Pohlke's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3984052",
+        "entityLabel": "Equidistribution theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4171386",
+        "entityLabel": "soul theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20971632",
+        "entityLabel": "Lie's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25303782",
+        "entityLabel": "Alfvén's Theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454954",
+        "entityLabel": "Kirszbraun theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454989",
+        "entityLabel": "Meusnier's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4455037",
+        "entityLabel": "Hardy's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4455043",
+        "entityLabel": "Cayley–Bacharach theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4751162",
+        "entityLabel": "Analyticity of holomorphic functions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5156572",
+        "entityLabel": "complex conjugate root theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5161172",
+        "entityLabel": "Conjunction introduction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5317821",
+        "entityLabel": "Dvoretzky's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5384150",
+        "entityLabel": "Equal incircles theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q713069",
+        "entityLabel": "Artin reciprocity law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760892",
+        "entityLabel": "Popoviciu's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q774599",
+        "entityLabel": "speedup theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q780763",
+        "entityLabel": "15 and 290 theorems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q176674",
+        "entityLabel": "Markov brothers' inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q256303",
+        "entityLabel": "Lax equivalence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q367866",
+        "entityLabel": "computational formula for the variance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q383238",
+        "entityLabel": "Hartogs' extension theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q494995",
+        "entityLabel": "Riemann–Hurwitz formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q495412",
+        "entityLabel": "Schoenflies problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q663129",
+        "entityLabel": "Okishio's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q671663",
+        "entityLabel": "Coleman–Mandula theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1095330",
+        "entityLabel": "Apéry's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q937458",
+        "entityLabel": "Wald's equation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q947364",
+        "entityLabel": "Wirtinger's inequality for functions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q966837",
+        "entityLabel": "Cramér–Wold theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q985009",
+        "entityLabel": "Helmholtz's theorems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1052021",
+        "entityLabel": "Craig interpolation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1058622",
+        "entityLabel": "Golden–Thompson inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1059151",
+        "entityLabel": "Frisch–Waugh–Lovell theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6443980",
+        "entityLabel": "Kummer's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6445654",
+        "entityLabel": "Kuratowski's closure-complement problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6516731",
+        "entityLabel": "Lefschetz hyperplane theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5610188",
+        "entityLabel": "Gromov's compactness theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5612871",
+        "entityLabel": "Grötzsch's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5638321",
+        "entityLabel": "Kolmogorov continuity theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5659675",
+        "entityLabel": "Harnack's curve theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6379715",
+        "entityLabel": "Kawasaki's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1420905",
+        "entityLabel": "Hilbert's Theorem 90"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425529",
+        "entityLabel": "Chebotarev's density theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1576235",
+        "entityLabel": "Lochs' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1607573",
+        "entityLabel": "Henselian ring"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1616875",
+        "entityLabel": "Von Zeipel theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1660147",
+        "entityLabel": "Mazur–Ulam theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7857350",
+        "entityLabel": "Tverberg's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7959587",
+        "entityLabel": "Wagner's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7990327",
+        "entityLabel": "Weyl's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7990328",
+        "entityLabel": "Weyl character formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1720410",
+        "entityLabel": "Hjelmslev's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1727461",
+        "entityLabel": "intersecting secants theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1751105",
+        "entityLabel": "Blum's speedup theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1827325",
+        "entityLabel": "Liouville's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1899432",
+        "entityLabel": "Grothendieck–Hirzebruch–Riemann–Roch theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2008549",
+        "entityLabel": "Hilbert's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10380297",
+        "entityLabel": "Landau–Yang theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13365745",
+        "entityLabel": "Maekawa's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15844090",
+        "entityLabel": "Steiner's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226643",
+        "entityLabel": "Clairaut's relation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226682",
+        "entityLabel": "Gelfand–Naimark theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226786",
+        "entityLabel": "Sperner's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2277040",
+        "entityLabel": "Shannon's expansion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2341004",
+        "entityLabel": "Lévy–Steinitz theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2379128",
+        "entityLabel": "Lindström's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2392296",
+        "entityLabel": "Droz-Farny line theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2410467",
+        "entityLabel": "Azuma's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16989302",
+        "entityLabel": "Kolmogorov's two-series theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17005818",
+        "entityLabel": "Conway criterion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2793600",
+        "entityLabel": "Stark–Heegner theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2799491",
+        "entityLabel": "Ringel–Youngs theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2993308",
+        "entityLabel": "Cameron–Erdős conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3077613",
+        "entityLabel": "Crofton formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3154004",
+        "entityLabel": "Levinson's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3229331",
+        "entityLabel": "estimation lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3229335",
+        "entityLabel": "Borel–Carathéodory theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3229337",
+        "entityLabel": "Dehn's lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3502015",
+        "entityLabel": "Hasse's theorem on elliptic curves"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3526986",
+        "entityLabel": "Erdős–Szemerédi theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3526990",
+        "entityLabel": "Euler's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527054",
+        "entityLabel": "De Bruijn–Erdős theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527064",
+        "entityLabel": "Donsker's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527095",
+        "entityLabel": "Jacobi's four-square theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527140",
+        "entityLabel": "Poincaré–Birkhoff theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527162",
+        "entityLabel": "Sophie Germain's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17098001",
+        "entityLabel": "Riesz–Markov–Kakutani representation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527226",
+        "entityLabel": "linear speedup theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3613173",
+        "entityLabel": "Tits alternative"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3748379",
+        "entityLabel": "Riemann–von Mangoldt formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3984063",
+        "entityLabel": "Mostow rigidity theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4121034",
+        "entityLabel": "Peetre's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4378868",
+        "entityLabel": "Phragmén–Lindelöf principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4378889",
+        "entityLabel": "Carathéodory's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4378892",
+        "entityLabel": "Schwarz reflection principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4439341",
+        "entityLabel": "standard part function"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454912",
+        "entityLabel": "Alexandrov's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24957014",
+        "entityLabel": "Maxwell's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454970",
+        "entityLabel": "Legendre's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4455098",
+        "entityLabel": "Fredholm theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4663326",
+        "entityLabel": "Hirzebruch–Riemann–Roch theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4666526",
+        "entityLabel": "Abel's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4669893",
+        "entityLabel": "absorption"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4736422",
+        "entityLabel": "Denjoy–Luzin theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26877569",
+        "entityLabel": "Furry's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28403965",
+        "entityLabel": "hockey-stick identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4915488",
+        "entityLabel": "Bipolar theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4925292",
+        "entityLabel": "Blaschke–Lebesgue theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5041174",
+        "entityLabel": "Carleson's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5047038",
+        "entityLabel": "Cartan's criterion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60681777",
+        "entityLabel": "Constant chord theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62910735",
+        "entityLabel": "Carnot's theorem (conics)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5165492",
+        "entityLabel": "Continuous mapping theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5282265",
+        "entityLabel": "disjunction elimination"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96373852",
+        "entityLabel": "Bottema's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5443005",
+        "entityLabel": "Fenchel–Moreau theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5500352",
+        "entityLabel": "free will theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5508975",
+        "entityLabel": "fundamental theorem of linear algebra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114296818",
+        "entityLabel": "Eyeball Theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q718875",
+        "entityLabel": "Erdős–Ko–Rado theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q719966",
+        "entityLabel": "Toda's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q720469",
+        "entityLabel": "Chevalley–Warning theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q736383",
+        "entityLabel": "Kummer's test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q744440",
+        "entityLabel": "Immerman–Szelepcsényi theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q784909",
+        "entityLabel": "Sommerfeld identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q790236",
+        "entityLabel": "Baranyai's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q791258",
+        "entityLabel": "Basu's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848810",
+        "entityLabel": "Kronecker's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q865371",
+        "entityLabel": "Mahler's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q869647",
+        "entityLabel": "Szpilrajn extension theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q98831",
+        "entityLabel": "multiplication theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q245902",
+        "entityLabel": "Riesz–Thorin theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q366730",
+        "entityLabel": "Ky Fan inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q580245",
+        "entityLabel": "Crocco's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q586051",
+        "entityLabel": "Haag–Lopuszanski–Sohnius theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q681147",
+        "entityLabel": "Serre's modularity conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1121027",
+        "entityLabel": "Krylov–Bogolyubov theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1129636",
+        "entityLabel": "Lehmann–Scheffé theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1259814",
+        "entityLabel": "Nielsen–Schreier theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1314081",
+        "entityLabel": "gap theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q925224",
+        "entityLabel": "Sonnenschein–Mantel–Debreu theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q974405",
+        "entityLabel": "Hille–Yosida theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1055879",
+        "entityLabel": "law of total variance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6449702",
+        "entityLabel": "Bernstein's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6528849",
+        "entityLabel": "Lerner symmetry theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5597098",
+        "entityLabel": "graph structure theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5741903",
+        "entityLabel": "Hermite's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5900506",
+        "entityLabel": "Hopf maximum principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6043250",
+        "entityLabel": "Integration using Euler's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6425088",
+        "entityLabel": "Kodaira embedding theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6967039",
+        "entityLabel": "Nash–Moser theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7127466",
+        "entityLabel": "Paley construction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7178199",
+        "entityLabel": "Petersen's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7245073",
+        "entityLabel": "Principal axis theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7249438",
+        "entityLabel": "Projection-slice theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7288993",
+        "entityLabel": "Ramanujan's master theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7333126",
+        "entityLabel": "Riemann–Roch theorem for surfaces"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7359378",
+        "entityLabel": "Rogers–Ramanujan continued fraction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7370472",
+        "entityLabel": "Rothe–Hagen identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7433042",
+        "entityLabel": "Schur–Horn theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7558851",
+        "entityLabel": "Solovay model"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7782348",
+        "entityLabel": "theorem of three moments"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1349282",
+        "entityLabel": "Eilenberg–Zilber theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1424481",
+        "entityLabel": "Frucht's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1455794",
+        "entityLabel": "Freudenthal suspension theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7835331",
+        "entityLabel": "transposition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7856594",
+        "entityLabel": "Turán's inequalities"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7980241",
+        "entityLabel": "Weinberg–Witten theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8081891",
+        "entityLabel": "Śleszyński–Pringsheim theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1703592",
+        "entityLabel": "Jordan's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1739994",
+        "entityLabel": "Brauer–Suzuki theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1780722",
+        "entityLabel": "James' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1841237",
+        "entityLabel": "Fubini's theorem on differentiation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1872826",
+        "entityLabel": "Lubell–Yamamoto–Meshalkin inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1972209",
+        "entityLabel": "Doob martingale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10965882",
+        "entityLabel": "Trakhtenbrot's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15080987",
+        "entityLabel": "Lie's third theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15214697",
+        "entityLabel": "Schottky's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226610",
+        "entityLabel": "Banach–Mazur theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226624",
+        "entityLabel": "Bruck–Ryser–Chowla theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226640",
+        "entityLabel": "Cramér's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226650",
+        "entityLabel": "Eberlein–Šmulian theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2226709",
+        "entityLabel": "Krull–Schmidt theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2309682",
+        "entityLabel": "sphere theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2360531",
+        "entityLabel": "Jordan–Schur theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2379132",
+        "entityLabel": "Going up and going down"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2404702",
+        "entityLabel": "Liouville's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16680059",
+        "entityLabel": "strong perfect graph theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17003552",
+        "entityLabel": "Alexandrov's uniqueness theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17004813",
+        "entityLabel": "Chasles' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17020898",
+        "entityLabel": "Harcourt's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17027556",
+        "entityLabel": "Hopkins–Levitzki theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2588432",
+        "entityLabel": "Wold's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2590416",
+        "entityLabel": "Hardy–Littlewood inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2718608",
+        "entityLabel": "Paley–Zygmund inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2800071",
+        "entityLabel": "perfect graph theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2993299",
+        "entityLabel": "Erdős–Burr conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3022268",
+        "entityLabel": "Urysohn's metrization theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3044466",
+        "entityLabel": "Proof of Fermat's Last Theorem for specific exponents"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3068230",
+        "entityLabel": "Tanaka's formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3077645",
+        "entityLabel": "Lie product formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3077649",
+        "entityLabel": "Selberg trace formula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3154001",
+        "entityLabel": "Kantorovich inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3526982",
+        "entityLabel": "Erdős–Anning theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527019",
+        "entityLabel": "Birch's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527031",
+        "entityLabel": "Cartan's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527071",
+        "entityLabel": "Fary–Milnor theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527074",
+        "entityLabel": "Feuerbach's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527079",
+        "entityLabel": "Freiman's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527091",
+        "entityLabel": "Gromov's theorem on groups of polynomial growth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527125",
+        "entityLabel": "Monsky's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527129",
+        "entityLabel": "Müntz–Szász theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527151",
+        "entityLabel": "Rellich–Kondrachov theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527166",
+        "entityLabel": "Steinhaus theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527171",
+        "entityLabel": "Synge's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527192",
+        "entityLabel": "prime decomposition of a 3-manifold"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527196",
+        "entityLabel": "principal ideal theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527205",
+        "entityLabel": "dimension theorem for vector spaces"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527214",
+        "entityLabel": "Non-squeezing theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19779530",
+        "entityLabel": "Thomsen's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3527261",
+        "entityLabel": "honeycomb conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3595339",
+        "entityLabel": "Maximum-minimums identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3656857",
+        "entityLabel": "Karamata's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3711848",
+        "entityLabel": "Sobolev inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3748374",
+        "entityLabel": "Grassmann's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3791816",
+        "entityLabel": "Picone identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3921905",
+        "entityLabel": "Euclid's first theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3983968",
+        "entityLabel": "Sturm–Picone comparison theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3983972",
+        "entityLabel": "simplicial approximation theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3984015",
+        "entityLabel": "Kuratowski embedding"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3984017",
+        "entityLabel": "Helly's selection theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4179283",
+        "entityLabel": "positive energy theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4257928",
+        "entityLabel": "Morse–Palais lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4272300",
+        "entityLabel": "initial value theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4272645",
+        "entityLabel": "Final value theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4287804",
+        "entityLabel": "slowly varying function"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4358002",
+        "entityLabel": "Steffensen's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454910",
+        "entityLabel": "Ostrowski–Hadamard gap theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21051250",
+        "entityLabel": "Hewitt–Savage zero–one law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25303848",
+        "entityLabel": "sum of two squares theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25304094",
+        "entityLabel": "Haruki's Theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454919",
+        "entityLabel": "Aumann's agreement theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454958",
+        "entityLabel": "Min-max theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4454996",
+        "entityLabel": "Novikov's compact leaf theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4459373",
+        "entityLabel": "Capelli's identity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4692965",
+        "entityLabel": "Agmon's inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4830725",
+        "entityLabel": "Ax–Grothendieck theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4880958",
+        "entityLabel": "Behnke–Stein theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4903714",
+        "entityLabel": "Biconditional introduction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4913049",
+        "entityLabel": "Dieudonné's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4916483",
+        "entityLabel": "Birkhoff–Grothendieck theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4937705",
+        "entityLabel": "Bogomolov–Miyaoka–Yau inequality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4941364",
+        "entityLabel": "Bondareva–Shapley theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5037752",
+        "entityLabel": "Carathéodory's existence theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q53067086",
+        "entityLabel": "Cauchy–Davenport theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55634934",
+        "entityLabel": "Tennis ball theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5121504",
+        "entityLabel": "circle packing theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5164489",
+        "entityLabel": "constructive dilemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5178114",
+        "entityLabel": "Courcelle's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5178830",
+        "entityLabel": "Cousin problems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5251122",
+        "entityLabel": "time hierarchy theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5385326",
+        "entityLabel": "Erdős–Stone theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5454965",
+        "entityLabel": "Fisher–Tippett–Gnedenko theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5458529",
+        "entityLabel": "Fleischner's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q727729",
+        "entityLabel": "Gauss's test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q779220",
+        "entityLabel": "Hilbert's syzygy theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q242045",
+        "entityLabel": "Monotone class theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q280116",
+        "entityLabel": "odd number theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q384142",
+        "entityLabel": "Herbrand–Ribet theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q631561",
+        "entityLabel": "closed range theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q670618",
+        "entityLabel": "Arden's rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1125462",
+        "entityLabel": "Dinostratus' theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1148215",
+        "entityLabel": "Mitchell's embedding theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1177508",
+        "entityLabel": "Hajós's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1279133",
+        "entityLabel": "Hahn–Kolmogorov theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q931404",
+        "entityLabel": "Bertrand–Diguet–Puiseux theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q942046",
+        "entityLabel": "Schwarz–Ahlfors–Pick theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q948664",
+        "entityLabel": "Kneser's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1007698",
+        "entityLabel": "Gallai's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6436614",
+        "entityLabel": "Krein–Rutman theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6444775",
+        "entityLabel": "Kunita–Watanabe theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6513990",
+        "entityLabel": "Lee Hwa Chung theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6535568",
+        "entityLabel": "Levi decomposition theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6736209",
+        "entityLabel": "main conjecture of Iwasawa theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6760835",
+        "entityLabel": "Margulis lemma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6783821",
+        "entityLabel": "Mason–Stothers theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5586176",
+        "entityLabel": "Gorenstein–Walter theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5609384",
+        "entityLabel": "Grinberg's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5626450",
+        "entityLabel": "Gödel's speed-up theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5761240",
+        "entityLabel": "Hilbert–Burch theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5874979",
+        "entityLabel": "Hobby–Rice theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5988174",
+        "entityLabel": "idempotency of entailment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6400676",
+        "entityLabel": "Kharitonov's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6925496",
+        "entityLabel": "mountain pass theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6947443",
+        "entityLabel": "Myers–Steenrod theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7031621",
+        "entityLabel": "Nielsen theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7043732",
+        "entityLabel": "Kuhn's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7045226",
+        "entityLabel": "no free lunch theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7137090",
+        "entityLabel": "Parikh's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7179251",
+        "entityLabel": "Petr–Douglas–Neumann theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7229466",
+        "entityLabel": "Popoviciu's inequality on variances"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7296106",
+        "entityLabel": "Rauch comparison theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7317833",
+        "entityLabel": "revelation principle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7418899",
+        "entityLabel": "Sanov's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7431096",
+        "entityLabel": "Scheinerman's conjecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7431925",
+        "entityLabel": "Schnyder's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7432872",
+        "entityLabel": "Schreier refinement theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7455422",
+        "entityLabel": "Serre–Swan theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7506515",
+        "entityLabel": "Siacci's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7510553",
+        "entityLabel": "Siegel's theorem on integral points"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7536350",
+        "entityLabel": "Skorokhod's embedding theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7601219",
+        "entityLabel": "star height problem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7606897",
+        "entityLabel": "Steinitz's theorem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7660749",
+        "entityLabel": "Weinstein–Aronszajn identity"
+    }
+]

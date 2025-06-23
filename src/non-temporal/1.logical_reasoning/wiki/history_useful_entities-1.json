@@ -1,0 +1,2982 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q38789",
+        "entityLabel": "Battle of Stalingrad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48314",
+        "entityLabel": "Battle of Waterloo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52418",
+        "entityLabel": "Attack on Pearl Harbor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83224",
+        "entityLabel": "Battle of Hastings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131969",
+        "entityLabel": "Battle of Thermopylae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160077",
+        "entityLabel": "fall of Constantinople"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q170148",
+        "entityLabel": "Ragnar\u00f6k"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q486124",
+        "entityLabel": "Battle of Badr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q31900",
+        "entityLabel": "Battle of Marathon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151340",
+        "entityLabel": "Battle of France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154182",
+        "entityLabel": "Battle of Berlin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q130861",
+        "entityLabel": "Battle of Kursk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134114",
+        "entityLabel": "Battle of Austerlitz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q132568",
+        "entityLabel": "Battle of the Somme"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16470",
+        "entityLabel": "Normandy landings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q130847",
+        "entityLabel": "Battle of Verdun"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173077",
+        "entityLabel": "Battle of Tours"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q178510",
+        "entityLabel": "Battle of Moh\u00e1cs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q33570",
+        "entityLabel": "Battle of Grunwald"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151005",
+        "entityLabel": "Battle of Leipzig"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151290",
+        "entityLabel": "Battle of Moscow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173034",
+        "entityLabel": "Battle of Midway"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200855",
+        "entityLabel": "Battle of Vienna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180182",
+        "entityLabel": "Battle of Iwo Jima"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188495",
+        "entityLabel": "Battle of Agincourt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200032",
+        "entityLabel": "Battle of Manzikert"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q87779",
+        "entityLabel": "Battle of the Teutoburg Forest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179288",
+        "entityLabel": "Battle of Kosovo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179591",
+        "entityLabel": "Battle of Cannae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184320",
+        "entityLabel": "Battle of Borodino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q488278",
+        "entityLabel": "Battle of Uhud"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233568",
+        "entityLabel": "Battle of Hattin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179670",
+        "entityLabel": "Battle of Gaugamela"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190712",
+        "entityLabel": "First Battle of the Marne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q604897",
+        "entityLabel": "Battle of Dien Bien Phu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192660",
+        "entityLabel": "Battle of Okinawa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q152486",
+        "entityLabel": "Battle of Poltava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q626058",
+        "entityLabel": "Battle of Karbala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q369560",
+        "entityLabel": "siege of Baghdad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q194226",
+        "entityLabel": "Battle of Yarmouk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q33132",
+        "entityLabel": "Battle of Getty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q139808",
+        "entityLabel": "Battle of the Catalaunian Plains"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200056",
+        "entityLabel": "Battle of Zama"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203233",
+        "entityLabel": "Battle of Plassey"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208694",
+        "entityLabel": "Sino-Indian War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203225",
+        "entityLabel": "Battle of Stamford Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201526",
+        "entityLabel": "Battle of Issus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203729",
+        "entityLabel": "Battle of Kadesh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q235344",
+        "entityLabel": "Battle of the Alamo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58732",
+        "entityLabel": "Siege of Malta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q209387",
+        "entityLabel": "Battle of Ankara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210354",
+        "entityLabel": "Battle of Kulikovo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q222520",
+        "entityLabel": "Battle of Bannockburn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q153858",
+        "entityLabel": "Battle of Tannenberg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201692",
+        "entityLabel": "Battle of Poitiers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204636",
+        "entityLabel": "Battle of Plataea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208529",
+        "entityLabel": "Battle of Dunkirk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213074",
+        "entityLabel": "Battle of the Hydaspes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q244356",
+        "entityLabel": "Battle of Ain Jalut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27759",
+        "entityLabel": "Battle of Cr\u00e9cy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131386",
+        "entityLabel": "Battle of Alesia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826083",
+        "entityLabel": "Battle of the Trench"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q734004",
+        "entityLabel": "Black January"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108102583",
+        "entityLabel": "Fall of Kabul (2021)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q273011",
+        "entityLabel": "Battle of Marengo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188925",
+        "entityLabel": "Battles of Khalkhin Gol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q205422",
+        "entityLabel": "Battle of the Little Bighorn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212220",
+        "entityLabel": "Battle of Nicopolis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q219230",
+        "entityLabel": "Marco Polo Bridge incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4373",
+        "entityLabel": "Battle of White Mountain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q456993",
+        "entityLabel": "Siege of Jerusalem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335288",
+        "entityLabel": "Battle of Monte Cassino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192473",
+        "entityLabel": "Battle of Adrianople"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200716",
+        "entityLabel": "Battle of Chaeronea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q205887",
+        "entityLabel": "Battle of Carrhae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q242644",
+        "entityLabel": "Battle of Caporetto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32832",
+        "entityLabel": "Battle of Varna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q153376",
+        "entityLabel": "Second Battle of El Alamein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154426",
+        "entityLabel": "Battle of Jena\u2013Auerstedt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q426227",
+        "entityLabel": "Third Battle of Ypres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q492415",
+        "entityLabel": "Battle of Talas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696835",
+        "entityLabel": "Liberation of Paris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q308999",
+        "entityLabel": "Battle of Leyte Gulf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192938",
+        "entityLabel": "Battle of the Granicus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q234188",
+        "entityLabel": "Battle of Sekigahara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q821283",
+        "entityLabel": "Battle of Warsaw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q570204",
+        "entityLabel": "Battle of the Kalka River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q219697",
+        "entityLabel": "Battle of Las Navas de Tolosa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14689",
+        "entityLabel": "Battle of the Ice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q156681",
+        "entityLabel": "Battle of Sedan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162250",
+        "entityLabel": "First Battle of El Alamein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111017791",
+        "entityLabel": "Siege of Mariupol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q339321",
+        "entityLabel": "Battle of the Milvian Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203681",
+        "entityLabel": "Battle of Pharsalus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q153316",
+        "entityLabel": "Battle of Crete"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q856650",
+        "entityLabel": "Invasion of Kuwait"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q605321",
+        "entityLabel": "Battle of Panipat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q270517",
+        "entityLabel": "Dieppe Raid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q296754",
+        "entityLabel": "Battle of Singapore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207250",
+        "entityLabel": "Battle of Lake Trasimene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q467777",
+        "entityLabel": "Battle of Wagram"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q654374",
+        "entityLabel": "Battle of Cambrai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q745110",
+        "entityLabel": "Battle of Chaldiran"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q302519",
+        "entityLabel": "Battle of Adwa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q222013",
+        "entityLabel": "Battle of Bosworth Field"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q244980",
+        "entityLabel": "Siege of Belgrade"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q392538",
+        "entityLabel": "Battle of Sagrajas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q499626",
+        "entityLabel": "Battle of Stirling Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2649081",
+        "entityLabel": "German invasion of the Netherlands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q332543",
+        "entityLabel": "Battle of the Pyramids"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241108",
+        "entityLabel": "Battle of Friedland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27900",
+        "entityLabel": "Siege of Constantinople"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154635",
+        "entityLabel": "Battle of Blenheim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q157873",
+        "entityLabel": "Third Battle of Kharkov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q159512",
+        "entityLabel": "Battle of Legnica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q815161",
+        "entityLabel": "Siege of Jerusalem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q504172",
+        "entityLabel": "Battle of Guadalete"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1133574",
+        "entityLabel": "Battle of the Camel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q543165",
+        "entityLabel": "Battle of Fort Sumter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q589318",
+        "entityLabel": "Battle of Falkirk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q735876",
+        "entityLabel": "Battle of Siffin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q271873",
+        "entityLabel": "Battle of the Trebia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q273069",
+        "entityLabel": "Battle of Lechfeld"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q324916",
+        "entityLabel": "Battle of Solferino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327052",
+        "entityLabel": "Battle of Aachen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q331347",
+        "entityLabel": "Battle of Eylau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162284",
+        "entityLabel": "Battle of Kiev"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q836844",
+        "entityLabel": "Battle of al-Q\u0101disiyyah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q459447",
+        "entityLabel": "Siege of Yorktown"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q504347",
+        "entityLabel": "Battle of the Philippine Sea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q521799",
+        "entityLabel": "Battle of the Neva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q957186",
+        "entityLabel": "Battle of Covadonga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4411",
+        "entityLabel": "Battle of Valmy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q44732",
+        "entityLabel": "Battle of the Golden Spurs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155620",
+        "entityLabel": "Second Battle of Kharkov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155726",
+        "entityLabel": "Battle of Narva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162357",
+        "entityLabel": "Battle of Smolensk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q392213",
+        "entityLabel": "Siege of Orl\u00e9ans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q464512",
+        "entityLabel": "Battle of Balaclava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q651919",
+        "entityLabel": "Battle of Culloden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q719252",
+        "entityLabel": "Battle of Antietam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111012552",
+        "entityLabel": "Snake Island campaign"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112114958",
+        "entityLabel": "Battle of Bakhmut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q334029",
+        "entityLabel": "Battle of Bunker Hill"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335330",
+        "entityLabel": "Battle of Philippi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233219",
+        "entityLabel": "Second Battle of Ypres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63468",
+        "entityLabel": "Battle of Pavia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154942",
+        "entityLabel": "Battle of K\u00f6niggr\u00e4tz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155103",
+        "entityLabel": "Siege of Budapest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q482456",
+        "entityLabel": "Fall of Saigon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q871366",
+        "entityLabel": "Battle of Sluys"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q503982",
+        "entityLabel": "Battle of Mycale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q505939",
+        "entityLabel": "Battle of Vukovar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q644960",
+        "entityLabel": "Battle of the Boyne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q671594",
+        "entityLabel": "Battle of Li\u00e8ge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q705874",
+        "entityLabel": "Battle of Mohi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q733364",
+        "entityLabel": "Battle of Megiddo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q745979",
+        "entityLabel": "Battle of Chancellorsville"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q330",
+        "entityLabel": "Battle of Marignano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52226",
+        "entityLabel": "Battle of Mogadishu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q461599",
+        "entityLabel": "Battle of Leuctra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q847287",
+        "entityLabel": "Battle of Montgisard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q939570",
+        "entityLabel": "Battle of Maritsa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1639459",
+        "entityLabel": "Battle of Mu'tah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q697625",
+        "entityLabel": "Battle of Belgium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q741098",
+        "entityLabel": "Siege of Antioch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27429856",
+        "entityLabel": "Battle of Mosul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q250309",
+        "entityLabel": "Battle of Tarawa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319124",
+        "entityLabel": "Battle of Ipsus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327035",
+        "entityLabel": "Battle of Gazala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221469",
+        "entityLabel": "First Battle of Bull Run"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221967",
+        "entityLabel": "Brusilov Offensive"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q167259",
+        "entityLabel": "Battle of L\u00fctzen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q851504",
+        "entityLabel": "Battle of Vouille"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q533034",
+        "entityLabel": "Battle of Westerplatte"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q565661",
+        "entityLabel": "Battle of Khaybar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1259218",
+        "entityLabel": "Third Battle of Panipat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q769377",
+        "entityLabel": "Operation Storm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q778010",
+        "entityLabel": "Battles of Lexington and Concord"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q250652",
+        "entityLabel": "Battle of Sarikamish"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q313836",
+        "entityLabel": "Battle of the Dnieper"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q325985",
+        "entityLabel": "Siege of Acre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327099",
+        "entityLabel": "Battle of Kasserine Passe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q827472",
+        "entityLabel": "Battle of Ascalon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q391087",
+        "entityLabel": "Battle of Cynoscephalae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q853976",
+        "entityLabel": "First Battle of Ypres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q504739",
+        "entityLabel": "Battle of Pydna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q517486",
+        "entityLabel": "Battle of Zenta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1233475",
+        "entityLabel": "Battle of Roncevaux Pass in 778"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q609030",
+        "entityLabel": "Battle of Peleliu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q659246",
+        "entityLabel": "Battle of Galicia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q767935",
+        "entityLabel": "Siege of Rhodes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111012383",
+        "entityLabel": "Capture of Chernobyl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111014380",
+        "entityLabel": "Battle of Kharkiv"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111014904",
+        "entityLabel": "Battle of Kherson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q247253",
+        "entityLabel": "Battle of Khe Sanh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q254599",
+        "entityLabel": "Battle of Shanghai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327061",
+        "entityLabel": "Battle of Bia\u0142ystok\u2013Minsk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12428",
+        "entityLabel": "Battle of Dorylaeum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q159072",
+        "entityLabel": "Battle of Ulm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q830059",
+        "entityLabel": "Battle of Red Cliffs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q836944",
+        "entityLabel": "Battle of the Frigidus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q846674",
+        "entityLabel": "Battles of Saratoga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1123353",
+        "entityLabel": "Battle of Rorke's Drift"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q940026",
+        "entityLabel": "Battle of Arsuf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696844",
+        "entityLabel": "Battle of Anzio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2300090",
+        "entityLabel": "Battle of Hunayn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q751186",
+        "entityLabel": "Battle of Fredericksburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q378957",
+        "entityLabel": "Battle of Ticinus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233414",
+        "entityLabel": "Battle of Panipat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162287",
+        "entityLabel": "Battle of H\u00fcrtgen Forest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q815233",
+        "entityLabel": "Siege of Tyre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q841278",
+        "entityLabel": "Battle of San Jacinto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q427958",
+        "entityLabel": "Battle of Sinop"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q483039",
+        "entityLabel": "Battle of Inchon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q876417",
+        "entityLabel": "Second Battle of the Marne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q917811",
+        "entityLabel": "Battle of Magnesia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q541506",
+        "entityLabel": "Battle of Prokhorovka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q541626",
+        "entityLabel": "Battle of Aspern-Essling"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q543255",
+        "entityLabel": "Battle of Taranto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q606621",
+        "entityLabel": "Siege of Szigetv\u00e1r"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q660655",
+        "entityLabel": "First Battle of the Masurian Lakes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q690470",
+        "entityLabel": "Battle of Moh\u00e1cs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q697579",
+        "entityLabel": "Battle of Lake Khasan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q697658",
+        "entityLabel": "First Battle of Kharkov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q755966",
+        "entityLabel": "Battle of Nineveh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111013267",
+        "entityLabel": "Battle of Antonov Airport"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q283364",
+        "entityLabel": "Battle of Legnano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q328357",
+        "entityLabel": "Belgrade Offensive"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41894",
+        "entityLabel": "Battle of New Orleans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q477095",
+        "entityLabel": "Battle of Suomussalmi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1052651",
+        "entityLabel": "Battle of Madagascar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q853754",
+        "entityLabel": "Battle of Saule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q584047",
+        "entityLabel": "Battle of Kleidion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653664",
+        "entityLabel": "Battle of Trenton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696448",
+        "entityLabel": "Operation Ichi-Go"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q698706",
+        "entityLabel": "Battle of Kosovo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q700705",
+        "entityLabel": "Battle of Saipan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q714777",
+        "entityLabel": "Allied invasion of Italy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q728480",
+        "entityLabel": "Battle of Rocroi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q762732",
+        "entityLabel": "Battle of Sardarabad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182240",
+        "entityLabel": "Siege of Warsaw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q205379",
+        "entityLabel": "Battle of Breitenfeld"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233343",
+        "entityLabel": "Second Battle of Bull Run"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40144",
+        "entityLabel": "Battle of Coronel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q165549",
+        "entityLabel": "Battle of the Bzura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q431205",
+        "entityLabel": "Battle of Cunaxa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q849653",
+        "entityLabel": "Battle of Thapsus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q862751",
+        "entityLabel": "Battle of Long Island"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q932613",
+        "entityLabel": "Battle of Castillon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q934157",
+        "entityLabel": "Battle of Ayacucho"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q943277",
+        "entityLabel": "Battle of Shiloh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q555839",
+        "entityLabel": "Battle of Berezina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q569953",
+        "entityLabel": "Battle of Fontenoy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1165502",
+        "entityLabel": "Battle of Edessa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q602744",
+        "entityLabel": "Falaise Pocket"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q681712",
+        "entityLabel": "Battle of Gangut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q682409",
+        "entityLabel": "Siege of Odesa 1941"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q730553",
+        "entityLabel": "Battle of Myriokephalon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18071930",
+        "entityLabel": "Siege of Koban\u00ee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q275019",
+        "entityLabel": "Battle of Smolensk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q311726",
+        "entityLabel": "Battle of the Plains of Abraham"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q312268",
+        "entityLabel": "Siege of Constantinople"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q169436",
+        "entityLabel": "Battle of Rostov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q170113",
+        "entityLabel": "Battle of Saint Gotthard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q815216",
+        "entityLabel": "Siege of Sevastopol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q830626",
+        "entityLabel": "Battle of Bouvines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q428369",
+        "entityLabel": "Battle of Nagashino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1061228",
+        "entityLabel": "Battle of Puebla"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1987213",
+        "entityLabel": "Battle of Dyrrhachium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q900945",
+        "entityLabel": "Battle of Lodi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913604",
+        "entityLabel": "Battle of Alma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q503347",
+        "entityLabel": "Attack on Mers-El-Kebir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q516760",
+        "entityLabel": "Battle of Munda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1509619",
+        "entityLabel": "Battle of Bapheus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1113659",
+        "entityLabel": "Battle of Fulford"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1127337",
+        "entityLabel": "Battle of Mons Graupius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q603549",
+        "entityLabel": "Battle of Nah\u0101vand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2088170",
+        "entityLabel": "Battle of Tabouk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1308854",
+        "entityLabel": "La Noche Triste"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q655777",
+        "entityLabel": "Battle of the Allia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q662961",
+        "entityLabel": "Battle of Vittorio Veneto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q670489",
+        "entityLabel": "Gorlice\u2013Tarn\u00f3w Offensive"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q673265",
+        "entityLabel": "Crimean Offensive"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1842866",
+        "entityLabel": "Battle of Aleppo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q687572",
+        "entityLabel": "Battle of the Frontiers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q690308",
+        "entityLabel": "Kerensky Offensive"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696931",
+        "entityLabel": "Battle of Manila"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2355467",
+        "entityLabel": "Battle of Buxar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q734700",
+        "entityLabel": "Battle of Avarayr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q747589",
+        "entityLabel": "Battle of Isandlwana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q276059",
+        "entityLabel": "Battle of Vitoria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q316877",
+        "entityLabel": "Battle of Nancy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q316897",
+        "entityLabel": "Battle of Malplaquet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q329534",
+        "entityLabel": "Battle of L\u00fctzen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q136344",
+        "entityLabel": "Battle of K\u00f6se Da\u011f in turki taareekh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q149560",
+        "entityLabel": "Battle of Stallup\u00f6nen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q161033",
+        "entityLabel": "Demyansk Pocket"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q836128",
+        "entityLabel": "Battle of Bir Hakeim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q393299",
+        "entityLabel": "Battle of Vimy Ridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q33761",
+        "entityLabel": "Arab Spring"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q150229",
+        "entityLabel": "Boxer Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129864",
+        "entityLabel": "Indian Mutiny of 1857"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104705419",
+        "entityLabel": "January 6 United States Capitol attack"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192408",
+        "entityLabel": "Taiping Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q119860532",
+        "entityLabel": "Wagner Group rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202578",
+        "entityLabel": "First Jewish-Roman War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193689",
+        "entityLabel": "Easter Rising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208300",
+        "entityLabel": "Kronstadt rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239060",
+        "entityLabel": "Arab Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q334502",
+        "entityLabel": "Bar Kokhba revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114065797",
+        "entityLabel": "Mahsa Amini protests"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162665",
+        "entityLabel": "Nika riots"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q473670",
+        "entityLabel": "January Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126306",
+        "entityLabel": "Decembrist revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q157682",
+        "entityLabel": "East German uprising of 1953"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q849176",
+        "entityLabel": "Ko\u015bciuszko Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q498871",
+        "entityLabel": "Peasants' Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q595321",
+        "entityLabel": "Singing Revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7930888",
+        "entityLabel": "Maccabean Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1145682",
+        "entityLabel": "Ilinden\u2013Preobrazhenie Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210005",
+        "entityLabel": "2011 Yemeni revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q253774",
+        "entityLabel": "An Lushan Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q641479",
+        "entityLabel": "Khmelnytsky Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q368689",
+        "entityLabel": "First Serbian Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q242864",
+        "entityLabel": "Bahraini protests of 2011"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1132393",
+        "entityLabel": "Mercenary War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q163780",
+        "entityLabel": "Slovak National Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q244939",
+        "entityLabel": "228 Incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q279662",
+        "entityLabel": "Cristero War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q312492",
+        "entityLabel": "Herero and Namaqua Genocide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q811250",
+        "entityLabel": "Tambov Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944941",
+        "entityLabel": "Irish Rebellion of 1798"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1501724",
+        "entityLabel": "Portuguese Restoration War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112524",
+        "entityLabel": "Red Turban Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q153081",
+        "entityLabel": "Soweto uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q339291",
+        "entityLabel": "Wuchang Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1322251",
+        "entityLabel": "July Days"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6254",
+        "entityLabel": "Diaspora Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q46057",
+        "entityLabel": "1936\u20131939 Arab revolt in Palestine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q508258",
+        "entityLabel": "1959 Tibetan uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q666778",
+        "entityLabel": "Prague uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q243585",
+        "entityLabel": "Second Serbian Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q545068",
+        "entityLabel": "2008 Tibetan unrest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q595545",
+        "entityLabel": "R\u00e1k\u00f3czi\u2019s War of Independence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q688308",
+        "entityLabel": "Swedish War of Liberation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696111",
+        "entityLabel": "Rice Riots of 1918"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q799867",
+        "entityLabel": "Bagaudae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q476634",
+        "entityLabel": "Nanchang Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q622059",
+        "entityLabel": "April Uprising of 1876"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4746979",
+        "entityLabel": "Dersim rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q768755",
+        "entityLabel": "Paris Uprising of 1832"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181146",
+        "entityLabel": "Dos de Mayo Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q698027",
+        "entityLabel": "Greater Poland uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q759988",
+        "entityLabel": "Zanj Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q889879",
+        "entityLabel": "Dungan revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151663",
+        "entityLabel": "Revolt of the Comuneros"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q255997",
+        "entityLabel": "Houthi insurgency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2258726",
+        "entityLabel": "Herzegovina Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q705553",
+        "entityLabel": "Maji Maji Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q627656",
+        "entityLabel": "St. George's Night Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q703893",
+        "entityLabel": "Silesian Uprisings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q759985",
+        "entityLabel": "Red Eyebrows"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760629",
+        "entityLabel": "August Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1145411",
+        "entityLabel": "Grito de Dolores"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1348955",
+        "entityLabel": "Reapers' War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q377542",
+        "entityLabel": "Whiskey Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1968718",
+        "entityLabel": "Great Syrian Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q701045",
+        "entityLabel": "Donghak Peasant Revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1049945",
+        "entityLabel": "Jacobite rising of 1745"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112501",
+        "entityLabel": "Revolt of the Three Feudatories"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q691882",
+        "entityLabel": "M\u00fcnster rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6445763",
+        "entityLabel": "Kurdish\u2013Turkish conflict"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q702250",
+        "entityLabel": "Kiel mutiny"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944859",
+        "entityLabel": "Heiji rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q974160",
+        "entityLabel": "Cudgel War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q266909",
+        "entityLabel": "Ruhr Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q392601",
+        "entityLabel": "Shays's Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q483458",
+        "entityLabel": "Jeju uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1233121",
+        "entityLabel": "Pilgrimage of Grace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q619712",
+        "entityLabel": "Sheikh Said rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1940446",
+        "entityLabel": "Monmouth Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2164870",
+        "entityLabel": "Eureka Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7470324",
+        "entityLabel": "Jacobite risings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q751143",
+        "entityLabel": "Slovak Uprising 1848-1849"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q759998",
+        "entityLabel": "Berber Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q992318",
+        "entityLabel": "Autumn Harvest Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3136592",
+        "entityLabel": "1689 Boston revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q965649",
+        "entityLabel": "Nien Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149912",
+        "entityLabel": "2005 Belize unrest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1633167",
+        "entityLabel": "Moscow Uprising of 1682"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2363565",
+        "entityLabel": "Dhofar Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2592077",
+        "entityLabel": "Islamist uprising in Syria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760002",
+        "entityLabel": "1991 Iraqi uprisings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3274081",
+        "entityLabel": "Kautokeino rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191745",
+        "entityLabel": "Left SR uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q685372",
+        "entityLabel": "Krak\u00f3w Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q685757",
+        "entityLabel": "Rebellion of the Alpujarras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2506639",
+        "entityLabel": "Malagasy Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4438492",
+        "entityLabel": "Central Asian revolt of 1916"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18380506",
+        "entityLabel": "2014 Burkinab\u00e9 uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q729936",
+        "entityLabel": "Treaty of Zboriv"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1461147",
+        "entityLabel": "Irish Rebellion of 1641"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q460280",
+        "entityLabel": "Hamburg Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4205775",
+        "entityLabel": "June Uprising in Lithuania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q705962",
+        "entityLabel": "Greater Poland Uprising of 1806"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q714535",
+        "entityLabel": "Musha incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q798594",
+        "entityLabel": "Bacon's Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q838303",
+        "entityLabel": "Mongolian Revolution of 1911"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q941932",
+        "entityLabel": "September Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1465514",
+        "entityLabel": "Wyatt's rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3299246",
+        "entityLabel": "Brunei Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3358934",
+        "entityLabel": "Klaip\u0117da Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4098701",
+        "entityLabel": "Bulavin Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1525846",
+        "entityLabel": "2012 Tuareg rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1569666",
+        "entityLabel": "Haidamaka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2617606",
+        "entityLabel": "Habsburg-occupied Serbia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7359741",
+        "entityLabel": "Rohingya conflict"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q723800",
+        "entityLabel": "Prussian uprisings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760021",
+        "entityLabel": "Daze Village Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1256789",
+        "entityLabel": "Ili Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3623079",
+        "entityLabel": "Uprising of Ivaylo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q196176",
+        "entityLabel": "Uprising of Asen and Peter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q427513",
+        "entityLabel": "Rising of the North"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q459325",
+        "entityLabel": "Great Slav Rising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q597026",
+        "entityLabel": "Kerensky\u2013Krasnov uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1560445",
+        "entityLabel": "Rebellions of 1837"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1635328",
+        "entityLabel": "Four days of Naples"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2656683",
+        "entityLabel": "Simba Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2661754",
+        "entityLabel": "Wallachian uprising of 1821"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14746872",
+        "entityLabel": "civil uprising phase of the Syrian Civil War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18545517",
+        "entityLabel": "Legionnaires' rebellion and Bucharest pogrom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q997220",
+        "entityLabel": "White Lotus Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1035320",
+        "entityLabel": "Caracazo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054657",
+        "entityLabel": "Ten Days of Brescia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1280245",
+        "entityLabel": "Albanian Revolt of 1912"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3436196",
+        "entityLabel": "Medo-Persian conflict"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185263",
+        "entityLabel": "Santhal rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q243587",
+        "entityLabel": "Streltsy Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q671542",
+        "entityLabel": "June Days Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q684762",
+        "entityLabel": "July Revolt of 1927"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1659789",
+        "entityLabel": "Koliivshchyna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2507413",
+        "entityLabel": "Escambray rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2511385",
+        "entityLabel": "Primera Junta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2656382",
+        "entityLabel": "Christmas Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4754457",
+        "entityLabel": "Andijan uprising of 1898"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q709191",
+        "entityLabel": "Imo Incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q777345",
+        "entityLabel": "Mad War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944568",
+        "entityLabel": "Malabar Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1052771",
+        "entityLabel": "Jelali revolts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1156907",
+        "entityLabel": "Dacke War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1342065",
+        "entityLabel": "Engelbrekt rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3043924",
+        "entityLabel": "Kresna-Razlog Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4125",
+        "entityLabel": "Canut revolts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q499763",
+        "entityLabel": "Prayer Book Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q500395",
+        "entityLabel": "Cornish Rebellion of 1497"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q632663",
+        "entityLabel": "South Yemen insurgency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q680766",
+        "entityLabel": "Carausian Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2110928",
+        "entityLabel": "Tuareg rebellion (1990-1995)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2590269",
+        "entityLabel": "Cabanagem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12130474",
+        "entityLabel": "Jacobite rising of 1715"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20088734",
+        "entityLabel": "Great irmandi\u00f1o revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q764038",
+        "entityLabel": "Jungle Movement of Gilan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q962676",
+        "entityLabel": "Cabochien Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1154466",
+        "entityLabel": "12 Warlords Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2980852",
+        "entityLabel": "First Tarnovo Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2996706",
+        "entityLabel": "East Karelian uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3100354",
+        "entityLabel": "Cantonal rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3380689",
+        "entityLabel": "Telangana Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3636337",
+        "entityLabel": "Alid revolt of 762\u2013763"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q31816",
+        "entityLabel": "pagan reaction in Poland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q195812",
+        "entityLabel": "Uprising of Peter Delyan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q283397",
+        "entityLabel": "Bra\u0219ov Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q626264",
+        "entityLabel": "Ararat rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1506788",
+        "entityLabel": "North-West Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1545288",
+        "entityLabel": "Veronese Easters"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1935427",
+        "entityLabel": "Praguerie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2065299",
+        "entityLabel": "Rum Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4575745",
+        "entityLabel": "1973 Thai popular uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q707864",
+        "entityLabel": "Tapani Incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q835649",
+        "entityLabel": "Greater Poland Uprising of 1848"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1038900",
+        "entityLabel": "Guangzhou Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1200808",
+        "entityLabel": "Desmond Rebellions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2975371",
+        "entityLabel": "Shinp\u016bren Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3152953",
+        "entityLabel": "2001 uprising in Herat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3446722",
+        "entityLabel": "Coconut War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4126353",
+        "entityLabel": "Bolotnikov rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118514",
+        "entityLabel": "Revolt of Czechoslovak Legion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q600898",
+        "entityLabel": "Salt Riot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2070956",
+        "entityLabel": "Carpathian Sich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2335525",
+        "entityLabel": "Kaocen Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2591793",
+        "entityLabel": "Warsaw Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22948744",
+        "entityLabel": "Rebellion of the Alpujarras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26709211",
+        "entityLabel": "Karposh's Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27566029",
+        "entityLabel": "Kett's Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q707956",
+        "entityLabel": "Tungchow Mutiny"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q759980",
+        "entityLabel": "R\u00e9volte des Maillotins"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760032",
+        "entityLabel": "Chiprovtsi Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q766868",
+        "entityLabel": "\u0141\u00f3d\u017a insurrection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q878528",
+        "entityLabel": "March Action"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1040831",
+        "entityLabel": "Mito Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1469307",
+        "entityLabel": "L\u00fclin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3052957",
+        "entityLabel": "Emboabas' War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3178794",
+        "entityLabel": "Tuareg rebellion (1962\u20131964)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3271813",
+        "entityLabel": "Liang Province rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3274751",
+        "entityLabel": "Bambatha Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3454489",
+        "entityLabel": "Menashi-Kunashir Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4080180",
+        "entityLabel": "Bashkir rebellion of 1735\u20131740"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q315395",
+        "entityLabel": "May Uprising in Dresden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q519690",
+        "entityLabel": "Frankfurter Wachensturm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q592971",
+        "entityLabel": "Rebellion of 1088"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1547128",
+        "entityLabel": "Grito de Lares"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1632838",
+        "entityLabel": "Second Guangzhou Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1848807",
+        "entityLabel": "Lam S\u01a1n uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1926145",
+        "entityLabel": "Vellore Mutiny"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2055515",
+        "entityLabel": "Federalist revolts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2300308",
+        "entityLabel": "Irmandi\u00f1o revolts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2345927",
+        "entityLabel": "Revolt of 1173\u201374"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2500742",
+        "entityLabel": "Revolta da Armada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2508152",
+        "entityLabel": "Fredonian Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4156944",
+        "entityLabel": "Moscow Uprising of 1905"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5338335",
+        "entityLabel": "Edirne Incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6403042",
+        "entityLabel": "Battle of Fakhkh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11161771",
+        "entityLabel": "Imam Reza shrine rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11883242",
+        "entityLabel": "Moro Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12015696",
+        "entityLabel": "Revolt of the Satraps"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13041166",
+        "entityLabel": "Albanian Revolt of 1432\u201336"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16931639",
+        "entityLabel": "Sasanian Civil War of 589\u2013591"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28492393",
+        "entityLabel": "Junker mutiny"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47452670",
+        "entityLabel": "Mud\u00e9jar revolt of 1264\u201366"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1107316",
+        "entityLabel": "Toplica insurrection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1117601",
+        "entityLabel": "Greater Poland Uprising of 1794"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2748243",
+        "entityLabel": "Kazan Rebellion of 1552\u20131556"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2880458",
+        "entityLabel": "Balaiada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2919984",
+        "entityLabel": "1921 Svanetian Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3070782",
+        "entityLabel": "Rand Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3138004",
+        "entityLabel": "Iwai Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3157842",
+        "entityLabel": "Croquant rebellions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4126350",
+        "entityLabel": "Kenesary Kasymov's uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q263716",
+        "entityLabel": "Eight Trigrams Uprising of 1813"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q389091",
+        "entityLabel": "Upper Canada Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q595552",
+        "entityLabel": "D\u00f3zsa Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q686474",
+        "entityLabel": "Whitsuntide events in Prague"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q687490",
+        "entityLabel": "Bava-Beccaris massacre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1534814",
+        "entityLabel": "Ohrid\u2013Debar Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1628339",
+        "entityLabel": "Stephan Razin's rising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1806552",
+        "entityLabel": "Rebellion of T\u00fapac Amaru II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2076124",
+        "entityLabel": "Mytilenean revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2237325",
+        "entityLabel": "Battle of Athens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2266337",
+        "entityLabel": "Khotyn Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2527587",
+        "entityLabel": "Kazym rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2635125",
+        "entityLabel": "Praieira revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2667511",
+        "entityLabel": "Contestado War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4412123",
+        "entityLabel": "Monarchy of the North"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4518057",
+        "entityLabel": "Plague Riot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7124749",
+        "entityLabel": "Paik Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21070576",
+        "entityLabel": "timeline of the Kurdish\u2013Turkish conflict"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28136838",
+        "entityLabel": "Trunajaya rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48785102",
+        "entityLabel": "Jacobite rising of 1689"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63395926",
+        "entityLabel": "2019 Venezuelan uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q759989",
+        "entityLabel": "Revolt of Saint Titus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760026",
+        "entityLabel": "Messina Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q843513",
+        "entityLabel": "1987\u20131989 Tibetan unrest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1112912",
+        "entityLabel": "Coluna Prestes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1320841",
+        "entityLabel": "Tuchin Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3098752",
+        "entityLabel": "Revolt of the Brotherhoods"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3348959",
+        "entityLabel": "Sannyasi Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3444492",
+        "entityLabel": "Regulator Movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3458285",
+        "entityLabel": "Theriso revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3491714",
+        "entityLabel": "Battle of Valdepe\u00f1as"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3917333",
+        "entityLabel": "Glinsky's Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4080178",
+        "entityLabel": "Bashkir rebellion of 1662\u20141664"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154788",
+        "entityLabel": "Wukan protests"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q195805",
+        "entityLabel": "Uprising of Georgi Voiteh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q490792",
+        "entityLabel": "Sambyeolcho Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q538650",
+        "entityLabel": "Revolt of the Languedoc winegrowers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q658197",
+        "entityLabel": "Greater Poland Uprising of 1846"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1828770",
+        "entityLabel": "Peasant revolt in Flanders 1323\u20131328"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2090612",
+        "entityLabel": "Hagi Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2135001",
+        "entityLabel": "East Timorese rebellions (1860\u20131912)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2466441",
+        "entityLabel": "Lower Canada Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2625219",
+        "entityLabel": "Vaccine Revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4184652",
+        "entityLabel": "Transcaspian Government"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5671376",
+        "entityLabel": "Yaroslavl revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8022869",
+        "entityLabel": "Wilno Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9063343",
+        "entityLabel": "Korean People's Association in Manchuria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12284467",
+        "entityLabel": "The mountain bandits in Ottoman Rumelia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12907952",
+        "entityLabel": "Kumanovo Uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15726836",
+        "entityLabel": "Sudeten German uprising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16399387",
+        "entityLabel": "Syunik rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20204978",
+        "entityLabel": "Rising of the Priests"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60996885",
+        "entityLabel": "Xunhua Incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66310588",
+        "entityLabel": "Afghan tribal revolts of 1944\u20131947"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760008",
+        "entityLabel": "Rif revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760025",
+        "entityLabel": "Rebellion in Klaksv\u00edk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760027",
+        "entityLabel": "Revolution of Maria da Fonte"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q795109",
+        "entityLabel": "Morea revolt of 1453\u20131454"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q940397",
+        "entityLabel": "Babai revolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q947194",
+        "entityLabel": "carapintadas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28479",
+        "entityLabel": "Kumanovo Agreement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q928079",
+        "entityLabel": "Bishkek Protocol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1801770",
+        "entityLabel": "Lancaster House Agreement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42378043",
+        "entityLabel": "Nationwide Ceasefire Agreement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1328105",
+        "entityLabel": "Truce of Pl\u00e4switz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123509933",
+        "entityLabel": "2023 Israel\u2013Hamas ceasefire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3541399",
+        "entityLabel": "Truce of Malestroit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7847146",
+        "entityLabel": "Truce of Leulinghem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q61829892",
+        "entityLabel": "Truce of Shamkor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4781991",
+        "entityLabel": "April 8 Humanitarian Ceasefire Agreement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5753239",
+        "entityLabel": "Hieromenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8196754",
+        "entityLabel": "2010\u20132011 ETA ceasefire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q101251244",
+        "entityLabel": "cease-fire of March 19, 1962"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q973118",
+        "entityLabel": "coronation of Napoleon I"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4233962",
+        "entityLabel": "coronation of Bokassa I"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24913005",
+        "entityLabel": "Rajyabhisheka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116908318",
+        "entityLabel": "Coronation of George III and Charlotte"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24934066",
+        "entityLabel": "coronation of Nicholas I as king of Poland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112716652",
+        "entityLabel": "coronation of Henry VIII and Catherine of Aragon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5172245",
+        "entityLabel": "Coronations in Asia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5960512",
+        "entityLabel": "Coronation of Mohammad Reza Pahlavi and Farah Diba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105220320",
+        "entityLabel": "coronation of Crown Prince Ferdinand of Austria as king of Hungary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105221851",
+        "entityLabel": "coronation of Ferdinand I of Austria as King of Bohemia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105222140",
+        "entityLabel": "Coronation of Ferdinand I of Austria as King of Lombardy-Venetia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112716764",
+        "entityLabel": "coronation of Anne Boleyn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113561887",
+        "entityLabel": "coronation of James I and Anne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116730692",
+        "entityLabel": "Coronation of Mary I of England"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110662847",
+        "entityLabel": "coronation of Haakon VII and Maud"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16738603",
+        "entityLabel": "Coronation of Mindaugas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65534609",
+        "entityLabel": "Coronation of Charlemagne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112844317",
+        "entityLabel": "coronation of the Kings of Aragon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113375803",
+        "entityLabel": "2022 visit by Nancy Pelosi to Taiwan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115793147",
+        "entityLabel": "2022 Volodymyr Zelenskyy visit to the United States"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117225357",
+        "entityLabel": "2023 visit by Xi Jinping to Russia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117272331",
+        "entityLabel": "2023 visit by Fumio Kishida to Ukraine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124795443",
+        "entityLabel": "2023 visit by Yoon Suk Yeol to Ukraine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113494376",
+        "entityLabel": "Nancy Pelosi's visit to Asia in 2022"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19870181",
+        "entityLabel": "1972 Bhutto visit to Soviet Union"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110032573",
+        "entityLabel": "Konrad Adenauer visit to Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120512266",
+        "entityLabel": "Category:Sanna Marin in Kyiv in March 2023"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123023080",
+        "entityLabel": "Antony Blinken visit to Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123587284",
+        "entityLabel": "Antony Blinken visit to Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124300605",
+        "entityLabel": "Antony Blinken visit to Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125758760",
+        "entityLabel": "Antony Blinken visit to Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125761469",
+        "entityLabel": "Daniel B. Shapiro visit to Ashdod and Rabin Medical Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126488839",
+        "entityLabel": "Australian Eastern Mission"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q127800324",
+        "entityLabel": "Benjamin Netanyahu speech to joint session of Congress, 2024"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13582",
+        "entityLabel": "Berlin Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q482407",
+        "entityLabel": "Geneva Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1504861",
+        "entityLabel": "United Nations Conference on International Organization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1194052",
+        "entityLabel": "Bretton Woods Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q544107",
+        "entityLabel": "Messina Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653550",
+        "entityLabel": "Spa Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q691249",
+        "entityLabel": "World Disarmament Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q912215",
+        "entityLabel": "Moscow Conference 1945"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2996254",
+        "entityLabel": "Brussels Conference Act of 1890"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3686593",
+        "entityLabel": "Trabzon Peace Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1883475",
+        "entityLabel": "Treaty of Madrid (1880)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q166284",
+        "entityLabel": "European congress in Lutsk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4892411",
+        "entityLabel": "Berlin Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1135523",
+        "entityLabel": "International Conference on High Energy Physics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q997154",
+        "entityLabel": "Brussels Conference 1874"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15106243",
+        "entityLabel": "International Conference on the Great Lakes Region"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112939195",
+        "entityLabel": "Recovery of Ukraine Conference in Lugano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2148196",
+        "entityLabel": "Geneva Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3513409",
+        "entityLabel": "Congolese Round Table Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4928478",
+        "entityLabel": "Bloudan Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5533024",
+        "entityLabel": "Geneva Naval Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5963265",
+        "entityLabel": "International Conference of Asian Political Parties"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6743768",
+        "entityLabel": "Malino Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23013913",
+        "entityLabel": "The 1919 International Congress of Working Women"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24947275",
+        "entityLabel": "Warsaw Security Forum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4596281",
+        "entityLabel": "1st Conference of the Communist Parties of Latin America"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118482649",
+        "entityLabel": "Brioni Meeting"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q121309477",
+        "entityLabel": "2023 Amazon Cooperation Treaty Organization Summit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q821590",
+        "entityLabel": "Berliner Konferenz 1880"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5369256",
+        "entityLabel": "International Chinese Character Congress"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6053124",
+        "entityLabel": "International Seapower Symposium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8349739",
+        "entityLabel": "Colombo conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18029592",
+        "entityLabel": "Western Balkan Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25397305",
+        "entityLabel": "Spa Conference of May 12th 1918"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45313487",
+        "entityLabel": "One Planet Summit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56063696",
+        "entityLabel": "Copenhagen Democracy Summit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56278994",
+        "entityLabel": "1957 International Meeting of Communist and Workers Parties"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1996216",
+        "entityLabel": "International Conference on Climate Change"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4288203",
+        "entityLabel": "International Conference on the Unity of the Sciences"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4829148",
+        "entityLabel": "Avoiding dangerous climate change"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4989821",
+        "entityLabel": "Internet Marketing Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10869063",
+        "entityLabel": "World Chinese Entrepreneurs Convention"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11283354",
+        "entityLabel": "Asia-Pacific Water Summit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48756146",
+        "entityLabel": "Berlin Conference (November 2\u20136, 1917)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q53803071",
+        "entityLabel": "Vienna Conference (March 1917)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55596464",
+        "entityLabel": "Berlin Conference (March 26-27, 1917)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q92220049",
+        "entityLabel": "Berlin Conference (August 14, 1917)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96411818",
+        "entityLabel": "UEFA Congress"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111084088",
+        "entityLabel": "Second Inter-American Specialized Conference on Private International Law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124024054",
+        "entityLabel": "Lima Consensus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4639032",
+        "entityLabel": "4 Degrees and Beyond International Climate Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12800642",
+        "entityLabel": "SIRIKT"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15076778",
+        "entityLabel": "1899 Hague Peace Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16057002",
+        "entityLabel": "1961 Commonwealth Prime Ministers' Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55605631",
+        "entityLabel": "Bloudan Conference of 1946"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65050872",
+        "entityLabel": "Indo-Pacific Democratic Governance Consultation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65056519",
+        "entityLabel": "Conference on Dialogue of Asian Civilizations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123010375",
+        "entityLabel": "1907 Hague Peace Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124354153",
+        "entityLabel": "International Satellite Communication Symposium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125748663",
+        "entityLabel": "Niamey Convention on Cross-border Cooperation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129849317",
+        "entityLabel": "Italy\u2013Africa Summit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26758861",
+        "entityLabel": "RosCon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56760674",
+        "entityLabel": "IUCN World Conservation Congress 2020"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104829471",
+        "entityLabel": "29th International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874697",
+        "entityLabel": "30th International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874796",
+        "entityLabel": "31st International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874859",
+        "entityLabel": "32nd International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874940",
+        "entityLabel": "26th International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874951",
+        "entityLabel": "27th International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874961",
+        "entityLabel": "28th International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874966",
+        "entityLabel": "33rd International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104874970",
+        "entityLabel": "34th International Conference of the Red Cross and Red Crescent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876023",
+        "entityLabel": "3rd International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876026",
+        "entityLabel": "4th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876028",
+        "entityLabel": "5th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876030",
+        "entityLabel": "6th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876031",
+        "entityLabel": "7th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876032",
+        "entityLabel": "8th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876034",
+        "entityLabel": "9th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876037",
+        "entityLabel": "10th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876039",
+        "entityLabel": "11th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876041",
+        "entityLabel": "12th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876043",
+        "entityLabel": "13th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876045",
+        "entityLabel": "14th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876048",
+        "entityLabel": "15th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876050",
+        "entityLabel": "16th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876052",
+        "entityLabel": "17th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876054",
+        "entityLabel": "18th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876056",
+        "entityLabel": "19th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876058",
+        "entityLabel": "20th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876060",
+        "entityLabel": "21st International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876063",
+        "entityLabel": "22nd International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876068",
+        "entityLabel": "23rd International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876070",
+        "entityLabel": "24th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104876071",
+        "entityLabel": "25th International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104892377",
+        "entityLabel": "1st International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104892378",
+        "entityLabel": "2nd International Conference of the Red Cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106568129",
+        "entityLabel": "World People's Conference on Climate Change and the Rights of Mother Earth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110864147",
+        "entityLabel": "One Ocean Summit"
+    }
+]

@@ -1,0 +1,3990 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q23",
+        "entityLabel": "George Washington"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q76",
+        "entityLabel": "Barack Obama"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80",
+        "entityLabel": "Tim Berners-Lee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q91",
+        "entityLabel": "Abraham Lincoln"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q157",
+        "entityLabel": "François Hollande"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181",
+        "entityLabel": "Jimmy Wales"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185",
+        "entityLabel": "Larry Sanger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186",
+        "entityLabel": "Ken Jennings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192",
+        "entityLabel": "David Cameron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q206",
+        "entityLabel": "Stephen Harper"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207",
+        "entityLabel": "George W. Bush"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q254",
+        "entityLabel": "Wolfgang Amadeus Mozart"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q255",
+        "entityLabel": "Ludwig van Beethoven"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q260",
+        "entityLabel": "Jean-François Champollion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q272",
+        "entityLabel": "Paul Morand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q296",
+        "entityLabel": "Claude Monet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q297",
+        "entityLabel": "Diego Velázquez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q301",
+        "entityLabel": "El Greco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q302",
+        "entityLabel": "Jesus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q303",
+        "entityLabel": "Elvis Presley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q306",
+        "entityLabel": "Sebastián Piñera"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q307",
+        "entityLabel": "Galileo Galilei"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q320",
+        "entityLabel": "Michelle Bachelet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q326",
+        "entityLabel": "Eduardo Frei Ruiz-Tagle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q329",
+        "entityLabel": "Nicolas Sarkozy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q331",
+        "entityLabel": "Ricardo Lagos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335",
+        "entityLabel": "Patricio Aylwin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q346",
+        "entityLabel": "Louis IX of France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q352",
+        "entityLabel": "Adolf Hitler"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q353",
+        "entityLabel": "Blanche of Castile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q354",
+        "entityLabel": "Piet Kraak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360",
+        "entityLabel": "Julian Assange"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q368",
+        "entityLabel": "Augusto Pinochet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q377",
+        "entityLabel": "Yanka Kupala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q379",
+        "entityLabel": "František Plánička"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q392",
+        "entityLabel": "Bob Dylan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q400",
+        "entityLabel": "Jenna Jameson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407",
+        "entityLabel": "Linda Lovelace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409",
+        "entityLabel": "Bob Marley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410",
+        "entityLabel": "Carl Sagan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q440",
+        "entityLabel": "Salvador Allende"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q444",
+        "entityLabel": "Lech Walesa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q448",
+        "entityLabel": "Denis Diderot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q449",
+        "entityLabel": "Georges Brassens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q464",
+        "entityLabel": "Philipp Ludwig von Seidel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q475",
+        "entityLabel": "Eduardo Frei Montalva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q489",
+        "entityLabel": "Bill Maher"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q493",
+        "entityLabel": "Arthur Rimbaud"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q498",
+        "entityLabel": "Ulrich Frédéric Woldemar, Comte de Lowendal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q501",
+        "entityLabel": "Charles Baudelaire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q502",
+        "entityLabel": "Stendhal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q504",
+        "entityLabel": "Émile Zola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q512",
+        "entityLabel": "Vladimir Vysotsky"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q517",
+        "entityLabel": "Napoleon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q529",
+        "entityLabel": "Louis Pasteur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q530",
+        "entityLabel": "Ingemar Stenmark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q535",
+        "entityLabel": "Victor Hugo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q539",
+        "entityLabel": "Giuseppe Garibaldi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q555",
+        "entityLabel": "Rachel Maddow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q557",
+        "entityLabel": "Patti Smith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q558",
+        "entityLabel": "Hedi Slimane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q559",
+        "entityLabel": "Claude Bourgelat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q562",
+        "entityLabel": "Pierre Poivre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q563",
+        "entityLabel": "Brigitte Fontaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q567",
+        "entityLabel": "Angela Merkel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q576",
+        "entityLabel": "Jorge Alessandri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q579",
+        "entityLabel": "Carlos Ibáñez del Campo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q590",
+        "entityLabel": "Luís de Camões"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q600",
+        "entityLabel": "Ichiro Suzuki"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q603",
+        "entityLabel": "Frédéric Taddeï"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q605",
+        "entityLabel": "Ezra Klein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q607",
+        "entityLabel": "Michael Bloomberg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q609",
+        "entityLabel": "Kateri Tekakwitha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q615",
+        "entityLabel": "Lionel Messi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q619",
+        "entityLabel": "Nicolaus Copernicus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q624",
+        "entityLabel": "Alessandro Del Piero"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q632",
+        "entityLabel": "Jean Moulin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q633",
+        "entityLabel": "Neil Young"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q635",
+        "entityLabel": "Cleopatra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q636",
+        "entityLabel": "Kate Bush"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q640",
+        "entityLabel": "Harald Krichel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q651",
+        "entityLabel": "Friedrich Theodor Vischer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q675",
+        "entityLabel": "André-Marie Ampère"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q680",
+        "entityLabel": "Alessandro Volta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q687",
+        "entityLabel": "Molière"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q692",
+        "entityLabel": "William Shakespeare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q714",
+        "entityLabel": "Stevie Wonder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q720",
+        "entityLabel": "Genghis Khan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q742",
+        "entityLabel": "Jean Racine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q747",
+        "entityLabel": "Pierre Corneille"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q755",
+        "entityLabel": "Paul Verlaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q762",
+        "entityLabel": "Leonardo da Vinci"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q765",
+        "entityLabel": "Dario Fo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q767",
+        "entityLabel": "Stéphane Mallarmé"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q814",
+        "entityLabel": "Coco Austin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q815",
+        "entityLabel": "Gabriel Gonzáles Videla"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q820",
+        "entityLabel": "Juan Antonio Rios"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q835",
+        "entityLabel": "Mikhail Bulgakov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q838",
+        "entityLabel": "Andrei Rublev"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q839",
+        "entityLabel": "Georgina Cassar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q845",
+        "entityLabel": "Pedro Aguirre Cerda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848",
+        "entityLabel": "Arturo Alessandri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q849",
+        "entityLabel": "François Villon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q853",
+        "entityLabel": "Andrei Tarkovsky"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q855",
+        "entityLabel": "Joseph Stalin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q857",
+        "entityLabel": "Juan Luis Sanfuentes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q859",
+        "entityLabel": "Plato"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q862",
+        "entityLabel": "Joseph Brodsky"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q868",
+        "entityLabel": "Aristotle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q873",
+        "entityLabel": "Meryl Streep"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q882",
+        "entityLabel": "Charlie Chaplin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q885",
+        "entityLabel": "Józef Piłsudski"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q892",
+        "entityLabel": "J. R. R. Tolkien"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q905",
+        "entityLabel": "Franz Kafka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q909",
+        "entityLabel": "Jorge Luis Borges"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913",
+        "entityLabel": "Socrates"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q920",
+        "entityLabel": "J. Bernlef"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q926",
+        "entityLabel": "Roald Amundsen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q927",
+        "entityLabel": "Harry Mulisch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q930",
+        "entityLabel": "Konstantin Melnikov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q935",
+        "entityLabel": "Isaac Newton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q937",
+        "entityLabel": "Albert Einstein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q939",
+        "entityLabel": "Pedro I of Brazil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q946",
+        "entityLabel": "Donald Tusk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q949",
+        "entityLabel": "John Bardeen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q984",
+        "entityLabel": "Miles Franklin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q989",
+        "entityLabel": "John Paul II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q991",
+        "entityLabel": "Fyodor Dostoyevsky"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q997",
+        "entityLabel": "Andrei Sakharov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1001",
+        "entityLabel": "Mahatma Gandhi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1023",
+        "entityLabel": "Roman Camenzind"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1031",
+        "entityLabel": "France Prešeren"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1035",
+        "entityLabel": "Charles Darwin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1043",
+        "entityLabel": "Carl Linnaeus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1047",
+        "entityLabel": "Jawaharlal Nehru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1048",
+        "entityLabel": "Julius Caesar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1051",
+        "entityLabel": "Ivan Regen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1056",
+        "entityLabel": "Italo Balbo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1058",
+        "entityLabel": "Narendra Modi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1064",
+        "entityLabel": "Alessandro Manzoni"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1067",
+        "entityLabel": "Dante Alighieri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1081",
+        "entityLabel": "Julio Bashmore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1124",
+        "entityLabel": "Bill Clinton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1145",
+        "entityLabel": "Jean-Philippe Rameau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1149",
+        "entityLabel": "Indira Gandhi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1151",
+        "entityLabel": "Hector Berlioz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1178",
+        "entityLabel": "Maurice Ravel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1189",
+        "entityLabel": "Usain Bolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1192",
+        "entityLabel": "Jean-Baptiste Lully"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1203",
+        "entityLabel": "John Lennon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1217",
+        "entityLabel": "Hubert Salentin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1220",
+        "entityLabel": "Giorgio Napolitano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1224",
+        "entityLabel": "Carlo Azeglio Ciampi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1225",
+        "entityLabel": "Bruce Springsteen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1228",
+        "entityLabel": "Oscar Luigi Scalfaro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1230",
+        "entityLabel": "Francesco Cossiga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1233",
+        "entityLabel": "Sandro Pertini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1235",
+        "entityLabel": "Giovanni Leone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1238",
+        "entityLabel": "Giuseppe Saragat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1240",
+        "entityLabel": "Antonio Segni"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1241",
+        "entityLabel": "Giovanni Gronchi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1242",
+        "entityLabel": "Luigi Einaudi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1245",
+        "entityLabel": "Enrico de Nicola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1253",
+        "entityLabel": "Ban Ki-moon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1254",
+        "entityLabel": "Kofi Annan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1257",
+        "entityLabel": "Boutros Boutros-Ghali"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1259",
+        "entityLabel": "Javier Pérez de Cuéllar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1260",
+        "entityLabel": "Kurt Waldheim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1264",
+        "entityLabel": "U Thant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1267",
+        "entityLabel": "Dag Hammarskjöld"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1268",
+        "entityLabel": "Frédéric Chopin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1271",
+        "entityLabel": "Trygve Lie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1275",
+        "entityLabel": "Gladwyn Jebb"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1276",
+        "entityLabel": "Leonard Cohen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1290",
+        "entityLabel": "Blaise Pascal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1294",
+        "entityLabel": "Ramón Barros Luco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1298",
+        "entityLabel": "Pedro Montt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1300",
+        "entityLabel": "Germán Riesco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1316",
+        "entityLabel": "Saddam Hussein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1317",
+        "entityLabel": "Osama bin Laden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1318",
+        "entityLabel": "Aníbal Zañartu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1319",
+        "entityLabel": "Federico Errázuriz Echaurren"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1320",
+        "entityLabel": "Jorge Montt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1322",
+        "entityLabel": "José Manuel Balmaceda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1323",
+        "entityLabel": "Domingo Santa María"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1324",
+        "entityLabel": "Aníbal Pinto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1325",
+        "entityLabel": "Friedrich Hayek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1326",
+        "entityLabel": "Federico Errázuriz Zañartu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1327",
+        "entityLabel": "José Joaquín Pérez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1328",
+        "entityLabel": "Manuel Montt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1329",
+        "entityLabel": "Manuel Bulnes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1330",
+        "entityLabel": "José Joaquín Prieto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1331",
+        "entityLabel": "Manuel Blanco Encalada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1332",
+        "entityLabel": "Ramón Freire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1333",
+        "entityLabel": "Francisco Antonio Pinto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1339",
+        "entityLabel": "Johann Sebastian Bach"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1340",
+        "entityLabel": "Antonio Vivaldi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1379",
+        "entityLabel": "Gary Gygax"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1381",
+        "entityLabel": "Dave Arneson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1394",
+        "entityLabel": "Vladimir Lenin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1395",
+        "entityLabel": "Leo Ortolani"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1398",
+        "entityLabel": "Virgil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1399",
+        "entityLabel": "Niccolò Machiavelli"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1401",
+        "entityLabel": "Petrarch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1402",
+        "entityLabel": "Giovanni Boccaccio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1403",
+        "entityLabel": "Luigi Pirandello"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1405",
+        "entityLabel": "Augustus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1407",
+        "entityLabel": "Tiberius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1409",
+        "entityLabel": "Caligula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1411",
+        "entityLabel": "Claudius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1413",
+        "entityLabel": "Nero"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1414",
+        "entityLabel": "Galba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1416",
+        "entityLabel": "Otho"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1417",
+        "entityLabel": "Vitellius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1419",
+        "entityLabel": "Vespasian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1421",
+        "entityLabel": "Titus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1423",
+        "entityLabel": "Domitian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1424",
+        "entityLabel": "Nerva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425",
+        "entityLabel": "Trajan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1426",
+        "entityLabel": "Roger Federer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1427",
+        "entityLabel": "Hadrian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1429",
+        "entityLabel": "Antoninus Pius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1430",
+        "entityLabel": "Marcus Aurelius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1433",
+        "entityLabel": "Lucius Verus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1434",
+        "entityLabel": "Commodus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1436",
+        "entityLabel": "Pertinax"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1440",
+        "entityLabel": "Didius Julianus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1442",
+        "entityLabel": "Septimius Severus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1446",
+        "entityLabel": "Caracalla"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1450",
+        "entityLabel": "Bruno Mars"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1453",
+        "entityLabel": "Alexandra Stan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1463",
+        "entityLabel": "Ferdinand Marcos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1464",
+        "entityLabel": "Benigno Aquino III"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1470",
+        "entityLabel": "M. C. Escher"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1480",
+        "entityLabel": "Corazon Aquino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1488",
+        "entityLabel": "Robert Brasillach"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1496",
+        "entityLabel": "Ferdinand Magellan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1500",
+        "entityLabel": "José Rizal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1503",
+        "entityLabel": "Manuel L. Quezon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1511",
+        "entityLabel": "Richard Wagner"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1512",
+        "entityLabel": "Robert Louis Stevenson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1514",
+        "entityLabel": "Janis Joplin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1523",
+        "entityLabel": "Ramesses II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1526",
+        "entityLabel": "Ramesses I"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1528",
+        "entityLabel": "Ramesses III"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1532",
+        "entityLabel": "Ramesses IV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1541",
+        "entityLabel": "Cicero"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1544",
+        "entityLabel": "Tony Garnier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1545",
+        "entityLabel": "Cyndi Lauper"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1585",
+        "entityLabel": "Georg Simon Ohm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1589",
+        "entityLabel": "Luigi Galvani"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1604",
+        "entityLabel": "Tim Lincecum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1615",
+        "entityLabel": "Neil Armstrong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1618",
+        "entityLabel": "Charles Lindbergh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1625",
+        "entityLabel": "Sigfrid Edström"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1628",
+        "entityLabel": "David Cecil, 6th Marquess of Exeter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1631",
+        "entityLabel": "Édith Piaf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1634",
+        "entityLabel": "Adriaan Paulen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1638",
+        "entityLabel": "Primo Nebiolo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1639",
+        "entityLabel": "Lamine Diack"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1646",
+        "entityLabel": "Françoise Sagan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1651",
+        "entityLabel": "Yohan Blake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1652",
+        "entityLabel": "Justin Gatlin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1654",
+        "entityLabel": "Warren Weir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1655",
+        "entityLabel": "Kirani James"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1656",
+        "entityLabel": "Luguelín Santos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1657",
+        "entityLabel": "Lalonde Gordon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1659",
+        "entityLabel": "David Rudisha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1660",
+        "entityLabel": "Nijel Amos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1662",
+        "entityLabel": "Timothy Kitum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1665",
+        "entityLabel": "Taoufik Makhloufi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1666",
+        "entityLabel": "Jacques Brel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1668",
+        "entityLabel": "Leonel Manzano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1669",
+        "entityLabel": "Abdalaati Iguider"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1671",
+        "entityLabel": "Mo Farah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1672",
+        "entityLabel": "Dejen Gebremeskel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1674",
+        "entityLabel": "Tariku Bekele"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1677",
+        "entityLabel": "Ezekiel Kemboi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1679",
+        "entityLabel": "Mahiedine Mekhissi-Benabbad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1681",
+        "entityLabel": "Abel Mutai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1683",
+        "entityLabel": "Aries Merritt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1685",
+        "entityLabel": "Jason Richardson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1687",
+        "entityLabel": "Hansle Parchment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1689",
+        "entityLabel": "Félix Sánchez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1691",
+        "entityLabel": "Javier Culson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1698",
+        "entityLabel": "Serge Gainsbourg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1699",
+        "entityLabel": "Nesta Carter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1702",
+        "entityLabel": "Stephen Kiprotich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1704",
+        "entityLabel": "Abel Kirui"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1705",
+        "entityLabel": "Wilson Kipsang Kiprotich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1708",
+        "entityLabel": "Chen Ding"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1712",
+        "entityLabel": "Erick Barrondo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1716",
+        "entityLabel": "Renaud"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1717",
+        "entityLabel": "Sergey Kirdyapkin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1728",
+        "entityLabel": "Jared Tallent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1732",
+        "entityLabel": "Ivan Ukhov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1736",
+        "entityLabel": "Erik Kynard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1738",
+        "entityLabel": "Robert Grabarz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1739",
+        "entityLabel": "Mutaz Essa Barshim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1742",
+        "entityLabel": "Renaud Lavillenie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1743",
+        "entityLabel": "Björn Otto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1744",
+        "entityLabel": "Madonna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1745",
+        "entityLabel": "Greg Rutherford"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1747",
+        "entityLabel": "Mitchell Watt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1750",
+        "entityLabel": "Will Claye"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1751",
+        "entityLabel": "Christian Taylor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1752",
+        "entityLabel": "Macrinus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1753",
+        "entityLabel": "Fabrizio Donato"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1755",
+        "entityLabel": "Tomasz Majewski"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1758",
+        "entityLabel": "David Storl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1760",
+        "entityLabel": "Reese Hoffa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1762",
+        "entityLabel": "Elagabalus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1766",
+        "entityLabel": "Robert Harting"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1768",
+        "entityLabel": "Ella Fitzgerald"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1769",
+        "entityLabel": "Severus Alexander"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1771",
+        "entityLabel": "Ehsan Hadadi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1775",
+        "entityLabel": "Brownie Mary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1776",
+        "entityLabel": "Gerd Kanter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1777",
+        "entityLabel": "Maximinus Thrax"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1778",
+        "entityLabel": "Krisztián Pars"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1779",
+        "entityLabel": "Louis Armstrong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1782",
+        "entityLabel": "Gordian I"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1783",
+        "entityLabel": "Primož Kozmus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1784",
+        "entityLabel": "Koji Murofushi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1785",
+        "entityLabel": "Charles Aznavour"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1786",
+        "entityLabel": "Jan I Carondelet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1787",
+        "entityLabel": "Keshorn Walcott"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1788",
+        "entityLabel": "Claude I Carondelet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1789",
+        "entityLabel": "Ashton Eaton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1790",
+        "entityLabel": "Kim Wilde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1791",
+        "entityLabel": "Jan II Carondelet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1793",
+        "entityLabel": "Trey Hardee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1796",
+        "entityLabel": "Leonel Suárez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1797",
+        "entityLabel": "Pupienus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1798",
+        "entityLabel": "Ferry Carondelet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1802",
+        "entityLabel": "Daniel Balavoine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1803",
+        "entityLabel": "Gordian II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1804",
+        "entityLabel": "Barbara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1805",
+        "entityLabel": "Balbinus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1812",
+        "entityLabel": "Gordian III"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1817",
+        "entityLabel": "Philip the Arab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1830",
+        "entityLabel": "Decius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1835",
+        "entityLabel": "Zinedine Zidane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1839",
+        "entityLabel": "Laurent Blanc"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1868",
+        "entityLabel": "Paul Otlet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1878",
+        "entityLabel": "Michael Schmidt-Salomon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1879",
+        "entityLabel": "Corentin Martins"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1883",
+        "entityLabel": "Sabri Lamouchi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1885",
+        "entityLabel": "Jürgen Locadia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1894",
+        "entityLabel": "Memphis Depay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1907",
+        "entityLabel": "Hugo Lloris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1908",
+        "entityLabel": "Mathieu Debuchy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1909",
+        "entityLabel": "Adil Rami"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1910",
+        "entityLabel": "Yohan Cabaye"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1911",
+        "entityLabel": "Olivier Giroud"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1912",
+        "entityLabel": "Karim Benzema"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1913",
+        "entityLabel": "Florent Malouda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1915",
+        "entityLabel": "Laurent Koscielny"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1916",
+        "entityLabel": "Patrice Evra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1917",
+        "entityLabel": "Philippe Mexès"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1918",
+        "entityLabel": "Franck Ribéry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1919",
+        "entityLabel": "Mathieu Valbuena"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1920",
+        "entityLabel": "Samir Nasri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1921",
+        "entityLabel": "Blaise Matuidi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1922",
+        "entityLabel": "Anthony Réveillère"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1923",
+        "entityLabel": "Jérémy Ménez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1924",
+        "entityLabel": "Steve Mandanda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1925",
+        "entityLabel": "Yann M'Vila"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1926",
+        "entityLabel": "Alou Diarra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1927",
+        "entityLabel": "Marvin Martin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1928",
+        "entityLabel": "Hatem Ben Arfa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1929",
+        "entityLabel": "Gaël Clichy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1931",
+        "entityLabel": "Cédric Carrasso"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1933",
+        "entityLabel": "Anja Pärson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1934",
+        "entityLabel": "Sidney Govou"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1935",
+        "entityLabel": "Eric Abidal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1936",
+        "entityLabel": "Djibril Cissé"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1937",
+        "entityLabel": "William Gallas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1938",
+        "entityLabel": "Bacary Sagna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1939",
+        "entityLabel": "Nicolas Anelka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1940",
+        "entityLabel": "André-Pierre Gignac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1942",
+        "entityLabel": "Sébastien Squillaci"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1943",
+        "entityLabel": "Abou Diaby"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1944",
+        "entityLabel": "Jérémy Toulalan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1945",
+        "entityLabel": "Benjamin Raich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1950",
+        "entityLabel": "Alberto Tomba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1955",
+        "entityLabel": "Gustav Thöni"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1956",
+        "entityLabel": "Hermann Maier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1958",
+        "entityLabel": "Vreni Schneider"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1962",
+        "entityLabel": "Erika Hess"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1984",
+        "entityLabel": "Maria Walliser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1991",
+        "entityLabel": "Michela Figini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1993",
+        "entityLabel": "Masashi Kishimoto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2001",
+        "entityLabel": "Stanley Kubrick"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2006",
+        "entityLabel": "Deborah Compagnoni"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2010",
+        "entityLabel": "Eiichiro Oda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2022",
+        "entityLabel": "Cesare Pavese"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2031",
+        "entityLabel": "Marc Girardelli"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2038",
+        "entityLabel": "François Mitterrand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2039",
+        "entityLabel": "Titus Livius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2040",
+        "entityLabel": "Giuseppe Farina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2042",
+        "entityLabel": "Charles de Gaulle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2054",
+        "entityLabel": "Seneca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2069",
+        "entityLabel": "Juan Manuel Fangio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2071",
+        "entityLabel": "David Lynch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2072",
+        "entityLabel": "Marcel Hirscher"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2086",
+        "entityLabel": "Alberto Ascari"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2097",
+        "entityLabel": "Kjetil André Aamodt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2098",
+        "entityLabel": "Martial"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2104",
+        "entityLabel": "Mike Hawthorn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2105",
+        "entityLabel": "Jacques Chirac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2116",
+        "entityLabel": "Hans Schmidt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2124",
+        "entityLabel": "Valéry Giscard d'Estaing"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2125",
+        "entityLabel": "Jack Brabham"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2129",
+        "entityLabel": "Bode Miller"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2147",
+        "entityLabel": "Giridharilal Kedia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2153",
+        "entityLabel": "Subhas Chandra Bose"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2161",
+        "entityLabel": "Tacitus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2172",
+        "entityLabel": "Lance Armstrong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2185",
+        "entityLabel": "Georges Pompidou"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2190",
+        "entityLabel": "Coluche"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2196",
+        "entityLabel": "Pierre Desproges"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2252",
+        "entityLabel": "Buzz Aldrin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2253",
+        "entityLabel": "Scipio Africanus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2259",
+        "entityLabel": "Julia the Elder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2263",
+        "entityLabel": "Tom Hanks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2274",
+        "entityLabel": "Chet Baker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2291",
+        "entityLabel": "Totò"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2307",
+        "entityLabel": "Scipio Aemilianus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2327",
+        "entityLabel": "Emil Sayfutdinov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2330",
+        "entityLabel": "Nicki Pedersen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2339",
+        "entityLabel": "Robin van Persie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2492",
+        "entityLabel": "Konrad Adenauer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2494",
+        "entityLabel": "Benedict XVI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2496",
+        "entityLabel": "Ludwig Erhard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2512",
+        "entityLabel": "Kurt Georg Kiesinger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2514",
+        "entityLabel": "Willy Brandt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2516",
+        "entityLabel": "Helmut Schmidt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2518",
+        "entityLabel": "Helmut Kohl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2530",
+        "entityLabel": "Gerhard Schröder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2538",
+        "entityLabel": "Joachim Gauck"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2540",
+        "entityLabel": "Christian Wulff"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2542",
+        "entityLabel": "Horst Köhler"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2543",
+        "entityLabel": "Mark Millar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2551",
+        "entityLabel": "Johannes Rau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2563",
+        "entityLabel": "Roman Herzog"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2566",
+        "entityLabel": "Isaac Brock"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2567",
+        "entityLabel": "Richard von Weizsäcker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2569",
+        "entityLabel": "Karl Carstens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2570",
+        "entityLabel": "John Romita Jr."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2571",
+        "entityLabel": "Walter Scheel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2573",
+        "entityLabel": "Gustav Heinemann"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2582",
+        "entityLabel": "Heinrich Lübke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2593",
+        "entityLabel": "Matthew Vaughn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2594",
+        "entityLabel": "Theodor Heuss"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2597",
+        "entityLabel": "Johanna Braddy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2599",
+        "entityLabel": "Paul McCartney"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2601",
+        "entityLabel": "Manfred Gerlach"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2602",
+        "entityLabel": "Egon Krenz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2604",
+        "entityLabel": "Pius XII"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2607",
+        "entityLabel": "Erich Honecker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2610",
+        "entityLabel": "Willi Stoph"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2628",
+        "entityLabel": "Walter Ulbricht"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2632",
+        "entityLabel": "Ringo Starr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2643",
+        "entityLabel": "George Harrison"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2646",
+        "entityLabel": "Friedrich Ebert"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2655",
+        "entityLabel": "John Franklin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2667",
+        "entityLabel": "Paul von Hindenburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2673",
+        "entityLabel": "Chuck Norris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2677",
+        "entityLabel": "Wilhelm II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2680",
+        "entityLabel": "Bruce Willis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2685",
+        "entityLabel": "Arnold Schwarzenegger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2709",
+        "entityLabel": "Sasha Grey"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2732",
+        "entityLabel": "Norma Stitz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2737",
+        "entityLabel": "Louis de Funès"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2750",
+        "entityLabel": "Bourvil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2754",
+        "entityLabel": "Jaroslav Hašek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2757",
+        "entityLabel": "Lech Kaczyński"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2767",
+        "entityLabel": "Daniel Morgan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2791",
+        "entityLabel": "Geronimo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2808",
+        "entityLabel": "Elton John"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2831",
+        "entityLabel": "Michael Jackson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2866",
+        "entityLabel": "Alexander Lukashenko"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2908",
+        "entityLabel": "Antoine de Saint-Exupéry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2972",
+        "entityLabel": "Sir John Barrow, 1st Baronet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2998",
+        "entityLabel": "Amy Johnson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3008",
+        "entityLabel": "Mike Oldfield"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3034",
+        "entityLabel": "Willoughby Newton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3036",
+        "entityLabel": "Mack Wilberg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3044",
+        "entityLabel": "Charlemagne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3048",
+        "entityLabel": "Charles Maurras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3090",
+        "entityLabel": "Guy Teissier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3095",
+        "entityLabel": "Livia Ana Tătaru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3098",
+        "entityLabel": "Georg Henrik Lybecker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3099",
+        "entityLabel": "Francis van Bossuit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3101",
+        "entityLabel": "Patrick Ricard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3102",
+        "entityLabel": "Francis Coventry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3112",
+        "entityLabel": "Phil Hill"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3121",
+        "entityLabel": "Geoffrey Dear"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3128",
+        "entityLabel": "Graham Hill"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3137",
+        "entityLabel": "Jim Clark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3153",
+        "entityLabel": "John Surtees"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3165",
+        "entityLabel": "Conrad Wahn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3166",
+        "entityLabel": "Denny Hulme"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3188",
+        "entityLabel": "Jackie Stewart"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3195",
+        "entityLabel": "Geoffrey Arend"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3197",
+        "entityLabel": "Friedrich Wilhelm Grund"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3205",
+        "entityLabel": "William Terry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3234",
+        "entityLabel": "Jochen Rindt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3239",
+        "entityLabel": "James K. Gibson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3247",
+        "entityLabel": "Allen Sheppard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3250",
+        "entityLabel": "Tom Biss"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3251",
+        "entityLabel": "Elisha E. Meredith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3253",
+        "entityLabel": "Henry P. Alexander"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3260",
+        "entityLabel": "Hubert Clifford"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3271",
+        "entityLabel": "Todd Russell Platts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3275",
+        "entityLabel": "David Cairns"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3281",
+        "entityLabel": "Marit Paulsen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3285",
+        "entityLabel": "Michael Shaw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3288",
+        "entityLabel": "John Gregg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3291",
+        "entityLabel": "Leonid Razvozzhayev"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3295",
+        "entityLabel": "Gilles-Éric Séralini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3300",
+        "entityLabel": "Ernst Tiburzy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3301",
+        "entityLabel": "Charles Martel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3319",
+        "entityLabel": "Yukiko Kobayashi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3321",
+        "entityLabel": "Simon Lohet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3324",
+        "entityLabel": "Rufus R. Jones"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3335",
+        "entityLabel": "George Orwell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3340",
+        "entityLabel": "Ptolemy IX Lathyros"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3345",
+        "entityLabel": "Ptolemy X Alexander I"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3350",
+        "entityLabel": "Ptolemy VIII Physcon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3355",
+        "entityLabel": "Amelia Earhart"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3356",
+        "entityLabel": "Antiochus IV Epiphanes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3362",
+        "entityLabel": "Seleucus IV Philopator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3365",
+        "entityLabel": "Antiochus III the Great"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3371",
+        "entityLabel": "Seleucus III Ceraunus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3373",
+        "entityLabel": "Seleucus II Callinicus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3374",
+        "entityLabel": "Anne-Sophie Mutter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3378",
+        "entityLabel": "Steffen Wöller"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3547",
+        "entityLabel": "Franciszek Karpiński"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3603",
+        "entityLabel": "Jack Angel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3606",
+        "entityLabel": "Emil Rilke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3610",
+        "entityLabel": "Pierre Aïm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3611",
+        "entityLabel": "Ashton Rome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3622",
+        "entityLabel": "Benoît Potier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3647",
+        "entityLabel": "Mohamed Sheikh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3648",
+        "entityLabel": "Aleksandr Kanaki"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3671",
+        "entityLabel": "Justin Chadwick"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3677",
+        "entityLabel": "Dennis Lawrence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3722",
+        "entityLabel": "C.K. Vineeth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3745",
+        "entityLabel": "Ahmad Heryawan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3773",
+        "entityLabel": "Galina Zybina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3794",
+        "entityLabel": "Laurent Dauthuille"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3816",
+        "entityLabel": "George Sand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3824",
+        "entityLabel": "Etienne-Barthélémy Garnier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3835",
+        "entityLabel": "Ton Sijbrands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3867",
+        "entityLabel": "Piet Roozenburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3910",
+        "entityLabel": "Albert II, Prince of Monaco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3911",
+        "entityLabel": "Albert II of Belgium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3924",
+        "entityLabel": "Kevin Rudolf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3925",
+        "entityLabel": "Grace Kelly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3990",
+        "entityLabel": "Jeffrey Garcia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3993",
+        "entityLabel": "Jacqueline Cochran"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3996",
+        "entityLabel": "V. P. Kalairajan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4009",
+        "entityLabel": "Ramesses IX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4012",
+        "entityLabel": "Paul von Rennenkampf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4014",
+        "entityLabel": "George Zorab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4025",
+        "entityLabel": "Rosearik Rikki Simons"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4026",
+        "entityLabel": "Ramesses X"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4028",
+        "entityLabel": "Paul Simon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4029",
+        "entityLabel": "Tara Strong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4030",
+        "entityLabel": "Duke Ellington"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4036",
+        "entityLabel": "Richard Steven Horvitz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4038",
+        "entityLabel": "Tony Barbieri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4039",
+        "entityLabel": "Art Garfunkel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4042",
+        "entityLabel": "CeeLo Green"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4058",
+        "entityLabel": "Kayla Ewell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4061",
+        "entityLabel": "Woody Guthrie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4064",
+        "entityLabel": "Ramesses V"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4070",
+        "entityLabel": "Kim Carnes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4109",
+        "entityLabel": "Chris Rock"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4119",
+        "entityLabel": "Adam Carolla"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4124",
+        "entityLabel": "Franciszek Smuda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4128",
+        "entityLabel": "Louis Aragon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4137",
+        "entityLabel": "Elsa Triolet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4142",
+        "entityLabel": "T-killah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4145",
+        "entityLabel": "Patrice O'Neal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4153",
+        "entityLabel": "George Bournoutian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4189",
+        "entityLabel": "Claire Holt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4199",
+        "entityLabel": "Jérôme Neuville"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4203",
+        "entityLabel": "Felix Baumgartner"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4212",
+        "entityLabel": "Ned Beatty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4214",
+        "entityLabel": "Adam de la Halle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4223",
+        "entityLabel": "Julian McMahon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4227",
+        "entityLabel": "James Coburn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4232",
+        "entityLabel": "Bernard Lacombe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4235",
+        "entityLabel": "Miley Cyrus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4237",
+        "entityLabel": "Fleury Di Nallo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4240",
+        "entityLabel": "Serge Chiesa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4245",
+        "entityLabel": "Jean-Michel Aulas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4247",
+        "entityLabel": "Rodolphe Töpffer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4261",
+        "entityLabel": "Michel Platini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4267",
+        "entityLabel": "Adémar de Chabannes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4270",
+        "entityLabel": "Tom DeLonge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4271",
+        "entityLabel": "Mark Hoppus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4273",
+        "entityLabel": "Raymond of Aguilers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4276",
+        "entityLabel": "Dudo of Saint-Quentin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4279",
+        "entityLabel": "Richard Barbieri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4281",
+        "entityLabel": "Anne Moreau-Vagnon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4285",
+        "entityLabel": "Theophanes of Byzantium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4288",
+        "entityLabel": "Cvijetin Todić"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4289",
+        "entityLabel": "Guibert of Nogent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4291",
+        "entityLabel": "Ante Bilobrk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4293",
+        "entityLabel": "Jon Abrahams"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4295",
+        "entityLabel": "Peter Abelard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4298",
+        "entityLabel": "Vegetius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4302",
+        "entityLabel": "Chrétien de Troyes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4313",
+        "entityLabel": "Alain de Lille"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4318",
+        "entityLabel": "Theopompus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4323",
+        "entityLabel": "Albert of Aix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4328",
+        "entityLabel": "Alberich of Reims"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4330",
+        "entityLabel": "Marina Fernandez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4332",
+        "entityLabel": "Đorđe Gagić"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4337",
+        "entityLabel": "Rodger Bumpass"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4340",
+        "entityLabel": "Andreas Capellanus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4344",
+        "entityLabel": "Arnaut Daniel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4349",
+        "entityLabel": "Jimmy Bennett"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4350",
+        "entityLabel": "Melissa Fahn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4381",
+        "entityLabel": "Carlos Pellicer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4395",
+        "entityLabel": "Florencia de Saracho"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4408",
+        "entityLabel": "Mr. Lawrence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4413",
+        "entityLabel": "Alpha Condé"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4414",
+        "entityLabel": "Faure Essozimna Gnassingbé"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4440",
+        "entityLabel": "Eric Bana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4441",
+        "entityLabel": "Emily Dickinson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4443",
+        "entityLabel": "Pius VIII"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4448",
+        "entityLabel": "Benedict XV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4452",
+        "entityLabel": "Thomas of Metsoph"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4457",
+        "entityLabel": "Franz Beckenbauer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4461",
+        "entityLabel": "Troian Bellisario"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4462",
+        "entityLabel": "Joachim Löw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4465",
+        "entityLabel": "Peter Jackson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4473",
+        "entityLabel": "Jennette McCurdy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4487",
+        "entityLabel": "Federico Gamboa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4488",
+        "entityLabel": "Clancy Brown"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4489",
+        "entityLabel": "Stefanie Heinzmann"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4490",
+        "entityLabel": "Zach Gilford"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4491",
+        "entityLabel": "Anna Faris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4496",
+        "entityLabel": "Mitt Romney"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4498",
+        "entityLabel": "Comtesse de Die"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4500",
+        "entityLabel": "Vince Gilligan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4501",
+        "entityLabel": "Bernard de Ventadour"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4505",
+        "entityLabel": "Bram Moszkowicz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4506",
+        "entityLabel": "Béroul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4509",
+        "entityLabel": "Chloë Grace Moretz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4510",
+        "entityLabel": "Bertran de Born"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4517",
+        "entityLabel": "Bernard Katz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4518",
+        "entityLabel": "Alison Lohman"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4538",
+        "entityLabel": "Jonathan Winters"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4547",
+        "entityLabel": "Daniel Craig"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4573",
+        "entityLabel": "Sean Connery"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4578",
+        "entityLabel": "Laura Ludwig"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4581",
+        "entityLabel": "Sara Goller"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4583",
+        "entityLabel": "Anne Frank"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4586",
+        "entityLabel": "Jonas Reckermann"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4590",
+        "entityLabel": "Julius Brink"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4593",
+        "entityLabel": "Rajiv Gandhi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4599",
+        "entityLabel": "Raúl Albiol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4604",
+        "entityLabel": "Confucius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4605",
+        "entityLabel": "Sarah Bernhardt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4612",
+        "entityLabel": "Marlene Dietrich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4616",
+        "entityLabel": "Marilyn Monroe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4617",
+        "entityLabel": "Corbin Bleu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4622",
+        "entityLabel": "Francesco Filelfo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4631",
+        "entityLabel": "Mohamed Morsi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4636",
+        "entityLabel": "Barbra Streisand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4652",
+        "entityLabel": "Mary Stewart"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4671",
+        "entityLabel": "Matthew Kneale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4673",
+        "entityLabel": "Paul Otto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4689",
+        "entityLabel": "Joan Lorring"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4690",
+        "entityLabel": "Margaret Wycherly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4691",
+        "entityLabel": "Andre de Kruijff"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4695",
+        "entityLabel": "Jean-Jacques Kieffer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4700",
+        "entityLabel": "Claude Debussy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4701",
+        "entityLabel": "Manfred von Richthofen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4715",
+        "entityLabel": "Moncef Marzouki"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4723",
+        "entityLabel": "Charles II de Croÿ"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4724",
+        "entityLabel": "Le Corbusier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4725",
+        "entityLabel": "Elizabeth Smith-Stanley, Countess of Derby"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4731",
+        "entityLabel": "M. J. Hyland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4732",
+        "entityLabel": "Yassine Benzia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4735",
+        "entityLabel": "John Hamilton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4737",
+        "entityLabel": "Porfirio Lobo Sosa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4738",
+        "entityLabel": "Corey Dillon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4740",
+        "entityLabel": "Júnior César Moreira da Cunha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4742",
+        "entityLabel": "Pedro Caetano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4749",
+        "entityLabel": "Antal Ádám"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4752",
+        "entityLabel": "Jenő Ábel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4757",
+        "entityLabel": "Yves Mariot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4761",
+        "entityLabel": "Ernst Mielck"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4762",
+        "entityLabel": "Roy Budd"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4768",
+        "entityLabel": "Karl Bryullov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4769",
+        "entityLabel": "Anthony Sweijs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4770",
+        "entityLabel": "Solko van den Bergh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4774",
+        "entityLabel": "András Fáy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4783",
+        "entityLabel": "Ella Gjømle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4786",
+        "entityLabel": "Marie-Jean-Léon d'Hervey de Saint Denys"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4790",
+        "entityLabel": "Michele Pellizzer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4805",
+        "entityLabel": "Nicholas Prokopievich Miholaps"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4806",
+        "entityLabel": "Greg Merson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4807",
+        "entityLabel": "Roman Matveevich Semashkevich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4813",
+        "entityLabel": "Lady Ann Cunningham"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4826",
+        "entityLabel": "Rosa Valetti"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4832",
+        "entityLabel": "Jana Šenková"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4833",
+        "entityLabel": "Marcel Doret"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4835",
+        "entityLabel": "Rafał Bigus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4836",
+        "entityLabel": "Tomasz Jankowski"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4837",
+        "entityLabel": "Maciej Zieliński"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4864",
+        "entityLabel": "Eugene Kaspersky"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4866",
+        "entityLabel": "Chris Hooijkaas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4876",
+        "entityLabel": "Jan de Kreek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4881",
+        "entityLabel": "Anne Hamilton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4883",
+        "entityLabel": "Ron Howard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4889",
+        "entityLabel": "Marcus Ravenswaaij"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4891",
+        "entityLabel": "Uilke Vuurman"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4896",
+        "entityLabel": "William Hamilton, 3rd Duke of Hamilton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4899",
+        "entityLabel": "Francis Marrash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4914",
+        "entityLabel": "Jimmy Kimmel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4922",
+        "entityLabel": "Eugenio Calabi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4924",
+        "entityLabel": "Isabella I, Queen of Armenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4926",
+        "entityLabel": "Birger Kildal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4931",
+        "entityLabel": "Wang Tao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4933",
+        "entityLabel": "Otto Richard Kierulf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4934",
+        "entityLabel": "Larry Page"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4960",
+        "entityLabel": "Jason Lee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4985",
+        "entityLabel": "Herman Melville"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4989",
+        "entityLabel": "Emperor Taizu of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4991",
+        "entityLabel": "Emperor Taizong of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4992",
+        "entityLabel": "Emperor Shizong of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4993",
+        "entityLabel": "Emperor Muzong of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4997",
+        "entityLabel": "Emperor Jingzong of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5000",
+        "entityLabel": "Emperor Shengzong of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5005",
+        "entityLabel": "Emperor Xingzong of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5007",
+        "entityLabel": "Emperor Daozong of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5009",
+        "entityLabel": "Emperor Tianzuo of Liao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5015",
+        "entityLabel": "Mette Frederiksen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5024",
+        "entityLabel": "Abel Xavier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5028",
+        "entityLabel": "Britta Thomsen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5031",
+        "entityLabel": "Elder Paisios of Mount Athos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5040",
+        "entityLabel": "James Meredith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5060",
+        "entityLabel": "Emperor Taizu of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5069",
+        "entityLabel": "Emperor Modi of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5070",
+        "entityLabel": "Emperor Taizong of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5071",
+        "entityLabel": "Emperor Xizong of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5072",
+        "entityLabel": "Emperor Hailingwang of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5073",
+        "entityLabel": "Emperor Shizong of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5074",
+        "entityLabel": "Emperor Zhangzong of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5076",
+        "entityLabel": "Wanyan Yongji"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5080",
+        "entityLabel": "Emperor Xuanzong of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5081",
+        "entityLabel": "Emperor Aizong of Jin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5104",
+        "entityLabel": "Miranda Cosgrove"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5105",
+        "entityLabel": "Céline Dion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5117",
+        "entityLabel": "Eugen Polanski"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5152",
+        "entityLabel": "Mustafa Kemal Atatürk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5167",
+        "entityLabel": "Ramesses VI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5169",
+        "entityLabel": "Bertrand de Bar-sur-Aube"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5170",
+        "entityLabel": "Blondel de Nesle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5172",
+        "entityLabel": "Jean Bodel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5197",
+        "entityLabel": "Gace Brulé"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5198",
+        "entityLabel": "Walter of Châtillon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5199",
+        "entityLabel": "Le Chastelain de Couci"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5201",
+        "entityLabel": "Raimbaut d'Aurenga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5208",
+        "entityLabel": "Huang Xianfan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5220",
+        "entityLabel": "Tibors de Sarenom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5233",
+        "entityLabel": "François-Édouard Picot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5236",
+        "entityLabel": "Edward II of England"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5252",
+        "entityLabel": "Salh d'Escola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5254",
+        "entityLabel": "Folquet de Marseille"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5258",
+        "entityLabel": "Graindor de Douai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5260",
+        "entityLabel": "Jaufré Rudel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5264",
+        "entityLabel": "Hippocrates"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5269",
+        "entityLabel": "Peire Vidal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5271",
+        "entityLabel": "Hugh Primas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5280",
+        "entityLabel": "Laurent Mourguet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5284",
+        "entityLabel": "Bill Gates"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5327",
+        "entityLabel": "Adolf Butenandt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5331",
+        "entityLabel": "Vinko Kambič"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5333",
+        "entityLabel": "Charles Lyell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5335",
+        "entityLabel": "Harm Wiersma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5336",
+        "entityLabel": "Guntis Valneris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5344",
+        "entityLabel": "Roman Jerala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5345",
+        "entityLabel": "Boris Sket"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5346",
+        "entityLabel": "Matija Gogala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5347",
+        "entityLabel": "Franc Gubenšek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5348",
+        "entityLabel": "Jovan Hadži"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5349",
+        "entityLabel": "Fran Jesenko"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5350",
+        "entityLabel": "Boris Kryštufek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5351",
+        "entityLabel": "Guillaume IX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5352",
+        "entityLabel": "Ernest Mayer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5353",
+        "entityLabel": "Gilles de Corbeil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5354",
+        "entityLabel": "Ernst Mayr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5355",
+        "entityLabel": "Gilles de Paris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5356",
+        "entityLabel": "Gautier de Coincy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5359",
+        "entityLabel": "Vital de Blois"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5360",
+        "entityLabel": "Štefan Michieli"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5361",
+        "entityLabel": "Geoffrey of Villehardouin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5362",
+        "entityLabel": "Narcis Mršić"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5363",
+        "entityLabel": "Maria de Ventadorn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5364",
+        "entityLabel": "Anton Polenec"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5365",
+        "entityLabel": "Kazimir Tarman"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5368",
+        "entityLabel": "Maks Wraber"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5370",
+        "entityLabel": "Tone Wraber"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5371",
+        "entityLabel": "Theobald of Étampes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5376",
+        "entityLabel": "Robert the Monk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5380",
+        "entityLabel": "Robert de Boron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5382",
+        "entityLabel": "Wace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5383",
+        "entityLabel": "David Bowie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5391",
+        "entityLabel": "Rigord"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5396",
+        "entityLabel": "Louis Blériot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5404",
+        "entityLabel": "Albéric de Pisançon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5409",
+        "entityLabel": "Peire Rogier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5432",
+        "entityLabel": "Francisco Goya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5442",
+        "entityLabel": "Sara Simeoni"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5443",
+        "entityLabel": "Greta Garbo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5444",
+        "entityLabel": "Pietro Mennea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5447",
+        "entityLabel": "Eddy Ottoz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5450",
+        "entityLabel": "Antonietta Di Martino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5454",
+        "entityLabel": "Isabella Teotochi Albrizzi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5458",
+        "entityLabel": "Rudolf Feustel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5479",
+        "entityLabel": "Daniele Greco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5547",
+        "entityLabel": "Antonio Canova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5553",
+        "entityLabel": "Luigi Bailo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5558",
+        "entityLabel": "Bartolomeo Coghetto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5571",
+        "entityLabel": "Andrea del Sarto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5577",
+        "entityLabel": "Salvador Dalí"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5580",
+        "entityLabel": "Albrecht Dürer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5581",
+        "entityLabel": "Vittore Carpaccio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5582",
+        "entityLabel": "Vincent van Gogh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5585",
+        "entityLabel": "Giovanni Giocondo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5586",
+        "entityLabel": "Katsushika Hokusai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5587",
+        "entityLabel": "Marloes Horst"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5588",
+        "entityLabel": "Frida Kahlo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5589",
+        "entityLabel": "Henri Matisse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5591",
+        "entityLabel": "Pinturicchio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5592",
+        "entityLabel": "Michelangelo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5593",
+        "entityLabel": "Pablo Picasso"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5594",
+        "entityLabel": "Antonello da Messina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5597",
+        "entityLabel": "Raphael"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5598",
+        "entityLabel": "Rembrandt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5599",
+        "entityLabel": "Peter Paul Rubens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5600",
+        "entityLabel": "Mimar Sinan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5603",
+        "entityLabel": "Andy Warhol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5604",
+        "entityLabel": "Frank Lloyd Wright"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5608",
+        "entityLabel": "Eminem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5617",
+        "entityLabel": "Marie de France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5618",
+        "entityLabel": "Mahieu de Gant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5621",
+        "entityLabel": "Mahieu le Juif"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5623",
+        "entityLabel": "Aimeric de Peguilhan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5626",
+        "entityLabel": "Odo of Deuil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5630",
+        "entityLabel": "Fulcher of Chartres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5631",
+        "entityLabel": "Hugh of Fouilloy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5648",
+        "entityLabel": "Gautier d'Arras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5649",
+        "entityLabel": "Gui de Cambrai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5650",
+        "entityLabel": "Guiot de Provins"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5651",
+        "entityLabel": "John of Hauville"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5652",
+        "entityLabel": "Hélinand of Froidmont"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5656",
+        "entityLabel": "Héloïse d’Argenteuil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5658",
+        "entityLabel": "Hugues III d'Oisy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5659",
+        "entityLabel": "Conon de Béthune"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5661",
+        "entityLabel": "Lambert of Ardres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5664",
+        "entityLabel": "Fra Angelico"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5669",
+        "entityLabel": "Sandro Botticelli"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5670",
+        "entityLabel": "Abu Nuwas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5673",
+        "entityLabel": "Hans Christian Andersen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5676",
+        "entityLabel": "Matsuo Bashō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5679",
+        "entityLabel": "Lord Byron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5681",
+        "entityLabel": "Andrea Mantegna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5682",
+        "entityLabel": "Miguel de Cervantes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5683",
+        "entityLabel": "Geoffrey Chaucer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5685",
+        "entityLabel": "Anton Chekhov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5686",
+        "entityLabel": "Charles Dickens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5721",
+        "entityLabel": "Philippe Pétain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5738",
+        "entityLabel": "Adolphe Thiers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5749",
+        "entityLabel": "Pierre-Joseph Proudhon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5752",
+        "entityLabel": "Peter Kropotkin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5793",
+        "entityLabel": "Shelly-Ann Fraser-Pryce"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5795",
+        "entityLabel": "Carmelita Jeter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5796",
+        "entityLabel": "Veronica Campbell-Brown"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5799",
+        "entityLabel": "Allyson Felix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5803",
+        "entityLabel": "Sanya Richards-Ross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5805",
+        "entityLabel": "Christine Ohuruogu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5807",
+        "entityLabel": "DeeDee Trotter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5809",
+        "entityLabel": "Che Guevara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5811",
+        "entityLabel": "Masaccio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5812",
+        "entityLabel": "Novak Djokovic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5816",
+        "entityLabel": "Mao Zedong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5819",
+        "entityLabel": "José Bové"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5820",
+        "entityLabel": "Mariya Savinova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5821",
+        "entityLabel": "Dan O'Brien"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5822",
+        "entityLabel": "Piero della Francesca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5827",
+        "entityLabel": "Pietro Perugino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5829",
+        "entityLabel": "Jean-Luc Mélenchon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5834",
+        "entityLabel": "Caster Semenya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5844",
+        "entityLabel": "Aslı Çakır Alptekin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5865",
+        "entityLabel": "Maryam Yusuf Jamal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5877",
+        "entityLabel": "Meseret Defar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5878",
+        "entityLabel": "Gabriel García Márquez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5879",
+        "entityLabel": "Johann Wolfgang von Goethe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5912",
+        "entityLabel": "Marcel Duchamp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5921",
+        "entityLabel": "Chuck Berry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5928",
+        "entityLabel": "Jimi Hendrix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5950",
+        "entityLabel": "James Brown"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5969",
+        "entityLabel": "Eddie Cochran"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5977",
+        "entityLabel": "Buddy Holly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5998",
+        "entityLabel": "Vivian Cheruiyot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6003",
+        "entityLabel": "Tirunesh Dibaba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6008",
+        "entityLabel": "Sally Kipyego"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6013",
+        "entityLabel": "James Heneghan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6017",
+        "entityLabel": "Yuliya Zaripova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6021",
+        "entityLabel": "Sofia Assefa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6026",
+        "entityLabel": "Sally Pearson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6030",
+        "entityLabel": "Dawn Harper-Nelson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6033",
+        "entityLabel": "Kellie Wells"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6050",
+        "entityLabel": "Anna de Noailles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6060",
+        "entityLabel": "50 Cent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6078",
+        "entityLabel": "Dr. Dre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6079",
+        "entityLabel": "Natalya Antyukh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6086",
+        "entityLabel": "Lashinda Demus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6091",
+        "entityLabel": "Jessica Ennis-Hill"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6096",
+        "entityLabel": "Snoop Dogg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6100",
+        "entityLabel": "Tatyana Chernova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6101",
+        "entityLabel": "Marco Polo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6105",
+        "entityLabel": "Hebe Camargo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6107",
+        "entityLabel": "Tupac Shakur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6184",
+        "entityLabel": "Plotius Tucca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6195",
+        "entityLabel": "Juan Antonio Flecha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6197",
+        "entityLabel": "Horace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6198",
+        "entityLabel": "Pepi II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6215",
+        "entityLabel": "Ramesses VII"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6240",
+        "entityLabel": "Hafez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6242",
+        "entityLabel": "Marianne Vos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6260",
+        "entityLabel": "Tiki Gelana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6270",
+        "entityLabel": "Priscah Jeptoo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6279",
+        "entityLabel": "Joe Biden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6281",
+        "entityLabel": "Elena Lashmanova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6294",
+        "entityLabel": "Hillary Clinton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6297",
+        "entityLabel": "Olga Kaniskina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6300",
+        "entityLabel": "Anna Chicherova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6304",
+        "entityLabel": "Brigetta Barrett"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6310",
+        "entityLabel": "Jennifer Suhr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6312",
+        "entityLabel": "Yarisley Silva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6319",
+        "entityLabel": "Yelena Isinbayeva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6324",
+        "entityLabel": "Brittney Reese"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6332",
+        "entityLabel": "Janay DeLoach"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6338",
+        "entityLabel": "Olga Rypakova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6348",
+        "entityLabel": "Caterine Ibargüen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6351",
+        "entityLabel": "Olha Saladukha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6353",
+        "entityLabel": "Gerardus Mercator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6357",
+        "entityLabel": "Valerie Adams"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6363",
+        "entityLabel": "Yevgeniya Kolodko"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6367",
+        "entityLabel": "Ana Free"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6370",
+        "entityLabel": "Gong Lijiao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6379",
+        "entityLabel": "Sandra Perković"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6386",
+        "entityLabel": "Darya Pishchalnikova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6391",
+        "entityLabel": "Li Yanfeng"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6395",
+        "entityLabel": "Tatyana Lysenko"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6399",
+        "entityLabel": "Anita Włodarczyk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6404",
+        "entityLabel": "Betty Heidler"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6419",
+        "entityLabel": "Barbora Špotáková"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6427",
+        "entityLabel": "Christina Obergföll"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6432",
+        "entityLabel": "Linda Stahl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6473",
+        "entityLabel": "Klaus Störtebeker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6512",
+        "entityLabel": "Søren Kierkegaard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6515",
+        "entityLabel": "Mervyn Peake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6519",
+        "entityLabel": "Wolf Haas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6527",
+        "entityLabel": "Jean-Jacques Rousseau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6530",
+        "entityLabel": "Stanisław Lem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6538",
+        "entityLabel": "Günter Grass"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6541",
+        "entityLabel": "Heino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6682",
+        "entityLabel": "Gustave Doré"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6694",
+        "entityLabel": "Alexander von Humboldt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6701",
+        "entityLabel": "Jacob Grimm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6711",
+        "entityLabel": "Allen Ginsberg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6714",
+        "entityLabel": "Wilhelm Grimm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6722",
+        "entityLabel": "Carl Friedrich Gauss"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6733",
+        "entityLabel": "Edward Teller"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6817",
+        "entityLabel": "Daniel Rosin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6882",
+        "entityLabel": "James Joyce"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6950",
+        "entityLabel": "Tess Gerritsen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6969",
+        "entityLabel": "Stefan Raab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7011",
+        "entityLabel": "Kalidasa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7013",
+        "entityLabel": "Lena Meyer-Landrut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7031",
+        "entityLabel": "Luca Signorelli"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7060",
+        "entityLabel": "Michel Onfray"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7068",
+        "entityLabel": "Julien Offray de La Mettrie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7071",
+        "entityLabel": "Li Bai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7085",
+        "entityLabel": "Niels Bohr"
+    }
+]

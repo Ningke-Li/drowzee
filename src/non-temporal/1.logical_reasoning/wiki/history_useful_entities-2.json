@@ -1,0 +1,2394 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q362",
+        "entityLabel": "World War II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q361",
+        "entityLabel": "World War I"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2277",
+        "entityLabel": "Roman Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8683",
+        "entityLabel": "Cold War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12554",
+        "entityLabel": "Middle Ages"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12544",
+        "entityLabel": "Byzantine Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11756",
+        "entityLabel": "prehistory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11772",
+        "entityLabel": "Ancient Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12567",
+        "entityLabel": "Vikings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11764",
+        "entityLabel": "Iron Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2269",
+        "entityLabel": "Industrial Revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41493",
+        "entityLabel": "ancient history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9903",
+        "entityLabel": "Ming dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7209",
+        "entityLabel": "Han dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q37853",
+        "entityLabel": "Baroque"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8698",
+        "entityLabel": "Great Depression"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17167",
+        "entityLabel": "Roman Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9683",
+        "entityLabel": "Tang dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q713750",
+        "entityLabel": "West Germany"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40203",
+        "entityLabel": "Paleolithic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q389688",
+        "entityLabel": "Achaemenid Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7313",
+        "entityLabel": "Yuan dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35216",
+        "entityLabel": "Zhou dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q128938",
+        "entityLabel": "Shang dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q428995",
+        "entityLabel": "Hellenistic period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q486761",
+        "entityLabel": "classical antiquity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83311",
+        "entityLabel": "Persian Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q51122",
+        "entityLabel": "Unification of Italy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134178",
+        "entityLabel": "Minoan civilization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131192",
+        "entityLabel": "Migration Period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185043",
+        "entityLabel": "Three Kingdoms"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201705",
+        "entityLabel": "Khmer Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201038",
+        "entityLabel": "Roman Kingdom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182688",
+        "entityLabel": "Victorian era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185063",
+        "entityLabel": "Warring States period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q165292",
+        "entityLabel": "Three Kingdoms of Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q178038",
+        "entityLabel": "Second Spanish Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180568",
+        "entityLabel": "New Kingdom of Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3281534",
+        "entityLabel": "modern period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131808",
+        "entityLabel": "mannerism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185047",
+        "entityLabel": "Spring and Autumn period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13426199",
+        "entityLabel": "Republic of China"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q177819",
+        "entityLabel": "Old Kingdom of Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184716",
+        "entityLabel": "European colonization of the Americas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184963",
+        "entityLabel": "Edo period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193547",
+        "entityLabel": "Reign of Terror"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207272",
+        "entityLabel": "Second Polish Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3125096",
+        "entityLabel": "Meiji period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q69829",
+        "entityLabel": "French Fourth Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q75207",
+        "entityLabel": "Pax Romana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191324",
+        "entityLabel": "Middle Kingdom of Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q242115",
+        "entityLabel": "Five Dynasties and Ten Kingdoms period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154611",
+        "entityLabel": "interwar period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q175447",
+        "entityLabel": "Babylonian captivity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193292",
+        "entityLabel": "Heian period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186513",
+        "entityLabel": "Hispania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q187979",
+        "entityLabel": "Early Dynastic Period of Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189178",
+        "entityLabel": "Nara period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202763",
+        "entityLabel": "Early Middle Ages"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49696",
+        "entityLabel": "Northern and Southern dynasties"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q174450",
+        "entityLabel": "Roman Tetrarchy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190882",
+        "entityLabel": "Phoney War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213649",
+        "entityLabel": "Viking Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10914393",
+        "entityLabel": "Neo-Assyrian Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q51644",
+        "entityLabel": "Early Christianity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215262",
+        "entityLabel": "Vedic period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58202",
+        "entityLabel": "July Monarchy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217050",
+        "entityLabel": "late antiquity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q466887",
+        "entityLabel": "Belle \u00c9poque"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q232211",
+        "entityLabel": "First Intermediate Period of Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q269237",
+        "entityLabel": "Fifth Dynasty of Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204023",
+        "entityLabel": "Sengoku period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q271834",
+        "entityLabel": "Archaic Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16410",
+        "entityLabel": "Hungarian People's Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q479505",
+        "entityLabel": "Upper Paleolithic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q206414",
+        "entityLabel": "Principate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q683551",
+        "entityLabel": "Sixteen Kingdoms"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q843745",
+        "entityLabel": "Classical Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1047607",
+        "entityLabel": "Spanish colonization of the Americas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13474305",
+        "entityLabel": "Francoist Spain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62609017",
+        "entityLabel": "Reiwa era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5743",
+        "entityLabel": "Ebla"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212976",
+        "entityLabel": "Late Middle Ages"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210688",
+        "entityLabel": "Asuka period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q238399",
+        "entityLabel": "Dominate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q329838",
+        "entityLabel": "Crisis of the Third Century"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q459939",
+        "entityLabel": "Kofun period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q695827",
+        "entityLabel": "Protohistory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q956129",
+        "entityLabel": "Information Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q234510",
+        "entityLabel": "Heisei era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217200",
+        "entityLabel": "Second Industrial Revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q853348",
+        "entityLabel": "Czechoslovak Socialist Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q159879",
+        "entityLabel": "Kulturkampf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212685",
+        "entityLabel": "High Middle Ages"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319531",
+        "entityLabel": "Azuchi-Momoyama period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q329174",
+        "entityLabel": "Taish\u014d period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q466803",
+        "entityLabel": "Kurumba Pallava dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q236205",
+        "entityLabel": "Kamakura period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q472670",
+        "entityLabel": "Haskalah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q542291",
+        "entityLabel": "Red Terror"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q661566",
+        "entityLabel": "Dutch Golden Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q927198",
+        "entityLabel": "Roman London"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q334845",
+        "entityLabel": "Muromachi period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1661989",
+        "entityLabel": "Fourth Industrial Revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q498819",
+        "entityLabel": "Medieval Warm Period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q693549",
+        "entityLabel": "Magdalenian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q94080",
+        "entityLabel": "Time of Troubles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q152855",
+        "entityLabel": "Kingdom of Tungning"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q846848",
+        "entityLabel": "Stuart Restoration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1543663",
+        "entityLabel": "Sultanate of Women"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1415585",
+        "entityLabel": "Islamic State of Afghanistan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193748",
+        "entityLabel": "history of ancient Israel and Judah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185852",
+        "entityLabel": "Edwardian era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327567",
+        "entityLabel": "Sh\u014dwa era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q714601",
+        "entityLabel": "Predynastic Period of Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1069609",
+        "entityLabel": "Western Zhou"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1096872",
+        "entityLabel": "Digital Revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q633881",
+        "entityLabel": "Yamato period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826021",
+        "entityLabel": "Kenmu Restoration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q889394",
+        "entityLabel": "Portuguese Mozambique"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1164547",
+        "entityLabel": "Khrushchev Thaw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2010024",
+        "entityLabel": "Second Czechoslovak Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q871792",
+        "entityLabel": "Ottoman Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47855",
+        "entityLabel": "Pre-Islamic Arabia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q304121",
+        "entityLabel": "New Imperialism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q614082",
+        "entityLabel": "Carolingian art"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q840828",
+        "entityLabel": "Variscan orogeny"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2479606",
+        "entityLabel": "Ukrainian War of Independence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2497438",
+        "entityLabel": "Roman Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2748708",
+        "entityLabel": "German military administration in occupied France during World War II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q137816",
+        "entityLabel": "Taiwan under Japanese rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q874209",
+        "entityLabel": "Spanish transition to democracy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2454585",
+        "entityLabel": "Third Czechoslovak Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1200427",
+        "entityLabel": "culture of ancient Rome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1998866",
+        "entityLabel": "Czech and Slovak Federal Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q264012",
+        "entityLabel": "Nanboku-ch\u014d period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1197995",
+        "entityLabel": "Frankokratia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1343901",
+        "entityLabel": "Tulip period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5324",
+        "entityLabel": "Gurjara-Pratihara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q621421",
+        "entityLabel": "biblical judge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q804558",
+        "entityLabel": "Bakumatsu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2909446",
+        "entityLabel": "Century of Humiliation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q938328",
+        "entityLabel": "Space Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q238809",
+        "entityLabel": "Kingdom of Spain (1820-1823)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q307066",
+        "entityLabel": "Eastern Zhou"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q756905",
+        "entityLabel": "Gravettian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1474884",
+        "entityLabel": "High Renaissance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q855736",
+        "entityLabel": "Celtic Tiger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1201263",
+        "entityLabel": "Warlord Era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1473258",
+        "entityLabel": "Pax Mongolica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2635158",
+        "entityLabel": "Progressive Era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1370527",
+        "entityLabel": "Brazilian military government (1964\u20131985)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2416215",
+        "entityLabel": "Era of Stagnation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q610028",
+        "entityLabel": "Estonian national awakening"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q847706",
+        "entityLabel": "cinquecento"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1155700",
+        "entityLabel": "Rattanakosin Kingdom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2187853",
+        "entityLabel": "Russian Armenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129167",
+        "entityLabel": "barracks emperor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q582948",
+        "entityLabel": "Norse colonization of North America"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3076765",
+        "entityLabel": "Ottoman Syria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3108185",
+        "entityLabel": "Ba'athist Iraq"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1990219",
+        "entityLabel": "French colonization of the Americas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q716742",
+        "entityLabel": "Early Dynastic period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q757669",
+        "entityLabel": "Atomic Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2667474",
+        "entityLabel": "Age of Sail"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4850939",
+        "entityLabel": "Years of Lead"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1066218",
+        "entityLabel": "Ottonian art"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1122859",
+        "entityLabel": "Nanban trade period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1611788",
+        "entityLabel": "Vijayanagara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2037294",
+        "entityLabel": "Wu Hu luan hua"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q698268",
+        "entityLabel": "Later Three Kingdoms"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2704093",
+        "entityLabel": "Military dictatorship of Chile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1349904",
+        "entityLabel": "aftermath of World War II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1505242",
+        "entityLabel": "splendid isolation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2316201",
+        "entityLabel": "Tudor period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2328052",
+        "entityLabel": "Russification of Finland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12060881",
+        "entityLabel": "Chinese Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q74740",
+        "entityLabel": "growth of the Ottoman Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186075",
+        "entityLabel": "contemporary history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q342587",
+        "entityLabel": "\u0110\u1ed5i M\u1edbi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q388483",
+        "entityLabel": "Jazz Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q474757",
+        "entityLabel": "Thermidorian Reaction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q491559",
+        "entityLabel": "First Republic of South Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q699446",
+        "entityLabel": "Dutch Formosa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q784877",
+        "entityLabel": "Golden Age of Comic Books"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2000977",
+        "entityLabel": "Fifth-century Athens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2336445",
+        "entityLabel": "rise of the Ottoman Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2414171",
+        "entityLabel": "First Brazilian Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2451496",
+        "entityLabel": "Ottoman Bulgaria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q455151",
+        "entityLabel": "Amarna Period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q776775",
+        "entityLabel": "Kei\u014d"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1147037",
+        "entityLabel": "Eastern Han"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1197281",
+        "entityLabel": "Six Dynasties"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1376093",
+        "entityLabel": "Samhan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1737205",
+        "entityLabel": "Rubber boom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q74049",
+        "entityLabel": "Spanish Formosa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173843",
+        "entityLabel": "regency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q694519",
+        "entityLabel": "Gr\u00fcnderzeit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4532311",
+        "entityLabel": "Vargas Era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q977566",
+        "entityLabel": "sub-Roman Britain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1368990",
+        "entityLabel": "long nineteenth century"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1841483",
+        "entityLabel": "Dutch Ceylon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q667737",
+        "entityLabel": "Josephinism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q702639",
+        "entityLabel": "North South States Period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3545916",
+        "entityLabel": "First Constitutional Era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1056845",
+        "entityLabel": "Iron Age India"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1109279",
+        "entityLabel": "First Mexican Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12642600",
+        "entityLabel": "Middle Assyrian Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15155713",
+        "entityLabel": "Hellenistic Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27837",
+        "entityLabel": "Twenty Years' Anarchy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233263",
+        "entityLabel": "Second Republic of South Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q391189",
+        "entityLabel": "Taiwan under Qing dynasty rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q716528",
+        "entityLabel": "Proto\u2013Three Kingdoms of Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q879466",
+        "entityLabel": "Roman Gaul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3236289",
+        "entityLabel": "Prisoner in the Vatican"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q979160",
+        "entityLabel": "Proto-Renaissance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1196237",
+        "entityLabel": "Proto-Elamite period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1322229",
+        "entityLabel": "Enlightenment in Spain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1853526",
+        "entityLabel": "Normalization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q69461",
+        "entityLabel": "France in the early modern period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233486",
+        "entityLabel": "Second Constitutional Era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q391511",
+        "entityLabel": "Biennio Rosso"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q487687",
+        "entityLabel": "Third Republic of South Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q497163",
+        "entityLabel": "New Order"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2911414",
+        "entityLabel": "Second Temple period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1362712",
+        "entityLabel": "R\u00e9gence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116123",
+        "entityLabel": "end of the Han dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q488521",
+        "entityLabel": "Fourth Republic of South Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q703919",
+        "entityLabel": "Ng\u00f4 dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3053271",
+        "entityLabel": "Byzantine Empire under the Komnenos dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3137989",
+        "entityLabel": "contemporary history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3485791",
+        "entityLabel": "Polish Golden Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3720127",
+        "entityLabel": "Georgia within the Russian Empire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5004698",
+        "entityLabel": "Byzantine Empire under the Justinian dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1204808",
+        "entityLabel": "history of modern Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2174038",
+        "entityLabel": "Interwar Estonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16956210",
+        "entityLabel": "New Normal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210542",
+        "entityLabel": "Fourth Brazilian Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q482705",
+        "entityLabel": "Fifth Republic of South Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2559155",
+        "entityLabel": "Jacobean era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3079213",
+        "entityLabel": "Byzantine Papacy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3120811",
+        "entityLabel": "Red Terror"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3408764",
+        "entityLabel": "Pre-Code Hollywood"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4205363",
+        "entityLabel": "Second Temple Judaism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1064034",
+        "entityLabel": "Gutian dynasty of Sumer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2365500",
+        "entityLabel": "Mongol-Tatar yoke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12057021",
+        "entityLabel": "Medieval India"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122204616",
+        "entityLabel": "Napoleonic era"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8950",
+        "entityLabel": "Second Republic of Venezuela"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2470611",
+        "entityLabel": "The Ruin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2610662",
+        "entityLabel": "Red Terror"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3053276",
+        "entityLabel": "Byzantine Empire under the Palaiologos dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3216325",
+        "entityLabel": "Tibet under Yuan administrative rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q987788",
+        "entityLabel": "Bunp\u014d"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1046461",
+        "entityLabel": "postwar Japan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1192817",
+        "entityLabel": "Burmese Way to Socialism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2299963",
+        "entityLabel": "Woodland period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58178441",
+        "entityLabel": "White Terror"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126416",
+        "entityLabel": "Phagmodrupa Dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q474124",
+        "entityLabel": "Byzantine Empire under the Amorian dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q506023",
+        "entityLabel": "French period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2905322",
+        "entityLabel": "Byzantine Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3073537",
+        "entityLabel": "American Century"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3733063",
+        "entityLabel": "viking expansion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1083391",
+        "entityLabel": "Nanjing Decade"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1145058",
+        "entityLabel": "Tensh\u014d"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1340216",
+        "entityLabel": "chemical revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1421269",
+        "entityLabel": "Golden age of arcade video games"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2378204",
+        "entityLabel": "Ominous Decade"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10380459",
+        "entityLabel": "Third Industrial Revolution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11077566",
+        "entityLabel": "Boluan Fanzheng"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12411956",
+        "entityLabel": "Sexenio Democr\u00e1tico"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13403037",
+        "entityLabel": "Period of appanages"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16501698",
+        "entityLabel": "Byzantine Empire under the Leonid dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26234937",
+        "entityLabel": "First Syrian Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117336820",
+        "entityLabel": "AI boom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319460",
+        "entityLabel": "Northern Song dynasty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q373860",
+        "entityLabel": "Hakuh\u014d period"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q712602",
+        "entityLabel": "Taiwan after World War II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q769366",
+        "entityLabel": "Pax Hispanica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2744988",
+        "entityLabel": "dictatorship of Primo de Rivera"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2995225",
+        "entityLabel": "Prehistoric Europe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4167855",
+        "entityLabel": "Ancient Greek colonization of the Northern Black Sea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4652028",
+        "entityLabel": "AI winter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5291089",
+        "entityLabel": "Dominion of Fiji"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5884356",
+        "entityLabel": "Interregnum of the Holy Roman Empire (1245\u20131273)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6563843",
+        "entityLabel": "Nizari Ismaili state"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1204796",
+        "entityLabel": "Metapolitefsi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2065143",
+        "entityLabel": "Era of Fragmentation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2334663",
+        "entityLabel": "Ancient Estonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2349651",
+        "entityLabel": "Anarchy at Samarra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19359745",
+        "entityLabel": "Tibet under Qing administrative rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q537340",
+        "entityLabel": "Wilhelminism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q784817",
+        "entityLabel": "Golden Age of American animation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q893307",
+        "entityLabel": "Pre-Roman Iron Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2577600",
+        "entityLabel": "Carthaginian Iberia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2617267",
+        "entityLabel": "Ottoman Iraq"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4119200",
+        "entityLabel": "Jet Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42369",
+        "entityLabel": "Cannes Film Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181817",
+        "entityLabel": "Saint Patrick's Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183283",
+        "entityLabel": "Ashura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q216452",
+        "entityLabel": "Laylat al-Qadr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114565318",
+        "entityLabel": "Eurovision Song Contest 2024"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207327",
+        "entityLabel": "Sicilian Vespers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2627975",
+        "entityLabel": "ceremony"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1139536",
+        "entityLabel": "Republic Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q381240",
+        "entityLabel": "Isra and Mi'raj"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22771585",
+        "entityLabel": "interregnum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q635879",
+        "entityLabel": "World Tourism Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1129327",
+        "entityLabel": "Music Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q657069",
+        "entityLabel": "historical reenactment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q581718",
+        "entityLabel": "Programmer's Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160721",
+        "entityLabel": "Nuremberg Medical Trial"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q838794",
+        "entityLabel": "jubilee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q795924",
+        "entityLabel": "Mobile World Congress"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1753636",
+        "entityLabel": "Gilded Age"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2020153",
+        "entityLabel": "academic conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q830166",
+        "entityLabel": "Ohi Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1453608",
+        "entityLabel": "World Philosophy Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q802614",
+        "entityLabel": "Republic Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837379",
+        "entityLabel": "Call for Bids"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q300738",
+        "entityLabel": "Congress of Aix-la-Chapelle (1818)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q389884",
+        "entityLabel": "Congratulations: 50 Years of the Eurovision Song Contest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q748264",
+        "entityLabel": "Free Hugs Campaign"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3048097",
+        "entityLabel": "Jallikattu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q263078",
+        "entityLabel": "Nakba Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1575593",
+        "entityLabel": "European Heritage Days"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4228029",
+        "entityLabel": "colloquium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q850529",
+        "entityLabel": "Betty and Barney Hill incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108801995",
+        "entityLabel": "2021 Facebook outage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19850419",
+        "entityLabel": "Immortal Regiment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113331666",
+        "entityLabel": "2026 International Congress of Mathematicians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q50317608",
+        "entityLabel": "March for Our Lives"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27942570",
+        "entityLabel": "Impeachment of Park Geun-hye"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q100235488",
+        "entityLabel": "Wikipedia 20"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q551416",
+        "entityLabel": "Hambach Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30637034",
+        "entityLabel": "Fyre Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5205752",
+        "entityLabel": "DNA Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3009489",
+        "entityLabel": "Cyrus the Great Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3237008",
+        "entityLabel": "Engineer's Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1961898",
+        "entityLabel": "National Novel Writing Month"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q941096",
+        "entityLabel": "ICIUM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1233960",
+        "entityLabel": "Document Freedom Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2263568",
+        "entityLabel": "International Astronautical Congress"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6972338",
+        "entityLabel": "National Doctors' Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15735802",
+        "entityLabel": "Twitch Plays Pok\u00e9mon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1968047",
+        "entityLabel": "Remembrance of the Dead"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q834354",
+        "entityLabel": "1992 Consensus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q857399",
+        "entityLabel": "Canadian National Exhibition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1036642",
+        "entityLabel": "International Stuttering Awareness Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2273691",
+        "entityLabel": "International Year of the Child"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111255020",
+        "entityLabel": "Melodifestivalen 2023"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2301861",
+        "entityLabel": "Bumba Meu Boi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21684451",
+        "entityLabel": "Wikipedia 15"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106353524",
+        "entityLabel": "The Pharaohs' Golden Parade"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4354243",
+        "entityLabel": "Blasphemy Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q526953",
+        "entityLabel": "March of the Living"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q547818",
+        "entityLabel": "Animation Kobe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66361273",
+        "entityLabel": "2022 World Team Table Tennis Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110101625",
+        "entityLabel": "2023 World Table Tennis Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114352422",
+        "entityLabel": "2024 World Team Table Tennis Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113049102",
+        "entityLabel": "2022 World Athletics Championships \u2013 men's 4 \u00d7 100 metres relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104521666",
+        "entityLabel": "2021 World Short Track Speed Skating Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118412190",
+        "entityLabel": "Muaythai at the 2023 European Games"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2421490",
+        "entityLabel": "March for Jesus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3315914",
+        "entityLabel": "Michael Jackson memorial service"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q262096",
+        "entityLabel": "Sixtus Affair"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q444159",
+        "entityLabel": "Saturday Night Massacre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1497017",
+        "entityLabel": "Heidelberg Disputation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6408072",
+        "entityLabel": "Regaip"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28164099",
+        "entityLabel": "Dahi Handi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65489241",
+        "entityLabel": "2022 Beach Volleyball World Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113640513",
+        "entityLabel": "Campeonato Mundial de V\u00f3ley Playa de 2023"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q101137449",
+        "entityLabel": "Estonia in the Eurovision Song Contest 2021"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115865074",
+        "entityLabel": "2023 World Short Track Speed Skating Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5162784",
+        "entityLabel": "consecration of Russia to the Immaculate Heart of the Blessed Virgin Mary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3315495",
+        "entityLabel": "International Youth Year"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q710520",
+        "entityLabel": "The Vichy 80"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1331140",
+        "entityLabel": "Tabuik"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1482674",
+        "entityLabel": "Mubahala Verse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1759320",
+        "entityLabel": "costume party"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1896735",
+        "entityLabel": "Marian year"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2309559",
+        "entityLabel": "Electronic Entertainment Expo 2010"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2356144",
+        "entityLabel": "Rapa das Bestas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5938281",
+        "entityLabel": "World Religion Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43422869",
+        "entityLabel": "The Congress of World Azerbaijanis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7601119",
+        "entityLabel": "Star Wars Celebration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106880623",
+        "entityLabel": "Babi Yar massacre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4353456",
+        "entityLabel": "No Mercy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2593620",
+        "entityLabel": "World Barista Championship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2913280",
+        "entityLabel": "1958 European Judo Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2947550",
+        "entityLabel": "S\u00e3o Paulo Fashion Week"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3042513",
+        "entityLabel": "Panglong Conference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q187604",
+        "entityLabel": "14th Congress of the League of Communists of Yugoslavia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q574508",
+        "entityLabel": "running at the ring"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944265",
+        "entityLabel": "Go Skateboarding Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1059849",
+        "entityLabel": "Ice 1 Racing"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1068081",
+        "entityLabel": "Hwangab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1134834",
+        "entityLabel": "Hero's"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1495544",
+        "entityLabel": "Nyk\u00f6ping Banquet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1975381",
+        "entityLabel": "GIS Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6367857",
+        "entityLabel": "1959 European Judo Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6974904",
+        "entityLabel": "National Persian Gulf Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7187943",
+        "entityLabel": "photowalking"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28407083",
+        "entityLabel": "European Youth Event"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107587279",
+        "entityLabel": "2022 International Congress of Mathematicians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110933527",
+        "entityLabel": "athletics at the 2022 Commonwealth Games"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12227598",
+        "entityLabel": "Major signs of the Day of Judgment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18350826",
+        "entityLabel": "Death Cafe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112626127",
+        "entityLabel": "Artistic swimming at the 2022 World Aquatics Championships \u2013 Mixed duet technical routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18712130",
+        "entityLabel": "Billboard Women in Music"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114496074",
+        "entityLabel": "Day of Eight Billion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120856026",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 800 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q102119426",
+        "entityLabel": "Brereton Report"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120705881",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 50 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120727896",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 400 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120727908",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 200 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5454099",
+        "entityLabel": "World War I centenary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2895856",
+        "entityLabel": "Arab Congress of 1913"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2902142",
+        "entityLabel": "Big Bang"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q240895",
+        "entityLabel": "Eifelrennen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q687377",
+        "entityLabel": "Knabenschiessen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1667613",
+        "entityLabel": "International Military Tribunal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1770490",
+        "entityLabel": "Remembrance Sunday"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1788641",
+        "entityLabel": "World Beer Cup"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1905186",
+        "entityLabel": "chess on stamps"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56702748",
+        "entityLabel": "Teknofest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113585019",
+        "entityLabel": "2022 European Athletics Championships \u2013 women's high jump"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18170714",
+        "entityLabel": "2018 ISAF Sailing World Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112611297",
+        "entityLabel": "Swimming at the 2022 World Aquatics Championships \u2013 Women's 50 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112611342",
+        "entityLabel": "Swimming at the 2022 World Aquatics Championships \u2013 Women's 100 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112612570",
+        "entityLabel": "Swimming at the 2022 World Aquatics Championships \u2013 Women's 200 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112613377",
+        "entityLabel": "Swimming at the 2022 World Aquatics Championships \u2013 Women's 50 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112626047",
+        "entityLabel": "Artistic swimming at the 2022 World Aquatics Championships \u2013 Free routine combination"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112630835",
+        "entityLabel": "Artistic swimming at the 2022 World Aquatics Championships \u2013 Team technical routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112670330",
+        "entityLabel": "Artistic swimming at the 2022 World Aquatics Championships \u2013 Team free routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19828951",
+        "entityLabel": "Day to Praise"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114711931",
+        "entityLabel": "2022 Women's European Amateur Boxing Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120807137",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 50 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120814172",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 100 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870009",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 200 metre breaststroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870024",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 100 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870032",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 200 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870219",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 200 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28060171",
+        "entityLabel": "Day of Seven Billion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115965415",
+        "entityLabel": "Tata Steel Chess Tournament 2023"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105379081",
+        "entityLabel": "FIS Alpine World Ski Championships 2021 \u2013 Women's alpine combined"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105412001",
+        "entityLabel": "Biathlon World Championships 2021 \u2013 Mixed relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117066154",
+        "entityLabel": "2023 IBA Women's World Boxing Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124249403",
+        "entityLabel": "2024 European Short Track Speed Skating Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120636451",
+        "entityLabel": "Artistic swimming at the 2023 World Aquatics Championships \u2013 Women's solo technical routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120727898",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 1500 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120739918",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 200 metre backstroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120739936",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 50 metre backstroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120739937",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 100 metre backstroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120756700",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 100 metre breaststroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3816837",
+        "entityLabel": "Skeptics in the Pub"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4017511",
+        "entityLabel": "In Your House 1"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4127474",
+        "entityLabel": "1920 USSR Chess Championship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4510842",
+        "entityLabel": "1923 USSR Chess Championship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2909690",
+        "entityLabel": "Tish (Hasidic celebration)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3290442",
+        "entityLabel": "2007\u20132008 Ethiopian crackdown in Ogaden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1012810",
+        "entityLabel": "Steve Bartman incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054354",
+        "entityLabel": "Deng Yujiao incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2111003",
+        "entityLabel": "Salon de la Rose + Croix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2305975",
+        "entityLabel": "Callable bond"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6410977",
+        "entityLabel": "Day of Tarwiyah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108564621",
+        "entityLabel": "2018 International Congress of Mathematicians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108582434",
+        "entityLabel": "1897 International Congress of Mathematicians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108765611",
+        "entityLabel": "2014 International Congress of Mathematicians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48785076",
+        "entityLabel": "Jubilee of 2025"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55037361",
+        "entityLabel": "Laylat al-Jaiza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60967386",
+        "entityLabel": "2021 UCI BMX World Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109312933",
+        "entityLabel": "2024 European Canoe Slalom Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109464118",
+        "entityLabel": "Biathlon Junior World Championships 2022"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113573518",
+        "entityLabel": "2022 European Athletics Championships \u2013 women's 800 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113574106",
+        "entityLabel": "2022 European Athletics Championships \u2013 Women's 1500 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113577648",
+        "entityLabel": "2022 European Athletics Championships \u2013 men's 10,000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113634715",
+        "entityLabel": "2022 European Athletics Championships \u2013 men's discus throw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113644013",
+        "entityLabel": "2022 European Athletics Championships \u2013 women's heptathlon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114132482",
+        "entityLabel": "2022 World Shotgun Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79617835",
+        "entityLabel": "2020 European Short Track Speed Skating Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112678197",
+        "entityLabel": "Artistic swimming at the 2022 World Aquatics Championships \u2013 Highlight routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18654715",
+        "entityLabel": "Wikimedia CEE Meeting 2014"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115415578",
+        "entityLabel": "2024 Rhythmic Gymnastics European Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120806403",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 200 metre individual medley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120806969",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 200 metre individual medley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120812176",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 400 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120818560",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 400 metre individual medley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120819398",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 4 \u00d7 100 metre freestyle relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120819434",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 4 \u00d7 100 metre freestyle relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120837598",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 100 metre backstroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120837725",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 100 metre breaststroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120837730",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 1500 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120851313",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 50 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120861993",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 200 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120869924",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 100 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870107",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 800 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870125",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 50 metre backstroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870142",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 200 metre backstroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870150",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 50 metre breaststroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870169",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 200 metre breaststroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870181",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 50 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870230",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 400 metre individual medley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870269",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 4 \u00d7 200 metre freestyle relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870312",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Men's 4 \u00d7 100 metre medley relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120870391",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Women's 4 \u00d7 100 metre medley relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120913481",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Mixed 4 \u00d7 100 metre medley relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120913487",
+        "entityLabel": "Swimming at the 2023 World Aquatics Championships \u2013 Mixed 4 \u00d7 100 metre freestyle relay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113500837",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 50 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113502620",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 100 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113518633",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 100 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113543468",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 200 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105222404",
+        "entityLabel": "25th Satellite Awards"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120636120",
+        "entityLabel": "Artistic swimming at the 2023 World Aquatics Championships \u2013 Men's solo technical routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120637245",
+        "entityLabel": "Artistic swimming at the 2023 World Aquatics Championships \u2013 Women's duet technical routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5153322",
+        "entityLabel": "Melodifestivalen 2001"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5270978",
+        "entityLabel": "diamond rush"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3797203",
+        "entityLabel": "In Your House 13: Final Four"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3797205",
+        "entityLabel": "In Your House 14: Revenge of the 'Taker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3797206",
+        "entityLabel": "In Your House 16: Canadian Stampede"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3939679",
+        "entityLabel": "Rock Bottom: In Your House"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4017512",
+        "entityLabel": "In Your House 3"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4017518",
+        "entityLabel": "In Your House 9: International Incident"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4281301",
+        "entityLabel": "Marejada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4510845",
+        "entityLabel": "1927 USSR Chess Championship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2425077",
+        "entityLabel": "100 Club Punk Special"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2954623",
+        "entityLabel": "2003 European Karate Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q231678",
+        "entityLabel": "Merger of the KPD and SPD into the Socialist Unity Party of Germany"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q324985",
+        "entityLabel": "Mauthausen-Gusen camp trials"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q828134",
+        "entityLabel": "International Hygiene Exhibition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q865572",
+        "entityLabel": "November to Remember"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1383558",
+        "entityLabel": "soccer at the 1999 Pan American Games"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1443254",
+        "entityLabel": "Josephine colonization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1525649",
+        "entityLabel": "Petersburg Dialogue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1790329",
+        "entityLabel": "Red Bull Paper Wings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7044713",
+        "entityLabel": "Power Big Meet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7233181",
+        "entityLabel": "Positio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107591247",
+        "entityLabel": "2006 International Congress of Mathematicians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8036048",
+        "entityLabel": "World Pizza Championship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8036411",
+        "entityLabel": "World Voice Day"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8355038",
+        "entityLabel": "International Descent of Sella"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109018265",
+        "entityLabel": "2022 European Women's Artistic Gymnastics Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109310820",
+        "entityLabel": "International Mathematical Congress"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113562332",
+        "entityLabel": "2022 European Athletics Championships \u2013 women's hammer throw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113570268",
+        "entityLabel": "2022 European Athletics Championships \u2013 men's 20 kilometres walk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109935321",
+        "entityLabel": "2021 Nagaland killings"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q86416220",
+        "entityLabel": "Namaste Trump"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112797434",
+        "entityLabel": "boules at the 2022 Mediterranean Games"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19801700",
+        "entityLabel": "NASA International Space Apps Challenge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97181497",
+        "entityLabel": "Lichtstadt Feldkirch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115415585",
+        "entityLabel": "2023 European 10 m Events Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23817190",
+        "entityLabel": "Anniversary of the Reformation in 2017"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27768178",
+        "entityLabel": "Kerala Piravi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113496133",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 50 metre butterfly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113500300",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 800 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113500587",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 100 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113500912",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 800 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113505162",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 100 metre breaststroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792376",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 men's 1000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115705695",
+        "entityLabel": "2022 FINA World Swimming Championships (25 m) \u2013 Men's 100 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115755528",
+        "entityLabel": "2004 European Archery Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115755613",
+        "entityLabel": "2002 European Archery Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115755616",
+        "entityLabel": "2000 European Archery Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115779263",
+        "entityLabel": "1996 European Archery Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113506183",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 100 metre breaststroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113512798",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 200 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113516522",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 200 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113518160",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 50 metre backstroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113518855",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 1500 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113519273",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 1500 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113531634",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 50 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113535424",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 50 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113542571",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Men's 400 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113543021",
+        "entityLabel": "Swimming at the 2022 European Aquatics Championships \u2013 Women's 400 metre freestyle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792377",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 men's 1500 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792378",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 men's 5000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792379",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 men's 10,000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792380",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 men's mass start"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792383",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 women's 1000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792384",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 women's 1500 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792385",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 women's 3000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792386",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 women's 5000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104792387",
+        "entityLabel": "2021 World Single Distances Speed Skating Championships \u2013 women's mass start"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124142961",
+        "entityLabel": "2024 IFSC Climbing European Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107185691",
+        "entityLabel": "2021 Asian Amateur Boxing Championships"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120636826",
+        "entityLabel": "Artistic swimming at the 2023 World Aquatics Championships \u2013 Women's solo free routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120637645",
+        "entityLabel": "Artistic swimming at the 2023 World Aquatics Championships \u2013 Team acrobatic routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120657824",
+        "entityLabel": "Artistic swimming at the 2023 World Aquatics Championships \u2013 Mixed duet technical routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120761580",
+        "entityLabel": "Artistic swimming at the 2023 World Aquatics Championships \u2013 Team free routine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126368544",
+        "entityLabel": "2024 European Athletics Championships \u2013 men's 200 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126368547",
+        "entityLabel": "2024 European Athletics Championships \u2013 men's 400 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126368554",
+        "entityLabel": "2024 European Athletics Championships \u2013 men's 1500 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126368556",
+        "entityLabel": "2024 European Athletics Championships \u2013 men's 5000 metres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5021687",
+        "entityLabel": "call to the bar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4017513",
+        "entityLabel": "In Your House 4"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4017514",
+        "entityLabel": "In Your House 5"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4017515",
+        "entityLabel": "In Your House 6"
+    }
+]

@@ -1,0 +1,4246 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q48282",
+        "entityLabel": "student"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41726",
+        "entityLabel": "freemasonry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188711",
+        "entityLabel": "companions of the Prophet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q177826",
+        "entityLabel": "clergy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q259059",
+        "entityLabel": "household"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q273603",
+        "entityLabel": "Dhimmi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2605404",
+        "entityLabel": "tribes of Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q643045",
+        "entityLabel": "Neturei Karta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1158351",
+        "entityLabel": "Ladies in White"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140564",
+        "entityLabel": "Skinheads Against Racial Prejudice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q602860",
+        "entityLabel": "Eupatridae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1695850",
+        "entityLabel": "xueta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3041123",
+        "entityLabel": "Tabi‘ al-Tabi‘in"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3083944",
+        "entityLabel": "hacker culture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5290079",
+        "entityLabel": "electoral body"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2072081",
+        "entityLabel": "person of color"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3595822",
+        "entityLabel": "Mappila"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q641166",
+        "entityLabel": "Trümmerfrau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1618825",
+        "entityLabel": "Hillside Strangler"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4116880",
+        "entityLabel": "Palestinian Jews"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2640974",
+        "entityLabel": "Teptjars"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108576083",
+        "entityLabel": "Most Affected People and Areas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15622260",
+        "entityLabel": "Opryshoks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q575574",
+        "entityLabel": "Pintupi Nine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q864190",
+        "entityLabel": "Ōke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1074106",
+        "entityLabel": "Honker Union"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2008347",
+        "entityLabel": "allochtoon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3595692",
+        "entityLabel": "Labbay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11356994",
+        "entityLabel": "Sanei-Ketsu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1639236",
+        "entityLabel": "Sippe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3827947",
+        "entityLabel": "Marakkar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6429271",
+        "entityLabel": "Kongu Vellalar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7286403",
+        "entityLabel": "Rajput clans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20484510",
+        "entityLabel": "arats"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43666391",
+        "entityLabel": "Cacos (military group)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422623",
+        "entityLabel": "Aktionsjuden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2585138",
+        "entityLabel": "Freemasonry in France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3538281",
+        "entityLabel": "Balija"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18347237",
+        "entityLabel": "Hogesa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1412485",
+        "entityLabel": "Filangieri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1653047",
+        "entityLabel": "Les Reines Prochaines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2310726",
+        "entityLabel": "Kupua"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3208084",
+        "entityLabel": "Dame Blanche"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4875094",
+        "entityLabel": "Bazaari"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4952234",
+        "entityLabel": "Boyar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7397839",
+        "entityLabel": "Sadh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65119123",
+        "entityLabel": "The Four Hundred"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104758896",
+        "entityLabel": "Bhāts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115819418",
+        "entityLabel": "global majority"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11798698",
+        "entityLabel": "opole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17044989",
+        "entityLabel": "Byelorussian Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23888760",
+        "entityLabel": "Masters of the Gold Scrolls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221913",
+        "entityLabel": "29A"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q628710",
+        "entityLabel": "Mangas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1196060",
+        "entityLabel": "sewing circle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2220709",
+        "entityLabel": "state mines in Limburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5216189",
+        "entityLabel": "Dangol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5704188",
+        "entityLabel": "Castilian-Basque aristocracy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6982894",
+        "entityLabel": "Nawayath"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7107420",
+        "entityLabel": "Ossan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7727721",
+        "entityLabel": "The Coterie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7765384",
+        "entityLabel": "The Souls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56681885",
+        "entityLabel": "Gemeinde (theology)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106056551",
+        "entityLabel": "BIPOC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114864716",
+        "entityLabel": "DCU Elite Team"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115922771",
+        "entityLabel": "Oiartzungo Feministen Asanblada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122973128",
+        "entityLabel": "Tōmon Wikipedian-kai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125293757",
+        "entityLabel": "Richters"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17011959",
+        "entityLabel": "Nat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20987617",
+        "entityLabel": "Baradari"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24610570",
+        "entityLabel": "Vannar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49104800",
+        "entityLabel": "Blås & Knåda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q53937347",
+        "entityLabel": "Friendly Fire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q187431",
+        "entityLabel": "Zelkinger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1627228",
+        "entityLabel": "notables"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2626202",
+        "entityLabel": "private mines in Limburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4145341",
+        "entityLabel": "Town cossacks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5320285",
+        "entityLabel": "Dévots"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6343907",
+        "entityLabel": "Kabaria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6967767",
+        "entityLabel": "Nasuhi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7710286",
+        "entityLabel": "Thangal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7972976",
+        "entityLabel": "Watal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60996499",
+        "entityLabel": "China Xinhua Bookstore Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q67405025",
+        "entityLabel": "Bison Specialist Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q67815015",
+        "entityLabel": "European Bison Conservation Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q95743242",
+        "entityLabel": "coronavirus disease COVID-19 in Russia's care homes for the elderly and disabled"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111360687",
+        "entityLabel": "Social Innovation in Health Initiative"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117845071",
+        "entityLabel": "Kunskapsnätverket för samisk hälsa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122973138",
+        "entityLabel": "The Wikimedian Society of Tokyo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124317780",
+        "entityLabel": "Apprenticeship student in France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q130223073",
+        "entityLabel": "EduWiki Community Philippines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10389694",
+        "entityLabel": "Shenzhen Volunteer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10478735",
+        "entityLabel": "E-delegation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10491428",
+        "entityLabel": "European Educational Publishers Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11264478",
+        "entityLabel": "kawata"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11265072",
+        "entityLabel": "kiyome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11269119",
+        "entityLabel": "shūba no tō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11430570",
+        "entityLabel": "shuku"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11561793",
+        "entityLabel": "Keijinkai Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11570644",
+        "entityLabel": "monoyoshi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11651572",
+        "entityLabel": "chōri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11733074",
+        "entityLabel": "Macież Cabaret"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11909956",
+        "entityLabel": "brazo / braç"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12321777",
+        "entityLabel": "Kifak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12564790",
+        "entityLabel": "Tat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12630224",
+        "entityLabel": "Duhos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12635401",
+        "entityLabel": "Lelek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12645073",
+        "entityLabel": "Waradika"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12817328",
+        "entityLabel": "Adno"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12819040",
+        "entityLabel": "Aymoq"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13107034",
+        "entityLabel": "Lailava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13109151",
+        "entityLabel": "Sokela"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17009926",
+        "entityLabel": "Melanchthon Circle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17014112",
+        "entityLabel": "Chinese People's Institute of Foreign Affairs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17619673",
+        "entityLabel": "15MpaRato"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18406282",
+        "entityLabel": "Novosilsk Cossacks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18643728",
+        "entityLabel": "+Democracia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20905961",
+        "entityLabel": "Cultural Creatives"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27493773",
+        "entityLabel": "Collaboration for Environmental Evidence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55832192",
+        "entityLabel": "Roman nobility"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204732",
+        "entityLabel": "Zinkenbacher Malerkolonie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q205215",
+        "entityLabel": "Zinsleute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q276911",
+        "entityLabel": "94er"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q331763",
+        "entityLabel": "raiding party"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q398485",
+        "entityLabel": "agujero de oro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q812975",
+        "entityLabel": "Beanus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1212141",
+        "entityLabel": "Die Elf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2332759",
+        "entityLabel": "De Blauwe Schuit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3080465",
+        "entityLabel": "Freemasonry in Québec"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3179225",
+        "entityLabel": "Jingos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3592635",
+        "entityLabel": "Student in France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3643406",
+        "entityLabel": "Braceros"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3996921",
+        "entityLabel": "Touto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4746287",
+        "entityLabel": "Amils"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4841343",
+        "entityLabel": "Bafna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4901069",
+        "entityLabel": "Bhapa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5101709",
+        "entityLabel": "Chipping Norton set"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5269928",
+        "entityLabel": "Dhusia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5287450",
+        "entityLabel": "Doctor Who Restoration Team"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6006802",
+        "entityLabel": "Maulas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6109477",
+        "entityLabel": "Jafri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6165848",
+        "entityLabel": "W8"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7261697",
+        "entityLabel": "Pusalan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7285895",
+        "entityLabel": "Rajbar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7571888",
+        "entityLabel": "Sowha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7773366",
+        "entityLabel": "The Wallys"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7781410",
+        "entityLabel": "Thenua"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9143408",
+        "entityLabel": "Akicita"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9199719",
+        "entityLabel": "Czumacy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9274981",
+        "entityLabel": "Gołota"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9367041",
+        "entityLabel": "urka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10279947",
+        "entityLabel": "Família Artística Paulista"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56612815",
+        "entityLabel": "Ed."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q59679511",
+        "entityLabel": "low income"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q95993210",
+        "entityLabel": "El ortiba. Colectivo de cultura popular"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106133380",
+        "entityLabel": "Voyageurs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110192600",
+        "entityLabel": "Network Open Source and Data"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111983928",
+        "entityLabel": "baronebreu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111984002",
+        "entityLabel": "binz 39"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112041596",
+        "entityLabel": "Business Anthropology Salon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112042284",
+        "entityLabel": "Collectif ComingOut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112042323",
+        "entityLabel": "Collectif Inouite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112042354",
+        "entityLabel": "Contemporary Cruising"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112042363",
+        "entityLabel": "data | Auftrag für parasitäre* Gastarbeit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112042373",
+        "entityLabel": "eine kelvinatoraktion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112042388",
+        "entityLabel": "Erratum Ensemble"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112042405",
+        "entityLabel": "HALLE K"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112053807",
+        "entityLabel": "Hurter-Urech"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112053863",
+        "entityLabel": "it sounds like rita"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112053898",
+        "entityLabel": "Kollektiv Evas Eier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112053913",
+        "entityLabel": "künstlerinnenkollektiv marsie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112053985",
+        "entityLabel": "Louise Guerra Archive"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054032",
+        "entityLabel": "osmotics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054048",
+        "entityLabel": "Outside-Eyes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054182",
+        "entityLabel": "Performatorium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054207",
+        "entityLabel": "Porte Rouge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054221",
+        "entityLabel": "Salon Liz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054315",
+        "entityLabel": "Treppstein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054327",
+        "entityLabel": "Vokalensemble Maulauf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054362",
+        "entityLabel": "WIM Zug"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054465",
+        "entityLabel": "JOKO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112054482",
+        "entityLabel": "KBB films"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112064256",
+        "entityLabel": "InBetweenCompany"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112156136",
+        "entityLabel": "Forbin Solliès"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112748863",
+        "entityLabel": "Yolanda Natsch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113325696",
+        "entityLabel": "Pemberton Family"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115238821",
+        "entityLabel": "Group for open science"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115738539",
+        "entityLabel": "Din-Nani Youth Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116795888",
+        "entityLabel": "Teotihuacan civilization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120733961",
+        "entityLabel": "Los Felipitos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q121438337",
+        "entityLabel": "yokaze agent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q121817837",
+        "entityLabel": "Ohne Kerosin nach Bayern 2023"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122872878",
+        "entityLabel": "Masters of the Golden Fleece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124249875",
+        "entityLabel": "Charact"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124515306",
+        "entityLabel": "Foliophiles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52269594",
+        "entityLabel": "Superclass"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1065",
+        "entityLabel": "United Nations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7809",
+        "entityLabel": "UNESCO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q918",
+        "entityLabel": "X"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9531",
+        "entityLabel": "BBC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8093",
+        "entityLabel": "Nintendo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q36380",
+        "entityLabel": "Society of Jesus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6686",
+        "entityLabel": "Renault"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7715973",
+        "entityLabel": "Debian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41550",
+        "entityLabel": "Organization for Economic Cooperation and Development"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42908",
+        "entityLabel": "Hanseatic League"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27586",
+        "entityLabel": "Ferrari S.p.A."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8691",
+        "entityLabel": "Heathrow Airport"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49088",
+        "entityLabel": "Columbia University"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52847",
+        "entityLabel": "European Economic Community"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q133132",
+        "entityLabel": "Paris Commune"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9630",
+        "entityLabel": "Labour Party"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162633",
+        "entityLabel": "academy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q168383",
+        "entityLabel": "Universal Pictures"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10230",
+        "entityLabel": "Bharatiya Janata Party"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q174710",
+        "entityLabel": "University of California, Los Angeles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q161376",
+        "entityLabel": "Miss Universe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191764",
+        "entityLabel": "Khmer Rouge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160112",
+        "entityLabel": "Museo del Prado"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131479",
+        "entityLabel": "Dominican Order"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104319",
+        "entityLabel": "Seventh-day Adventist Church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q138908",
+        "entityLabel": "Bolshoi Theatre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6746",
+        "entityLabel": "Citroën"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q171764",
+        "entityLabel": "Ahmadiyya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215392",
+        "entityLabel": "Norwegian Air Shuttle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131132",
+        "entityLabel": "Benedictines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27530",
+        "entityLabel": "Mercedes-Benz Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55931",
+        "entityLabel": "Hyundai Motor Company"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q161387",
+        "entityLabel": "kibbutz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35476",
+        "entityLabel": "AT&T"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3295867",
+        "entityLabel": "The Coca-Cola Company"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190593",
+        "entityLabel": "OCLC, Inc."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202660",
+        "entityLabel": "Collège de France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1359568",
+        "entityLabel": "Alibaba Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q482607",
+        "entityLabel": "Munhwa Broadcasting Corporation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15669738",
+        "entityLabel": "Miss Grand International"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2308012",
+        "entityLabel": "Bugatti Automobiles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183288",
+        "entityLabel": "National Olympic Committee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q165005",
+        "entityLabel": "Franciscans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q846596",
+        "entityLabel": "WorldCat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8919",
+        "entityLabel": "European Atomic Energy Community"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183725",
+        "entityLabel": "International Workingmen's Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188307",
+        "entityLabel": "The Salvation Army"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191485",
+        "entityLabel": "Louis Vuitton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108131",
+        "entityLabel": "Sacramento County"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q739941",
+        "entityLabel": "monarchy of the United Kingdom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188273",
+        "entityLabel": "Ubisoft"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154330",
+        "entityLabel": "Reporters Without Borders"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q257597",
+        "entityLabel": "SWIFT"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191836",
+        "entityLabel": "CITES"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217595",
+        "entityLabel": "Oxford University Press"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7983",
+        "entityLabel": "International Mathematical Olympiad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47586",
+        "entityLabel": "United States Electoral College"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1420342",
+        "entityLabel": "JSTOR"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186277",
+        "entityLabel": "Carmelites"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47750",
+        "entityLabel": "Lega Nord"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q390018",
+        "entityLabel": "Toronto International Film Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q133973",
+        "entityLabel": "WiMAX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q156077",
+        "entityLabel": "L'Oréal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184937",
+        "entityLabel": "Bilderberg Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q309031",
+        "entityLabel": "Lacoste S.A."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188508",
+        "entityLabel": "Russian Aircraft Corporation MiG"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190779",
+        "entityLabel": "Central Stadium Yekaterinburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407448",
+        "entityLabel": "Air Liquide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188454",
+        "entityLabel": "Yamaha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190529",
+        "entityLabel": "Nicolas Bourbaki"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202558",
+        "entityLabel": "Avignon Papacy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q98964",
+        "entityLabel": "Sejm of the Republic of Poland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q323481",
+        "entityLabel": "Programme for International Student Assessment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q738236",
+        "entityLabel": "National University of Singapore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q504998",
+        "entityLabel": "LVMH"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q270363",
+        "entityLabel": "Société Générale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q158205",
+        "entityLabel": "Sanofi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1296075",
+        "entityLabel": "Rashtriya Swayamsevak Sangh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q275623",
+        "entityLabel": "Groupe PSA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124862",
+        "entityLabel": "Order of Friars Minor Capuchin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13646",
+        "entityLabel": "Société nationale des chemins de fer français"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q379850",
+        "entityLabel": "Central Treaty Organization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q381282",
+        "entityLabel": "Pugwash Conferences on Science and World Affairs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q833670",
+        "entityLabel": "Katholieke Universiteit Leuven"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10583424",
+        "entityLabel": "The Metropolitan Opera"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154828",
+        "entityLabel": "Berlin Zoological Garden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q38603",
+        "entityLabel": "Federation Cynologique Internationale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2767140",
+        "entityLabel": "Government of India"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217659",
+        "entityLabel": "Eurostat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q460487",
+        "entityLabel": "Dassault Aviation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q542767",
+        "entityLabel": "Christian Dior"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653054",
+        "entityLabel": "International Council of Museums"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13416787",
+        "entityLabel": "Engie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63056",
+        "entityLabel": "Find a Grave"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q844293",
+        "entityLabel": "Olympic Council of Asia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1431486",
+        "entityLabel": "Orange"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241953",
+        "entityLabel": "Online Mendelian Inheritance in Man"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q270029",
+        "entityLabel": "Lions Clubs International"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215819",
+        "entityLabel": "Microsoft SQL Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q51647",
+        "entityLabel": "Christian mission"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q309084",
+        "entityLabel": "Alstom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337408",
+        "entityLabel": "Nivea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1127887",
+        "entityLabel": "Vivendi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q682520",
+        "entityLabel": "Transport for London"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q276223",
+        "entityLabel": "Order of Cistercians of the Strict Observance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32835",
+        "entityLabel": "North Atlantic Treaty organisation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q499707",
+        "entityLabel": "BNP Paribas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1475312",
+        "entityLabel": "Vinci"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q223659",
+        "entityLabel": "Salesians of Don Bosco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q271805",
+        "entityLabel": "National Collegiate Athletic Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212141",
+        "entityLabel": "Economic and Monetary Union of the European Union"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319014",
+        "entityLabel": "Central European Free Trade Agreement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q320863",
+        "entityLabel": "World Bank Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q759210",
+        "entityLabel": "Givenchy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1137665",
+        "entityLabel": "Ghent University"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q489097",
+        "entityLabel": "Ernst & Young"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q642949",
+        "entityLabel": "European Olympic Committees"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97439162",
+        "entityLabel": "Stellantis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208980",
+        "entityLabel": "Securitate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210167",
+        "entityLabel": "video game developer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155707",
+        "entityLabel": "Zollverein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32825",
+        "entityLabel": "Blue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q713418",
+        "entityLabel": "TSMC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q717798",
+        "entityLabel": "Arya Samaj"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q720866",
+        "entityLabel": "Mohism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q743558",
+        "entityLabel": "Nansen International Office for Refugees"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q746413",
+        "entityLabel": "Elsevier BV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q604063",
+        "entityLabel": "World Register of Marine Species"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q61460498",
+        "entityLabel": "Comédie-Française"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q262478",
+        "entityLabel": "Paris Salon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210347",
+        "entityLabel": "World Organization of the Scout Movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45836",
+        "entityLabel": "GameSpot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q749325",
+        "entityLabel": "Carbonari"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q750441",
+        "entityLabel": "Yekaterinburg Metro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q390551",
+        "entityLabel": "National Institutes of Health"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q391083",
+        "entityLabel": "Pasteur Institute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q503176",
+        "entityLabel": "Christie's"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q678565",
+        "entityLabel": "Saint-Gobain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11993457",
+        "entityLabel": "Royal Spanish Academy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49053",
+        "entityLabel": "Schneider Electric"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49126",
+        "entityLabel": "Harvard Business School"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q333780",
+        "entityLabel": "Yakovlev"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q368173",
+        "entityLabel": "Hermetic Order of the Golden Dawn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q753299",
+        "entityLabel": "Royal Astronomical Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q460173",
+        "entityLabel": "United States Environmental Protection Agency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q461736",
+        "entityLabel": "Paris Club"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q522039",
+        "entityLabel": "Minor Planet Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1161666",
+        "entityLabel": "Thales Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q538587",
+        "entityLabel": "Cartier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q685381",
+        "entityLabel": "Cairo Metro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1886126",
+        "entityLabel": "Safran"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q242791",
+        "entityLabel": "Kyokushin kaikan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111054",
+        "entityLabel": "Taizé Community"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4383",
+        "entityLabel": "International Federation of Football History & Statistics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q50963",
+        "entityLabel": "Central Committee of the Chinese Communist Party"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q324286",
+        "entityLabel": "BookCrossing"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337065",
+        "entityLabel": "Football Association of the Czech Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q993160",
+        "entityLabel": "European Communities"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826858",
+        "entityLabel": "International Federation of the Phonographic Industry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q502053",
+        "entityLabel": "Locarno Film Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q849730",
+        "entityLabel": "Soviet space program"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58819597",
+        "entityLabel": "Extinction Rebellion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221598",
+        "entityLabel": "European System of Central Banks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335823",
+        "entityLabel": "Slow Food"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1034621",
+        "entityLabel": "Capgemini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q769222",
+        "entityLabel": "Dailymotion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q931207",
+        "entityLabel": "Kering"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q819702",
+        "entityLabel": "Open Handset Alliance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q523660",
+        "entityLabel": "International Music Score Library Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q590952",
+        "entityLabel": "Credit Agricole Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1530892",
+        "entityLabel": "Balenciaga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q38780",
+        "entityLabel": "League of German Girls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q388314",
+        "entityLabel": "International Union of Railways"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1027807",
+        "entityLabel": "Port of Rotterdam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1142831",
+        "entityLabel": "Grey Wolves"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q509349",
+        "entityLabel": "Decathlon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q602243",
+        "entityLabel": "Deezer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q631897",
+        "entityLabel": "Raelism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1507074",
+        "entityLabel": "Western Bloc"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40987",
+        "entityLabel": "Pininfarina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q320404",
+        "entityLabel": "Eight-Nation Alliance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q724450",
+        "entityLabel": "World Boxing Council"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1065854",
+        "entityLabel": "United Nations Office for the Coordination of Humanitarian Affairs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q386730",
+        "entityLabel": "Austrian Service Abroad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q751895",
+        "entityLabel": "British Phonographic Industry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q829597",
+        "entityLabel": "League of Prizren"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q509404",
+        "entityLabel": "Alcatel-Lucent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837049",
+        "entityLabel": "Pernod Ricard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q843881",
+        "entityLabel": "Recorded Music NZ"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q868160",
+        "entityLabel": "Society of Saint Pius X"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q636755",
+        "entityLabel": "Legrand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q658870",
+        "entityLabel": "Ultratop"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23875215",
+        "entityLabel": "WikiProject Women in Red"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q280275",
+        "entityLabel": "Masters Tournament"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q168489",
+        "entityLabel": "Lebensborn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40304",
+        "entityLabel": "seventy disciples"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q339332",
+        "entityLabel": "Premonstratensians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q749620",
+        "entityLabel": "European Credit Transfer and Accumulation System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q750673",
+        "entityLabel": "Christian Democratic and Flemish"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q781365",
+        "entityLabel": "Australian Broadcasting Corporation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826021",
+        "entityLabel": "Kenmu Restoration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q494706",
+        "entityLabel": "Bahá'í World Centre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1172038",
+        "entityLabel": "Dassault Systèmes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q842120",
+        "entityLabel": "One Laptop per Child"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1654649",
+        "entityLabel": "ISOCARP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7555824",
+        "entityLabel": "SolarCity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16829376",
+        "entityLabel": "Chess.com"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q314493",
+        "entityLabel": "Rex Popular Front"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q732697",
+        "entityLabel": "National Theatre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q895325",
+        "entityLabel": "Bouygues"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q378134",
+        "entityLabel": "Université catholique de Louvain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q946621",
+        "entityLabel": "Norwegian Nobel Committee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1632461",
+        "entityLabel": "Veolia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q855639",
+        "entityLabel": "Dow Chemical Company"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q539818",
+        "entityLabel": "Angiosperm Phylogeny Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q547410",
+        "entityLabel": "Animal Liberation Front"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q598884",
+        "entityLabel": "Hilton Hotels & Resorts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q646089",
+        "entityLabel": "Consumer Electronics Show"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q685248",
+        "entityLabel": "United Nations Commission on Human Rights"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1542536",
+        "entityLabel": "The Atlantic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239516",
+        "entityLabel": "Panoramio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q317070",
+        "entityLabel": "University of Mannheim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696189",
+        "entityLabel": "Catholic League"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q757689",
+        "entityLabel": "Atos SE"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q402104",
+        "entityLabel": "International Commission on Stratigraphy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q515318",
+        "entityLabel": "Nybro Municipality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q844523",
+        "entityLabel": "Flags of the World"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q852544",
+        "entityLabel": "Négritude"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q656544",
+        "entityLabel": "Cambridge Five"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1345055",
+        "entityLabel": "horde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q724832",
+        "entityLabel": "FC Zbrojovka Brno"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913462",
+        "entityLabel": "Gaumont Film Company"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q750141",
+        "entityLabel": "McDonnell Aircraft Corporation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q795981",
+        "entityLabel": "Société Bic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q472976",
+        "entityLabel": "World Social Forum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q841212",
+        "entityLabel": "Groupe des Six"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q608518",
+        "entityLabel": "Unibail Rodamco Westfield"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q632235",
+        "entityLabel": "Archaeological Survey of India"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1537378",
+        "entityLabel": "Publicis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1330482",
+        "entityLabel": "Grand Council of Fascism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17130715",
+        "entityLabel": "Slack"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q274591",
+        "entityLabel": "Électricité de France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212599",
+        "entityLabel": "Accor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q300885",
+        "entityLabel": "freenode"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28346",
+        "entityLabel": "International Union of Pure and Applied Physics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q915451",
+        "entityLabel": "Olympia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q758603",
+        "entityLabel": "Auchan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q789966",
+        "entityLabel": "Bank of Spain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1139213",
+        "entityLabel": "Metropolitan Police"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q552168",
+        "entityLabel": "International Agency for Research on Cancer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q634333",
+        "entityLabel": "Computer Entertainment Rating Organization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2392255",
+        "entityLabel": "Teleperformance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3008647",
+        "entityLabel": "Vsauce"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16040593",
+        "entityLabel": "DS Automobiles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q277155",
+        "entityLabel": "International Flat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116080",
+        "entityLabel": "Polish Underground State"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q31306",
+        "entityLabel": "Sons of Liberty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913972",
+        "entityLabel": "Order of Friars Minor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1056113",
+        "entityLabel": "Cerro Tololo Inter-American Observatory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q343446",
+        "entityLabel": "İctimai Television"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q751148",
+        "entityLabel": "Congregation of the Most Holy Redeemer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1368807",
+        "entityLabel": "Cévennes National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q793981",
+        "entityLabel": "Electronic Gaming Monthly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140499",
+        "entityLabel": "Near-Earth Asteroid Tracking"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1164485",
+        "entityLabel": "Flightradar24"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q836057",
+        "entityLabel": "Equestrian Order of the Holy Sepulchre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q575901",
+        "entityLabel": "Griffith Observatory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2869596",
+        "entityLabel": "Worldline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q256443",
+        "entityLabel": "Salzburg Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q128356",
+        "entityLabel": "Thales Alenia Space"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q46788",
+        "entityLabel": "Heaven's Gate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q318359",
+        "entityLabel": "Reichsarbeitsdienst"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q727738",
+        "entityLabel": "Congrès International d'Architecture Moderne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1074958",
+        "entityLabel": "Irish Volunteers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q341134",
+        "entityLabel": "Česká televize"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q372681",
+        "entityLabel": "Amaury Sport Organisation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1010307",
+        "entityLabel": "The Most Beautiful Villages of France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q464677",
+        "entityLabel": "American Friends Service Committee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q466089",
+        "entityLabel": "American Philosophical Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1146254",
+        "entityLabel": "Royal Shakespeare Company"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425328",
+        "entityLabel": "USSR Union of Writers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1210996",
+        "entityLabel": "Atheist Alliance International"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q649649",
+        "entityLabel": "Focus Features"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2282172",
+        "entityLabel": "Yves Saint Laurent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2408041",
+        "entityLabel": "Sephora"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3578434",
+        "entityLabel": "Burgundy School of Business"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q128064",
+        "entityLabel": "Centrist Democrat International"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18512",
+        "entityLabel": "Forest Green Rovers F.C."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q316545",
+        "entityLabel": "Werwolf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q699529",
+        "entityLabel": "Moët & Chandon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1022860",
+        "entityLabel": "Tablighi Jamaat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1043431",
+        "entityLabel": "Tokyo International Film Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q752343",
+        "entityLabel": "European Social Fund Plus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q432139",
+        "entityLabel": "Tammany Hall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1144508",
+        "entityLabel": "United Nations Economic Commission for Africa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q485786",
+        "entityLabel": "Ananda Marga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q840045",
+        "entityLabel": "Renault Trucks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q851527",
+        "entityLabel": "Musée océanographique de Monaco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q593662",
+        "entityLabel": "United Nations Transitional Authority in Cambodia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q684065",
+        "entityLabel": "Sicherheitspolizei"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q692799",
+        "entityLabel": "Conventual Franciscans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1313036",
+        "entityLabel": "Ford Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1820380",
+        "entityLabel": "Church of Scientology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4426244",
+        "entityLabel": "Council of People's Commissars"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5119329",
+        "entityLabel": "Cicada 3301"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30312596",
+        "entityLabel": "Stopper club"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q148432",
+        "entityLabel": "Domowina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q737040",
+        "entityLabel": "Islamic Courts Union"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q898067",
+        "entityLabel": "Watch Tower Bible and Tract Society of Pennsylvania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q910744",
+        "entityLabel": "Association of Hungarian Record Companies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1075391",
+        "entityLabel": "Chloé"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q349566",
+        "entityLabel": "Hachette"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q954854",
+        "entityLabel": "Sokol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q960061",
+        "entityLabel": "Radiotelevizija Slovenija"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q986980",
+        "entityLabel": "Humanists International"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1003730",
+        "entityLabel": "Bulgarian Academy of Sciences"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1007902",
+        "entityLabel": "Game Developer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q578326",
+        "entityLabel": "University of Jyväskylä"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q617426",
+        "entityLabel": "Madrid Stock Exchange"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1202611",
+        "entityLabel": "The Moscow Times"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1974503",
+        "entityLabel": "Bureau Veritas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1284261",
+        "entityLabel": "Nornickel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1316546",
+        "entityLabel": "Alliance Israélite Universelle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2116312",
+        "entityLabel": "Transneft"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21404084",
+        "entityLabel": "HP Inc."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162472",
+        "entityLabel": "FK Příbram"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q313517",
+        "entityLabel": "Gideons International"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1055811",
+        "entityLabel": "Port Authority Trans-Hudson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q373724",
+        "entityLabel": "La Poste"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q465697",
+        "entityLabel": "American Medical Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q857975",
+        "entityLabel": "Clay Mathematics Institute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q550619",
+        "entityLabel": "Music Canada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q616374",
+        "entityLabel": "Elite Model Management"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q866363",
+        "entityLabel": "Syrian National Council"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1672300",
+        "entityLabel": "Ipsos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1967499",
+        "entityLabel": "Women's Social and Political Union"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1542317",
+        "entityLabel": "J.C. Bamford Excavators"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2658197",
+        "entityLabel": "Mejlis of the Crimean Tatar People"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2528383",
+        "entityLabel": "Vishva Hindu Parishad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q266706",
+        "entityLabel": "Jewish Combat Organization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q138579",
+        "entityLabel": "Institute of the Brothers of the Christian Schools"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26944",
+        "entityLabel": "Alpine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q313966",
+        "entityLabel": "Dexia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q895795",
+        "entityLabel": "Kenzo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q924798",
+        "entityLabel": "Proletkult"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1077459",
+        "entityLabel": "Colombo Plan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q371924",
+        "entityLabel": "Junior Chamber International"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q389336",
+        "entityLabel": "American Academy of Dramatic Arts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q756373",
+        "entityLabel": "Atlantic Council"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q773875",
+        "entityLabel": "Safran Aircraft Engines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q948531",
+        "entityLabel": "Celine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q948882",
+        "entityLabel": "National Library of Brazil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q954035",
+        "entityLabel": "University of Bradford"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1122988",
+        "entityLabel": "Real Irish Republican Army"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q474886",
+        "entityLabel": "Danube-Auen National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q482633",
+        "entityLabel": "Busan International Film Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q511533",
+        "entityLabel": "La Vanguardia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1165755",
+        "entityLabel": "Exposition Internationale des Arts et Techniques dans la Vie Moderne (1937)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q598719",
+        "entityLabel": "Byzantine Senate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1666316",
+        "entityLabel": "International Alliance of Women"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1674127",
+        "entityLabel": "Islamic Republic of Iran Broadcasting"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q620456",
+        "entityLabel": "Barnabites"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1467888",
+        "entityLabel": "Scribd"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1475070",
+        "entityLabel": "MBDA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q661858",
+        "entityLabel": "Basel Committee on Banking Supervision"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q671782",
+        "entityLabel": "The Planetary Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q684800",
+        "entityLabel": "International Commission of Jurists"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1967852",
+        "entityLabel": "National Women's Hall of Fame"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1329777",
+        "entityLabel": "Wilson Sporting Goods"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2333295",
+        "entityLabel": "Startpage.com"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q72413983",
+        "entityLabel": "Strawberry Prince"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q196105",
+        "entityLabel": "Engadget"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q296745",
+        "entityLabel": "Oil-for-Food Programme"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335746",
+        "entityLabel": "Grandmothers of the Plaza de Mayo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337332",
+        "entityLabel": "Academy of Interactive Arts & Sciences"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q367413",
+        "entityLabel": "International Red Aid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q368606",
+        "entityLabel": "Porvoo Communion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1023867",
+        "entityLabel": "CMA CGM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q775154",
+        "entityLabel": "Area de Conservación Guanacaste World Heritage Site"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q971612",
+        "entityLabel": "Group of 15"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1368909",
+        "entityLabel": "Essilor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q471889",
+        "entityLabel": "Supreme Commander for the Allied Powers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1146442",
+        "entityLabel": "LulzSec"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1430305",
+        "entityLabel": "International Bartenders Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1431935",
+        "entityLabel": "London Biggin Hill Airport"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1517662",
+        "entityLabel": "The Elders"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1756626",
+        "entityLabel": "The Theatre Royal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2271211",
+        "entityLabel": "Dante Alighieri Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2004192",
+        "entityLabel": "Guru Khalsa Panth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1301290",
+        "entityLabel": "Via Campesina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1334053",
+        "entityLabel": "B'Tselem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2047336",
+        "entityLabel": "Palantir Technologies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2478857",
+        "entityLabel": "Aéro-Club de France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2972775",
+        "entityLabel": "CinemaScore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19842818",
+        "entityLabel": "Internet Research Agency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22909229",
+        "entityLabel": "White Helmets"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q220086",
+        "entityLabel": "Prague Zoo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q226050",
+        "entityLabel": "Celtic League"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q251062",
+        "entityLabel": "Czech National Bank"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210911",
+        "entityLabel": "American Colonization Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q74877",
+        "entityLabel": "JCDecaux"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109888",
+        "entityLabel": "Fedora Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63345",
+        "entityLabel": "March 23 Movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q897299",
+        "entityLabel": "Brahma Kumaris World Spiritual University"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054195",
+        "entityLabel": "Centre de données astronomiques de Strasbourg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q764155",
+        "entityLabel": "Tefal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q778660",
+        "entityLabel": "Pontifical Council for Promoting Christian Unity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1377863",
+        "entityLabel": "European Higher Education Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q466928",
+        "entityLabel": "American Sociological Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1143596",
+        "entityLabel": "United States Department of War"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1144929",
+        "entityLabel": "Lafarge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1391619",
+        "entityLabel": "Committee of General Security"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1153539",
+        "entityLabel": "Xiamen University"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q580916",
+        "entityLabel": "Food Not Bombs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1418438",
+        "entityLabel": "United States Olympic & Paralympic Committee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q619552",
+        "entityLabel": "League of Militant Atheists"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1454570",
+        "entityLabel": "tourism in Albania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1194476",
+        "entityLabel": "Recording Industry Association of Japan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1459541",
+        "entityLabel": "United States Patent and Trademark Office"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1475554",
+        "entityLabel": "Sodexo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q643370",
+        "entityLabel": "Young Women’s Christian Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1938003",
+        "entityLabel": "Phi Beta Kappa Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2268915",
+        "entityLabel": "OSCE Minsk Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1794858",
+        "entityLabel": "Real Botanic Garden of Madrid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2060629",
+        "entityLabel": "Presidential Administration of Russia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1849609",
+        "entityLabel": "Royal Canin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2120364",
+        "entityLabel": "Radio France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1891156",
+        "entityLabel": "United States Forest Service"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3117359",
+        "entityLabel": "Carrefour Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3036861",
+        "entityLabel": "Don’t Nod"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5842736",
+        "entityLabel": "Corning Inc."
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56853086",
+        "entityLabel": "EssilorLuxottica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60290",
+        "entityLabel": "European Association of Zoos and Aquaria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q321558",
+        "entityLabel": "Nakam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696061",
+        "entityLabel": "Amadeus IT Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q700162",
+        "entityLabel": "German nuclear weapons project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337543",
+        "entityLabel": "Académie des Sciences Morales et Politiques"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q373032",
+        "entityLabel": "Truth and Reconciliation Commission"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1025968",
+        "entityLabel": "Cairo International Film Festival"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1046799",
+        "entityLabel": "Knights of Columbus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1115753",
+        "entityLabel": "Committee on Space Research"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1347160",
+        "entityLabel": "SAGEM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q780116",
+        "entityLabel": "Committee of Permanent Representatives"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1131145",
+        "entityLabel": "Dupont"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140265",
+        "entityLabel": "Royal Dramatic Theatre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1156834",
+        "entityLabel": "Irish Recorded Music Association"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q559673",
+        "entityLabel": "Free Papua Movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1413677",
+        "entityLabel": "justice ministry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q607959",
+        "entityLabel": "Association of Academies of the Spanish Language"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q609388",
+        "entityLabel": "Sigurimi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q869576",
+        "entityLabel": "Mandriva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1752626",
+        "entityLabel": "Parliament of the World's Religions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q687694",
+        "entityLabel": "Komische Oper Berlin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1531636",
+        "entityLabel": "Copernicus Programme"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2287154",
+        "entityLabel": "Snopes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2370801",
+        "entityLabel": "Academy of Sciences of the USSR"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1868372",
+        "entityLabel": "Biografisch Portaal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2844522",
+        "entityLabel": "Amundi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3349399",
+        "entityLabel": "Sahitya Akademi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6942717",
+        "entityLabel": "Musixmatch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13411871",
+        "entityLabel": "Financial Stability Board"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13463146",
+        "entityLabel": "Loon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q282439",
+        "entityLabel": "Batalhão de Operações Policiais Especiais"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q141644",
+        "entityLabel": "Nexans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29325",
+        "entityLabel": "National Socialist Underground"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q39431",
+        "entityLabel": "The Kennel Club"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q324478",
+        "entityLabel": "Academy of Persian Language and Literature"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q334904",
+        "entityLabel": "Japan Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q708111",
+        "entityLabel": "Baltische Landeswehr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q717920",
+        "entityLabel": "Aryan Nations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1053614",
+        "entityLabel": "Center for Strategic and International Studies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1071346",
+        "entityLabel": "International Commission on Zoological Nomenclature"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q384928",
+        "entityLabel": "KHAD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1351415",
+        "entityLabel": "Peace Now"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1357677",
+        "entityLabel": "Vaganova Academy of Russian Ballet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1365773",
+        "entityLabel": "Technicolor SA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q794563",
+        "entityLabel": "Groupe ADP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1377838",
+        "entityLabel": "European Solidarity Corps"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q460057",
+        "entityLabel": "Head of the Commonwealth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1138672",
+        "entityLabel": "Netlog"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1147088",
+        "entityLabel": "Hoover Institution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q482622",
+        "entityLabel": "Paris Foreign Missions Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1151120",
+        "entityLabel": "Hermitage Volunteer Service"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1165363",
+        "entityLabel": "Félibrige"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q846996",
+        "entityLabel": "European Structural and Investment Funds"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q852277",
+        "entityLabel": "Landless Workers' Movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q855106",
+        "entityLabel": "Alliance of Civilizations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1424799",
+        "entityLabel": "World Toilet Organization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1638899",
+        "entityLabel": "United Nations Parliamentary Assembly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1479370",
+        "entityLabel": "Instituto Camões"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1951917",
+        "entityLabel": "Muhammadiyah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q675215",
+        "entityLabel": "Kreisau Circle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1525141",
+        "entityLabel": "Muslim World League"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1966281",
+        "entityLabel": "OGAE"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1305281",
+        "entityLabel": "Valeo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2671637",
+        "entityLabel": "United Nations Department of Economic and Social Affairs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2120822",
+        "entityLabel": "Salomon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2415242",
+        "entityLabel": "Anti-Party Group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2164269",
+        "entityLabel": "StB"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8445",
+        "entityLabel": "marriage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42138",
+        "entityLabel": "citizenship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105985",
+        "entityLabel": "judiciary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124354",
+        "entityLabel": "Bauhaus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131626",
+        "entityLabel": "Smithsonian Institution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184725",
+        "entityLabel": "Spanish Inquisition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8022",
+        "entityLabel": "Generalitat of Catalonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q555911",
+        "entityLabel": "private property"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q521917",
+        "entityLabel": "fumi-e"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q899409",
+        "entityLabel": "gens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q69199",
+        "entityLabel": "Toledo School of Translators"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q929154",
+        "entityLabel": "Brookings Institution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q938560",
+        "entityLabel": "tribus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1370258",
+        "entityLabel": "missus dominicus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2166873",
+        "entityLabel": "Royal National Lifeboat Institution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2572699",
+        "entityLabel": "Commonwealth of Catalonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q429032",
+        "entityLabel": "Miroslav Krleža Lexicographical Institute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1779601",
+        "entityLabel": "Xunta de Galicia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2448809",
+        "entityLabel": "Twelve Level Cap and Rank System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2501249",
+        "entityLabel": "Fubing system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7541890",
+        "entityLabel": "Slovenska matica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1047879",
+        "entityLabel": "Public Notary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2362881",
+        "entityLabel": "African Union Commission"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2571772",
+        "entityLabel": "SGAE"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1895245",
+        "entityLabel": "Journeyman years"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q282075",
+        "entityLabel": "High Authority of the European Coal and Steel Community"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1185185",
+        "entityLabel": "Happy Monday System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2057876",
+        "entityLabel": "Academia Argentina de Letras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15091408",
+        "entityLabel": "Archive of Serbia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q386538",
+        "entityLabel": "Imperial Canal of Aragon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1664742",
+        "entityLabel": "Xarxa Vives d'Universitats"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66306401",
+        "entityLabel": "social welfare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q523577",
+        "entityLabel": "Villa Massimo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1470536",
+        "entityLabel": "Mesopotamian scribal schools"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2411657",
+        "entityLabel": "municipal mergers and dissolutions in Japan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3329346",
+        "entityLabel": "San Telmo Museoa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60176194",
+        "entityLabel": "Institution of Noble Ladies of the Prague Castle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17511538",
+        "entityLabel": "Supreme Court of Hungary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1518687",
+        "entityLabel": "Civic Chamber of the Russian Federation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1681557",
+        "entityLabel": "Junta para Ampliación de Estudios e Investigaciones Científicas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2047673",
+        "entityLabel": "Justicia of Aragon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2515508",
+        "entityLabel": "Constitutional Council"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4864983",
+        "entityLabel": "University of Belgrade Faculty of Economics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q95722005",
+        "entityLabel": "Survey of Palestine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15281450",
+        "entityLabel": "familia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16550595",
+        "entityLabel": "National Commission of Markets and Competition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49661659",
+        "entityLabel": "Akademia Nasionala del Ladino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5197890",
+        "entityLabel": "Cyborg Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5412403",
+        "entityLabel": "European Commission for the Efficiency of Justice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6038958",
+        "entityLabel": "Institución Colombina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q507692",
+        "entityLabel": "Europa-Institut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1794683",
+        "entityLabel": "Rentekammeret"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2362726",
+        "entityLabel": "Wileńska Komisja Archeologiczna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2776796",
+        "entityLabel": "Malkishua"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2860440",
+        "entityLabel": "Archives of Yugoslavia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2994177",
+        "entityLabel": "National Human Rights Council (Morocco)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12741936",
+        "entityLabel": "extended enterprise"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18658883",
+        "entityLabel": "Individual Number"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27889176",
+        "entityLabel": "al-Furqan Institute for Media Production"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5288539",
+        "entityLabel": "Doha Film Institute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5474633",
+        "entityLabel": "Foundling hospital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7100735",
+        "entityLabel": "Orders, decorations, and medals of Malaysia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1233423",
+        "entityLabel": "Magyar Theatre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1539617",
+        "entityLabel": "motor-vehicle inspection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2080682",
+        "entityLabel": "Bellesrad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2274367",
+        "entityLabel": "SENAI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3567811",
+        "entityLabel": "National Botanical Research Institute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11923247",
+        "entityLabel": "Fundació Bernat Metge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12760602",
+        "entityLabel": "Physics Faculty, University of Belgrade"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12809198",
+        "entityLabel": "Turkish State Theatres"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14747203",
+        "entityLabel": "right- and left-hand train traffic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15936146",
+        "entityLabel": "Supreme Eurasian Economic Council"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20430087",
+        "entityLabel": "Moldovan Border Police"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27958099",
+        "entityLabel": "Commission to Preserve National Monuments of Bosnia and Herzegovina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42575924",
+        "entityLabel": "Circulo Industrial de Alcoy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6054712",
+        "entityLabel": "International judicial institution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6736878",
+        "entityLabel": "Kyeongyeon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7354842",
+        "entityLabel": "Rock of Ages Corporation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9008645",
+        "entityLabel": "Institució Catalana de Genealogia i Heràldica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9356090",
+        "entityLabel": "Witold Gombrowicz Theatre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q839465",
+        "entityLabel": "Custody and repatriation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1822839",
+        "entityLabel": "Consulta Araldica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2010521",
+        "entityLabel": "Instituto Autónomo de Bibliotecas e Información del Estado Mérida"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2048206",
+        "entityLabel": "Municipal Palm House in Gliwice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2994416",
+        "entityLabel": "consejo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3482388",
+        "entityLabel": "master and disciple"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12276998",
+        "entityLabel": "General Mufti Office, Sofia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12713943",
+        "entityLabel": "Norwegian Institute of bunad and folk costume"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16846637",
+        "entityLabel": "Ilmiye"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16999529",
+        "entityLabel": "Yemen Ports Authority"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25410104",
+        "entityLabel": "Feria de Zaragoza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25462993",
+        "entityLabel": "Constitutional Council of Algeria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28714423",
+        "entityLabel": "Political Prisoners Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28714424",
+        "entityLabel": "Foundation of Martyrs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29271332",
+        "entityLabel": "Játékszín"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29996304",
+        "entityLabel": "CEFRES"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q37931191",
+        "entityLabel": "Móricz Zsigmond Színház"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52619589",
+        "entityLabel": "Nubar Library"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q54912602",
+        "entityLabel": "A. M. Qattan Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4887546",
+        "entityLabel": "Benevolent Asylum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5755089",
+        "entityLabel": "Casa de la Caritat de Barcelona"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5755765",
+        "entityLabel": "High Judicial Council"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6062914",
+        "entityLabel": "Atatürk Supreme Council for Culture, Language and History"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6583472",
+        "entityLabel": "Wamberg committee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6591784",
+        "entityLabel": "Faculty of Medicine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7013621",
+        "entityLabel": "New York Institute of Technology College of Osteopathic Medicine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7394620",
+        "entityLabel": "STA-21"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7574705",
+        "entityLabel": "Special Representative of the Secretary-General for Western Sahara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8077967",
+        "entityLabel": "École de Chirurgie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8341754",
+        "entityLabel": "Casa de Ganaderos de Zaragoza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8350008",
+        "entityLabel": "Catalan Audiovisual Council"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8560235",
+        "entityLabel": "Diputación del General del Reino de Aragón"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9016704",
+        "entityLabel": "Junta de Braços"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q296515",
+        "entityLabel": "ARD-Hauptstadtstudio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q301235",
+        "entityLabel": "Aargau canton library"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1020594",
+        "entityLabel": "Bühnen der Stadt Köln"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1129801",
+        "entityLabel": "Lian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1640351",
+        "entityLabel": "Fiscus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2142673",
+        "entityLabel": "Ekonomski fakultet u Subotici"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2296831",
+        "entityLabel": "Sociedade Portuguesa de Autores"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2325191",
+        "entityLabel": "State Council of Monaco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2463367",
+        "entityLabel": "Flanders Institute for Biotechnology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2941416",
+        "entityLabel": "Japanese castes under the ritsuryō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2993913",
+        "entityLabel": "Consejo y Comisaría de Cruzada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3274535",
+        "entityLabel": "Akl Sheikhdom of the Druze Unitarian Community in Lebanon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q61303020",
+        "entityLabel": "Hungarian Theater"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66792099",
+        "entityLabel": "Center of Pastoral Liturgy of Barcelona"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97219016",
+        "entityLabel": "Krvavica (sanatorium building)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110044996",
+        "entityLabel": "Archives of Vojvodina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11753112",
+        "entityLabel": "Forests in Warsaw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12257678",
+        "entityLabel": "Euzkadi Buru Batzar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12320314",
+        "entityLabel": "Jonstrup Camp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15856017",
+        "entityLabel": "Ökologisches Zentrum Verden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16047557",
+        "entityLabel": "Network of agents (Wikalah)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16579006",
+        "entityLabel": "Instituto Bíblico y Oriental"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18433792",
+        "entityLabel": "The Regional Water Management Authority in Warsaw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19453318",
+        "entityLabel": "Imprenta Municipal-Artes del Libro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20105090",
+        "entityLabel": "Institut d'Estudis Valencians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20105093",
+        "entityLabel": "Institut de Cultura de Barcelona"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20396994",
+        "entityLabel": "Mahfouz Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20828849",
+        "entityLabel": "Berlin Lapidarium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20889515",
+        "entityLabel": "Emakunde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21010176",
+        "entityLabel": "Directie van de Levantse handel en de Navigatie op de Middellandse Zee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21480710",
+        "entityLabel": "Instituto Leonés de Cultura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22662288",
+        "entityLabel": "Yemen Red Sea Ports Corporation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22970016",
+        "entityLabel": "Institución de Estudios Complutenses"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25492688",
+        "entityLabel": "Brusznyai Street 2, Veszprém"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25620037",
+        "entityLabel": "ligallo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26233867",
+        "entityLabel": "Theatre and Art Base in Zsámbék"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28466087",
+        "entityLabel": "Opera del Duomo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29513896",
+        "entityLabel": "Resalah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30880320",
+        "entityLabel": "Magistrato di Misericordia di Genova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43339299",
+        "entityLabel": "ACSUN"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48422288",
+        "entityLabel": "Brno City Archives"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49634964",
+        "entityLabel": "Círcul Fruiter Borrianenc"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5166282",
+        "entityLabel": "Convention of the Estates of Scotland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5435549",
+        "entityLabel": "Farm enterprise"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5465480",
+        "entityLabel": "Food for the Brain Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5655719",
+        "entityLabel": "National Academy of History of Venezuela"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5779099",
+        "entityLabel": "Comisión Ejecutiva Portuaria Autónoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5871278",
+        "entityLabel": "Fundación Gran Mariscal de Ayacucho"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5914147",
+        "entityLabel": "Ilustre Colegio Oficial de Médicos de Madrid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5917103",
+        "entityLabel": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6090382",
+        "entityLabel": "Higher Education Student Loan and Housing Board"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6156736",
+        "entityLabel": "Universidad Virtual de la Lengua y la Cultura Españolas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6554343",
+        "entityLabel": "linkage institution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6721074",
+        "entityLabel": "Ateret Shlomo Yeshiva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7299707",
+        "entityLabel": "Raëlian Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7877616",
+        "entityLabel": "Uganda National Cultural Centre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7987108",
+        "entityLabel": "Westar Institute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10302612",
+        "entityLabel": "National Book Institute of Brazil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10354325",
+        "entityLabel": "Programa Monumenta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10499309",
+        "entityLabel": "Volunteer fire departments in Finland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10855473",
+        "entityLabel": "teaching practice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11249728",
+        "entityLabel": "Tokyo Stock Exchange-Tokyo Pro Market"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11265348",
+        "entityLabel": "Uichang"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11410200",
+        "entityLabel": "emergency session of the House of Councillors"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11439436",
+        "entityLabel": "metropolitan suburbs sections"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11498038",
+        "entityLabel": "Anbunhyō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q957129",
+        "entityLabel": "Irish College"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1226197",
+        "entityLabel": "Statute XIX of 1937"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1741842",
+        "entityLabel": "Children camp Rühen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2822398",
+        "entityLabel": "Académie des sports"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2945223",
+        "entityLabel": "Centro de Estudios Históricos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3152713",
+        "entityLabel": "University Institute of Technology of Montpellier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3688998",
+        "entityLabel": "Contract sales organization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3803637",
+        "entityLabel": "National Institute of Ancient Drama"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3955185",
+        "entityLabel": "Senato di Messina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4147539",
+        "entityLabel": "People's jury"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4201540",
+        "entityLabel": "State institution \"National Scientific Center of surgery and transplantation named after O.O. Shalimov to National Academy of medical sciences of Ukraine\""
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4874310",
+        "entityLabel": "Bayanihan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63326586",
+        "entityLabel": "Rakouské kulturní forum Praha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63349592",
+        "entityLabel": "Institute of Lithosphere"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q64022128",
+        "entityLabel": "Residència Internacional de Senyoretes Estudiants"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q88562959",
+        "entityLabel": "Convento de San Joaquín"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q88761459",
+        "entityLabel": "Convento de Nuestra Señora de los Ángeles (Madrid)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96376313",
+        "entityLabel": "Dhaka Reporters Unity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96405857",
+        "entityLabel": "Small and Medium Enterprise Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97213995",
+        "entityLabel": "Windtower Experience"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q101438779",
+        "entityLabel": "Jugend-Europahaus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108345257",
+        "entityLabel": "Lehrstellwerk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109912620",
+        "entityLabel": "Instituto Quevedo de las Artes del Humor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122922970",
+        "entityLabel": "BoysTown"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125791552",
+        "entityLabel": "Chamber of Commerce Pančevo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126902606",
+        "entityLabel": "SKIP Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11626624",
+        "entityLabel": "Atomic Bomb Survivor's Certificate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11801609",
+        "entityLabel": "Ośrodek Dokumentacji Zabytków"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12237987",
+        "entityLabel": "Gulf Cooperation Council Joint Program Production Institution"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12237992",
+        "entityLabel": "Muʼassasat al-Tanmiyah al-Usarīyah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12237994",
+        "entityLabel": "AI-Hariri Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12238005",
+        "entityLabel": "Mawhiba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12238008",
+        "entityLabel": "Kuwait Ports Authority"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12238025",
+        "entityLabel": "Muʼassasat Sulaymān ibn ʻAbd al-ʻAzīz al-Rājiḥī al-Khayrīyah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12322411",
+        "entityLabel": "Kofoedsminde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12367710",
+        "entityLabel": "Kullo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12376254",
+        "entityLabel": "Tallinn Teachers' House"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12802983",
+        "entityLabel": "Slovenska znanstvena fundacija"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15633618",
+        "entityLabel": "Limbach Commission"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15824235",
+        "entityLabel": "Koordinierungsstelle Berufsorientierung"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15930820",
+        "entityLabel": "Made in Africa Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16143615",
+        "entityLabel": "Academia Paulista de História"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16189768",
+        "entityLabel": "Spanish Council of State"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16324566",
+        "entityLabel": "Solhaven"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16541253",
+        "entityLabel": "commission"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16619501",
+        "entityLabel": "Unione Montana dei Comuni del Mugello"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16733405",
+        "entityLabel": "Chartered Institute of Marketing Ghana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16986403",
+        "entityLabel": "Institute for Global Communications"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17199085",
+        "entityLabel": "Centre for Protein Engineering"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17300881",
+        "entityLabel": "Iniciativa Cultural de la Franja"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18460191",
+        "entityLabel": "stopover"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18465732",
+        "entityLabel": "Instituto de Pesquisas Hospitalares Arquiteto Jarbas Karman"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20396921",
+        "entityLabel": "Muʼassasat al-Tadrīb al-Mihnī (Jordan)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20396938",
+        "entityLabel": "Muʼassasat al-ʻAfīf al-Thaqāfīyah (Ṣanʻāʼ, Yemen)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20397014",
+        "entityLabel": "Hindawi Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24262680",
+        "entityLabel": "Servicio de Concentración Parcelaria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24831904",
+        "entityLabel": "Songliao Water Resources Commission"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25449836",
+        "entityLabel": "Al Hadaf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27915859",
+        "entityLabel": "princely council of Transylvania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28501437",
+        "entityLabel": "Instituto Sonorense de Cultura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28687942",
+        "entityLabel": "Catch-All Controls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30291874",
+        "entityLabel": "National Institute for Nuclear, Chemical and Biological Protection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30688326",
+        "entityLabel": "Cardiff Town Hall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30946439",
+        "entityLabel": "Chinese People's Liberation Army Air Force Staff"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q31074958",
+        "entityLabel": "Junta Permanent de Català"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42330180",
+        "entityLabel": "Áras Mháirtín Uí Chadhain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42900537",
+        "entityLabel": "Nõmme Leisure Centre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43170413",
+        "entityLabel": "State Council of Lithuania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47507417",
+        "entityLabel": "Staatliche Schlösser, Gärten und Kunstsammlungen Mecklenburg-Vorpommern"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48753596",
+        "entityLabel": "Selma Stern Center for Jewish Studies Berlin-Brandenburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56329056",
+        "entityLabel": "Polish Anti-Doping Agency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5142879",
+        "entityLabel": "Colegio Preciosa Sangre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5790445",
+        "entityLabel": "Coyag"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6014064",
+        "entityLabel": "Başkanlık"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6017146",
+        "entityLabel": "Public Prosecutor's Office of Guatemala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6035490",
+        "entityLabel": "Mülkiye"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6041018",
+        "entityLabel": "Institute on Religion in an Age of Science"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6130529",
+        "entityLabel": "Sna Jtz'ibajom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6670656",
+        "entityLabel": "London Plan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6806749",
+        "entityLabel": "Medicine Mondiale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6956592",
+        "entityLabel": "Naandi Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7586254",
+        "entityLabel": "Sri Sathya Sai Loka Seva Trust Educational Institutions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9386252",
+        "entityLabel": "healthcare facility"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10302430",
+        "entityLabel": "Instituto Brasileiro de Siderurgia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10302516",
+        "entityLabel": "Fundação Instituto Gaúcho de Tradição e Folclore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10302541",
+        "entityLabel": "Instituto Histórico e Geográfico de Santos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10302749",
+        "entityLabel": "Instituto de Arte Contemporânea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10512888",
+        "entityLabel": "Göteborgs konstförening"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11143392",
+        "entityLabel": "rule by law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11197814",
+        "entityLabel": "ETC discount system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11421213",
+        "entityLabel": "National Hansen's Disease Sanatorium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11607574",
+        "entityLabel": "integrated course"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30467",
+        "entityLabel": "Ecological Monitoring Centre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1532461",
+        "entityLabel": "Scientific Computing Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2822362",
+        "entityLabel": "Académie des Grands Québécois"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2890699",
+        "entityLabel": "Casa de Teatro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2948396",
+        "entityLabel": "Chambre des comptes de Bourgogne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2994276",
+        "entityLabel": "Conseil souverain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3910194",
+        "entityLabel": "prefecture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3931795",
+        "entityLabel": "Regia Camera della Sommaria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4330219",
+        "entityLabel": "third Civic Chamber of the Russian Federation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4671322",
+        "entityLabel": "Academies of the NSD University Teachers' League"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q57565787",
+        "entityLabel": "Real Conservatorio de Artes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60417830",
+        "entityLabel": "Sbor dobrovolných hasičů Valeč"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66601519",
+        "entityLabel": "Amics de l'art romànic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q67186888",
+        "entityLabel": "National Industrial Security Academy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q67754080",
+        "entityLabel": "Centro de Estudios Cofrades"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q68138677",
+        "entityLabel": "Bengal Theosophical Society"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q75752030",
+        "entityLabel": "Vogtei"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q77796531",
+        "entityLabel": "Cámara Oficial de Comercio Industria y Navegación de Sevilla"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79129714",
+        "entityLabel": "Institut Barcelona Esports"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83441652",
+        "entityLabel": "Vogteiliche Gerichtsbarkeit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83441669",
+        "entityLabel": "Limitierte Cent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83441682",
+        "entityLabel": "Centamt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83441697",
+        "entityLabel": "Fraischamt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83441713",
+        "entityLabel": "Vogteiamt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q86725740",
+        "entityLabel": "SOCINPRO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q87722440",
+        "entityLabel": "Nada Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q89592988",
+        "entityLabel": "cent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q89914335",
+        "entityLabel": "Hochgerichtsamt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97460931",
+        "entityLabel": "Fifth Civic Chamber of the Russian Federation (2014–2017)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104628975",
+        "entityLabel": "Gesticht van het Heilig Hert"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107123148",
+        "entityLabel": "Rule of Law Centre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107600218",
+        "entityLabel": "Yeshiva Katana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108523320",
+        "entityLabel": "Community Foundation Wales"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109131168",
+        "entityLabel": "National Museum of the American Latino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109373869",
+        "entityLabel": "Cambridgeshire Collection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109537101",
+        "entityLabel": "Saturday Closed System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110336359",
+        "entityLabel": "Tamborers de la Sala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110653175",
+        "entityLabel": "Warsaw Youth Sport Centre Agrykola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111015918",
+        "entityLabel": "Serbian singing company Gusle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113144744",
+        "entityLabel": "Podkarpackie Centre for Innovation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113977165",
+        "entityLabel": "Bibliothek und Archiv Aargau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114312853",
+        "entityLabel": "Therapeutic Pedagogical Center Hof"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118153727",
+        "entityLabel": "General Inspectorate for MigrationMinistry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122840098",
+        "entityLabel": "Teatro Nazionale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125474594",
+        "entityLabel": "church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125792398",
+        "entityLabel": "Institute for Gender Equality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125806731",
+        "entityLabel": "Ethno sales gallery of the association \"Our heritage\" Novi Sad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16568544",
+        "entityLabel": "Formación Alcalá"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18600744",
+        "entityLabel": "Church of the Nuestra Señora del Carmen (Córdoba)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24262747",
+        "entityLabel": "Servicio de Concentración Parcelaria y Ordenación Rural"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24469969",
+        "entityLabel": "Landesfilmsammlung Baden-Württemberg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24696549",
+        "entityLabel": "Brandenburg-digital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28036683",
+        "entityLabel": "Unión de Cofradías de Semana Santa de Úbeda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43173",
+        "entityLabel": "Inquisition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30216",
+        "entityLabel": "common law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5950118",
+        "entityLabel": "civil law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208202",
+        "entityLabel": "European Union law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1434707",
+        "entityLabel": "space law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1972557",
+        "entityLabel": "Scots law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q695742",
+        "entityLabel": "law of Germany"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181756",
+        "entityLabel": "law of Canada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6333091",
+        "entityLabel": "legal system of Saudi Arabia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653790",
+        "entityLabel": "Law of Singapore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q835068",
+        "entityLabel": "law of the People's Republic of China"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2026729",
+        "entityLabel": "Mishpat Ivri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2135371",
+        "entityLabel": "Swiss law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1629330",
+        "entityLabel": "law of Belgium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2395172",
+        "entityLabel": "Roman-Dutch law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3039571",
+        "entityLabel": "Anglo-Saxon law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1323287",
+        "entityLabel": "legal system of Sweden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2393399",
+        "entityLabel": "Welsh law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6503371",
+        "entityLabel": "law of Australia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16387765",
+        "entityLabel": "legal system of Armenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q376811",
+        "entityLabel": "law of South Africa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5165011",
+        "entityLabel": "Welsh Law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7876900",
+        "entityLabel": "Udal law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10944011",
+        "entityLabel": "Dishu system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63300138",
+        "entityLabel": "Laws of Hywel Dda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96384809",
+        "entityLabel": "Judiciary of Somaliland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4162504",
+        "entityLabel": "legal system of Macau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5178710",
+        "entityLabel": "judiciary of Romania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41591402",
+        "entityLabel": "juvenile justice system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2109938",
+        "entityLabel": "law of Hong Kong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3181190",
+        "entityLabel": "Law of Vanuatu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3542442",
+        "entityLabel": "administrative tutelage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6517612",
+        "entityLabel": "legal system of Yemen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124727255",
+        "entityLabel": "Anglo-Muhammadan law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125577934",
+        "entityLabel": "Law of Burundi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12616808",
+        "entityLabel": "judicial system of Joseon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18431139",
+        "entityLabel": "prison system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20595477",
+        "entityLabel": "Demetian Code"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20595547",
+        "entityLabel": "Venedotian Code"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24284161",
+        "entityLabel": "Norse law"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25558051",
+        "entityLabel": "Gwentian Code"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123174730",
+        "entityLabel": "Inquisition in Malta"
+    }
+]

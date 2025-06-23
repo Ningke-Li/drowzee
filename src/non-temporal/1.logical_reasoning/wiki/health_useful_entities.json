@@ -1,0 +1,6502 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q12206",
+        "entityLabel": "diabetes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1869874",
+        "entityLabel": "insomnia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q81867",
+        "entityLabel": "albinism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q101971",
+        "entityLabel": "wart"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q68833",
+        "entityLabel": "bone fracture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181923",
+        "entityLabel": "attention deficit hyperactivity disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183134",
+        "entityLabel": "sepsis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q194101",
+        "entityLabel": "dwarfism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1036696",
+        "entityLabel": "hypothermia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q144119",
+        "entityLabel": "hysteria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189389",
+        "entityLabel": "aneurysm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28693",
+        "entityLabel": "miscarriage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105688",
+        "entityLabel": "hypoxia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181876",
+        "entityLabel": "metastasis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q388626",
+        "entityLabel": "sleeprunning"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1350326",
+        "entityLabel": "frostbite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q272002",
+        "entityLabel": "foodborne illness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q816422",
+        "entityLabel": "dysmenorrhea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q330104",
+        "entityLabel": "procrastination"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319763",
+        "entityLabel": "inferiority complex"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3025883",
+        "entityLabel": "type 2 diabetes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q33525",
+        "entityLabel": "carcinoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696490",
+        "entityLabel": "panic attack"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160796",
+        "entityLabel": "delirium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q216866",
+        "entityLabel": "conjoined twins"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1419347",
+        "entityLabel": "puerperal infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192579",
+        "entityLabel": "jet lag"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q478389",
+        "entityLabel": "abnormal kyphosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q143925",
+        "entityLabel": "toothache"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q194520",
+        "entityLabel": "atrophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q565276",
+        "entityLabel": "sciatica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193211",
+        "entityLabel": "cyst"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q209647",
+        "entityLabel": "delirium tremens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q281490",
+        "entityLabel": "urinary incontinence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189470",
+        "entityLabel": "fistula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q142807",
+        "entityLabel": "floater"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q318005",
+        "entityLabel": "nocturnal enuresis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q460591",
+        "entityLabel": "decompression sickness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653200",
+        "entityLabel": "flat feet problems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q697117",
+        "entityLabel": "spinal disc herniation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124407",
+        "entityLabel": "type-1 diabetes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1368943",
+        "entityLabel": "cerebral hemorrhage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q917069",
+        "entityLabel": "rhabdomyolysis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q216211",
+        "entityLabel": "hypertrophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5142470",
+        "entityLabel": "Raynaud syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848662",
+        "entityLabel": "ventricular fibrillation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q472664",
+        "entityLabel": "cretinism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q625506",
+        "entityLabel": "preterm birth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q637816",
+        "entityLabel": "occupational disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q824292",
+        "entityLabel": "hyponatremia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13522706",
+        "entityLabel": "colic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q835051",
+        "entityLabel": "hyperplasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q835718",
+        "entityLabel": "opportunistic infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q266018",
+        "entityLabel": "acute coronary syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q917620",
+        "entityLabel": "onychomycosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335941",
+        "entityLabel": "aboulia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q693442",
+        "entityLabel": "subarachnoid hemorrhage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2025687",
+        "entityLabel": "iron overload"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q949302",
+        "entityLabel": "skin disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q225957",
+        "entityLabel": "dysarthria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q100732653",
+        "entityLabel": "long covid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q510236",
+        "entityLabel": "neurasthenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2054837",
+        "entityLabel": "misophonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1069110",
+        "entityLabel": "Cotard delusion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q166907",
+        "entityLabel": "cluster headache"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q736776",
+        "entityLabel": "tennis elbow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q936382",
+        "entityLabel": "hypocalcaemia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2343082",
+        "entityLabel": "stenosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1620594",
+        "entityLabel": "hirsutism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1129121",
+        "entityLabel": "splenomegaly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1129338",
+        "entityLabel": "granuloma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1338684",
+        "entityLabel": "tension headache"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q377493",
+        "entityLabel": "selective mutism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q970208",
+        "entityLabel": "liver failure"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1765564",
+        "entityLabel": "septic shock"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q754031",
+        "entityLabel": "atelectasis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1330254",
+        "entityLabel": "Dupuytren's contracture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188611",
+        "entityLabel": "hypomania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q305641",
+        "entityLabel": "abasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19275831",
+        "entityLabel": "choking"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1762339",
+        "entityLabel": "deep vein thrombosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1129105",
+        "entityLabel": "diabetic nephropathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125466",
+        "entityLabel": "coprolalia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q143790",
+        "entityLabel": "alien hand syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q617079",
+        "entityLabel": "calculus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q856736",
+        "entityLabel": "Foreign accent syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1128996",
+        "entityLabel": "dysplasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q127664",
+        "entityLabel": "febrile seizure"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q465016",
+        "entityLabel": "health effects of tobacco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6279182",
+        "entityLabel": "seizure"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q744305",
+        "entityLabel": "abnormal lordosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q838145",
+        "entityLabel": "leukoplakia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q920766",
+        "entityLabel": "sweating sickness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1328805",
+        "entityLabel": "bone neoplasm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q268594",
+        "entityLabel": "stupor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424317",
+        "entityLabel": "acute abdomen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q615363",
+        "entityLabel": "torticollis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q625935",
+        "entityLabel": "hip dysplasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56002",
+        "entityLabel": "ventricular tachycardia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q138885",
+        "entityLabel": "traveler's diarrhea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q467056",
+        "entityLabel": "pearly penile papules"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1412657",
+        "entityLabel": "petechia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q936417",
+        "entityLabel": "paraneoplastic syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1141055",
+        "entityLabel": "diverticulum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q33121",
+        "entityLabel": "serum sickness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q88058672",
+        "entityLabel": "COVID-19 disease in pregnancy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q568321",
+        "entityLabel": "anoxia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2141001",
+        "entityLabel": "chilblains"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1320276",
+        "entityLabel": "hypovolemia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1339539",
+        "entityLabel": "empyema"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423927",
+        "entityLabel": "hypervitaminosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5114004",
+        "entityLabel": "chronic traumatic encephalopathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q101245788",
+        "entityLabel": "dementia with Lewy bodies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q511818",
+        "entityLabel": "tetany"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q545403",
+        "entityLabel": "hh blood group"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q558623",
+        "entityLabel": "aphakia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q961331",
+        "entityLabel": "pilonidal cyst"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1154321",
+        "entityLabel": "tonsillolith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q525075",
+        "entityLabel": "hamartoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q754447",
+        "entityLabel": "respiratory tract infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1787939",
+        "entityLabel": "sarcopenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1436099",
+        "entityLabel": "nymphomania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q944142",
+        "entityLabel": "suicidal ideation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1367304",
+        "entityLabel": "air embolism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52856",
+        "entityLabel": "diabetic foot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q209522",
+        "entityLabel": "binge eating disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221463",
+        "entityLabel": "mesenteric ischemia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2507454",
+        "entityLabel": "adrenal insufficiency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q552233",
+        "entityLabel": "ovarian torsion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q736599",
+        "entityLabel": "aspermia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q923339",
+        "entityLabel": "osteophyte"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1996053",
+        "entityLabel": "chronic pancreatitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1571008",
+        "entityLabel": "vulvodynia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1087232",
+        "entityLabel": "dyslalia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1166866",
+        "entityLabel": "Darwin's tubercle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2633267",
+        "entityLabel": "atypical pneumonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q951639",
+        "entityLabel": "dissociative fugue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q974792",
+        "entityLabel": "albuminuria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1147182",
+        "entityLabel": "fecal incontinence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117060",
+        "entityLabel": "spasticity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q196788",
+        "entityLabel": "cervical intraepithelial neoplasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4138762",
+        "entityLabel": "vitamin D deficiency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1453767",
+        "entityLabel": "Fregoli delusion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1188698",
+        "entityLabel": "thought disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1196503",
+        "entityLabel": "computer vision syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1199732",
+        "entityLabel": "xanthoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1260186",
+        "entityLabel": "hepatosplenomegaly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1268495",
+        "entityLabel": "metrorrhagia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14942021",
+        "entityLabel": "auto-brewery syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q852094",
+        "entityLabel": "Couvade syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1506572",
+        "entityLabel": "atrial flutter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1573613",
+        "entityLabel": "venous ulcer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1637035",
+        "entityLabel": "keratosis pilaris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1734755",
+        "entityLabel": "carcinoid tumor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1324592",
+        "entityLabel": "laryngospasm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2622199",
+        "entityLabel": "upper respiratory tract infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2633143",
+        "entityLabel": "abnormal uterine bleeding"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q119150394",
+        "entityLabel": "infectious bursal disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q621053",
+        "entityLabel": "taijin kyofusho"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q796150",
+        "entityLabel": "intertrigo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q840646",
+        "entityLabel": "premature heart beat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1467339",
+        "entityLabel": "hypertriglyceridemia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1572538",
+        "entityLabel": "nephroptosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1640998",
+        "entityLabel": "hyperkeratosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1729124",
+        "entityLabel": "cardiomegaly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1746068",
+        "entityLabel": "clavicle fracture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1209892",
+        "entityLabel": "colorectal polyp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1297985",
+        "entityLabel": "brain herniation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1351381",
+        "entityLabel": "ototoxicity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q141440",
+        "entityLabel": "brain abscess"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q386408",
+        "entityLabel": "African horse sickness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2546232",
+        "entityLabel": "Plagiocephaly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3241451",
+        "entityLabel": "childhood obesity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3288122",
+        "entityLabel": "pervasive developmental disorder not otherwise specified"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3311537",
+        "entityLabel": "hereditary disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q558404",
+        "entityLabel": "alcoholic liver disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q762583",
+        "entityLabel": "catarrh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q794072",
+        "entityLabel": "azotemia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q921907",
+        "entityLabel": "Charles Bonnet syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1858291",
+        "entityLabel": "hot flash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1970295",
+        "entityLabel": "oligomenorrhea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2423084",
+        "entityLabel": "agrammatism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1550742",
+        "entityLabel": "genu varum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1759560",
+        "entityLabel": "microtia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1035226",
+        "entityLabel": "Caput medusae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1132536",
+        "entityLabel": "persecutory delusion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1280852",
+        "entityLabel": "echopraxia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q332768",
+        "entityLabel": "survivor guilt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q486485",
+        "entityLabel": "anasarka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2697371",
+        "entityLabel": "Ramsay Hunt syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6150957",
+        "entityLabel": "gastric dilatation volvulus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q740731",
+        "entityLabel": "Jarisch-Herxheimer reaction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837054",
+        "entityLabel": "adenovirus infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2112703",
+        "entityLabel": "prolapse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1385411",
+        "entityLabel": "extrapyramidal symptoms"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1578799",
+        "entityLabel": "trichophagia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1614115",
+        "entityLabel": "hypervolemia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1632678",
+        "entityLabel": "Mallory–Weiss syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1741331",
+        "entityLabel": "receptive aphasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1758624",
+        "entityLabel": "pseudarthrosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1001150",
+        "entityLabel": "fibrillation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q340548",
+        "entityLabel": "achlorhydria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3045238",
+        "entityLabel": "congenital insensitivity to pain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3134276",
+        "entityLabel": "femoral hernia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15401586",
+        "entityLabel": "pneumocystis pneumonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q589612",
+        "entityLabel": "myxoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653383",
+        "entityLabel": "mallet finger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q797128",
+        "entityLabel": "bovine virus diarrhea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1948740",
+        "entityLabel": "Morton's neuroma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2247373",
+        "entityLabel": "Photophthalmia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1399293",
+        "entityLabel": "Binswanger's disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1444550",
+        "entityLabel": "arteriosclerotic heart disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q369262",
+        "entityLabel": "growth hormone deficiency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2581333",
+        "entityLabel": "post-concussion syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26781137",
+        "entityLabel": "premature ventricular contraction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4959681",
+        "entityLabel": "breakthrough infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q512942",
+        "entityLabel": "paraphasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q586878",
+        "entityLabel": "omphalitis of newborn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q629515",
+        "entityLabel": "stimulant psychosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1779438",
+        "entityLabel": "piblokto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1613885",
+        "entityLabel": "herpesviral encephalitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1671598",
+        "entityLabel": "intrauterine growth restriction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1757666",
+        "entityLabel": "Palilalia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1061988",
+        "entityLabel": "Flail chest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1106843",
+        "entityLabel": "caffeine dependence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2533616",
+        "entityLabel": "Rhinophyma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2558350",
+        "entityLabel": "Cracked nipple"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3297002",
+        "entityLabel": "smut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3399863",
+        "entityLabel": "postterm pregnancy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3774304",
+        "entityLabel": "sycosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18054140",
+        "entityLabel": "collapse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q555868",
+        "entityLabel": "olecranon bursitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q691112",
+        "entityLabel": "Muselmann"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q757676",
+        "entityLabel": "atony"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1934449",
+        "entityLabel": "Milium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2088972",
+        "entityLabel": "Phototoxicity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2215516",
+        "entityLabel": "ideas of reference and delusions of reference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1642094",
+        "entityLabel": "hematidrosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1760294",
+        "entityLabel": "trigonocephaly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1363741",
+        "entityLabel": "erythroderma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25787",
+        "entityLabel": "recurrent miscarriage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q390217",
+        "entityLabel": "Agalactia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2520684",
+        "entityLabel": "odontoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2915477",
+        "entityLabel": "folate deficiency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2916477",
+        "entityLabel": "complications of pregnancy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3435504",
+        "entityLabel": "AIDS dementia complex"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3518022",
+        "entityLabel": "rotator cuff tear"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3543799",
+        "entityLabel": "nipple discharge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28823477",
+        "entityLabel": "passive–aggressive personality disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10480798",
+        "entityLabel": "ectopia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11167292",
+        "entityLabel": "False memory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q580754",
+        "entityLabel": "self-defeating personality disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q737712",
+        "entityLabel": "asplenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q840910",
+        "entityLabel": "metritis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q923164",
+        "entityLabel": "expressive aphasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2035032",
+        "entityLabel": "osteochondroma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2213687",
+        "entityLabel": "sacroiliitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2291593",
+        "entityLabel": "scaphocephaly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2323502",
+        "entityLabel": "variant Creutzfeldt–Jakob disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1405631",
+        "entityLabel": "fever of unknown origin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1756659",
+        "entityLabel": "medication overuse headache"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1228633",
+        "entityLabel": "disease mongering"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1362494",
+        "entityLabel": "Rapunzel syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q341201",
+        "entityLabel": "achylia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q475510",
+        "entityLabel": "intestinal parasite infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2496447",
+        "entityLabel": "obstetrical hemorrhage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3128789",
+        "entityLabel": "spontaneous bacterial peritonitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19772377",
+        "entityLabel": "non-celiac gluten sensitivity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5160447",
+        "entityLabel": "congenital melanocytic nevus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5922406",
+        "entityLabel": "inflammatory breast cancer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q690210",
+        "entityLabel": "dysosmia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q748376",
+        "entityLabel": "phakomatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2003151",
+        "entityLabel": "livedo reticularis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2031871",
+        "entityLabel": "vibration white finger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2103933",
+        "entityLabel": "REM sleep behavior disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2161683",
+        "entityLabel": "erythema ab igne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2280546",
+        "entityLabel": "Shy-Drager syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1473802",
+        "entityLabel": "osteoid osteoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1671489",
+        "entityLabel": "fructose malabsorption"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1142806",
+        "entityLabel": "developmental disability"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1224503",
+        "entityLabel": "diffuse esophageal spasm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q53829",
+        "entityLabel": "thyroid nodule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q163469",
+        "entityLabel": "pneumoperitoneum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q441094",
+        "entityLabel": "milk-alkali syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2580627",
+        "entityLabel": "Masked depression"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2703671",
+        "entityLabel": "Haemolacria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2977746",
+        "entityLabel": "Toxic multinodular goitre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3130829",
+        "entityLabel": "Lunatic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3740798",
+        "entityLabel": "rectovaginal fistula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q57157864",
+        "entityLabel": "Early pregnancy bleeding"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5032577",
+        "entityLabel": "cannabinoid hyperemesis syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5360758",
+        "entityLabel": "Micromastia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5643617",
+        "entityLabel": "Haltlose personality disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10302339",
+        "entityLabel": "Health effects of pesticides"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17071650",
+        "entityLabel": "Calcium channel blocker toxicity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q494066",
+        "entityLabel": "experimental autoimmune encephalomyelitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q688949",
+        "entityLabel": "fibromuscular dysplasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q695954",
+        "entityLabel": "psychogenic pain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q734123",
+        "entityLabel": "asomatognosia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q881811",
+        "entityLabel": "pemphigoid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2249526",
+        "entityLabel": "cerebral hypoxia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1410851",
+        "entityLabel": "fibromatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1431933",
+        "entityLabel": "Aortoiliac occlusive disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1638637",
+        "entityLabel": "polycoria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1711733",
+        "entityLabel": "Salter–Harris fracture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1069694",
+        "entityLabel": "retroverted uterus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1138267",
+        "entityLabel": "coxa vara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1200233",
+        "entityLabel": "dermatochalasis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16485",
+        "entityLabel": "De Quervain's thyroiditis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18579",
+        "entityLabel": "frontotemporal lobar degeneration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2923350",
+        "entityLabel": "brachymetatarsia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2973381",
+        "entityLabel": "reduced affect display"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28032350",
+        "entityLabel": "paroxysmal supraventricular tachycardia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6469117",
+        "entityLabel": "lacunar stroke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7234232",
+        "entityLabel": "posterior reversible encephalopathy syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q499857",
+        "entityLabel": "hibernoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q593277",
+        "entityLabel": "chemotherapy-induced acral erythema"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q628648",
+        "entityLabel": "Eagle syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q658873",
+        "entityLabel": "radiation burn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q864868",
+        "entityLabel": "bone marrow suppression"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q905389",
+        "entityLabel": "dichromatopsia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1777118",
+        "entityLabel": "knee osteoarthritis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1827380",
+        "entityLabel": "pseudogynecomastia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2029906",
+        "entityLabel": "Paraproctitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2040895",
+        "entityLabel": "canine influenza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2458539",
+        "entityLabel": "skin infection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1422574",
+        "entityLabel": "Gradenigo's syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1432717",
+        "entityLabel": "catatonic schizophrenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1459798",
+        "entityLabel": "Keratoglobus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1510899",
+        "entityLabel": "hemoperitoneum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1519657",
+        "entityLabel": "parakeratosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1620193",
+        "entityLabel": "cerebral degeneration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1640632",
+        "entityLabel": "Labial fusion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1093388",
+        "entityLabel": "minimally conscious state"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1130192",
+        "entityLabel": "Basuritis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1275814",
+        "entityLabel": "konzo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1365091",
+        "entityLabel": "steatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q356713",
+        "entityLabel": "aspergilloma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360035",
+        "entityLabel": "Dhat syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q475086",
+        "entityLabel": "aggressive fibromatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2569523",
+        "entityLabel": "Skumin syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2632078",
+        "entityLabel": "proctalgia fugax"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3046374",
+        "entityLabel": "zygomycosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3099702",
+        "entityLabel": "athletic pubalgia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3143800",
+        "entityLabel": "water retention"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3145111",
+        "entityLabel": "heterophoria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3408668",
+        "entityLabel": "prurigo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3540864",
+        "entityLabel": "balance disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3540887",
+        "entityLabel": "sensory processing differences"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4338646",
+        "entityLabel": "osteochondropathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q51302742",
+        "entityLabel": "caffeinism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5437240",
+        "entityLabel": "fat necrosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9386039",
+        "entityLabel": "perinatal infectious disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15124212",
+        "entityLabel": "lung neoplasm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15401621",
+        "entityLabel": "Trousseau's syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q609066",
+        "entityLabel": "avolition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q640836",
+        "entityLabel": "Lujan–Fryns syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q656199",
+        "entityLabel": "torsion dystonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q786468",
+        "entityLabel": "frontal lobe disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q820818",
+        "entityLabel": "Phlegmasia cerulea dolens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1883190",
+        "entityLabel": "madarosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1901516",
+        "entityLabel": "retrognathism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2105535",
+        "entityLabel": "porcelain gallbladder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2113512",
+        "entityLabel": "proteopathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2385892",
+        "entityLabel": "astasis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1435219",
+        "entityLabel": "focal nodular hyperplasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1664923",
+        "entityLabel": "kraurosis vulvae"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1687472",
+        "entityLabel": "vesicle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1688105",
+        "entityLabel": "Freiberg disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1753467",
+        "entityLabel": "pathologic fracture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43898",
+        "entityLabel": "epiploic appendagitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52859",
+        "entityLabel": "diabetic foot ulcer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2521341",
+        "entityLabel": "pitted keratolysis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2681162",
+        "entityLabel": "eye injury"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3055079",
+        "entityLabel": "enthesitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3130277",
+        "entityLabel": "pretibial myxedema"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3264425",
+        "entityLabel": "loxoscelism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4138763",
+        "entityLabel": "thiamine deficiency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40649915",
+        "entityLabel": "choristoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5978885",
+        "entityLabel": "European foulbrood"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6811539",
+        "entityLabel": "melanosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6883955",
+        "entityLabel": "mixed anxiety-depressive disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6993502",
+        "entityLabel": "neonatal abstinence syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7161799",
+        "entityLabel": "pelvic floor dysfunction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10267833",
+        "entityLabel": "psychosomatic disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14594748",
+        "entityLabel": "Webbed penis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17164695",
+        "entityLabel": "lumbar spinal stenosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18350119",
+        "entityLabel": "acute flaccid myelitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q495068",
+        "entityLabel": "Todd's paresis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q517782",
+        "entityLabel": "Dactylitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q738101",
+        "entityLabel": "Condyloma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826918",
+        "entityLabel": "bone cyst"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q827017",
+        "entityLabel": "gait abnormality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1920586",
+        "entityLabel": "meningeal carcinomatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2056680",
+        "entityLabel": "Patella bipartita"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2060353",
+        "entityLabel": "Bulbar palsy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2311755",
+        "entityLabel": "splenosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425208",
+        "entityLabel": "hallux rigidus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1529650",
+        "entityLabel": "vitreous hemorrhage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1597484",
+        "entityLabel": "ear mite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1658731",
+        "entityLabel": "postoperative nausea and vomiting"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q955454",
+        "entityLabel": "coxa valga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1024546",
+        "entityLabel": "cancer of unknown primary origin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1095925",
+        "entityLabel": "Facet syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1286499",
+        "entityLabel": "dust mite allergy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q290213",
+        "entityLabel": "Purtscher's retinopathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2527831",
+        "entityLabel": "virilism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2555537",
+        "entityLabel": "Lacunar amnesia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2856379",
+        "entityLabel": "kyphoscoliosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19972185",
+        "entityLabel": "tubo-ovarian abscess"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21087540",
+        "entityLabel": "central sensitization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3508650",
+        "entityLabel": "Grisel's syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3542027",
+        "entityLabel": "epithelioma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3774229",
+        "entityLabel": "Transient acantholytic dermatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27698000",
+        "entityLabel": "Anisomastia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30325669",
+        "entityLabel": "cat bite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q59484501",
+        "entityLabel": "anemia in pregnancy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q64348505",
+        "entityLabel": "calcium pyrophosphate dihydrate crystal deposition disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4665123",
+        "entityLabel": "abdominal compartment syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4770152",
+        "entityLabel": "anopsia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4998855",
+        "entityLabel": "Buried penis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5382596",
+        "entityLabel": "Epicondylitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q54875151",
+        "entityLabel": "knee dislocation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6368059",
+        "entityLabel": "Karak syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7920253",
+        "entityLabel": "ventilator-associated pneumonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15043641",
+        "entityLabel": "Frontotemporal dementia and parkinsonism linked to chromosome 17"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15218681",
+        "entityLabel": "seasickness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17162726",
+        "entityLabel": "soil-transmitted helminthiasis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q733616",
+        "entityLabel": "Erythema induratum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q816912",
+        "entityLabel": "Benedikt syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q827216",
+        "entityLabel": "Nasal septal hematoma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q866622",
+        "entityLabel": "bisphosphonate-associated osteonecrosis of the jaw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2026920",
+        "entityLabel": "opioid withdrawal syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2045954",
+        "entityLabel": "Haff disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2460356",
+        "entityLabel": "delusional misidentification syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1492283",
+        "entityLabel": "biliary sludge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1534492",
+        "entityLabel": "microhematuria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1569702",
+        "entityLabel": "osteitis pubis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1581308",
+        "entityLabel": "conductive hearing loss"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1593114",
+        "entityLabel": "spermaturia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1776864",
+        "entityLabel": "acoustic shock"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1223924",
+        "entityLabel": "papillomatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1234529",
+        "entityLabel": "Doege–Potter syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1269235",
+        "entityLabel": "dyschezia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1346134",
+        "entityLabel": "enzootic bovine leukosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1367782",
+        "entityLabel": "gluten-related disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241827",
+        "entityLabel": "Upper airway resistance syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q447828",
+        "entityLabel": "aluminosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q448747",
+        "entityLabel": "alveolitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q471812",
+        "entityLabel": "colour vision deficiency"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3144201",
+        "entityLabel": "excessive daytime sleepiness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3148841",
+        "entityLabel": "meconium ileus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3208285",
+        "entityLabel": "post-schizophrenic depression"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3237081",
+        "entityLabel": "leukoencephalopathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3281296",
+        "entityLabel": "Schamberg disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3333223",
+        "entityLabel": "Menometrorrhagia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3445377",
+        "entityLabel": "regressive autism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3449191",
+        "entityLabel": "organic personality disorder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3500973",
+        "entityLabel": "lipoatrophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3832889",
+        "entityLabel": "Lymphangiectasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4198677",
+        "entityLabel": "complications of diabetes mellitus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4330029",
+        "entityLabel": "airway obstruction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4818889",
+        "entityLabel": "Atypical ductal hyperplasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6132707",
+        "entityLabel": "thrombocytopenic purpura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6311294",
+        "entityLabel": "Jumping Frenchmen of Maine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6758201",
+        "entityLabel": "Marcus Gunn pupil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7049641",
+        "entityLabel": "nonunion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108057830",
+        "entityLabel": "Typhus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7240236",
+        "entityLabel": "premature atrial contraction"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7256456",
+        "entityLabel": "psychoorganic syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7943634",
+        "entityLabel": "Vulvar vestibulitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13257137",
+        "entityLabel": "lentigo maligna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13616307",
+        "entityLabel": "osteochondritis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13641482",
+        "entityLabel": "kidney neoplasm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17141201",
+        "entityLabel": "tinea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q605576",
+        "entityLabel": "May–Thurner syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q863710",
+        "entityLabel": "condylomata lata"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q890167",
+        "entityLabel": "giant condyloma acuminatum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q922215",
+        "entityLabel": "insulitis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1783300",
+        "entityLabel": "contrast-induced nephropathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2071182",
+        "entityLabel": "peritoneal carcinomatosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2099945",
+        "entityLabel": "sudden death in athletes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2270671",
+        "entityLabel": "intestinal capillariasis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2373700",
+        "entityLabel": "clostridial necrotizing enteritis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2471453",
+        "entityLabel": "Psychogenic disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1467170",
+        "entityLabel": "Chronic Somogyi rebound"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1472019",
+        "entityLabel": "apparent life-threatening event syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1524166",
+        "entityLabel": "pigeon toe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1544517",
+        "entityLabel": "oneiroid syndrome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1665961",
+        "entityLabel": "intercostal neuralgia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1753520",
+        "entityLabel": "rheumatoid nodule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1764657",
+        "entityLabel": "malum perforans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1236057",
+        "entityLabel": "conduction aphasia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1248007",
+        "entityLabel": "vascular occlusion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1307866",
+        "entityLabel": "Poikiloderma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16488",
+        "entityLabel": "postpartum thyroiditis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q322370",
+        "entityLabel": "ablepharon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2495736",
+        "entityLabel": "chronic headache"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2583597",
+        "entityLabel": "sinus arrhythmia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q82069695",
+        "entityLabel": "SARS-CoV-2"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q332874",
+        "entityLabel": "tobacco mosaic virus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104376647",
+        "entityLabel": "SARS-CoV-2 Alpha variant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24808810",
+        "entityLabel": "Mojiang henipavirus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18967977",
+        "entityLabel": "Tomato chlorosis virus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22105487",
+        "entityLabel": "Influenza A virus H11N2"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105759613",
+        "entityLabel": "16BO133"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22105506",
+        "entityLabel": "Influenza A virus H11N9"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22105547",
+        "entityLabel": "Influenza A virus H18N11"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22105570",
+        "entityLabel": "Influenza A virus H1N8"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22105591",
+        "entityLabel": "Influenza A virus H3N3"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22105611",
+        "entityLabel": "Influenza A virus H4N1"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22105650",
+        "entityLabel": "Influenza A virus H5N6"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65091371",
+        "entityLabel": "Linepithema humile virus 1"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q70641863",
+        "entityLabel": "Vespertilionid gammaherpesvirus 1"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114865257",
+        "entityLabel": "Trojan Horse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116551921",
+        "entityLabel": "Human circovirus 1"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111165845",
+        "entityLabel": "Antarcticimicrobium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111165836",
+        "entityLabel": "Alkalilacustris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111167985",
+        "entityLabel": "Acidimangrovimonas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113527596",
+        "entityLabel": "Oliverpabstia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113527668",
+        "entityLabel": "Porcincola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113527805",
+        "entityLabel": "Suipraeoptans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113527926",
+        "entityLabel": "Velocimicrobium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q121303212",
+        "entityLabel": "Jinshanibacter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118640085",
+        "entityLabel": "Pseudomonas fluorescens SBW25"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q128597121",
+        "entityLabel": "Smell of menstruation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15989108",
+        "entityLabel": "Western African Ebola virus epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q87070975",
+        "entityLabel": "COVID-19 pandemic in Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q758173",
+        "entityLabel": "Plague of Athens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129099995",
+        "entityLabel": "2023-2024 mpox epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21686043",
+        "entityLabel": "2015–16 Zika virus epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1936002",
+        "entityLabel": "Great Plague of Marseille"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q834456",
+        "entityLabel": "2002–2004 SARS outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55887234",
+        "entityLabel": "2018–2020 Kivu Ebola epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327056",
+        "entityLabel": "2011 Germany E. coli O104:H4 outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1582992",
+        "entityLabel": "Tanganyika laughter epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3307987",
+        "entityLabel": "Italian Plague of 1629-1631"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5599700",
+        "entityLabel": "Great Northern War plague outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2035019",
+        "entityLabel": "1854 Broad Street cholera outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4532199",
+        "entityLabel": "sociogenic illness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63472138",
+        "entityLabel": "cocoliztli epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17999999",
+        "entityLabel": "2014 Democratic Republic of the Congo Ebola virus outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q36302993",
+        "entityLabel": "Gorakhpur hospital deaths"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q89277064",
+        "entityLabel": "2020 COVID-19 pandemic in Nauru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3106687",
+        "entityLabel": "Gin Craze"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20024455",
+        "entityLabel": "2015 South Korea respiratory syndrome coronavirus outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q88772394",
+        "entityLabel": "1772–1773 Persian Plague"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2579041",
+        "entityLabel": "2009–2010 West African meningitis outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8051877",
+        "entityLabel": "yellow fever in Buenos Aires"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2361458",
+        "entityLabel": "Groningen epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8051732",
+        "entityLabel": "1793 Philadelphia yellow fever epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65057558",
+        "entityLabel": "1563 London plague"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110264330",
+        "entityLabel": "Hittite plague"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q671297",
+        "entityLabel": "1983 West Bank fainting epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25052814",
+        "entityLabel": "Sleep hollow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106075743",
+        "entityLabel": "Impact of the COVID-19 pandemic on animals"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4613917",
+        "entityLabel": "2009 Gujarat hepatitis outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7861365",
+        "entityLabel": "typhus epidemic of 1847"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19881562",
+        "entityLabel": "2015 Indian swine flu outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q59466726",
+        "entityLabel": "1870 Barcelona yellow fever epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q88166997",
+        "entityLabel": "412 BC epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4615343",
+        "entityLabel": "2009 flu pandemic in Brazil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16156370",
+        "entityLabel": "2007 Yap Islands Zika virus outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18205063",
+        "entityLabel": "2014 Ebola virus epidemic in Sierra Leone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18208679",
+        "entityLabel": "2014 Ebola virus epidemic in Liberia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23009704",
+        "entityLabel": "Shimla jaundice outbreak (December 2015 – Present)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66798078",
+        "entityLabel": "2019 Kuala Koh measles outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96256092",
+        "entityLabel": "1913 Romanian Army cholera outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96417312",
+        "entityLabel": "1976 Zaire Ebola virus outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107600580",
+        "entityLabel": "Malaria in Mandatory Palestine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4613371",
+        "entityLabel": "2009 Bolivian dengue fever epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18160902",
+        "entityLabel": "2014 Ebola virus epidemic in Guinea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24907766",
+        "entityLabel": "2016 yellow fever epidemic in Angola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65063729",
+        "entityLabel": "Psittacosis outbreak of 1929–1930"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q85973579",
+        "entityLabel": "2019–20 Philippines polio outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q87720284",
+        "entityLabel": "1821 Barcelona yellow fever epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104916456",
+        "entityLabel": "Atlantic Plague"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124466273",
+        "entityLabel": "1770s Pacific Northwest smallpox epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4677927",
+        "entityLabel": "Acute haemorrhagic conjunctivitis in Ghana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7128048",
+        "entityLabel": "Palm Island mystery disease"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25463711",
+        "entityLabel": "1915 typhus and relapsing fever epidemic in Serbia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q61082084",
+        "entityLabel": "Romanian typhus outbreak during WWI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q93506189",
+        "entityLabel": "1853 Stockholm cholera outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104858040",
+        "entityLabel": "COVID-19 pandemic in Crown dependencies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110103570",
+        "entityLabel": "1494 Hispaniola yellow fever epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111036496",
+        "entityLabel": "Plague epidemic in Kiev in 1770-1771"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113581316",
+        "entityLabel": "2022 Langya virus outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113584914",
+        "entityLabel": "2022 Henan H3N8 outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115641908",
+        "entityLabel": "2022 meningitis outbreak in Durango, Mexico"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116188912",
+        "entityLabel": "1603 London plague"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q121878867",
+        "entityLabel": "580 dysentery epidemic in Gaul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124287589",
+        "entityLabel": "1922 outbreak of Plague in Jaffa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124399256",
+        "entityLabel": "2021 China African Swine fever outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129092955",
+        "entityLabel": "1804 Cartagena yellow fever epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1470579",
+        "entityLabel": "Otter Valley polio epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2036106",
+        "entityLabel": "1916 polio epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2500113",
+        "entityLabel": "Walcheren Fever"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2925345",
+        "entityLabel": "Brigantine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3589134",
+        "entityLabel": "2008 measles epidemic in France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4627596",
+        "entityLabel": "2012 salmonella outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4920299",
+        "entityLabel": "Black Assize"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5192094",
+        "entityLabel": "Cuban neuropathy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15851777",
+        "entityLabel": "Gelsenkirchen Typhoid Epidemic of 1901"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17768693",
+        "entityLabel": "2006 Norwegian E. coli outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23019864",
+        "entityLabel": "Metsovo Lung"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45819176",
+        "entityLabel": "Malayan filariasis in Hachijo-Kojima Island"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60575736",
+        "entityLabel": "Plague epidemic in Morocco (1799-1800)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65081469",
+        "entityLabel": "1916 New York City polio epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65238303",
+        "entityLabel": "giardia outbreak in Bergen in 2004"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q95743242",
+        "entityLabel": "coronavirus disease COVID-19 in Russia's care homes for the elderly and disabled"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97255679",
+        "entityLabel": "African swine fever  outbreak in Calabarzon region"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106375991",
+        "entityLabel": "Eastern Denmark 1831 epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106477033",
+        "entityLabel": "Pesten i Stockholm 1710–1711"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106574817",
+        "entityLabel": "Lower Mississippi Valley yellow fever epidemic of 1878"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109170669",
+        "entityLabel": "1738–1739 North Carolina smallpox epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110614024",
+        "entityLabel": "Encephalitis lethargica epidemic of 1915-1926"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112127821",
+        "entityLabel": "1871-1873 Baltimore smallpox epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112128752",
+        "entityLabel": "1882-1883 Baltimore smallpox epidemic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123007605",
+        "entityLabel": "Pacific Northwest Measles Epidemic of 1847-1848"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129219486",
+        "entityLabel": "19th century smallpox epidemic in Java"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26257759",
+        "entityLabel": "2014 polio outbreaks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q67222266",
+        "entityLabel": "1518 Smallpox Epidemic in the Caribbean"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q90536205",
+        "entityLabel": "2013–20 olive quick decline syndrome outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q99496421",
+        "entityLabel": "Lanzhou Brucellosis outbreak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105954104",
+        "entityLabel": "COVID-19 pandemic in Langeoog"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1997",
+        "entityLabel": "carbon dioxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q153",
+        "entityLabel": "ethanol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28086552",
+        "entityLabel": "(−)-nicotine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41576",
+        "entityLabel": "cocaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18216",
+        "entityLabel": "aspirin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q199678",
+        "entityLabel": "vitamin C"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25381",
+        "entityLabel": "amber"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q57055",
+        "entityLabel": "paracetamol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60235",
+        "entityLabel": "caffeine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47512",
+        "entityLabel": "acetic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60168",
+        "entityLabel": "heroin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q81225",
+        "entityLabel": "morphine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179731",
+        "entityLabel": "sodium bicarbonate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q130336",
+        "entityLabel": "phenol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q132621",
+        "entityLabel": "epinephrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1318776",
+        "entityLabel": "testosterone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2314",
+        "entityLabel": "sodium chloride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80863",
+        "entityLabel": "adenosine triphosphate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q170304",
+        "entityLabel": "dopamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23118",
+        "entityLabel": "lysergic acid diethylamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23767",
+        "entityLabel": "calcium carbonate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191521",
+        "entityLabel": "sildenafil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83187",
+        "entityLabel": "thiamine(1+) ion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q130365",
+        "entityLabel": "riboflavin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15277",
+        "entityLabel": "adenine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q620730",
+        "entityLabel": "glycine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186969",
+        "entityLabel": "ibuprofen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162867",
+        "entityLabel": "nitroglycerin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q218642",
+        "entityLabel": "L-alanine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q127060",
+        "entityLabel": "folic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191924",
+        "entityLabel": "D-methamphetamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q161249",
+        "entityLabel": "DL-lactic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180912",
+        "entityLabel": "melatonin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q170617",
+        "entityLabel": "glucagon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190865",
+        "entityLabel": "potassium permanganate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26272",
+        "entityLabel": "atropine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q243547",
+        "entityLabel": "ketamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q905750",
+        "entityLabel": "nitrous oxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q174723",
+        "entityLabel": "codeine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179452",
+        "entityLabel": "DL-amphetamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181003",
+        "entityLabel": "tryptophan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201928",
+        "entityLabel": "amoxicillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q178450",
+        "entityLabel": "L-aspartic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184630",
+        "entityLabel": "potassium chloride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189522",
+        "entityLabel": "quinine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190875",
+        "entityLabel": "cortisol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173670",
+        "entityLabel": "L-arginine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q483745",
+        "entityLabel": "L-leucine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181354",
+        "entityLabel": "biotin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q483752",
+        "entityLabel": "L-valine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180623",
+        "entityLabel": "acetylcholine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188017",
+        "entityLabel": "L-tyrosine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193572",
+        "entityLabel": "salicylic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q170545",
+        "entityLabel": "phenylalanine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q484940",
+        "entityLabel": "L-isoleucine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q485277",
+        "entityLabel": "L-histidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181619",
+        "entityLabel": "L-glutamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183290",
+        "entityLabel": "L-serine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186242",
+        "entityLabel": "norepinephrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186474",
+        "entityLabel": "L-Cysteine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190077",
+        "entityLabel": "zinc oxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182040",
+        "entityLabel": "aspartame"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186521",
+        "entityLabel": "L-threonine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208451",
+        "entityLabel": "calcium chloride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191700",
+        "entityLabel": "benzoic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192717",
+        "entityLabel": "streptomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26963",
+        "entityLabel": "progesterone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407541",
+        "entityLabel": "fentanyl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193045",
+        "entityLabel": "tetracycline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207843",
+        "entityLabel": "nitric oxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q214769",
+        "entityLabel": "magnesium oxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q187921",
+        "entityLabel": "phenolphthaleina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202501",
+        "entityLabel": "royal jelly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210402",
+        "entityLabel": "diazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213580",
+        "entityLabel": "pyruvic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q288266",
+        "entityLabel": "magnesium sulfate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q244408",
+        "entityLabel": "Diclofenac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190012",
+        "entityLabel": "adenosine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213050",
+        "entityLabel": "succinic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q223600",
+        "entityLabel": "creatine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q206844",
+        "entityLabel": "theobromine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q245280",
+        "entityLabel": "D-sorbitol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q274515",
+        "entityLabel": "chloramphenicol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203174",
+        "entityLabel": "thalidomide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407418",
+        "entityLabel": "L-menthol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28209496",
+        "entityLabel": "remdesivir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421094",
+        "entityLabel": "hydroxychloroquine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193166",
+        "entityLabel": "choline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q219626",
+        "entityLabel": "(−)-ephedrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7739",
+        "entityLabel": "arsenic trioxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q121874",
+        "entityLabel": "potassium iodide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422438",
+        "entityLabel": "chloroquine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q244150",
+        "entityLabel": "ampicillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201552",
+        "entityLabel": "inulin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q165399",
+        "entityLabel": "azithromycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422244",
+        "entityLabel": "fluoxetine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q273169",
+        "entityLabel": "capsaicin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319877",
+        "entityLabel": "alprazolam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190067",
+        "entityLabel": "tetrahydrocannabinol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q216935",
+        "entityLabel": "lidocaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19484",
+        "entityLabel": "metformin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422416",
+        "entityLabel": "17β-estradiol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422442",
+        "entityLabel": "doxycycline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422740",
+        "entityLabel": "propofol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q169569",
+        "entityLabel": "metronidazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407125",
+        "entityLabel": "aluminum hydroxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407535",
+        "entityLabel": "oxycodone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422252",
+        "entityLabel": "dexamethasone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423071",
+        "entityLabel": "midazolam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q251347",
+        "entityLabel": "haloperidol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337188",
+        "entityLabel": "L-scopolamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207920",
+        "entityLabel": "4-hydroxybutyric acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213511",
+        "entityLabel": "erythromycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q139857",
+        "entityLabel": "fumaric acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q147101",
+        "entityLabel": "aciclovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407592",
+        "entityLabel": "tramadol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408032",
+        "entityLabel": "edetic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423746",
+        "entityLabel": "pyridoxine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q256602",
+        "entityLabel": "ciprofloxacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q309438",
+        "entityLabel": "anabolic steroid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q339975",
+        "entityLabel": "sodium nitrite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q211509",
+        "entityLabel": "oseltamivir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408265",
+        "entityLabel": "lorazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421894",
+        "entityLabel": "Prussian blue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422210",
+        "entityLabel": "omeprazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1215575",
+        "entityLabel": "naproxen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327362",
+        "entityLabel": "triiodothyronine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q198504",
+        "entityLabel": "zidovudine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20136",
+        "entityLabel": "root vegetable"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q71969",
+        "entityLabel": "methenamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116907",
+        "entityLabel": "glutathione"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410358",
+        "entityLabel": "rac-salbutamol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407617",
+        "entityLabel": "sertraline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410412",
+        "entityLabel": "carbamazepin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q668093",
+        "entityLabel": "atorvastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183309",
+        "entityLabel": "guanidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58397",
+        "entityLabel": "amitriptyline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q388801",
+        "entityLabel": "furosemide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407172",
+        "entityLabel": "chorionic gonadotropin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407241",
+        "entityLabel": "phenobarbital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407972",
+        "entityLabel": "chlorpromazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407988",
+        "entityLabel": "clonazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422112",
+        "entityLabel": "methylphenidate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422222",
+        "entityLabel": "digoxin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423075",
+        "entityLabel": "cetirizine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424049",
+        "entityLabel": "loratadine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q834280",
+        "entityLabel": "bupropion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55434",
+        "entityLabel": "pethidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62947",
+        "entityLabel": "flunitrazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410400",
+        "entityLabel": "phenytoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413546",
+        "entityLabel": "clotrimazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419164",
+        "entityLabel": "hydroquinone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421095",
+        "entityLabel": "metoclopramide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423169",
+        "entityLabel": "isoniazid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423930",
+        "entityLabel": "hydrochlorothiazide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q256502",
+        "entityLabel": "alpha-linolenic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q304330",
+        "entityLabel": "abacavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q318369",
+        "entityLabel": "adenosine monophosphate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q326224",
+        "entityLabel": "(S)-(−)-colchicine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32921",
+        "entityLabel": "halothane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411629",
+        "entityLabel": "albendazol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407308",
+        "entityLabel": "theophylline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407548",
+        "entityLabel": "magnesium hydroxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421781",
+        "entityLabel": "cupric chloride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422232",
+        "entityLabel": "methotrexate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422273",
+        "entityLabel": "clindamycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422652",
+        "entityLabel": "rifampicin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422689",
+        "entityLabel": "β-lactulose"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q282902",
+        "entityLabel": "naloxone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q327506",
+        "entityLabel": "D-glucosamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q375613",
+        "entityLabel": "acetylcysteine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28746",
+        "entityLabel": "flavin adenine dinucleotide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52353",
+        "entityLabel": "benzyl alcohol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410441",
+        "entityLabel": "modafinil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412178",
+        "entityLabel": "tamoxifen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412443",
+        "entityLabel": "risperidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407927",
+        "entityLabel": "dimethyl sulfoxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409231",
+        "entityLabel": "indomethacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422185",
+        "entityLabel": "enalapril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423762",
+        "entityLabel": "paclitaxel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q258450",
+        "entityLabel": "benzylpenicillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q300989",
+        "entityLabel": "levodopa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410374",
+        "entityLabel": "papaverine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410922",
+        "entityLabel": "fluorescein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411417",
+        "entityLabel": "cephalexin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411478",
+        "entityLabel": "fluconazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407721",
+        "entityLabel": "buprenorphine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407781",
+        "entityLabel": "dextromethorphan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408524",
+        "entityLabel": "(RS)-cyclophosphamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408535",
+        "entityLabel": "quetiapine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409468",
+        "entityLabel": "(RS)-metoprolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413486",
+        "entityLabel": "diphenhydramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422194",
+        "entityLabel": "mebendazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424027",
+        "entityLabel": "vancomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q670131",
+        "entityLabel": "simvastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q367700",
+        "entityLabel": "cyclosporine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201872",
+        "entityLabel": "olanzapine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221361",
+        "entityLabel": "clozapine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q139347",
+        "entityLabel": "cholecalciferol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412415",
+        "entityLabel": "cisplatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412515",
+        "entityLabel": "bisoprolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410237",
+        "entityLabel": "clopidogrel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421119",
+        "entityLabel": "captopril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422241",
+        "entityLabel": "sodium lauryl sulfate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422761",
+        "entityLabel": "metamizole sodium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423751",
+        "entityLabel": "loperamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424193",
+        "entityLabel": "levofloxacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11426176",
+        "entityLabel": "prednisolone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15646788",
+        "entityLabel": "chlorhexidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q263958",
+        "entityLabel": "(+)-pseudoephedrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q139200",
+        "entityLabel": "ergocalciferol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410352",
+        "entityLabel": "gabapentin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412318",
+        "entityLabel": "ethambutol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410346",
+        "entityLabel": "lamotrigine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421713",
+        "entityLabel": "ceftriaxone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423741",
+        "entityLabel": "procaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424976",
+        "entityLabel": "retinol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118551",
+        "entityLabel": "clarithromycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q139195",
+        "entityLabel": "calcitriol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411325",
+        "entityLabel": "atenolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411441",
+        "entityLabel": "hydrocodone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412174",
+        "entityLabel": "pregabalin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408883",
+        "entityLabel": "thymol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409632",
+        "entityLabel": "(RS)-pentobarbital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409665",
+        "entityLabel": "disulfiram"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409761",
+        "entityLabel": "amantadine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410061",
+        "entityLabel": "amiodarone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410198",
+        "entityLabel": "L-ornithine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413728",
+        "entityLabel": "cefuroxime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422301",
+        "entityLabel": "secretin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424165",
+        "entityLabel": "minoxidil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424167",
+        "entityLabel": "finasteride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q426921",
+        "entityLabel": "artemisinin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q286846",
+        "entityLabel": "pantoprazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q39111",
+        "entityLabel": "nifedipine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412323",
+        "entityLabel": "rituximab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412486",
+        "entityLabel": "allopurinol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408529",
+        "entityLabel": "amikacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410291",
+        "entityLabel": "verapamil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413918",
+        "entityLabel": "isoflurane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415081",
+        "entityLabel": "donepezil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416132",
+        "entityLabel": "betamethasone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420035",
+        "entityLabel": "sulfasalazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421709",
+        "entityLabel": "nandrolone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422188",
+        "entityLabel": "spironolactone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422631",
+        "entityLabel": "lamivudine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422665",
+        "entityLabel": "trimethoprim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422745",
+        "entityLabel": "benzocaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q553223",
+        "entityLabel": "esomeprazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16934561",
+        "entityLabel": "favipiravir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q282003",
+        "entityLabel": "lindane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q367994",
+        "entityLabel": "calcium cyanamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192423",
+        "entityLabel": "niacinamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241516",
+        "entityLabel": "povidone-iodine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18936",
+        "entityLabel": "doxorubicin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18939",
+        "entityLabel": "azathioprine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411377",
+        "entityLabel": "linezolid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412208",
+        "entityLabel": "lisinopril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412223",
+        "entityLabel": "amphotericin B"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407841",
+        "entityLabel": "reserpine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q407883",
+        "entityLabel": "Ketoconazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408626",
+        "entityLabel": "L-cystine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408641",
+        "entityLabel": "L-citrulline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408801",
+        "entityLabel": "celecoxib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408977",
+        "entityLabel": "vincristine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410069",
+        "entityLabel": "piracetam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410074",
+        "entityLabel": "losartan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414028",
+        "entityLabel": "meloxicam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421930",
+        "entityLabel": "mirtazapine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422226",
+        "entityLabel": "dapsone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422229",
+        "entityLabel": "diltiazem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422618",
+        "entityLabel": "ritonavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423357",
+        "entityLabel": "eugenol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423757",
+        "entityLabel": "escitalopram"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424156",
+        "entityLabel": "tadalafil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58713",
+        "entityLabel": "clomipramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134658",
+        "entityLabel": "nicotinic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155472",
+        "entityLabel": "valsartan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q177094",
+        "entityLabel": "imatinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410546",
+        "entityLabel": "neostigmine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411188",
+        "entityLabel": "aripiprazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411457",
+        "entityLabel": "trazodone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411461",
+        "entityLabel": "pilocarpine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408471",
+        "entityLabel": "paroxetine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408676",
+        "entityLabel": "piroxicam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409587",
+        "entityLabel": "naltrexone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417571",
+        "entityLabel": "pyrazinamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420133",
+        "entityLabel": "chlorpheniramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422669",
+        "entityLabel": "nitrofurantoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424163",
+        "entityLabel": "orlistat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q773449",
+        "entityLabel": "L-thyroxine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q898407",
+        "entityLabel": "venlafaxine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q898623",
+        "entityLabel": "sulfamethoxazole/trimethoprim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q254296",
+        "entityLabel": "lansoprazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q218842",
+        "entityLabel": "zolpidem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221174",
+        "entityLabel": "topiramate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q238512",
+        "entityLabel": "fluorouracil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155954",
+        "entityLabel": "tenofovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410842",
+        "entityLabel": "phenylacetic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411159",
+        "entityLabel": "famotidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411885",
+        "entityLabel": "chromic chloride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411932",
+        "entityLabel": "(S)-duloxetine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409251",
+        "entityLabel": "calcium acetate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409292",
+        "entityLabel": "piperazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409492",
+        "entityLabel": "cimetidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413504",
+        "entityLabel": "azelaic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413968",
+        "entityLabel": "dimercaprol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415563",
+        "entityLabel": "ethinylestradiol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417222",
+        "entityLabel": "methylprednisolone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420626",
+        "entityLabel": "glyburide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420705",
+        "entityLabel": "crystal violet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422219",
+        "entityLabel": "cloxacillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424145",
+        "entityLabel": "praziquantel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424161",
+        "entityLabel": "vardenafil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12910980",
+        "entityLabel": "thyrotropin-releasing hormone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q287029",
+        "entityLabel": "isotretinoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q31030",
+        "entityLabel": "xylometazoline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q163901",
+        "entityLabel": "cefixime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411635",
+        "entityLabel": "permethrin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412221",
+        "entityLabel": "clonidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412496",
+        "entityLabel": "quinidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412616",
+        "entityLabel": "trastuzumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412666",
+        "entityLabel": "ramipril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408646",
+        "entityLabel": "triclosan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409236",
+        "entityLabel": "fluvoxamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413690",
+        "entityLabel": "acetazolamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413994",
+        "entityLabel": "(S)-(−)-timolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415159",
+        "entityLabel": "rosuvastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415264",
+        "entityLabel": "infliximab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417097",
+        "entityLabel": "levamisole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417240",
+        "entityLabel": "atomoxetine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417968",
+        "entityLabel": "cefotaxime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418060",
+        "entityLabel": "desloratadine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419186",
+        "entityLabel": "ergotamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421862",
+        "entityLabel": "ribavirin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422435",
+        "entityLabel": "bromazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424238",
+        "entityLabel": "domperidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424333",
+        "entityLabel": "salmeterol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424940",
+        "entityLabel": "moxifloxacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424972",
+        "entityLabel": "prednisone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q736270",
+        "entityLabel": "mefloquine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q808845",
+        "entityLabel": "ceftazidime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q248466",
+        "entityLabel": "natamycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q303646",
+        "entityLabel": "hydromorphone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212272",
+        "entityLabel": "hydroxycarbamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29417",
+        "entityLabel": "tretinoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32089",
+        "entityLabel": "sirolimus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42171",
+        "entityLabel": "rimantadine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q178566",
+        "entityLabel": "chlordiazepoxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411648",
+        "entityLabel": "tacrolimus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412189",
+        "entityLabel": "memantine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412479",
+        "entityLabel": "mesalazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409262",
+        "entityLabel": "methicillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409860",
+        "entityLabel": "Lugol's iodine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410078",
+        "entityLabel": "nitrazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413299",
+        "entityLabel": "bevacizumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413578",
+        "entityLabel": "mupirocin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413762",
+        "entityLabel": "hyoscyamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415122",
+        "entityLabel": "fexofenadine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415739",
+        "entityLabel": "cefazolin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416950",
+        "entityLabel": "levonorgestrel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417227",
+        "entityLabel": "(S)-etiracetam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418546",
+        "entityLabel": "aztreonam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419175",
+        "entityLabel": "phenacetin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420262",
+        "entityLabel": "rivaroxaban"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420439",
+        "entityLabel": "dimenhydrinate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424151",
+        "entityLabel": "(RS)-sibutramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q867308",
+        "entityLabel": "cyclizine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q269111",
+        "entityLabel": "apomorphine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q282629",
+        "entityLabel": "vinblastine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q348260",
+        "entityLabel": "adalimumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241006",
+        "entityLabel": "desmopressin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241374",
+        "entityLabel": "ursodiol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58376",
+        "entityLabel": "fluphenazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58396",
+        "entityLabel": "imipramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411240",
+        "entityLabel": "mifepristone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411330",
+        "entityLabel": "varenicline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411646",
+        "entityLabel": "oxytetracycline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411659",
+        "entityLabel": "daunorubicin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412164",
+        "entityLabel": "clobazam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412194",
+        "entityLabel": "buspirone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412299",
+        "entityLabel": "oxazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412621",
+        "entityLabel": "methyldopa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409990",
+        "entityLabel": "eicosapentaenoic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414143",
+        "entityLabel": "gemcitabine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414462",
+        "entityLabel": "apixaban"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415625",
+        "entityLabel": "paromomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415939",
+        "entityLabel": "chlorambucil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416410",
+        "entityLabel": "fomepizole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417219",
+        "entityLabel": "stanozolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417767",
+        "entityLabel": "montelukast"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418508",
+        "entityLabel": "cycloserine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418666",
+        "entityLabel": "tranexamic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418730",
+        "entityLabel": "clomifene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418817",
+        "entityLabel": "etoposide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422215",
+        "entityLabel": "penicillin v"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422585",
+        "entityLabel": "lopinavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422604",
+        "entityLabel": "emtricitabine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423005",
+        "entityLabel": "malathion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423912",
+        "entityLabel": "methaqualone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423984",
+        "entityLabel": "stavudine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424294",
+        "entityLabel": "ipratropium bromide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425154",
+        "entityLabel": "tocilizumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q263713",
+        "entityLabel": "nevirapine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q284321",
+        "entityLabel": "mefenamic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q284367",
+        "entityLabel": "N-acetyl-D-glucosamine (complete stereochemistry)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q384295",
+        "entityLabel": "gemfibrozil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20994",
+        "entityLabel": "nimesulide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q146075",
+        "entityLabel": "zanamivir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411887",
+        "entityLabel": "rivastigmine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q395229",
+        "entityLabel": "agomelatine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409721",
+        "entityLabel": "estriol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413591",
+        "entityLabel": "sotalol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413755",
+        "entityLabel": "benzyl benzoate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414986",
+        "entityLabel": "estrone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415259",
+        "entityLabel": "terbinafine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415588",
+        "entityLabel": "carboplatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415709",
+        "entityLabel": "clavulanic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415843",
+        "entityLabel": "sulfamethoxazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47495783",
+        "entityLabel": "(−)-selegiline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415850",
+        "entityLabel": "amobarbital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416975",
+        "entityLabel": "dacarbazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418529",
+        "entityLabel": "mercaptopurine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420207",
+        "entityLabel": "capecitabine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420436",
+        "entityLabel": "docetaxel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421670",
+        "entityLabel": "meropenem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421910",
+        "entityLabel": "phenylephrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421920",
+        "entityLabel": "flumazenil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422645",
+        "entityLabel": "efavirenz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423423",
+        "entityLabel": "sulfanilamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424342",
+        "entityLabel": "paraldehyde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424378",
+        "entityLabel": "succinylcholine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425088",
+        "entityLabel": "temozolomide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q426897",
+        "entityLabel": "pyrantel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2014797",
+        "entityLabel": "ketorolac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2526479",
+        "entityLabel": "liraglutide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2555060",
+        "entityLabel": "sulfadiazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q252251",
+        "entityLabel": "cyanocobalamin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q259930",
+        "entityLabel": "fusidic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q348922",
+        "entityLabel": "busulfan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186093",
+        "entityLabel": "(E)-phytonadione"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186127",
+        "entityLabel": "dactinomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q229924",
+        "entityLabel": "4-aminosalicylic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411412",
+        "entityLabel": "rofecoxib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412226",
+        "entityLabel": "yohimbine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412690",
+        "entityLabel": "galantamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415343",
+        "entityLabel": "etanercept"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415744",
+        "entityLabel": "riluzole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416978",
+        "entityLabel": "sumatriptan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417740",
+        "entityLabel": "lovastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418946",
+        "entityLabel": "colistin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419143",
+        "entityLabel": "anastrozole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419394",
+        "entityLabel": "sevoflurane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419724",
+        "entityLabel": "fenofibrate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419832",
+        "entityLabel": "sitagliptin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419921",
+        "entityLabel": "tripotassium citrate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419987",
+        "entityLabel": "hydralazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421342",
+        "entityLabel": "phenylbutazone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422654",
+        "entityLabel": "saquinavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423467",
+        "entityLabel": "atazanavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q733186",
+        "entityLabel": "telmisartan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1706418",
+        "entityLabel": "dextroamphetamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2502747",
+        "entityLabel": "sofosbuvir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27135598",
+        "entityLabel": "S-adenosylmethionine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q290001",
+        "entityLabel": "gliclazide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q338005",
+        "entityLabel": "acarbose"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q220426",
+        "entityLabel": "zopiclone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410595",
+        "entityLabel": "physostigmine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412143",
+        "entityLabel": "triazolam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412197",
+        "entityLabel": "irinotecan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414796",
+        "entityLabel": "temazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3563148",
+        "entityLabel": "vortioxetine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415970",
+        "entityLabel": "candesartan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416096",
+        "entityLabel": "griseofulvin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416485",
+        "entityLabel": "Streptokinase"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417204",
+        "entityLabel": "levomepromazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417762",
+        "entityLabel": "exenatide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417765",
+        "entityLabel": "pioglitazone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417874",
+        "entityLabel": "bisacodyl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417997",
+        "entityLabel": "ezetimibe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418351",
+        "entityLabel": "meprobamate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418480",
+        "entityLabel": "tamsulosin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418560",
+        "entityLabel": "ifosfamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418594",
+        "entityLabel": "valacyclovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418725",
+        "entityLabel": "oxacillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418998",
+        "entityLabel": "flurazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419361",
+        "entityLabel": "butylscopolamine bromide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419618",
+        "entityLabel": "deferoxamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419663",
+        "entityLabel": "methimazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420682",
+        "entityLabel": "guaifenesin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420984",
+        "entityLabel": "silver sulfadiazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421072",
+        "entityLabel": "pyrimethamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421091",
+        "entityLabel": "levocetirizine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421567",
+        "entityLabel": "ethosuximide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421934",
+        "entityLabel": "moclobemide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423428",
+        "entityLabel": "lincomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423787",
+        "entityLabel": "piperacillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423890",
+        "entityLabel": "digitoxin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424037",
+        "entityLabel": "roxithromycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425223",
+        "entityLabel": "raloxifene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q471763",
+        "entityLabel": "aminophylline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q631202",
+        "entityLabel": "etoricoxib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q634959",
+        "entityLabel": "latanoprost"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q947266",
+        "entityLabel": "irbesartan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q958087",
+        "entityLabel": "labetalol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1074056",
+        "entityLabel": "triamcinolone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1994556",
+        "entityLabel": "flucloxacillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2298283",
+        "entityLabel": "melphalan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q277785",
+        "entityLabel": "perindopril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q368995",
+        "entityLabel": "betahistine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q377270",
+        "entityLabel": "dihydrocodeine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180983",
+        "entityLabel": "cytarabine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183554",
+        "entityLabel": "fosfomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221637",
+        "entityLabel": "ambroxol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239778",
+        "entityLabel": "bromhexine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q61387",
+        "entityLabel": "nortriptyline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q176301",
+        "entityLabel": "oxcarbazepine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412158",
+        "entityLabel": "pregnenolone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416073",
+        "entityLabel": "rifaximin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417343",
+        "entityLabel": "cytisine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417640",
+        "entityLabel": "ganciclovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418130",
+        "entityLabel": "nebivolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418157",
+        "entityLabel": "phentermine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418361",
+        "entityLabel": "maprotiline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418448",
+        "entityLabel": "dibasic sodium phosphate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418611",
+        "entityLabel": "clofazimine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419374",
+        "entityLabel": "dipyridamole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419383",
+        "entityLabel": "desflurane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419472",
+        "entityLabel": "pyridostigmine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419608",
+        "entityLabel": "tetracaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419995",
+        "entityLabel": "amiloride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420296",
+        "entityLabel": "cetuximab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420383",
+        "entityLabel": "primidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420859",
+        "entityLabel": "oxandrolone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421052",
+        "entityLabel": "everolimus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421239",
+        "entityLabel": "D-penicillamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421304",
+        "entityLabel": "pramipexole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423292",
+        "entityLabel": "paliperidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423538",
+        "entityLabel": "tizanidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423989",
+        "entityLabel": "diethylstilbestrol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424340",
+        "entityLabel": "terbutaline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424508",
+        "entityLabel": "ergometrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424986",
+        "entityLabel": "thiabendazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425490",
+        "entityLabel": "indinavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q637247",
+        "entityLabel": "formoterol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q899008",
+        "entityLabel": "phloroglucinol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1044248",
+        "entityLabel": "mometasone furoate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1135705",
+        "entityLabel": "rifabutin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1257318",
+        "entityLabel": "bedaquiline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2313471",
+        "entityLabel": "dicloxacillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2552927",
+        "entityLabel": "cefepime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3151081",
+        "entityLabel": "filgrastim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q258591",
+        "entityLabel": "cilostazol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q281082",
+        "entityLabel": "nalidixic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q287415",
+        "entityLabel": "cholic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q377342",
+        "entityLabel": "propylthiouracil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179748",
+        "entityLabel": "isosorbide dinitrate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q205517",
+        "entityLabel": "ziprasidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q238544",
+        "entityLabel": "5-HTP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q81890",
+        "entityLabel": "bismuth subsalicylate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411594",
+        "entityLabel": "methoxyflurane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412236",
+        "entityLabel": "voriconazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q385347",
+        "entityLabel": "6-thioguanine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413581",
+        "entityLabel": "bromocriptine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414547",
+        "entityLabel": "sodium salicylate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415167",
+        "entityLabel": "cefaclor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415336",
+        "entityLabel": "minocycline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415433",
+        "entityLabel": "naphazoline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415578",
+        "entityLabel": "antipyrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3765251",
+        "entityLabel": "darunavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416516",
+        "entityLabel": "enoxaparin sodium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417897",
+        "entityLabel": "norfloxacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417902",
+        "entityLabel": "remifentanil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417948",
+        "entityLabel": "chlortetracycline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418101",
+        "entityLabel": "pindolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418179",
+        "entityLabel": "atovaquone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418445",
+        "entityLabel": "etomidate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418850",
+        "entityLabel": "clorazepic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419319",
+        "entityLabel": "bortezomib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419345",
+        "entityLabel": "dabigatran"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419935",
+        "entityLabel": "octreotide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419953",
+        "entityLabel": "topotecan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420057",
+        "entityLabel": "alendronic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420164",
+        "entityLabel": "alemtuzumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420595",
+        "entityLabel": "tigecycline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421352",
+        "entityLabel": "norethindrone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421552",
+        "entityLabel": "raltegravir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5373824",
+        "entityLabel": "empagliflozin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424260",
+        "entityLabel": "(±)-tianeptine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424316",
+        "entityLabel": "tiotropium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q592802",
+        "entityLabel": "benazepril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1078392",
+        "entityLabel": "indapamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13896859",
+        "entityLabel": "pembrolizumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2458673",
+        "entityLabel": "ketotifen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27108300",
+        "entityLabel": "sodium nitroprusside dihydrate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q304088",
+        "entityLabel": "acenocoumarol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337668",
+        "entityLabel": "acamprosate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192471",
+        "entityLabel": "menadione"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q218507",
+        "entityLabel": "zoledronic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q228143",
+        "entityLabel": "zuclopenthixol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q238490",
+        "entityLabel": "5-fluorocytosine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29310",
+        "entityLabel": "tropicamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q144085",
+        "entityLabel": "pimozide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q174259",
+        "entityLabel": "droperidol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408283",
+        "entityLabel": "denosumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409267",
+        "entityLabel": "diethylcarbamazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413961",
+        "entityLabel": "tromethamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414767",
+        "entityLabel": "ethionamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415378",
+        "entityLabel": "lomustine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415550",
+        "entityLabel": "isoprenaline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415793",
+        "entityLabel": "(-)-pentazocine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3836750",
+        "entityLabel": "lopinavir/ritonavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416154",
+        "entityLabel": "spectinomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416331",
+        "entityLabel": "pentoxifylline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416740",
+        "entityLabel": "enflurane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417597",
+        "entityLabel": "procainamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417813",
+        "entityLabel": "oxymetazoline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417824",
+        "entityLabel": "gefitinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417884",
+        "entityLabel": "cyproheptadine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418274",
+        "entityLabel": "glatiramer acetate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418586",
+        "entityLabel": "entecavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418656",
+        "entityLabel": "procarbazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418747",
+        "entityLabel": "(2R)-daptomycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419739",
+        "entityLabel": "triclabendazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420009",
+        "entityLabel": "diazoxide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420186",
+        "entityLabel": "famciclovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420387",
+        "entityLabel": "foscarnet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420532",
+        "entityLabel": "vinorelbine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420607",
+        "entityLabel": "proguanil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420685",
+        "entityLabel": "rasagiline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420875",
+        "entityLabel": "caspofungin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421156",
+        "entityLabel": "olmesartan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421369",
+        "entityLabel": "maraviroc"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421475",
+        "entityLabel": "beclomethasone dipropionate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422327",
+        "entityLabel": "oxaliplatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423384",
+        "entityLabel": "valganciclovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6558704",
+        "entityLabel": "lisdexamfetamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424771",
+        "entityLabel": "(RS)-rosiglitazone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425137",
+        "entityLabel": "fingolimod"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q553220",
+        "entityLabel": "ertapenem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q596022",
+        "entityLabel": "quinapril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q621834",
+        "entityLabel": "aprepitant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q909745",
+        "entityLabel": "linagliptin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1060922",
+        "entityLabel": "(RS)-oxybutynin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1321320",
+        "entityLabel": "tinidazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2022983",
+        "entityLabel": "sulfacetamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2070778",
+        "entityLabel": "benzonatate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2195995",
+        "entityLabel": "repaglinide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2268608",
+        "entityLabel": "dextropropoxyphene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2327739",
+        "entityLabel": "ebastine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2991856",
+        "entityLabel": "trihexyphenidyl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q248550",
+        "entityLabel": "leflunomide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q275926",
+        "entityLabel": "bumetanide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q279504",
+        "entityLabel": "(S)-ropivacaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q194974",
+        "entityLabel": "letrozole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q219957",
+        "entityLabel": "zonisamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239426",
+        "entityLabel": "mitoxantrone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58375",
+        "entityLabel": "thioridazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q73972",
+        "entityLabel": "hydroxocobalamin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q176533",
+        "entityLabel": "alfentanil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409898",
+        "entityLabel": "dapagliflozin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413598",
+        "entityLabel": "prilocaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415996",
+        "entityLabel": "flibanserin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416206",
+        "entityLabel": "pentamidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416444",
+        "entityLabel": "entacapone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416554",
+        "entityLabel": "prostaglandin E2"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416701",
+        "entityLabel": "(RS)-mianserin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416905",
+        "entityLabel": "carisoprodol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417915",
+        "entityLabel": "sufentanil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417942",
+        "entityLabel": "fluvastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418139",
+        "entityLabel": "esmolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418167",
+        "entityLabel": "mebeverine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419401",
+        "entityLabel": "carbachol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419808",
+        "entityLabel": "sapropterin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419820",
+        "entityLabel": "azelastine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419940",
+        "entityLabel": "dasatinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420644",
+        "entityLabel": "felodipine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420886",
+        "entityLabel": "dicumarol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421058",
+        "entityLabel": "milnacipran"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421193",
+        "entityLabel": "podofilox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421429",
+        "entityLabel": "nimodipine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422884",
+        "entityLabel": "urethane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423445",
+        "entityLabel": "cidofovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423814",
+        "entityLabel": "Succimer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424597",
+        "entityLabel": "spermine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424760",
+        "entityLabel": "dutasteride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424965",
+        "entityLabel": "dapoxetine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425122",
+        "entityLabel": "epirubicin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425234",
+        "entityLabel": "thallium(I) chloride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425295",
+        "entityLabel": "cisapride"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425296",
+        "entityLabel": "prazosin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425745",
+        "entityLabel": "bendamustine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425946",
+        "entityLabel": "suramin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q793143",
+        "entityLabel": "benzydamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q794162",
+        "entityLabel": "betaxolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q850074",
+        "entityLabel": "brotizolam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q867350",
+        "entityLabel": "cilazapril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q907160",
+        "entityLabel": "leuprolide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1002165",
+        "entityLabel": "fluticasone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1240093",
+        "entityLabel": "pravastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1453445",
+        "entityLabel": "cefdinir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1988832",
+        "entityLabel": "bicalutamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2319020",
+        "entityLabel": "cefadroxil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21011234",
+        "entityLabel": "edoxaban"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2603363",
+        "entityLabel": "chlorothiazide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2736126",
+        "entityLabel": "cephalothin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q257331",
+        "entityLabel": "α-streptozocin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q341500",
+        "entityLabel": "acitretin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q352348",
+        "entityLabel": "adapalene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185916",
+        "entityLabel": "fludarabine phosphate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q238474",
+        "entityLabel": "aminolevulinic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239569",
+        "entityLabel": "amodiaquine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q139307",
+        "entityLabel": "calcifediol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q165660",
+        "entityLabel": "atracurium besylate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412677",
+        "entityLabel": "pitavastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q386119",
+        "entityLabel": "natalizumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413586",
+        "entityLabel": "naftifine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414904",
+        "entityLabel": "aliskiren"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415238",
+        "entityLabel": "tolnaftate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415242",
+        "entityLabel": "altretamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416427",
+        "entityLabel": "cromoglicic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416992",
+        "entityLabel": "lurasidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417208",
+        "entityLabel": "quinacrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418006",
+        "entityLabel": "colestyramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418011",
+        "entityLabel": "mechlorethamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418145",
+        "entityLabel": "clemastine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419652",
+        "entityLabel": "danazol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419822",
+        "entityLabel": "promazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419890",
+        "entityLabel": "(+-)-flurbiprofen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420360",
+        "entityLabel": "phentolamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420590",
+        "entityLabel": "ropinirol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421268",
+        "entityLabel": "tubocurarine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421274",
+        "entityLabel": "dantrolene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421297",
+        "entityLabel": "articaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423288",
+        "entityLabel": "desipramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423308",
+        "entityLabel": "cabergoline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423327",
+        "entityLabel": "enfuvirtide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423366",
+        "entityLabel": "nelfinavir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423393",
+        "entityLabel": "sulbactam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423417",
+        "entityLabel": "imiquimod"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423498",
+        "entityLabel": "trimipramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423520",
+        "entityLabel": "perphenazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423809",
+        "entityLabel": "(E)-chlorprothixene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424952",
+        "entityLabel": "nadolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425300",
+        "entityLabel": "benznidazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q502327",
+        "entityLabel": "senna glycoside"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q656259",
+        "entityLabel": "pheniramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q682497",
+        "entityLabel": "oxamniquine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q707939",
+        "entityLabel": "artesunate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q775073",
+        "entityLabel": "cinnarizine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q799564",
+        "entityLabel": "diloxanide furoate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q929420",
+        "entityLabel": "trandolapril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1063862",
+        "entityLabel": "idarubicin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15409409",
+        "entityLabel": "ledipasvir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1747559",
+        "entityLabel": "phenelzine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1752915",
+        "entityLabel": "trifluoperazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2325775",
+        "entityLabel": "cefoperazone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2359690",
+        "entityLabel": "prochlorperazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2412859",
+        "entityLabel": "tenofovir/emtricitabine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2496906",
+        "entityLabel": "salicylamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2943789",
+        "entityLabel": "nitazoxanide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3045264",
+        "entityLabel": "estazolam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3108899",
+        "entityLabel": "glipizide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3231623",
+        "entityLabel": "(E)-cefprozil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27077698",
+        "entityLabel": "fondaparinux"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q255968",
+        "entityLabel": "aminocaproic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186257",
+        "entityLabel": "lormetazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212171",
+        "entityLabel": "rizatriptan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221520",
+        "entityLabel": "triamterene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45050",
+        "entityLabel": "tenoxicam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58614",
+        "entityLabel": "loxapine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q145052",
+        "entityLabel": "zaleplon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411456",
+        "entityLabel": "methocarbamol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409966",
+        "entityLabel": "etizolam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415173",
+        "entityLabel": "cefpodoxime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415392",
+        "entityLabel": "omalizumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415411",
+        "entityLabel": "anakinra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417465",
+        "entityLabel": "mitotane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417603",
+        "entityLabel": "dibucaine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417689",
+        "entityLabel": "ramelteon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418123",
+        "entityLabel": "dimethyl fumarate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418369",
+        "entityLabel": "erlotinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418669",
+        "entityLabel": "flutamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418819",
+        "entityLabel": "exemestane"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418857",
+        "entityLabel": "acebutolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419008",
+        "entityLabel": "pemoline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419468",
+        "entityLabel": "ciclopirox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419521",
+        "entityLabel": "ceftibuten"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419749",
+        "entityLabel": "hexetidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419948",
+        "entityLabel": "torasemide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420394",
+        "entityLabel": "sucralfate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420542",
+        "entityLabel": "ticagrelor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420553",
+        "entityLabel": "mycophenolic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421136",
+        "entityLabel": "sorafenib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421162",
+        "entityLabel": "bifonazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421768",
+        "entityLabel": "methyltestosterone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q422606",
+        "entityLabel": "didanosine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423380",
+        "entityLabel": "oxymorphone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423437",
+        "entityLabel": "astemizole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424312",
+        "entityLabel": "tolterodine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425109",
+        "entityLabel": "tetrahydrozoline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425152",
+        "entityLabel": "imipen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425289",
+        "entityLabel": "chlorthalidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425362",
+        "entityLabel": "hexachlorophene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q579348",
+        "entityLabel": "alprostadil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q617563",
+        "entityLabel": "cysteamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7650517",
+        "entityLabel": "suvorexant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q674703",
+        "entityLabel": "trimetazidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q900898",
+        "entityLabel": "probenecid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q937224",
+        "entityLabel": "dolutegravir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2353907",
+        "entityLabel": "cefoxitin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2465218",
+        "entityLabel": "(RS)-etodolac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2467555",
+        "entityLabel": "furazolidone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25105466",
+        "entityLabel": "nusinersen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2697578",
+        "entityLabel": "fludrocortisone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2731762",
+        "entityLabel": "teicoplanin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2734674",
+        "entityLabel": "cephradine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2873270",
+        "entityLabel": "avanafil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27108523",
+        "entityLabel": "vecuronium bromide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q285911",
+        "entityLabel": "ouabain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q287840",
+        "entityLabel": "oxolinic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58356",
+        "entityLabel": "amoxapine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155683",
+        "entityLabel": "calcipotriene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411511",
+        "entityLabel": "diatrizoic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411557",
+        "entityLabel": "sulfadoxine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411697",
+        "entityLabel": "mephobarbital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411781",
+        "entityLabel": "teriparatide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412963",
+        "entityLabel": "cabazitaxel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413879",
+        "entityLabel": "golimumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414275",
+        "entityLabel": "tolbutamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415304",
+        "entityLabel": "desogestrel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3702534",
+        "entityLabel": "mirabegron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416232",
+        "entityLabel": "prasugrel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416706",
+        "entityLabel": "nedocromil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417542",
+        "entityLabel": "sunitinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417654",
+        "entityLabel": "triprolidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4353252",
+        "entityLabel": "nalmefene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418571",
+        "entityLabel": "ethacrynic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418980",
+        "entityLabel": "gramicidin D"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419028",
+        "entityLabel": "chenodiol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419059",
+        "entityLabel": "bethanechol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419849",
+        "entityLabel": "fludeoxyglucose (18F)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420305",
+        "entityLabel": "ustekinumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421076",
+        "entityLabel": "tacrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421381",
+        "entityLabel": "flecainide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421547",
+        "entityLabel": "rilpivirine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5198674",
+        "entityLabel": "cyclobenzaprine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423376",
+        "entityLabel": "tazobactam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423401",
+        "entityLabel": "isosorbide mononitrate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423439",
+        "entityLabel": "cerivastatin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5613599",
+        "entityLabel": "guanfacine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425097",
+        "entityLabel": "acepromazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425120",
+        "entityLabel": "disopyramide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425207",
+        "entityLabel": "nabumetone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425440",
+        "entityLabel": "dexketoprofen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425502",
+        "entityLabel": "nitrofurazone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425680",
+        "entityLabel": "deoxycholic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425729",
+        "entityLabel": "ivabradine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q426070",
+        "entityLabel": "dimethindene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q481757",
+        "entityLabel": "aceclofenac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q546434",
+        "entityLabel": "carteolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7083106",
+        "entityLabel": "olaparib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7517689",
+        "entityLabel": "simeprevir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q784717",
+        "entityLabel": "eprosartan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q867332",
+        "entityLabel": "cyclopentolate-(RS)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q905901",
+        "entityLabel": "vorinostat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q963093",
+        "entityLabel": "sulindac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1050019",
+        "entityLabel": "carbenicillin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1088175",
+        "entityLabel": "polymyxin B"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1185089",
+        "entityLabel": "butorphanol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1188290",
+        "entityLabel": "nizatidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1996249",
+        "entityLabel": "belimumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2601530",
+        "entityLabel": "cefamandole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2608288",
+        "entityLabel": "(Z)-thiothixene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2662662",
+        "entityLabel": "dicyclomine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2701912",
+        "entityLabel": "clofibrate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2758338",
+        "entityLabel": "etidronic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2858961",
+        "entityLabel": "apremilast"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2902977",
+        "entityLabel": "bilastine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2938837",
+        "entityLabel": "cariprazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q267896",
+        "entityLabel": "phenprocoumon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q342745",
+        "entityLabel": "acrivastine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q370244",
+        "entityLabel": "delavirdine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203618",
+        "entityLabel": "lomefloxacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q218820",
+        "entityLabel": "zolmitriptan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q166825",
+        "entityLabel": "ibandronic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q410683",
+        "entityLabel": "iohexol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412327",
+        "entityLabel": "nilotinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412529",
+        "entityLabel": "rimonabant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408163",
+        "entityLabel": "anagrelide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q409595",
+        "entityLabel": "isocarboxazid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412909",
+        "entityLabel": "certolizumab pegol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413184",
+        "entityLabel": "eszopiclone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414030",
+        "entityLabel": "cladribine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414236",
+        "entityLabel": "glutethimide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415220",
+        "entityLabel": "pemetrexed"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415401",
+        "entityLabel": "dorzolamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3395266",
+        "entityLabel": "butethal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3486981",
+        "entityLabel": "fludiazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3492616",
+        "entityLabel": "Insulin Lispro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q59575279",
+        "entityLabel": "solifenacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416199",
+        "entityLabel": "artemether"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416503",
+        "entityLabel": "aminophenazone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416507",
+        "entityLabel": "thiotepa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417489",
+        "entityLabel": "pimecrolimus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417873",
+        "entityLabel": "etilefrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3935297",
+        "entityLabel": "rifapentine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4321582",
+        "entityLabel": "gallium nitrate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4688818",
+        "entityLabel": "afatinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418386",
+        "entityLabel": "triethylenetetramine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419753",
+        "entityLabel": "melarsoprol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419769",
+        "entityLabel": "bosentan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419944",
+        "entityLabel": "moxonidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420077",
+        "entityLabel": "lacosamide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4860707",
+        "entityLabel": "baricitinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5138908",
+        "entityLabel": "cobicistat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420323",
+        "entityLabel": "lapatinib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420364",
+        "entityLabel": "penciclovir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420571",
+        "entityLabel": "ticlopidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421042",
+        "entityLabel": "vildagliptin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421230",
+        "entityLabel": "auranofin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421368",
+        "entityLabel": "iproniazid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421617",
+        "entityLabel": "eculizumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421637",
+        "entityLabel": "clobetasol propionate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421663",
+        "entityLabel": "vigabatrin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5207712",
+        "entityLabel": "daclatasvir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423111",
+        "entityLabel": "vemurafenib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423369",
+        "entityLabel": "josamycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423408",
+        "entityLabel": "L-carbocysteine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5641126",
+        "entityLabel": "halazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425654",
+        "entityLabel": "indacaterol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q577377",
+        "entityLabel": "brimonidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q596708",
+        "entityLabel": "granisetron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7041828",
+        "entityLabel": "nivolumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q729213",
+        "entityLabel": "nicardipine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q737743",
+        "entityLabel": "doxapram"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q772735",
+        "entityLabel": "miglitol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q847399",
+        "entityLabel": "milrinone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q906453",
+        "entityLabel": "posaconazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q907219",
+        "entityLabel": "tiagabine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q928378",
+        "entityLabel": "zafirlukast"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q945537",
+        "entityLabel": "tofisopam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q975059",
+        "entityLabel": "ulipristal acetate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1639595",
+        "entityLabel": "gemifloxacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1929845",
+        "entityLabel": "NPH insulin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1992653",
+        "entityLabel": "goserelin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2062094",
+        "entityLabel": "pramlintide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2149443",
+        "entityLabel": "prazepam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2291605",
+        "entityLabel": "moexipril"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2359590",
+        "entityLabel": "trifluridine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2365016",
+        "entityLabel": "gatifloxacin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2459042",
+        "entityLabel": "ipilimumab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2602750",
+        "entityLabel": "diflunisal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2734874",
+        "entityLabel": "lornoxicam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2736135",
+        "entityLabel": "telithromycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2736402",
+        "entityLabel": "demeclocycline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2736873",
+        "entityLabel": "alfuzosin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2740966",
+        "entityLabel": "elvitegravir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q255680",
+        "entityLabel": "mazindol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q277979",
+        "entityLabel": "nalbuphine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q280786",
+        "entityLabel": "terazosin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q304285",
+        "entityLabel": "niflumic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q307088",
+        "entityLabel": "abciximab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q366482",
+        "entityLabel": "(RS)-adrafinil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q372539",
+        "entityLabel": "dalfampridine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q372725",
+        "entityLabel": "thiethylperazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201370",
+        "entityLabel": "alprenolol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162541",
+        "entityLabel": "levosimendan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411582",
+        "entityLabel": "nifurtimox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q411787",
+        "entityLabel": "miltefosine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q412133",
+        "entityLabel": "dexmedetomidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408557",
+        "entityLabel": "telaprevir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408704",
+        "entityLabel": "propylhexedrine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408717",
+        "entityLabel": "eribulin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408724",
+        "entityLabel": "risedronic acid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q413050",
+        "entityLabel": "tetrabenazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414013",
+        "entityLabel": "carbimazole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3322838",
+        "entityLabel": "benzphetamine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3329406",
+        "entityLabel": "phenmetrazine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3342150",
+        "entityLabel": "(RS)-nisoldipine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q44822059",
+        "entityLabel": "amineptine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q415869",
+        "entityLabel": "carmustine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416237",
+        "entityLabel": "flunarizine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416451",
+        "entityLabel": "azacitidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416632",
+        "entityLabel": "nefazodone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q416660",
+        "entityLabel": "vindesine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417296",
+        "entityLabel": "febuxostat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q417555",
+        "entityLabel": "teniposide"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418192",
+        "entityLabel": "bexarotene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q418702",
+        "entityLabel": "basiliximab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419215",
+        "entityLabel": "strontium ranelate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419646",
+        "entityLabel": "drospirenone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419841",
+        "entityLabel": "(3aS)-palonosetron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419964",
+        "entityLabel": "camptothecin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420188",
+        "entityLabel": "fenoterol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420673",
+        "entityLabel": "guanethidine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420857",
+        "entityLabel": "sugammadex sodium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421183",
+        "entityLabel": "hexobarbital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5446672",
+        "entityLabel": "fidaxomicin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423404",
+        "entityLabel": "tipranavir"
+    }
+]

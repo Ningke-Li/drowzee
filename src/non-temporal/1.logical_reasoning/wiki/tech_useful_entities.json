@@ -1,0 +1,3934 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q251",
+        "entityLabel": "Java"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q226264",
+        "entityLabel": "BIOS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q780442",
+        "entityLabel": "Uber"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q356",
+        "entityLabel": "Google+"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q136469",
+        "entityLabel": "Amazon Kindle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213602",
+        "entityLabel": "Google Street View"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183480",
+        "entityLabel": "Google AdSense"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q51713",
+        "entityLabel": "Google Talk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q218924",
+        "entityLabel": "Adobe InDesign"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q231136",
+        "entityLabel": "Encarta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q275141",
+        "entityLabel": "Napster"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q219885",
+        "entityLabel": "Google Videos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q623456",
+        "entityLabel": "Google Sites"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7276397",
+        "entityLabel": "RETScreen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21683250",
+        "entityLabel": "Kahoot!"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60220726",
+        "entityLabel": "One UI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653999",
+        "entityLabel": "Lotus 1-2-3"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q474334",
+        "entityLabel": "Kinect"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188054",
+        "entityLabel": "reCAPTCHA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q196305",
+        "entityLabel": "File Explorer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q589680",
+        "entityLabel": "Xenix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q229851",
+        "entityLabel": "Zune"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q281239",
+        "entityLabel": "GameSpy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17355735",
+        "entityLabel": "Proton Mail"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18208301",
+        "entityLabel": "Wikiwand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105078662",
+        "entityLabel": "DALL-E"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q267193",
+        "entityLabel": "Sublime Text"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1147445",
+        "entityLabel": "Metasploit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7854718",
+        "entityLabel": "Google Keep"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q305910",
+        "entityLabel": "iGoogle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17590603",
+        "entityLabel": "Material Design"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48816099",
+        "entityLabel": "NordVPN"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q722772",
+        "entityLabel": "Java Database Connectivity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q784845",
+        "entityLabel": "AutoIt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q71694",
+        "entityLabel": "Yahoo! Messenger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360355",
+        "entityLabel": "Adobe PageMaker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q502906",
+        "entityLabel": "Holographic Versatile Disc"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q554950",
+        "entityLabel": "recommender system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q369089",
+        "entityLabel": "Google Arts & Culture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q375913",
+        "entityLabel": "WebGL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2474765",
+        "entityLabel": "UC Browser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19407678",
+        "entityLabel": "Vulkan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q842193",
+        "entityLabel": "sandbox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q865817",
+        "entityLabel": "Java applet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q580318",
+        "entityLabel": "ELIZA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8029",
+        "entityLabel": "BibTeX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79608",
+        "entityLabel": "Google Toolbar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q223619",
+        "entityLabel": "Wordfast"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q371434",
+        "entityLabel": "toolbar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47458384",
+        "entityLabel": "SnatchBot software"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q873463",
+        "entityLabel": "Task Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17155887",
+        "entityLabel": "Dash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q748417",
+        "entityLabel": "Windows Virtual PC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q496579",
+        "entityLabel": "OpenMP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q689412",
+        "entityLabel": "SDL Trados"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q402799",
+        "entityLabel": "Boot Camp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21190510",
+        "entityLabel": "DiDi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q697233",
+        "entityLabel": "Niconico"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q855381",
+        "entityLabel": "Windows Genuine Advantage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q947428",
+        "entityLabel": "Microsoft Surface"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q658666",
+        "entityLabel": "Joost"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q306070",
+        "entityLabel": "Netcat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q483101",
+        "entityLabel": "TouchWiz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18150347",
+        "entityLabel": "Google Fit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23542287",
+        "entityLabel": "Microsoft Power BI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q939208",
+        "entityLabel": "Direct3D"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1046656",
+        "entityLabel": "Graphics Device Interface"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q679874",
+        "entityLabel": "LightScribe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q689579",
+        "entityLabel": "Microsoft Office 2010"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q51712",
+        "entityLabel": "Google Voice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q135964",
+        "entityLabel": "ZBrush"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q295774",
+        "entityLabel": "Ansys"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1331807",
+        "entityLabel": "Windows Photo Gallery"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1343860",
+        "entityLabel": "GNOME Shell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15940106",
+        "entityLabel": "CarPlay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2334242",
+        "entityLabel": "Google Pay Send"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6942717",
+        "entityLabel": "Musixmatch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25874683",
+        "entityLabel": "Nextcloud"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28470421",
+        "entityLabel": "Keras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q724878",
+        "entityLabel": "Microsoft Office 2013"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q828312",
+        "entityLabel": "Windows Desktop Gadgets"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14643",
+        "entityLabel": "Mach"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q259322",
+        "entityLabel": "JavaBeans"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q426740",
+        "entityLabel": "ReadyBoost"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1066221",
+        "entityLabel": "System Restore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1068438",
+        "entityLabel": "Windows Firewall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1433417",
+        "entityLabel": "Google Shopping"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q874892",
+        "entityLabel": "Daemon Tools"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1048294",
+        "entityLabel": "Google Checkout"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q44338",
+        "entityLabel": "vBulletin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58034",
+        "entityLabel": "Gadu-Gadu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181233",
+        "entityLabel": "Windows Installer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q345174",
+        "entityLabel": "Adaware Antivirus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360310",
+        "entityLabel": "Adobe AIR"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q484531",
+        "entityLabel": "Galaxy Store"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1148750",
+        "entityLabel": "Metro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1198691",
+        "entityLabel": "Google Finance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1359171",
+        "entityLabel": "REBOL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1995050",
+        "entityLabel": "Microsoft Math Solver"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27926810",
+        "entityLabel": "AnyDesk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107435063",
+        "entityLabel": "GitHub Copilot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q818381",
+        "entityLabel": "User Account Control"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q613749",
+        "entityLabel": "AnyLogic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79593",
+        "entityLabel": "Google Pack"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3110781",
+        "entityLabel": "Google Page Creator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1105649",
+        "entityLabel": "Code Red"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1417729",
+        "entityLabel": "Microsoft Expression Web"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1423669",
+        "entityLabel": "OpenSocial"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1710059",
+        "entityLabel": "Rich Communication Services"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18844946",
+        "entityLabel": "Windows Mixed Reality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27148141",
+        "entityLabel": "Zcash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55774523",
+        "entityLabel": "React Native"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60827595",
+        "entityLabel": "AlphaFold"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q876646",
+        "entityLabel": "Windows Live Spaces"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q610274",
+        "entityLabel": "Windows To Go"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117428",
+        "entityLabel": "Microsoft Money"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1100860",
+        "entityLabel": "Cleverbot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1137220",
+        "entityLabel": "OpenGL ES"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1251280",
+        "entityLabel": "Game Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1474827",
+        "entityLabel": "Pivot Animator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q892647",
+        "entityLabel": "Bonjour"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q904150",
+        "entityLabel": "Microsoft BizTalk Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1024234",
+        "entityLabel": "CPU-Z"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q540202",
+        "entityLabel": "Google Cloud Print"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q688988",
+        "entityLabel": "Expression Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q306106",
+        "entityLabel": "CFosSpeed"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1061519",
+        "entityLabel": "OmniWeb"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1064017",
+        "entityLabel": "Monkey's Audio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1076697",
+        "entityLabel": "Windows DVD Maker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1187803",
+        "entityLabel": "Windows Server Update Services"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1348042",
+        "entityLabel": "MicroStation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2595529",
+        "entityLabel": "Houdini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2755835",
+        "entityLabel": "Google Translator Toolkit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19600398",
+        "entityLabel": "Windows Insider"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1052285",
+        "entityLabel": "anoNet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q596031",
+        "entityLabel": "BearShare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q177314",
+        "entityLabel": "Active Desktop"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q343961",
+        "entityLabel": "ActiveSync"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q378530",
+        "entityLabel": "Praat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1171872",
+        "entityLabel": "Dashboard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1277662",
+        "entityLabel": "Earth Simulator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1416880",
+        "entityLabel": "FineReader PDF"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1537683",
+        "entityLabel": "Google File System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6503178",
+        "entityLabel": "trash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45319394",
+        "entityLabel": "Apple HomeKit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116894231",
+        "entityLabel": "LLaMA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q720287",
+        "entityLabel": "Mental Ray"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q904533",
+        "entityLabel": "Microsoft Dynamics NAV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q905689",
+        "entityLabel": "ExPASy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q920973",
+        "entityLabel": "Windows Live OneCare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q974700",
+        "entityLabel": "Google Sky"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653475",
+        "entityLabel": "X display manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q688523",
+        "entityLabel": "LHC@home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3139231",
+        "entityLabel": "Ultrasurf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3304472",
+        "entityLabel": "Bonzi Buddy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1514978",
+        "entityLabel": "LimeSurvey"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14628801",
+        "entityLabel": "Samsung Knox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15241057",
+        "entityLabel": "Wolfram Language"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15918054",
+        "entityLabel": "TrueCaller"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2002768",
+        "entityLabel": "RockMelt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29364760",
+        "entityLabel": "VSCO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29900635",
+        "entityLabel": "Fluent Design System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q718504",
+        "entityLabel": "HTC Sense"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q740500",
+        "entityLabel": "Windows Journal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q797941",
+        "entityLabel": "Babylon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q928074",
+        "entityLabel": "Soulseek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q594062",
+        "entityLabel": "Carnivore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q664672",
+        "entityLabel": "Google Code Search"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q675860",
+        "entityLabel": "Microsoft Dynamics AX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q166751",
+        "entityLabel": "InterBase"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239036",
+        "entityLabel": "WinMX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q421105",
+        "entityLabel": "Front Row"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1185139",
+        "entityLabel": "Disk Cleanup"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1347061",
+        "entityLabel": "Windows Small Business Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1422888",
+        "entityLabel": "Invision Community"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1425174",
+        "entityLabel": "Labelflash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2249121",
+        "entityLabel": "Google Web Accelerator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2436588",
+        "entityLabel": "DraftSight"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2736257",
+        "entityLabel": "Google Voice Search"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18612597",
+        "entityLabel": "Dubsmash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q53252126",
+        "entityLabel": "Telegram Open Network"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55637991",
+        "entityLabel": "Xiaohongshu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q901177",
+        "entityLabel": "Gaussian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q952579",
+        "entityLabel": "Linguee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q972637",
+        "entityLabel": "Kurnik"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1037133",
+        "entityLabel": "Megurine Luka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122381",
+        "entityLabel": "BlackBerry World"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q229414",
+        "entityLabel": "3DMark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q431013",
+        "entityLabel": "WoW64"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3524651",
+        "entityLabel": "Omeka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1138099",
+        "entityLabel": "Cover Flow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3775026",
+        "entityLabel": "PhotoScape"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1196945",
+        "entityLabel": "Rosetta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1207441",
+        "entityLabel": "Windows Anytime Upgrade"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1370549",
+        "entityLabel": "Norton Utilities"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5424140",
+        "entityLabel": "f.lux"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1463840",
+        "entityLabel": "Tango Desktop Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1473586",
+        "entityLabel": "PartitionMagic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1542670",
+        "entityLabel": "Microsoft Visual SourceSafe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15898172",
+        "entityLabel": "Zhihu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1891637",
+        "entityLabel": "MSN TV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16336073",
+        "entityLabel": "Moovit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2120923",
+        "entityLabel": "W3C Markup Validation Service"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2263597",
+        "entityLabel": "Rockstar Games Social Club"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2394058",
+        "entityLabel": "Microsoft Student"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2744208",
+        "entityLabel": "Windows HPC Server 2008"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17870327",
+        "entityLabel": "Stellar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19878318",
+        "entityLabel": "FreeSync"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30943865",
+        "entityLabel": "Nintendo Switch Online"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q39048590",
+        "entityLabel": "Filecoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q90565214",
+        "entityLabel": "Aarogya Setu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q91219994",
+        "entityLabel": "Weverse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28446850",
+        "entityLabel": "Adobe Express"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q773342",
+        "entityLabel": "BartPE"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q789205",
+        "entityLabel": "autocorrection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q902642",
+        "entityLabel": "CHARMM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q967784",
+        "entityLabel": "WinShell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1022947",
+        "entityLabel": "Computer-aided technologies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1035519",
+        "entityLabel": "Carbon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q686425",
+        "entityLabel": "Microsoft Plus!"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q284497",
+        "entityLabel": "iCab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360299",
+        "entityLabel": "Adobe Muse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q379950",
+        "entityLabel": "Adventure Game Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1187627",
+        "entityLabel": "I Am Rich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1193575",
+        "entityLabel": "Windows Mobility Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1196436",
+        "entityLabel": "Exact Audio Copy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1202730",
+        "entityLabel": "Echolink"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1281628",
+        "entityLabel": "Earthquake Early Warning"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5025884",
+        "entityLabel": "Cameleon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1418609",
+        "entityLabel": "Openbravo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1630722",
+        "entityLabel": "Hot Potatoes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7202970",
+        "entityLabel": "PlayStation App"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1753563",
+        "entityLabel": "SystemC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1788938",
+        "entityLabel": "WorldWide Telescope"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1797819",
+        "entityLabel": "L4 microkernel family"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1995545",
+        "entityLabel": "software package"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2395204",
+        "entityLabel": "The Adventures of Tintin: The Secret of the Unicorn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6735673",
+        "entityLabel": "Mailchimp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6822481",
+        "entityLabel": "metadata removal tool"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2582530",
+        "entityLabel": "Network Control Program"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18378690",
+        "entityLabel": "IBM Bluemix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29364625",
+        "entityLabel": "Android SDK"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19863865",
+        "entityLabel": "Apple Health"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q46166265",
+        "entityLabel": "Polkadot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q100154042",
+        "entityLabel": "Google Docs Editors"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q736181",
+        "entityLabel": "Xbox App"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q838001",
+        "entityLabel": "svchost.exe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q491498",
+        "entityLabel": "fortune"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q266990",
+        "entityLabel": "Netscape"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3097841",
+        "entityLabel": "computer accessibility"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3529218",
+        "entityLabel": "Tintin in Tibet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4048883",
+        "entityLabel": "SQL Server Management Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3309521",
+        "entityLabel": "Snes9x"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1193278",
+        "entityLabel": "Windows System Assessment Tool"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1200785",
+        "entityLabel": "Desktop Window Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1282140",
+        "entityLabel": "Jini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1307239",
+        "entityLabel": "Origin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1358512",
+        "entityLabel": "HotJava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1423430",
+        "entityLabel": "Spaces"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1522160",
+        "entityLabel": "Steinberg Nuendo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4040782",
+        "entityLabel": "Hotspot Shield"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4041310",
+        "entityLabel": "Imo.im"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5548660",
+        "entityLabel": "Gephi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1788435",
+        "entityLabel": "STATISTICA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15989663",
+        "entityLabel": "global distribution system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1853389",
+        "entityLabel": "Microsoft MapPoint"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1920031",
+        "entityLabel": "memoQ"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1950744",
+        "entityLabel": "Jigdo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1992595",
+        "entityLabel": "Nimbuzz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16909328",
+        "entityLabel": "Desmos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2078655",
+        "entityLabel": "NAMD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2099390",
+        "entityLabel": "Plesk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2104904",
+        "entityLabel": "Microsoft Entourage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2134497",
+        "entityLabel": "Rdio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2361202",
+        "entityLabel": "IMVU"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2536917",
+        "entityLabel": "IBM WebSphere"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2575010",
+        "entityLabel": "SQL*Plus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29364771",
+        "entityLabel": "BiP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24836950",
+        "entityLabel": "Webtoon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47008412",
+        "entityLabel": "Mullvad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27536891",
+        "entityLabel": "Office Forms"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q100804984",
+        "entityLabel": "Chainlink"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q739853",
+        "entityLabel": "LiveStation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q796007",
+        "entityLabel": "BIRT Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q838305",
+        "entityLabel": "Weather Research and Forecasting model"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q996052",
+        "entityLabel": "STRIPS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q537261",
+        "entityLabel": "Chinook"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q568723",
+        "entityLabel": "MASSIVE"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q575269",
+        "entityLabel": "SimulationX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q613715",
+        "entityLabel": "AnyDVD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58069",
+        "entityLabel": "Digsby"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q281431",
+        "entityLabel": "Microsoft Office Live"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q307180",
+        "entityLabel": "getty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q346434",
+        "entityLabel": "ADABAS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q369096",
+        "entityLabel": "Pharo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q432365",
+        "entityLabel": "Java 3D"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1093748",
+        "entityLabel": "Novell eDirectory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1132468",
+        "entityLabel": "Core Animation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1132493",
+        "entityLabel": "Core fonts for the Web"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1132555",
+        "entityLabel": "Corel Ventura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1142403",
+        "entityLabel": "Crystal Reports"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1153643",
+        "entityLabel": "Windows Mobile Device Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1154805",
+        "entityLabel": "DOS Shell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1156104",
+        "entityLabel": "DVD Shrink"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1164682",
+        "entityLabel": "MixRadio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1190015",
+        "entityLabel": "SpringBoard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1235617",
+        "entityLabel": "PhotoFiltre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1246497",
+        "entityLabel": "Maildir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1371166",
+        "entityLabel": "DirectSound"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1371756",
+        "entityLabel": "Grapher"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1391304",
+        "entityLabel": "WOT Services"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1397499",
+        "entityLabel": "MindManager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1456530",
+        "entityLabel": "Nokia PC Suite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1528873",
+        "entityLabel": "Gizmo5"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1568337",
+        "entityLabel": "Microsoft Dynamics 365 Sales"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1603162",
+        "entityLabel": "Shake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4044360",
+        "entityLabel": "Mission Control"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1753743",
+        "entityLabel": "Outlook on the web"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1781023",
+        "entityLabel": "NX technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1851885",
+        "entityLabel": "Sega Meganet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15039395",
+        "entityLabel": "Mantle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15981447",
+        "entityLabel": "Auroracoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16947973",
+        "entityLabel": "Cainiao"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2704444",
+        "entityLabel": "Disk Utility"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2917187",
+        "entityLabel": "Notification Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3045918",
+        "entityLabel": "EGL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18643705",
+        "entityLabel": "Google Play Newsstand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23680120",
+        "entityLabel": "CNTK"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42266788",
+        "entityLabel": "Mobirise"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24451405",
+        "entityLabel": "R-Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24839341",
+        "entityLabel": "Venmo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q50414488",
+        "entityLabel": "Chuchel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q54621410",
+        "entityLabel": "Messenger Kids"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55408718",
+        "entityLabel": "Solid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28325009",
+        "entityLabel": "AlexNet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56346787",
+        "entityLabel": "Crowdsource"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105102519",
+        "entityLabel": "Surfshark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105185169",
+        "entityLabel": "PANGOLIN"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110808774",
+        "entityLabel": "Trino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q730693",
+        "entityLabel": "RTAI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q761424",
+        "entityLabel": "Kisekae Set System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q971477",
+        "entityLabel": "GoTo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q973269",
+        "entityLabel": "mobile device management"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q976637",
+        "entityLabel": "Microsoft Web Platform Installer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q594763",
+        "entityLabel": "Microsoft Expression Blend"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q603867",
+        "entityLabel": "mSQL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q618888",
+        "entityLabel": "MEIKO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q644624",
+        "entityLabel": "Mycin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52294",
+        "entityLabel": "SpeedFan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q164265",
+        "entityLabel": "Jeskola Buzz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q285350",
+        "entityLabel": "nLite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q287009",
+        "entityLabel": "ABC@Home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q296674",
+        "entityLabel": "Architecture of Integrated Information Systems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q357569",
+        "entityLabel": "Hashcash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360204",
+        "entityLabel": "Event Viewer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q391444",
+        "entityLabel": "Office 2004 for Mac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q400744",
+        "entityLabel": "GAMESS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420557",
+        "entityLabel": "DVD Player"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1069529",
+        "entityLabel": "IBM Lotus Domino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1072552",
+        "entityLabel": "Tivoli Software"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1093482",
+        "entityLabel": "Citrix Virtual Apps"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140931",
+        "entityLabel": "PlayStation Mobile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1142467",
+        "entityLabel": "Logic Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1144777",
+        "entityLabel": "Magnifier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1186015",
+        "entityLabel": "I-Doser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1200685",
+        "entityLabel": "Design rule for Camera File system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1206328",
+        "entityLabel": "Resource Hacker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4904867",
+        "entityLabel": "BigQuery"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4006781",
+        "entityLabel": "Windows Task Scheduler"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1289689",
+        "entityLabel": "SoftMaker Office"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1335388",
+        "entityLabel": "Alice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1367390",
+        "entityLabel": "Windows CardSpace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1370664",
+        "entityLabel": "Windows Live Gallery"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1459271",
+        "entityLabel": "SIMAP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1537675",
+        "entityLabel": "Trimble 3D Warehouse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1537691",
+        "entityLabel": "Google Optimize"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1542558",
+        "entityLabel": "Grand Central Dispatch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1584816",
+        "entityLabel": "Microsoft Reader"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1586208",
+        "entityLabel": "Skyfire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1753883",
+        "entityLabel": "SNOMED CT"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1848546",
+        "entityLabel": "Slowloris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1848975",
+        "entityLabel": "Photosynth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15952517",
+        "entityLabel": "Tango"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1864976",
+        "entityLabel": "LISTSERV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1928473",
+        "entityLabel": "RTLinux"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2018814",
+        "entityLabel": "Microsoft Family Safety"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16971518",
+        "entityLabel": "Control Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2324584",
+        "entityLabel": "Burp Suite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2417519",
+        "entityLabel": "TrackID"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17108237",
+        "entityLabel": "AirHelp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6954417",
+        "entityLabel": "NI Multisim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2888953",
+        "entityLabel": "Bioconductor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2900724",
+        "entityLabel": "Bhuvan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3022317",
+        "entityLabel": "Dendral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21041422",
+        "entityLabel": "Action Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23038417",
+        "entityLabel": "Sticky Notes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23302620",
+        "entityLabel": "Affinity Photo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q85764061",
+        "entityLabel": "Google Currents"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24833016",
+        "entityLabel": "Mango TV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25389797",
+        "entityLabel": "MX Player"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28956992",
+        "entityLabel": "DBeaver"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q74409386",
+        "entityLabel": "Hily"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108582200",
+        "entityLabel": "OpenAI Codex"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q769946",
+        "entityLabel": "Adobe OnLocation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q863146",
+        "entityLabel": "Windows Setup"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q869375",
+        "entityLabel": "Sports Tracker"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q890255",
+        "entityLabel": "WiMP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1049664",
+        "entityLabel": "OpenFeint"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1050551",
+        "entityLabel": "iMesh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q604536",
+        "entityLabel": "GLX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q621338",
+        "entityLabel": "Apple Remote Desktop"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q681472",
+        "entityLabel": "OpenML"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58518",
+        "entityLabel": "Meetro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151524",
+        "entityLabel": "Bing Maps Platform"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q250173",
+        "entityLabel": "Keychain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q296959",
+        "entityLabel": "ARexx"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q298929",
+        "entityLabel": "ATI Avivo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q384622",
+        "entityLabel": "Adobe Flash Lite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3110764",
+        "entityLabel": "Google Takeout"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3476481",
+        "entityLabel": "Scrivener"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1081055",
+        "entityLabel": "Windows Ultimate Extras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1093321",
+        "entityLabel": "Citavi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1167965",
+        "entityLabel": "Enlightened Sound Daemon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4049256",
+        "entityLabel": "SegaNet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3656354",
+        "entityLabel": "Windows Speech Recognition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1195367",
+        "entityLabel": "Xsan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1258962",
+        "entityLabel": "MAXQDA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1265403",
+        "entityLabel": "Combined DNA Index System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4391326",
+        "entityLabel": "WebCL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4655021",
+        "entityLabel": "AV-Comparatives"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1410913",
+        "entityLabel": "Netscape Communicator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1463808",
+        "entityLabel": "Phalanger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1637279",
+        "entityLabel": "Mozilla Persona"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1639237",
+        "entityLabel": "Kelkoo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1654234",
+        "entityLabel": "Windows Automated Installation Kit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1760409",
+        "entityLabel": "LDraw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1783444",
+        "entityLabel": "Mudbox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1786021",
+        "entityLabel": "Super PI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1808526",
+        "entityLabel": "MoonShell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1938031",
+        "entityLabel": "Fring"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7444867",
+        "entityLabel": "secure coding"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2092500",
+        "entityLabel": "SpywareBlaster"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2252819",
+        "entityLabel": "Font Book"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2497805",
+        "entityLabel": "Chrome Engine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6840267",
+        "entityLabel": "Microsoft Word Viewer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2552023",
+        "entityLabel": "Acid Pro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2582499",
+        "entityLabel": "FormatFactory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2632017",
+        "entityLabel": "Wolfram Demonstrations Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2704403",
+        "entityLabel": "Stickies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2706736",
+        "entityLabel": "Dictionary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2718098",
+        "entityLabel": "Foxmail"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19599479",
+        "entityLabel": "Lumina Desktop"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30068972",
+        "entityLabel": "Etcher"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24838019",
+        "entityLabel": "Ele.me"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25345972",
+        "entityLabel": "Google Spaces"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q50322557",
+        "entityLabel": "Snow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117340550",
+        "entityLabel": "LangChain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q795920",
+        "entityLabel": "Adobe Device Central"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q806223",
+        "entityLabel": "Band-in-a-Box"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q902260",
+        "entityLabel": "Predictor@home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q930132",
+        "entityLabel": "OpenVG"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q515316",
+        "entityLabel": "HP OpenView"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q522563",
+        "entityLabel": "Windows Live Admin Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q568887",
+        "entityLabel": "Simons' BASIC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q599975",
+        "entityLabel": "PowerDesigner"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q624414",
+        "entityLabel": "Monte Carlo N-Particle Transport Code"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q631011",
+        "entityLabel": "ArcView"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q637990",
+        "entityLabel": "Trendalyzer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q658388",
+        "entityLabel": "MOSIX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q144858",
+        "entityLabel": "Adobe Digital Editions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202861",
+        "entityLabel": "System Center Operations Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q285635",
+        "entityLabel": "hMailServer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q307306",
+        "entityLabel": "troff"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360119",
+        "entityLabel": "Adobe Edge Animate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q429157",
+        "entityLabel": "Jakarta Connectors"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3124991",
+        "entityLabel": "Microsoft Online Services"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3234758",
+        "entityLabel": "ubuntu-restricted-extras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3269011",
+        "entityLabel": "ARToolKit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3277870",
+        "entityLabel": "EPANET"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3480061",
+        "entityLabel": "Service Control Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3490752",
+        "entityLabel": "Sony Entertainment Network"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3533171",
+        "entityLabel": "Windows Address Book"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3543859",
+        "entityLabel": "Norton ConnectSafe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3568023",
+        "entityLabel": "Wiki-Watch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1111151",
+        "entityLabel": "ColorSync"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1116420",
+        "entityLabel": "E-on Vue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1147130",
+        "entityLabel": "Cyberdog"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1161680",
+        "entityLabel": "JMP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3325183",
+        "entityLabel": "Autodesk MotionBuilder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3435415",
+        "entityLabel": "EnCase"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1171875",
+        "entityLabel": "Dashcode"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1186962",
+        "entityLabel": "Network Access Protection"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1187310",
+        "entityLabel": "Microsoft Azure SQL Database"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1202192",
+        "entityLabel": "Environmental Audio Extensions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1206697",
+        "entityLabel": "Gnutella2"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1225395",
+        "entityLabel": "McAfee SiteAdvisor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1228788",
+        "entityLabel": "Diskeeper"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1231051",
+        "entityLabel": "SQL Server Integration Services"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1253866",
+        "entityLabel": "Klik"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4914139",
+        "entityLabel": "Bing Mobile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5299630",
+        "entityLabel": "Google Ad Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5323650",
+        "entityLabel": "eM Client"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1312725",
+        "entityLabel": "local shared object"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1313004",
+        "entityLabel": "Prime95"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1373903",
+        "entityLabel": "Real time Java"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1398059",
+        "entityLabel": "People"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1516517",
+        "entityLabel": "HyperACCESS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1541559",
+        "entityLabel": "Graffiti"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1609529",
+        "entityLabel": "Mizar system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1785929",
+        "entityLabel": "XLink Kai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16254737",
+        "entityLabel": "IObit Uninstaller"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1930734",
+        "entityLabel": "Yabasic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1931636",
+        "entityLabel": "Microsoft Robotics Developer Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1931640",
+        "entityLabel": "Microsoft Intune"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1935560",
+        "entityLabel": "teTeX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2002922",
+        "entityLabel": "Novell ZENworks"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2005355",
+        "entityLabel": "orbit@home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2006475",
+        "entityLabel": "Microsoft HealthVault"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10853310",
+        "entityLabel": "Whoscall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11072391",
+        "entityLabel": "fastboot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2036703",
+        "entityLabel": "VMware ThinApp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2249548",
+        "entityLabel": "Grab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6397983",
+        "entityLabel": "kexec"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7544153",
+        "entityLabel": "Smartsheet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17042843",
+        "entityLabel": "PhotoDNA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2361252",
+        "entityLabel": "Microsoft Data Access Components"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2391203",
+        "entityLabel": "DataFlex"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2415664",
+        "entityLabel": "Microsoft Office Live Meeting"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2456893",
+        "entityLabel": "Microsoft Agent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6840250",
+        "entityLabel": "Microsoft Vizact"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2547997",
+        "entityLabel": "Windows Live Call"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2629361",
+        "entityLabel": "GnomeVFS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2636431",
+        "entityLabel": "Maxwell Render"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2663740",
+        "entityLabel": "Adobe Media Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2665168",
+        "entityLabel": "PSpice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2704276",
+        "entityLabel": "Docking@Home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2732484",
+        "entityLabel": "Omega"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2819312",
+        "entityLabel": "AOL Explorer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2995594",
+        "entityLabel": "Outpost Firewall Pro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3041988",
+        "entityLabel": "Dynamic Language Runtime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3051072",
+        "entityLabel": "IRAF"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7936565",
+        "entityLabel": "Visual Molecular Dynamics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18756602",
+        "entityLabel": "Nemexia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19599499",
+        "entityLabel": "Odin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29223522",
+        "entityLabel": "Zen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20647408",
+        "entityLabel": "HERE WeGo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13592736",
+        "entityLabel": "Dropmire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24807477",
+        "entityLabel": "Microsoft Wallet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42916195",
+        "entityLabel": "Keycloak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48815741",
+        "entityLabel": "Verge3D"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q98098840",
+        "entityLabel": "Nearby Share"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55477108",
+        "entityLabel": "Plantix (mobile app)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56280421",
+        "entityLabel": "Google Travel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105104818",
+        "entityLabel": "LBRY"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28957041",
+        "entityLabel": "OpenXR"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60775665",
+        "entityLabel": "Your Phone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q119983864",
+        "entityLabel": "Nym Mixnet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q722084",
+        "entityLabel": "C++ AMP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q853479",
+        "entityLabel": "eXeem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q862029",
+        "entityLabel": "MilkShape 3D"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q898716",
+        "entityLabel": "ChemDraw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q905675",
+        "entityLabel": "Microsoft AutoRoute"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q909896",
+        "entityLabel": "Windows SideShow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q912162",
+        "entityLabel": "BioPerl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q920145",
+        "entityLabel": "Grokster"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q960382",
+        "entityLabel": "FirstClass"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q969130",
+        "entityLabel": "Source SDK"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q989961",
+        "entityLabel": "Flow tracer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q993236",
+        "entityLabel": "FlashFXP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1002643",
+        "entityLabel": "RandR"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1023112",
+        "entityLabel": "CDF Player"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1027000",
+        "entityLabel": "TrueSpace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1050348",
+        "entityLabel": "Point-to-Point Protocol daemon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q545856",
+        "entityLabel": "Paessler PRTG"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q572630",
+        "entityLabel": "Framework for Integrated Test"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q594096",
+        "entityLabel": "HEC-RAS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q630242",
+        "entityLabel": "Numerical Electromagnetics Code"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q635722",
+        "entityLabel": "DIAlux"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q647506",
+        "entityLabel": "Narus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q666032",
+        "entityLabel": "WorkPLAN"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58558",
+        "entityLabel": "Palringo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q252581",
+        "entityLabel": "progeCAD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q304733",
+        "entityLabel": "IsoBuster"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q307524",
+        "entityLabel": "gridMathematica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360295",
+        "entityLabel": "Adobe Media Player"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q453290",
+        "entityLabel": "FontLab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q458022",
+        "entityLabel": "Shibboleth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q460296",
+        "entityLabel": "DAZ Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3072026",
+        "entityLabel": "HyperCam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3133024",
+        "entityLabel": "Mxit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3282596",
+        "entityLabel": "Everybody Votes Channel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3498928",
+        "entityLabel": "Microsoft Office 98 Macintosh Edition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3508244",
+        "entityLabel": "Oracle Spatial"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054964",
+        "entityLabel": "Activity Monitor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1066247",
+        "entityLabel": "Windows DreamScene"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1102222",
+        "entityLabel": "CloneDVD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1141066",
+        "entityLabel": "Windows Fax and Scan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4048176",
+        "entityLabel": "Remote Play"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4048791",
+        "entityLabel": "Scripting Layer for Android"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3658057",
+        "entityLabel": "Capture One"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3757948",
+        "entityLabel": "GameRanger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3835206",
+        "entityLabel": "Live Search Academic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4053466",
+        "entityLabel": "YouTrack"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4259055",
+        "entityLabel": "Rapid Penang"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1224790",
+        "entityLabel": "Digital Photo Professional"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1278326",
+        "entityLabel": "EasyBCD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1285474",
+        "entityLabel": "Kazaa Lite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4029747",
+        "entityLabel": "1C:Enterprise"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4655150",
+        "entityLabel": "AWS Elastic Beanstalk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1325617",
+        "entityLabel": "FlashPaper"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1331305",
+        "entityLabel": "RealFlow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1337381",
+        "entityLabel": "Session Manager Subsystem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1368563",
+        "entityLabel": "Essbase"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1376225",
+        "entityLabel": "Smallworld"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5368637",
+        "entityLabel": "TeraCopy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1427296",
+        "entityLabel": "Steel Bank Common Lisp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1453571",
+        "entityLabel": "Freemake Video Downloader"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1465456",
+        "entityLabel": "Visible Human Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1500846",
+        "entityLabel": "OpenDoc"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1564939",
+        "entityLabel": "SonicStage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1639942",
+        "entityLabel": "Pegasus Mail"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5597529",
+        "entityLabel": "Grasshopper 3d"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1678793",
+        "entityLabel": "Jajah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1763653",
+        "entityLabel": "LiveChat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1779772",
+        "entityLabel": "Yahoo! Widgets"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1799362",
+        "entityLabel": "LabWindows/CVI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1807894",
+        "entityLabel": "WinDev"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14947635",
+        "entityLabel": "Telltale Tool"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15896237",
+        "entityLabel": "KuGou"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15908849",
+        "entityLabel": "IA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10630551",
+        "entityLabel": "Facebook Home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16324144",
+        "entityLabel": "MobilePay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1914164",
+        "entityLabel": "Urchin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2001900",
+        "entityLabel": "IBM Tivoli Storage Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2064656",
+        "entityLabel": "iGO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6202204",
+        "entityLabel": "Jing"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16973301",
+        "entityLabel": "iTunes Connect"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16996604",
+        "entityLabel": "Ignite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2458963",
+        "entityLabel": "AMBER"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2494998",
+        "entityLabel": "ABrowse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2499878",
+        "entityLabel": "AQUA@home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2501673",
+        "entityLabel": "Google Cloud Connect"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2558647",
+        "entityLabel": "Bolt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2567245",
+        "entityLabel": "Automatix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2625095",
+        "entityLabel": "KeyHoleTV"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2634567",
+        "entityLabel": "Adobe Acrobat Reader DC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2686971",
+        "entityLabel": "Newsstand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2714283",
+        "entityLabel": "OpenCD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2824314",
+        "entityLabel": "Adaptive Domain Environment for Operating Systems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7881459",
+        "entityLabel": "VMware vSphere"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17627617",
+        "entityLabel": "Yo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11695781",
+        "entityLabel": "Nitro Pro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2916100",
+        "entityLabel": "Snaptu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3023881",
+        "entityLabel": "p0f"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20820603",
+        "entityLabel": "Standard Portable Intermediate Representation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20979389",
+        "entityLabel": "SmartCAT"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22661279",
+        "entityLabel": "High Orbit Ion Cannon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q61194756",
+        "entityLabel": "SalamWeb"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19952796",
+        "entityLabel": "AdwCleaner"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29364693",
+        "entityLabel": "Classroom (Apple)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30694375",
+        "entityLabel": "Microsoft Stream"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22937321",
+        "entityLabel": "Transkribus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113048518",
+        "entityLabel": "Bun"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83416071",
+        "entityLabel": "Enscape"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q85803720",
+        "entityLabel": "Streamlabs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q86729107",
+        "entityLabel": "Huawei Mobile Services"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24895410",
+        "entityLabel": "Microsoft Planner"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q90818592",
+        "entityLabel": "Recovery Toolbox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q92566165",
+        "entityLabel": "scrcpy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97218982",
+        "entityLabel": "GitMind"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q98139720",
+        "entityLabel": "Slowly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116607994",
+        "entityLabel": "Nothing, Forever"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27150165",
+        "entityLabel": "Zapier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55639916",
+        "entityLabel": "Houseparty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28402090",
+        "entityLabel": "Zapya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28448991",
+        "entityLabel": "Feedback Hub"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28450700",
+        "entityLabel": "Alarms & Clock"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104399280",
+        "entityLabel": "Petal Search"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56298005",
+        "entityLabel": "DoNotPay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28957086",
+        "entityLabel": "Yubo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q726956",
+        "entityLabel": "IUCLID"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q772783",
+        "entityLabel": "Postini"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q787647",
+        "entityLabel": "DVD Studio Pro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q822039",
+        "entityLabel": "Plant Simulation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q822638",
+        "entityLabel": "JRockit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q834907",
+        "entityLabel": "Final Scratch"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q844775",
+        "entityLabel": "WIN.COM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q904815",
+        "entityLabel": "Netscape Browser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q905544",
+        "entityLabel": "Remember the Milk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q916335",
+        "entityLabel": "geolocation software"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q930907",
+        "entityLabel": "Microsoft Expression Encoder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q937094",
+        "entityLabel": "KControl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q955843",
+        "entityLabel": "OnyX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q958018",
+        "entityLabel": "Brazil R/S"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q969634",
+        "entityLabel": "TPT"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1041170",
+        "entityLabel": "Microsoft InterConnect"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1048936",
+        "entityLabel": "Series 90"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1051547",
+        "entityLabel": "CoolNovo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1054528",
+        "entityLabel": "Kdewebdev"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q491330",
+        "entityLabel": "GigaTribe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q491488",
+        "entityLabel": "OCAD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q499062",
+        "entityLabel": "Digital Performer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q615095",
+        "entityLabel": "Apple Open Directory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q628566",
+        "entityLabel": "Central Authentication Service"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q641596",
+        "entityLabel": "SugarSync"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q649316",
+        "entityLabel": "SUPER"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55530",
+        "entityLabel": "SeeU"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q58055",
+        "entityLabel": "Tlen.pl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79554",
+        "entityLabel": "Google Closure Tools"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q158836",
+        "entityLabel": ".NET Reflector"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200483",
+        "entityLabel": "eSobi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239547",
+        "entityLabel": "Microsoft BackOffice Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q285352",
+        "entityLabel": "Oracle Financial Services Software"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q294730",
+        "entityLabel": "AMD 700 chipset series"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q351078",
+        "entityLabel": "Simatic Step 7"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360199",
+        "entityLabel": "Adobe Flash Catalyst"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q360363",
+        "entityLabel": "Adobe Photoshop Express"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q382944",
+        "entityLabel": "Soar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420959",
+        "entityLabel": "Bluetooth File Exchange"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q426038",
+        "entityLabel": "Amiga Basic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q457983",
+        "entityLabel": "SFX"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q460210",
+        "entityLabel": "Nero Digital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3267706",
+        "entityLabel": "SAP Business One"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3486953",
+        "entityLabel": "Lightbox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3511904",
+        "entityLabel": "Iris Browser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3520765",
+        "entityLabel": "Google transliteration"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4788873",
+        "entityLabel": "Arena"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1067849",
+        "entityLabel": "Windows Live Favorites"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1081057",
+        "entityLabel": "Microsoft Office SharePoint Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1101537",
+        "entityLabel": "Clinical trial management system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1130683",
+        "entityLabel": "Record"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1131261",
+        "entityLabel": "SmartDrive"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1132534",
+        "entityLabel": "Corel Presentations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140614",
+        "entityLabel": "MicroC/OS-II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1156085",
+        "entityLabel": "DVDFab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4048590",
+        "entityLabel": "RubyMine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4050773",
+        "entityLabel": "Teamcenter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3333677",
+        "entityLabel": "Pinyin input method"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3417478",
+        "entityLabel": "Ragel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3700591",
+        "entityLabel": "DVD Player"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1172192",
+        "entityLabel": "Jet Data Access Objects"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1191954",
+        "entityLabel": "Gollum browser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1192211",
+        "entityLabel": "MicroStrategy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1280163",
+        "entityLabel": "Wikitude"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4899956",
+        "entityLabel": "Beyond Compare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4993263",
+        "entityLabel": "NemID"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4385722",
+        "entityLabel": "Windows Live Personalized Experience"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4438797",
+        "entityLabel": "Windows Easy Transfer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1418986",
+        "entityLabel": "Firesheep"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1424053",
+        "entityLabel": "Microsoft Baseline Security Analyzer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4034719",
+        "entityLabel": "Creatio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4037403",
+        "entityLabel": "DirectAdmin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4040289",
+        "entityLabel": "HPC Challenge Benchmark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5499643",
+        "entityLabel": "FreeFem++"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1496637",
+        "entityLabel": "Gazelle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1571571",
+        "entityLabel": "Turbo Vision"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1587784",
+        "entityLabel": "Microsoft SharePoint Foundation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1606792",
+        "entityLabel": "Sterling"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4043595",
+        "entityLabel": "MagicISO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4045355",
+        "entityLabel": "Ninite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5580856",
+        "entityLabel": "Golly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5620239",
+        "entityLabel": "Gurobi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1755003",
+        "entityLabel": "IBM Lotus Approach"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1814281",
+        "entityLabel": "Matrix Template Library"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1815212",
+        "entityLabel": "Scalable Inman Flash Replacement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7305527",
+        "entityLabel": "REDCap"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1901208",
+        "entityLabel": "O3spaces"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1946001",
+        "entityLabel": "iTunes LP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1948592",
+        "entityLabel": "Freeglut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1982555",
+        "entityLabel": "X Rendering Extension"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1993484",
+        "entityLabel": "WindowBlinds"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2036340",
+        "entityLabel": "KisMAC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10850880",
+        "entityLabel": "IBM High Availability Cluster Multiprocessing"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16577004",
+        "entityLabel": "iDempiere"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16821376",
+        "entityLabel": "Nukemap"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2111327",
+        "entityLabel": "Primavera"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2146830",
+        "entityLabel": "Core Data"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2187908",
+        "entityLabel": "native"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2231331",
+        "entityLabel": "SmartDraw"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16927806",
+        "entityLabel": "Sky Map"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11230249",
+        "entityLabel": "Live2D"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17034877",
+        "entityLabel": "LocalWiki"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17076224",
+        "entityLabel": "Private Internet Access"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2350040",
+        "entityLabel": "dSniff"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2389927",
+        "entityLabel": "IBM General Parallel File System"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2423520",
+        "entityLabel": "The Elder Scrolls Construction Set"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2468467",
+        "entityLabel": "BMDP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2471206",
+        "entityLabel": "PCMark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2496071",
+        "entityLabel": "Xenomai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2502809",
+        "entityLabel": "Google Sync"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17085036",
+        "entityLabel": "SQRL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6744768",
+        "entityLabel": "Maltego"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6840172",
+        "entityLabel": "Microsoft Mail"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11259709",
+        "entityLabel": "Swapnote"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2523117",
+        "entityLabel": "YouOS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2555144",
+        "entityLabel": "PowerISO"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2569188",
+        "entityLabel": "Alexa Toolbar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2579033",
+        "entityLabel": "Power DoLLS: Detachment of Limited Line Service"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2601990",
+        "entityLabel": "Globus Toolkit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2613503",
+        "entityLabel": "BlackBerry Enterprise Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2648230",
+        "entityLabel": "Advanced SystemCare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2658672",
+        "entityLabel": "Vimperator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7805276",
+        "entityLabel": "Time bomb"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7905764",
+        "entityLabel": "WikiNodes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17991433",
+        "entityLabel": "Comico"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7928305",
+        "entityLabel": "Vienna Ab-initio Simulation Package"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7977910",
+        "entityLabel": "We the People"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18149779",
+        "entityLabel": "Facebook Slingshot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18149881",
+        "entityLabel": "Emojli"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18345379",
+        "entityLabel": "Google News & Weather"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20866654",
+        "entityLabel": "WebLOAD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20895278",
+        "entityLabel": "Tekla Structures"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21041366",
+        "entityLabel": "TestFlight"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21041527",
+        "entityLabel": "defeat device"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21042804",
+        "entityLabel": "17LIVE"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21480303",
+        "entityLabel": "SAP S/4HANA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12379285",
+        "entityLabel": "X-Road"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19599483",
+        "entityLabel": "Meerkat App"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29364615",
+        "entityLabel": "Clips (software)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22906775",
+        "entityLabel": "Bitcoin Classic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19878045",
+        "entityLabel": "Google for Education"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20708054",
+        "entityLabel": "Geekbench"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30602204",
+        "entityLabel": "Shortcuts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30945932",
+        "entityLabel": "NoxPlayer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22907431",
+        "entityLabel": "Conda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113976362",
+        "entityLabel": "RustDesk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42417874",
+        "entityLabel": "Android Pay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115680335",
+        "entityLabel": "Hinge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115917025",
+        "entityLabel": "Freeform"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27926176",
+        "entityLabel": "Adobe Voco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55629120",
+        "entityLabel": "Parsec"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55639320",
+        "entityLabel": "Bird"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q64919023",
+        "entityLabel": "Urbit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28135300",
+        "entityLabel": "Workplace from Meta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28502244",
+        "entityLabel": "Microsoft Power Automate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60165325",
+        "entityLabel": "Looker Studio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60748043",
+        "entityLabel": "OpenAI Five"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106609131",
+        "entityLabel": "MobileCoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107610458",
+        "entityLabel": "Open 3D Engine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120759195",
+        "entityLabel": "Whisper"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109620998",
+        "entityLabel": "Microsoft Loop"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110779090",
+        "entityLabel": "Fusion 360"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q697315",
+        "entityLabel": "Microsoft Office Document Imaging"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q755099",
+        "entityLabel": "NORC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q766643",
+        "entityLabel": "Microsoft Outlook Hotmail Connector"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q822258",
+        "entityLabel": "OpenAM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q823827",
+        "entityLabel": "K virtual machine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q844764",
+        "entityLabel": "VISSIM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q885785",
+        "entityLabel": "Blue Moon Rendering Tools"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q935976",
+        "entityLabel": "Mule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q949740",
+        "entityLabel": "Ultamatix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1013763",
+        "entityLabel": "Swiftweasel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1014343",
+        "entityLabel": "FreeCommander"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1022808",
+        "entityLabel": "CANoe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1027338",
+        "entityLabel": "Cisco Unified Communications Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1041347",
+        "entityLabel": "Microsoft Office Accounting"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1041639",
+        "entityLabel": "Microsoft Office Forms Server"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1045967",
+        "entityLabel": "Adobe LiveCycle Designer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1049242",
+        "entityLabel": "DiskImageMounter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q489479",
+        "entityLabel": "SAP GUI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q490177",
+        "entityLabel": "HNSKY"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q516976",
+        "entityLabel": "Paparazzi Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q564657",
+        "entityLabel": "SQLyog"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q581651",
+        "entityLabel": "WCF Data Services"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q611472",
+        "entityLabel": "Music Unlimited"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q640173",
+        "entityLabel": "X-12-ARIMA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q641579",
+        "entityLabel": "Microsoft Home"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q685241",
+        "entityLabel": "DVBViewer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29386",
+        "entityLabel": "Starry Night"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120337",
+        "entityLabel": "Chess Assistant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123714",
+        "entityLabel": "RagTime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q263029",
+        "entityLabel": "Exchange ActiveSync"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q297730",
+        "entityLabel": "ASIC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q306175",
+        "entityLabel": "Exposé"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q321295",
+        "entityLabel": "Ability Office"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q369085",
+        "entityLabel": "Connect:Direct"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q479220",
+        "entityLabel": "Citect"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3066280",
+        "entityLabel": "Wherigo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3099491",
+        "entityLabel": "SuperMemo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3111254",
+        "entityLabel": "Messenger Mobile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3124335",
+        "entityLabel": "Tweak UI"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3178070",
+        "entityLabel": "Windows Live Groups"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3224127",
+        "entityLabel": "Windows Live Alerts"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3237883",
+        "entityLabel": "Libon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3283969",
+        "entityLabel": "Mii Contest Channel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3284046",
+        "entityLabel": "Wii no Ma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3495959",
+        "entityLabel": "DirectMusic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3497316",
+        "entityLabel": "Statgraphics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3500946",
+        "entityLabel": "Autodesk AliasStudio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3509322",
+        "entityLabel": "Passenger service system"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3559954",
+        "entityLabel": "inSSIDer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3567305",
+        "entityLabel": "Croquet Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3567395",
+        "entityLabel": "Windows Live Events"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4684006",
+        "entityLabel": "Adobe RoboHelp"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4822388",
+        "entityLabel": "Postback"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1056667",
+        "entityLabel": "Power Tab Editor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1064981",
+        "entityLabel": "Rising Antivirus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1071106",
+        "entityLabel": "Network Utility"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1071250",
+        "entityLabel": "Image Capture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1092979",
+        "entityLabel": "Sysquake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1105496",
+        "entityLabel": "Coda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1129895",
+        "entityLabel": "Java Advanced Imaging"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3306008",
+        "entityLabel": "CherryOS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3317826",
+        "entityLabel": "ModelSim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3331289",
+        "entityLabel": "My Windows Phone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3376999",
+        "entityLabel": "LISREL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3419577",
+        "entityLabel": "RapidQ"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3423447",
+        "entityLabel": "Registax"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3772657",
+        "entityLabel": "GoTo Meeting"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3780669",
+        "entityLabel": "Adobe Persuasion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4052486",
+        "entityLabel": "VALO-CD"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4052880",
+        "entityLabel": "Watir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4053158",
+        "entityLabel": "WinUSB"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4053159",
+        "entityLabel": "WinWAP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4178192",
+        "entityLabel": "SAP Business Suite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4272073",
+        "entityLabel": "MKS Toolkit"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4382548",
+        "entityLabel": "MojoPac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1188053",
+        "entityLabel": "AirPort Utility"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1196845",
+        "entityLabel": "XSP"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1254878",
+        "entityLabel": "Dragon NaturallySpeaking"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4836231",
+        "entityLabel": "BORGChat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4839566",
+        "entityLabel": "Backblaze"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4919356",
+        "entityLabel": "Bizagi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5306908",
+        "entityLabel": "Dremel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3856940",
+        "entityLabel": "Micro-Cap"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3928276",
+        "entityLabel": "RGL"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5014227",
+        "entityLabel": "CSPro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1302273",
+        "entityLabel": "WinGate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1306665",
+        "entityLabel": "ATOS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1326156",
+        "entityLabel": "Freemake Audio Converter"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1423935",
+        "entityLabel": "Macintosh Toolbox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5377834",
+        "entityLabel": "Engineering Equation Solver"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5416087",
+        "entityLabel": "Evasi0n"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5436875",
+        "entityLabel": "FastCopy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4039668",
+        "entityLabel": "Graphical Editing Framework"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7076747",
+        "entityLabel": "Octane Render"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7095883",
+        "entityLabel": "OpenSL ES"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5499675",
+        "entityLabel": "FreeS/WAN"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1474178",
+        "entityLabel": "auction sniping"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1496072",
+        "entityLabel": "Inkwell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1545483",
+        "entityLabel": "Media Player"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1589810",
+        "entityLabel": "Hauptwerk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1635949",
+        "entityLabel": "Microsoft Bookshelf"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9001958",
+        "entityLabel": "HandWallet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5553771",
+        "entityLabel": "Gett"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5583861",
+        "entityLabel": "Google Mashup Editor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5629526",
+        "entityLabel": "HFSS"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1654332",
+        "entityLabel": "IPPOLIT"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1757028",
+        "entityLabel": "Windows Recovery Environment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1805785",
+        "entityLabel": "Laplink"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1808026",
+        "entityLabel": "Sunbelt Personal Firewall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15056418",
+        "entityLabel": "RFEM"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15113618",
+        "entityLabel": "Toggl Track"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15494057",
+        "entityLabel": "Mastercoin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15904677",
+        "entityLabel": "Cheetah Security Browser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10321016",
+        "entityLabel": "Lush"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7353252",
+        "entityLabel": "RoboMind"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7388714",
+        "entityLabel": "SAP Business ByDesign"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1922446",
+        "entityLabel": "UWIN"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1936343",
+        "entityLabel": "fglrx"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1941895",
+        "entityLabel": "geometric modeling kernel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1977027",
+        "entityLabel": "Rational Rhapsody"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1983672",
+        "entityLabel": "Ecofont"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1984171",
+        "entityLabel": "Odigo Messenger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2011146",
+        "entityLabel": "Sith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2011281",
+        "entityLabel": "Spry framework"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16525094",
+        "entityLabel": "ABViewer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16529629",
+        "entityLabel": "PDF24 Creator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16671188",
+        "entityLabel": "ProRealTime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16723298",
+        "entityLabel": "Yandex.Navigator"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2062851",
+        "entityLabel": "ArcInfo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2063660",
+        "entityLabel": "System Center Data Protection Manager"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2071453",
+        "entityLabel": "Real Time AudioSuite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2153989",
+        "entityLabel": "Petrel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2246250",
+        "entityLabel": "Logic Express"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2253358",
+        "entityLabel": "Audio MIDI Setup"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6157280",
+        "entityLabel": "Uptodown"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6266471",
+        "entityLabel": "Johnny Castaway"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11197790",
+        "entityLabel": "ESET Smart Security"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7554567",
+        "entityLabel": "Sogou Pinyin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16927926",
+        "entityLabel": "Nvidia Shadowplay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16948427",
+        "entityLabel": "ORCA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16949351",
+        "entityLabel": "CloudMagic"
+    }
+]

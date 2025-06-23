@@ -398,11 +398,11 @@ def transitive_prolog_inference(prolog_fact_file, prolog_query_file, problem_fil
 if __name__ == '__main__':
     domain_list = ['geography', 'history', 'health', 'mathematics', 'nature', 'people', 'society', 'technology']
     for domain in domain_list:
-        prolog_fact_file = f'../wiki/pl_files/{domain}.pl'
-        prolog_query_file = f'../prolog_rules/inverse_rules.pl'
-        problem_file = f'../prolog_rules/inverse_problem_dict.json'
-        backup_file = f'../wiki/backup/{domain}_backup_list.json'
-        log_entities_file = f'../wiki/log/{domain}_log.json'
+        prolog_fact_file = f'wiki/pl_files/{domain}.pl'
+        prolog_query_file = f'prolog_rules/inverse_rules.pl'
+        problem_file = f'prolog_rules/inverse_problem_dict.json'
+        backup_file = f'wiki/backup/{domain}_backup_list.json'
+        log_entities_file = f'wiki/log/{domain}_log.json'
         new_fact_list = []
         new_fact_list = inverse_prolog_inference(prolog_fact_file, prolog_query_file, problem_file, backup_file, log_entities_file, domain, new_fact_list)
         with open(f'../data/derived/inverse/{domain}_new_facts.json', 'w') as f:

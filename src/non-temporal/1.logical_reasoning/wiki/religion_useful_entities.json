@@ -1,0 +1,1538 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q432",
+        "entityLabel": "Islam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q748",
+        "entityLabel": "Buddhism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9089",
+        "entityLabel": "Hinduism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9268",
+        "entityLabel": "Judaism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9598",
+        "entityLabel": "Taoism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9601",
+        "entityLabel": "Zoroastrianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9581",
+        "entityLabel": "Confucianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9232",
+        "entityLabel": "Jainism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22679",
+        "entityLabel": "Baháʼí Faith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43004",
+        "entityLabel": "animism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42042",
+        "entityLabel": "shamanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q101462",
+        "entityLabel": "Rastafari"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131036",
+        "entityLabel": "Scientology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q161696",
+        "entityLabel": "Catharism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q447131",
+        "entityLabel": "religion of ancient Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189753",
+        "entityLabel": "modern Paganism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837605",
+        "entityLabel": "Tengrism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106687",
+        "entityLabel": "Unitarianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337547",
+        "entityLabel": "ancient Roman religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204128",
+        "entityLabel": "Bábism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q194497",
+        "entityLabel": "Historical Vedic religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1074275",
+        "entityLabel": "Chinese folk religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q745955",
+        "entityLabel": "Thelema"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7485854",
+        "entityLabel": "Yarsanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q275051",
+        "entityLabel": "Sumerian religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13446873",
+        "entityLabel": "Arminianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q752660",
+        "entityLabel": "Rule Of Osha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q740931",
+        "entityLabel": "Gallicanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q425381",
+        "entityLabel": "Hanif"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q889766",
+        "entityLabel": "Brahmanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2347558",
+        "entityLabel": "Din-e Ilahi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18670106",
+        "entityLabel": "Yazidism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7340",
+        "entityLabel": "Discordianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1122452",
+        "entityLabel": "Germanic paganism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213483",
+        "entityLabel": "modern Asatru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q617717",
+        "entityLabel": "Soka Gakkai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1423009",
+        "entityLabel": "Zurvanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1401124",
+        "entityLabel": "Proto-Indo-European mythology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q146107",
+        "entityLabel": "atenism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q285441",
+        "entityLabel": "heathenry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q256223",
+        "entityLabel": "LaVeyan Satanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14397660",
+        "entityLabel": "Pastafarianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1086440",
+        "entityLabel": "Yoruba religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2914567",
+        "entityLabel": "Canaanite religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1426400",
+        "entityLabel": "Homaranismo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q541235",
+        "entityLabel": "anglo-catholicism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1081042",
+        "entityLabel": "Kemetism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1275961",
+        "entityLabel": "Cult of Reason"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q797944",
+        "entityLabel": "Babylonian religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1431297",
+        "entityLabel": "Umbanda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1602777",
+        "entityLabel": "Hellenistic Judaism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21028568",
+        "entityLabel": "Ancient Mesopotamian religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q376608",
+        "entityLabel": "Australian Aboriginal mythology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1281268",
+        "entityLabel": "Eckankar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q920084",
+        "entityLabel": "Native American Church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1571949",
+        "entityLabel": "Ariosophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6981696",
+        "entityLabel": "Samaritanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q588362",
+        "entityLabel": "Kadam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1426922",
+        "entityLabel": "Ifá"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3450786",
+        "entityLabel": "Sallekhana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q834462",
+        "entityLabel": "Nichiren Shōshū"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q955165",
+        "entityLabel": "Grapevine cross"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2069741",
+        "entityLabel": "Matha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7424029",
+        "entityLabel": "Sarnaism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q784270",
+        "entityLabel": "Drukpa Lineage"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1323511",
+        "entityLabel": "low church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1734597",
+        "entityLabel": "Punic religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q719688",
+        "entityLabel": "Theophilanthropy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1861716",
+        "entityLabel": "Religion of Humanity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4205363",
+        "entityLabel": "Second Temple Judaism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27712",
+        "entityLabel": "Jewish Renewal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q302729",
+        "entityLabel": "Haitian Vodou"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1018444",
+        "entityLabel": "Bwiti"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2356772",
+        "entityLabel": "Gardnerian Wicca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2712462",
+        "entityLabel": "traditional Berber religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3191950",
+        "entityLabel": "polytheistic reconstructionism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q781560",
+        "entityLabel": "Aztec religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q786221",
+        "entityLabel": "Mari religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2032421",
+        "entityLabel": "Santo Daime"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3942962",
+        "entityLabel": "theology of Huldrych Zwingli"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5147615",
+        "entityLabel": "Collyridianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7415486",
+        "entityLabel": "Sanamahism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2254859",
+        "entityLabel": "Roman polytheistic reconstructionism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2765545",
+        "entityLabel": "Winti"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13408013",
+        "entityLabel": "Coconut Religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q892785",
+        "entityLabel": "Ryukyuan religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q936081",
+        "entityLabel": "Cross and Crown"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1165471",
+        "entityLabel": "Daoyuan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1436850",
+        "entityLabel": "gottgläubig"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1984195",
+        "entityLabel": "Modekngei"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2529896",
+        "entityLabel": "Palo Mayombe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5162345",
+        "entityLabel": "Native American religions"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1712272",
+        "entityLabel": "Surat Shabd Yoga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3045261",
+        "entityLabel": "detachment"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3144420",
+        "entityLabel": "Hypsistarians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4016589",
+        "entityLabel": "Louisiana Voodoo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4955624",
+        "entityLabel": "Brahmoism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11884379",
+        "entityLabel": "Etruscan religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118814",
+        "entityLabel": "Traditional Anglican Communion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q893589",
+        "entityLabel": "Bori religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1092180",
+        "entityLabel": "Finnish Neopaganism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1527782",
+        "entityLabel": "Proto-Indo-Iranian religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2384582",
+        "entityLabel": "Makuya Church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2965829",
+        "entityLabel": "Nicene Christianity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3303092",
+        "entityLabel": "mazdaism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q653912",
+        "entityLabel": "Nauruan indigenous religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q948515",
+        "entityLabel": "Spiritual Christianity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4166501",
+        "entityLabel": "Donyi-Polo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4783216",
+        "entityLabel": "Arab-Muslims"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5686977",
+        "entityLabel": "Haymanot"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6302199",
+        "entityLabel": "Judaism's view on Muhammad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q89918799",
+        "entityLabel": "Hetanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q385393",
+        "entityLabel": "Gallo-Roman religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q578719",
+        "entityLabel": "Yuzu Nembutsu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q859723",
+        "entityLabel": "Badimo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1493154",
+        "entityLabel": "Akan religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3424413",
+        "entityLabel": "Elamite religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4067214",
+        "entityLabel": "Antonianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4682594",
+        "entityLabel": "Adi Dharm"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7243552",
+        "entityLabel": "Primitive Baptists"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115389540",
+        "entityLabel": "Mango worship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2375761",
+        "entityLabel": "Wetu Telu Thoriqoh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2917160",
+        "entityLabel": "Feri Tradition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3424392",
+        "entityLabel": "Hittite religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4765190",
+        "entityLabel": "Tai folk religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7311260",
+        "entityLabel": "Religion in space"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17014295",
+        "entityLabel": "Mordvin native religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22948424",
+        "entityLabel": "Nabataean religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24961792",
+        "entityLabel": "Muisca religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104859198",
+        "entityLabel": "Abwoi religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q365138",
+        "entityLabel": "Ngor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q538136",
+        "entityLabel": "Midewiwin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q624639",
+        "entityLabel": "Jeung San Do"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1589278",
+        "entityLabel": "Pai Mārire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4913749",
+        "entityLabel": "Bimoism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4994199",
+        "entityLabel": "Neo-Theosophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6754235",
+        "entityLabel": "Mapuche religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6821410",
+        "entityLabel": "Mesoamerican religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7901124",
+        "entityLabel": "Urreligion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11773906",
+        "entityLabel": "Church Universal and Triumphant"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16050852",
+        "entityLabel": "Gonabadi Dervish"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21008369",
+        "entityLabel": "Gnostic Church of France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23620596",
+        "entityLabel": "Madhwa Brahmins"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q893252",
+        "entityLabel": "Universalist Church of America"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1788105",
+        "entityLabel": "Tenshō Kōtai Jingūkyō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3586012",
+        "entityLabel": "Harrisme"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5221505",
+        "entityLabel": "Đạo Mẫu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5992682",
+        "entityLabel": "Ignatian spirituality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5994019",
+        "entityLabel": "Mundial Church of God's Power"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6673892",
+        "entityLabel": "Longhouse Religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10889441",
+        "entityLabel": "Religious Confucianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16438251",
+        "entityLabel": "Svetosavlje"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25326557",
+        "entityLabel": "Ground Crew Project"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63368099",
+        "entityLabel": "Ahom religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q611662",
+        "entityLabel": "Mun"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q970026",
+        "entityLabel": "Ugaritic religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2882899",
+        "entityLabel": "beliefs and practices of The Church of Jesus Christ of Latter-day Saints"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6052374",
+        "entityLabel": "International Peace Mission movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7311148",
+        "entityLabel": "Religion and ritual of the Cucuteni–Trypillian culture"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10299961",
+        "entityLabel": "Igreja Cristã Maranata"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13212051",
+        "entityLabel": "Kalash Religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4777814",
+        "entityLabel": "Anupa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4780215",
+        "entityLabel": "Apokpa Marup"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4784420",
+        "entityLabel": "Arathi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4955623",
+        "entityLabel": "Brahmo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5116819",
+        "entityLabel": "Church of Aphrodite"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5694834",
+        "entityLabel": "Heaven worship"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6084124",
+        "entityLabel": "preanimism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11446727",
+        "entityLabel": "Nyoraikyo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11673537",
+        "entityLabel": "Kidō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16577447",
+        "entityLabel": "Episcopal Diocese of Litoral Ecuador"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16726841",
+        "entityLabel": "Hanolgyo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16931065",
+        "entityLabel": "Amazighs Christians Donatians"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18280411",
+        "entityLabel": "African religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22906493",
+        "entityLabel": "Ashurism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55605159",
+        "entityLabel": "Bell Church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65078498",
+        "entityLabel": "Jamaican Maroon religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q67713971",
+        "entityLabel": "Daijokyo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80824331",
+        "entityLabel": "Arará religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107668751",
+        "entityLabel": "Meiteism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111955247",
+        "entityLabel": "Efik religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117421539",
+        "entityLabel": "Kushite religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122030555",
+        "entityLabel": "International horse procession Hakendover Tienen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122197789",
+        "entityLabel": "Lamoa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1755789",
+        "entityLabel": "The New Church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2597694",
+        "entityLabel": "VIANOVA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3331868",
+        "entityLabel": "Kabyle mythology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3649470",
+        "entityLabel": "Natib Qadish"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5327307",
+        "entityLabel": "Earthseed"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5372621",
+        "entityLabel": "Emissaries of Divine Light"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6422491",
+        "entityLabel": "Knights of Seth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6471025",
+        "entityLabel": "Laestadianism in America"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7404328",
+        "entityLabel": "Pelebegu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7698766",
+        "entityLabel": "Temple of the True Inner Light"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8069107",
+        "entityLabel": "Zenith Applied Philosophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13048421",
+        "entityLabel": "Visigothic arianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16039034",
+        "entityLabel": "Ancestrality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20945640",
+        "entityLabel": "Druzism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21151157",
+        "entityLabel": "cosmotheism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28401144",
+        "entityLabel": "Terasem Movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30694271",
+        "entityLabel": "Kingdom movement"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q31074565",
+        "entityLabel": "Sun descendants"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48833389",
+        "entityLabel": "Daba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56075704",
+        "entityLabel": "Asatru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56389554",
+        "entityLabel": "Aluk Todolo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65295431",
+        "entityLabel": "ancient druidism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q85973551",
+        "entityLabel": "Gwanseonggyo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q93859297",
+        "entityLabel": "Houkoukai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96376502",
+        "entityLabel": "Dogon religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97308558",
+        "entityLabel": "Adat Musi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109214210",
+        "entityLabel": "Native American religion in North America"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109870308",
+        "entityLabel": "white American religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111954613",
+        "entityLabel": "Samnite religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113480760",
+        "entityLabel": "Dunamis International Gospel Centre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114809541",
+        "entityLabel": "Jeungsangyo Bonbu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114980391",
+        "entityLabel": "Leke"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115322458",
+        "entityLabel": "Hlai folk religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125338341",
+        "entityLabel": "Religion of Sakalava people"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125895293",
+        "entityLabel": "Sari Dharam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q127163544",
+        "entityLabel": "Lydian religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48957376",
+        "entityLabel": "WinningJahrian"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62672798",
+        "entityLabel": "Big Drum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q64008049",
+        "entityLabel": "C3WOC"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65962805",
+        "entityLabel": "Umbandism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q88876702",
+        "entityLabel": "Hangui"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q98962452",
+        "entityLabel": "Undenominationalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109332975",
+        "entityLabel": "Baalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q110498005",
+        "entityLabel": "Wesenmystik"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q111077083",
+        "entityLabel": "Franciscan spirituality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112928690",
+        "entityLabel": "Traditional Choctaw Religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112951160",
+        "entityLabel": "Syriac Orthodox Christianity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q119998804",
+        "entityLabel": "Sabine religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122030564",
+        "entityLabel": "Pilgrim's table at Saint Julian’s hospital"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122030566",
+        "entityLabel": "St Anthony's Day celebrations in Flanders"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123285990",
+        "entityLabel": "Philistine religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q123286262",
+        "entityLabel": "Phoenician religion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124767458",
+        "entityLabel": "Om Lovers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124767564",
+        "entityLabel": "Psychedelic Venus Church"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124830840",
+        "entityLabel": "Sibook"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125195883",
+        "entityLabel": "St Mathew’s Anglican church Maitama Abuja"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125698014",
+        "entityLabel": "Dahnhak"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126537872",
+        "entityLabel": "Muhammad S.A.W From Hira Cave to Makkah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q178801",
+        "entityLabel": "monism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193589",
+        "entityLabel": "Platonism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29253",
+        "entityLabel": "fatalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202253",
+        "entityLabel": "nominalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208650",
+        "entityLabel": "uniformitarianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q651205",
+        "entityLabel": "sensationism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q370163",
+        "entityLabel": "obscurantism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q269114",
+        "entityLabel": "physicalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q879021",
+        "entityLabel": "pluralism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q938937",
+        "entityLabel": "hylozoism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7481907",
+        "entityLabel": "irrationalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848969",
+        "entityLabel": "Conceptualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5252737",
+        "entityLabel": "mind–body dualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q568393",
+        "entityLabel": "psychologism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1122538",
+        "entityLabel": "hylomorphism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q868608",
+        "entityLabel": "critical rationalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2513013",
+        "entityLabel": "euhemerism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112812",
+        "entityLabel": "epiphenomenalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q420578",
+        "entityLabel": "acosmism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2070614",
+        "entityLabel": "innatism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2279698",
+        "entityLabel": "transcendental idealism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1210968",
+        "entityLabel": "naïve realism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1551125",
+        "entityLabel": "compatibilism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1094228",
+        "entityLabel": "logical atomism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1329497",
+        "entityLabel": "eliminative materialism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q295465",
+        "entityLabel": "ecosophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1355086",
+        "entityLabel": "foundationalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1778809",
+        "entityLabel": "coherentism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q511706",
+        "entityLabel": "conventionalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q796204",
+        "entityLabel": "eternalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2636432",
+        "entityLabel": "spiritualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10910958",
+        "entityLabel": "social ecology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1433067",
+        "entityLabel": "formalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3782613",
+        "entityLabel": "contractualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q260994",
+        "entityLabel": "metaphysical naturalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q374959",
+        "entityLabel": "Duhem–Quine thesis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1187191",
+        "entityLabel": "Platonic realism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1076085",
+        "entityLabel": "exceptionalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2135363",
+        "entityLabel": "right to the city"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2580020",
+        "entityLabel": "parallelism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192462",
+        "entityLabel": "double truth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241657",
+        "entityLabel": "neutral monism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5420360",
+        "entityLabel": "existential nihilism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1328995",
+        "entityLabel": "probabilism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1515967",
+        "entityLabel": "meliorism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q48970669",
+        "entityLabel": "Epistemic injustice"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423506",
+        "entityLabel": "actualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q497592",
+        "entityLabel": "modal realism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q541598",
+        "entityLabel": "cosmic pluralism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1217908",
+        "entityLabel": "best of all possible worlds"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q290509",
+        "entityLabel": "antihumanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q440913",
+        "entityLabel": "decisionism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1761408",
+        "entityLabel": "postanalytic philosophy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3502310",
+        "entityLabel": "dynamism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335452",
+        "entityLabel": "interactionism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q567546",
+        "entityLabel": "anomalous monism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1089566",
+        "entityLabel": "property dualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2593909",
+        "entityLabel": "corpuscularianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3480239",
+        "entityLabel": "perdurantism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3724133",
+        "entityLabel": "emergentism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q511345",
+        "entityLabel": "trope theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1414884",
+        "entityLabel": "multiple realizability"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3881242",
+        "entityLabel": "Turtles all the way down"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7844667",
+        "entityLabel": "trivialism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3622161",
+        "entityLabel": "radical behaviorism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11795767",
+        "entityLabel": "Occamism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q56209385",
+        "entityLabel": "Integral humanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q462024",
+        "entityLabel": "supposition theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2978617",
+        "entityLabel": "Lockean proviso"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4412433",
+        "entityLabel": "Platonic epistemology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4833077",
+        "entityLabel": "Marx's theory of human nature"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4915007",
+        "entityLabel": "biological naturalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4997555",
+        "entityLabel": "bundle theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7449101",
+        "entityLabel": "semantic theory of truth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3533081",
+        "entityLabel": "labor theory of property acquisition"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3860307",
+        "entityLabel": "multiplicity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4354914",
+        "entityLabel": "moderate realism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4833742",
+        "entityLabel": "B-theory of time"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7698915",
+        "entityLabel": "temporal finitism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9101810",
+        "entityLabel": "Reconstructivism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13569865",
+        "entityLabel": "infinitism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q677649",
+        "entityLabel": "moral sense theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2548573",
+        "entityLabel": "Neohumanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2850020",
+        "entityLabel": "animalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7202432",
+        "entityLabel": "Platonic idealism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q592740",
+        "entityLabel": "Erastianism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5383599",
+        "entityLabel": "epistemological idealism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5383600",
+        "entityLabel": "epistemological particularism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6823147",
+        "entityLabel": "metaphysical nihilism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11072717",
+        "entityLabel": "innate goodness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11072720",
+        "entityLabel": "innate evilness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12045664",
+        "entityLabel": "scientific pluralism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14947941",
+        "entityLabel": "Solomonoff's theory of inductive inference"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22906566",
+        "entityLabel": "logical determinism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q68925665",
+        "entityLabel": "agential realism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q970776",
+        "entityLabel": "Transcendental Analytic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4692270",
+        "entityLabel": "aggressionism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7625074",
+        "entityLabel": "structuralism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21208243",
+        "entityLabel": "Casualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60982363",
+        "entityLabel": "new materialism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4317231",
+        "entityLabel": "neorationalism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5287598",
+        "entityLabel": "Doctrine of internal relations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5420357",
+        "entityLabel": "existential humanism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7249478",
+        "entityLabel": "Projectivism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7796997",
+        "entityLabel": "Thought of Thomas Aquinas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17119105",
+        "entityLabel": "epistemological solipsism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17130985",
+        "entityLabel": "perspectival realism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25101281",
+        "entityLabel": "logical pluralism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q57955432",
+        "entityLabel": "justificationism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q84598264",
+        "entityLabel": "technocommunism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q97269414",
+        "entityLabel": "philosophical thought of Schopenhauer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3798896",
+        "entityLabel": "formal innatism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3860878",
+        "entityLabel": "pantheistic monism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5156266",
+        "entityLabel": "compensationism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5470054",
+        "entityLabel": "formative epistemology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6823138",
+        "entityLabel": "metaphysical solipsism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8565011",
+        "entityLabel": "Foundherentism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13429922",
+        "entityLabel": "legitimacy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13537464",
+        "entityLabel": "neo-Idealism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18393728",
+        "entityLabel": "receptivity"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21060822",
+        "entityLabel": "Horak Controversy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28966559",
+        "entityLabel": "Humean definition of causality"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q84572988",
+        "entityLabel": "correlationism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q84590528",
+        "entityLabel": "voice of poetry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124371681",
+        "entityLabel": "Mou Zongsan's moral metaphysics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7604171",
+        "entityLabel": "static interpretation of time"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10301595",
+        "entityLabel": "predicativism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22695958",
+        "entityLabel": "hylemorphic dualism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q88380233",
+        "entityLabel": "historical cycles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118697949",
+        "entityLabel": "enlightenmentism"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q623282",
+        "entityLabel": "afterlife"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1156645",
+        "entityLabel": "Israelites as the chosen people"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3627640",
+        "entityLabel": "astrolatry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7903781",
+        "entityLabel": "Uwaisi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11588425",
+        "entityLabel": "Gion Faith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66890725",
+        "entityLabel": "Tenjin faith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11291145",
+        "entityLabel": "El Cantare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11470037",
+        "entityLabel": "Sannō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11549596",
+        "entityLabel": "Hikawa shinkō"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22131342",
+        "entityLabel": "Seishōkō faith"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q112695190",
+        "entityLabel": "Taishi cult"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113248909",
+        "entityLabel": "Goryō faith"
+    }
+]

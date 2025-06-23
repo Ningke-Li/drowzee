@@ -1,0 +1,4710 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q237",
+        "entityLabel": "Vatican City"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23661",
+        "entityLabel": "Wellington"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2028",
+        "entityLabel": "Verona"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q66485",
+        "entityLabel": "Jaipur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9427",
+        "entityLabel": "Timbuktu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5582862",
+        "entityLabel": "Cusco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q22889",
+        "entityLabel": "Bath"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3936",
+        "entityLabel": "Bamberg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35045",
+        "entityLabel": "Potosí"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190184",
+        "entityLabel": "Harar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192518",
+        "entityLabel": "Shibam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q321475",
+        "entityLabel": "Kollam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192237",
+        "entityLabel": "Ghadames"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q331099",
+        "entityLabel": "Island of Mozambique"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q138986",
+        "entityLabel": "Zabid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q163798",
+        "entityLabel": "Thrissur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q244347",
+        "entityLabel": "Gorée"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q844417",
+        "entityLabel": "Stone Town"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q272799",
+        "entityLabel": "Lamu old town"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q828357",
+        "entityLabel": "Sunshine Coast"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q464913",
+        "entityLabel": "Cidade Velha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q535577",
+        "entityLabel": "Itchan Kala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q648489",
+        "entityLabel": "Loznica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q748211",
+        "entityLabel": "Old Town"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1100964",
+        "entityLabel": "Islamic Cairo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q662102",
+        "entityLabel": "Casbah of Algiers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1165566",
+        "entityLabel": "Old Havana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1139084",
+        "entityLabel": "Warsaw Old Town"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2213440",
+        "entityLabel": "West Jerusalem"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q652634",
+        "entityLabel": "Kraków Old Town"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1026415",
+        "entityLabel": "Vecrīga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1268163",
+        "entityLabel": "Kulsary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q616578",
+        "entityLabel": "Historic Centre of Saint Petersburg and Related Groups of Monuments"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q631152",
+        "entityLabel": "Colonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1708160",
+        "entityLabel": "Golaghat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2592613",
+        "entityLabel": "Old Town of Lviv"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2601433",
+        "entityLabel": "Historic Centre of Macau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q556471",
+        "entityLabel": "Ilion"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q687973",
+        "entityLabel": "Old City of Bern"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2249113",
+        "entityLabel": "port of the Moon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q726803",
+        "entityLabel": "Tallinn Old Town"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1075681",
+        "entityLabel": "Historic Centre of Sighișoara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5773394",
+        "entityLabel": "Historic Areas of Istanbul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2707802",
+        "entityLabel": "Historic Centre of Florence"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q64494878",
+        "entityLabel": "The works of Jože Plečnik in Ljubljana – Human Centred Urban Design"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3106527",
+        "entityLabel": "Medina of Tunis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3678597",
+        "entityLabel": "Old City of Zamość"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q608100",
+        "entityLabel": "Medina of Sousse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2470834",
+        "entityLabel": "Colonial City of Santo Domingo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8399",
+        "entityLabel": "Vieux Lyon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5600557",
+        "entityLabel": "Greater Glasgow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q176084",
+        "entityLabel": "Newton Heath"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q300275",
+        "entityLabel": "AZCA"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1019138",
+        "entityLabel": "Dalen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1293366",
+        "entityLabel": "Teesside"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3320442",
+        "entityLabel": "Historic Centre of Lima"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q832957",
+        "entityLabel": "Historic Centre of Naples"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1698870",
+        "entityLabel": "Kolbotn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2233532",
+        "entityLabel": "banks of the Seine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2447222",
+        "entityLabel": "Greater London Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2072102",
+        "entityLabel": "Medina of Fez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2356650",
+        "entityLabel": "Rusholme"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4702264",
+        "entityLabel": "Al-Balad, Jeddah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5472448",
+        "entityLabel": "Historic City of Ahmadabad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q591960",
+        "entityLabel": "Kwai Chung"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q954528",
+        "entityLabel": "Cudworth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15278644",
+        "entityLabel": "Old Towns of Djenné"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8343758",
+        "entityLabel": "Historic Centre of Cienfuegos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3847588",
+        "entityLabel": "Medina of Tétouan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q940877",
+        "entityLabel": "Trafford Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1024104",
+        "entityLabel": "Novi Zagreb"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1758914",
+        "entityLabel": "Tsuen Wan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3307172",
+        "entityLabel": "East Rand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q105973249",
+        "entityLabel": "Old Town of Ghadamès"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3631499",
+        "entityLabel": "Westside"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4582736",
+        "entityLabel": "Vollen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8343756",
+        "entityLabel": "Historic Centre of Arequipa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q555360",
+        "entityLabel": "Mazagan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q910661",
+        "entityLabel": "Old city (Dubrovnik)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7580824",
+        "entityLabel": "Springburn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7928810",
+        "entityLabel": "Viewpark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8343766",
+        "entityLabel": "Historic Center of Quito"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319431",
+        "entityLabel": "Tägermoos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q730565",
+        "entityLabel": "Streetly"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1319650",
+        "entityLabel": "The Potteries Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1617333",
+        "entityLabel": "Liverpool Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3247321",
+        "entityLabel": "Greater Nottingham"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3848455",
+        "entityLabel": "Historic Centre of Puebla"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3875229",
+        "entityLabel": "New Ferry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47800464",
+        "entityLabel": "Historic Center of Agadez"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4924217",
+        "entityLabel": "Blairmore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6470824",
+        "entityLabel": "Ladywood"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11976124",
+        "entityLabel": "Hunndalen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12220316",
+        "entityLabel": "Old Sana'a"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14207874",
+        "entityLabel": "Central Saint Petersburg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q851122",
+        "entityLabel": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1348519",
+        "entityLabel": "Greater Manchester Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2944797",
+        "entityLabel": "reconstructed center of Le Havre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20021662",
+        "entityLabel": "Old town of Pontevedra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4261205",
+        "entityLabel": "Sin City"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6818170",
+        "entityLabel": "Phú Mỹ Hưng Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6985460",
+        "entityLabel": "Nechells"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7363216",
+        "entityLabel": "Romiley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7567113",
+        "entityLabel": "South East Dorset conurbation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11316213",
+        "entityLabel": "Tanasbourne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q451391",
+        "entityLabel": "Szopienice-Burowiec"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2147036",
+        "entityLabel": "Historic Inner City of Paramaribo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3010697",
+        "entityLabel": "Hibiscus Coast"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3664892",
+        "entityLabel": "historic center of Genoa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15278743",
+        "entityLabel": "Melaka and George Town, Historic Cities of the Straits of Malacca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4499107",
+        "entityLabel": "Hollinwood"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4523493",
+        "entityLabel": "Sheffield urban area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7783476",
+        "entityLabel": "Greater Thessaloniki"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7978158",
+        "entityLabel": "Wearside"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11992922",
+        "entityLabel": "Næroset"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12352436",
+        "entityLabel": "Medina of Meknes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15143432",
+        "entityLabel": "Jømna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15143597",
+        "entityLabel": "Slåstad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15223943",
+        "entityLabel": "Highgate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1620833",
+        "entityLabel": "Historic Centres of Stralsund and Wismar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3848116",
+        "entityLabel": "Historic centre of Zacatecas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4096564",
+        "entityLabel": "Greater Bristol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4204534",
+        "entityLabel": "historical centre of Yaroslavl"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124411847",
+        "entityLabel": "Tenala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18448486",
+        "entityLabel": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29015225",
+        "entityLabel": "Historic Centre of Bukhara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q107482578",
+        "entityLabel": "Historic town of Grand-Bassam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q122898593",
+        "entityLabel": "Žatec and the Landscape of Saaz Hops"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4341734",
+        "entityLabel": "Pavlovo Pole"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4439815",
+        "entityLabel": "Old Ufa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4534175",
+        "entityLabel": "Moscow South River Port"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5032674",
+        "entityLabel": "Canning"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5275561",
+        "entityLabel": "Digbeth"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5990237",
+        "entityLabel": "Sarchnar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6423495",
+        "entityLabel": "Knowsthorpe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7164819",
+        "entityLabel": "Pensnett"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7567412",
+        "entityLabel": "South Hampshire"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8343767",
+        "entityLabel": "Historic Centre of Santa Cruz de Mompox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8343768",
+        "entityLabel": "Historic Centre of São Luís"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9373025",
+        "entityLabel": "Greater Athens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9588022",
+        "entityLabel": "Piracicaba Metropolitan Region"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9833238",
+        "entityLabel": "Expanded Metropolitan Complex of São Paulo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11352141",
+        "entityLabel": "Venice and its Lagoon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12156631",
+        "entityLabel": "Old City of Salamanca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15143817",
+        "entityLabel": "Eikangervåg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3848089",
+        "entityLabel": "Historic Centre of Morelia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4095759",
+        "entityLabel": "Brighton/Worthing/Littlehampton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17259975",
+        "entityLabel": "Kärra, Dragsfjärd"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20537006",
+        "entityLabel": "Kpong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4784763",
+        "entityLabel": "Arbor Lakes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4852528",
+        "entityLabel": "Balsall Heath"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5038481",
+        "entityLabel": "Cardiff Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5313979",
+        "entityLabel": "Dumplington"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5328166",
+        "entityLabel": "East Cork"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5330914",
+        "entityLabel": "Eastside"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5680753",
+        "entityLabel": "South Brooklyn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6535081",
+        "entityLabel": "Level of Mendalgief"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6741316",
+        "entityLabel": "Malappuram metropolitan area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7017436",
+        "entityLabel": "Haymarket"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7055291",
+        "entityLabel": "North Edmonton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7986320",
+        "entityLabel": "West Rand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8343759",
+        "entityLabel": "Historic Centre of Santa Ana de los Ríos de Cuenca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8343763",
+        "entityLabel": "Historic centre of Oaxaca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9643691",
+        "entityLabel": "Historic Quarter of the City of Colonia del Sacramento"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10267270",
+        "entityLabel": "Distrito Industrial de Marabá"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10332219",
+        "entityLabel": "Morada Nova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10337850",
+        "entityLabel": "Nova Marabá"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10375672",
+        "entityLabel": "São Félix"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10389588",
+        "entityLabel": "Velha Marabá"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11330483",
+        "entityLabel": "Historic City of Vigan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55577",
+        "entityLabel": "Kuortaneen kirkonkylä"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3312054",
+        "entityLabel": "Derry Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3904918",
+        "entityLabel": "Pigneto"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3954936",
+        "entityLabel": "Selva Nera"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17255635",
+        "entityLabel": "Historic City of Toledo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18466125",
+        "entityLabel": "Cidade Nova"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20088995",
+        "entityLabel": "North Industrial Area, Accra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20854857",
+        "entityLabel": "Apedwa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21650241",
+        "entityLabel": "Raby Slup"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21650242",
+        "entityLabel": "Uborki"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q24950600",
+        "entityLabel": "Kozhikode metropolitan area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25340896",
+        "entityLabel": "Fall (Søndre Land)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q51100199",
+        "entityLabel": "Lamu Old Town"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60288892",
+        "entityLabel": "Mercato di Mezzo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65924939",
+        "entityLabel": "Medina of Marrakesh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q101354205",
+        "entityLabel": "Centro piacentiniano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q108055859",
+        "entityLabel": "Nuevo Gramalote"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114289599",
+        "entityLabel": "Simmakkal, Madurai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4713739",
+        "entityLabel": "Aldershot Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4866711",
+        "entityLabel": "Basen Górniczy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4923281",
+        "entityLabel": "Blackpool Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5179126",
+        "entityLabel": "Coventry and Bedworth Urban Area"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5725371",
+        "entityLabel": "Belén"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6220886",
+        "entityLabel": "John Barrow"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6365326",
+        "entityLabel": "Kantamanto market, Accra, Ghana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q513",
+        "entityLabel": "Mount Everest"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5806",
+        "entityLabel": "Mecca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12501",
+        "entityLabel": "Great Wall of China"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q243",
+        "entityLabel": "Eiffel Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7296",
+        "entityLabel": "Mount Kilimanjaro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9141",
+        "entityLabel": "Taj Mahal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9202",
+        "entityLabel": "Statue of Liberty"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10285",
+        "entityLabel": "Colosseum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5086",
+        "entityLabel": "Berlin Wall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35525",
+        "entityLabel": "White House"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q676203",
+        "entityLabel": "Machu Picchu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12506",
+        "entityLabel": "Hagia Sophia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q39231",
+        "entityLabel": "Mount Fuji"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q34221",
+        "entityLabel": "Niagara Falls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16520",
+        "entityLabel": "Busan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q39671",
+        "entityLabel": "Stonehenge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q524",
+        "entityLabel": "Mount Vesuvius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43473",
+        "entityLabel": "Angkor Wat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10288",
+        "entityLabel": "Parthenon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35342",
+        "entityLabel": "Titicaca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12495",
+        "entityLabel": "Burj Khalifa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q38095",
+        "entityLabel": "Galapagos Islands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12512",
+        "entityLabel": "St. Peter's Basilica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16990",
+        "entityLabel": "Mount Etna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2981",
+        "entityLabel": "Notre-Dame de Paris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q37200",
+        "entityLabel": "Great Pyramid of Giza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9188",
+        "entityLabel": "Empire State Building"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5788",
+        "entityLabel": "Petra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5859",
+        "entityLabel": "Chichen Itza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q44440",
+        "entityLabel": "Golden Gate Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q351",
+        "entityLabel": "Yellowstone National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q72303",
+        "entityLabel": "Mount Ararat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q130514",
+        "entityLabel": "Luxor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217265",
+        "entityLabel": "Cappadocia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80290",
+        "entityLabel": "Forbidden City"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45178",
+        "entityLabel": "Sydney Opera House"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11208",
+        "entityLabel": "The Pentagon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q36332",
+        "entityLabel": "Iguaçu Falls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q12192963",
+        "entityLabel": "Al-Aqsa Mosque"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29294",
+        "entityLabel": "Willis Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42798",
+        "entityLabel": "Borobudur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47611",
+        "entityLabel": "Ephesus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q550",
+        "entityLabel": "avenue des Champs-Élysées"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41116",
+        "entityLabel": "Red Square"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q133274",
+        "entityLabel": "Kremlin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80299",
+        "entityLabel": "Angel Falls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47476",
+        "entityLabel": "Alhambra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79961",
+        "entityLabel": "Christ the Redeemer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5933",
+        "entityLabel": "Westminster Abbey"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42182",
+        "entityLabel": "Buckingham Palace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1374",
+        "entityLabel": "Matterhorn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4152",
+        "entityLabel": "Neuschwanstein Castle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62378",
+        "entityLabel": "Tower of London"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80541",
+        "entityLabel": "Sultan Ahmed Mosque"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131013",
+        "entityLabel": "Acropolis of Athens"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83063",
+        "entityLabel": "Petronas Towers"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180402",
+        "entityLabel": "Yosemite National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47672",
+        "entityLabel": "Terracotta Army"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126307",
+        "entityLabel": "Lake Van"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2943",
+        "entityLabel": "Sistine Chapel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q82425",
+        "entityLabel": "Brandenburg Gate"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83125",
+        "entityLabel": "Tower Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160409",
+        "entityLabel": "Central Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q175582",
+        "entityLabel": "Egyptian pyramids"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4176",
+        "entityLabel": "Cologne Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41225",
+        "entityLabel": "Big Ben"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42646",
+        "entityLabel": "Windsor Castle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q71229",
+        "entityLabel": "Potala Palace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q57357",
+        "entityLabel": "Hadrian's Wall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125006",
+        "entityLabel": "Brooklyn Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q130958",
+        "entityLabel": "The Great Sphinx"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134821",
+        "entityLabel": "Western Wall"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40758",
+        "entityLabel": "Damavand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104674",
+        "entityLabel": "Ben Nevis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118388",
+        "entityLabel": "Death Valley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129846",
+        "entityLabel": "St. Basil's Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134883",
+        "entityLabel": "CN Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160112",
+        "entityLabel": "Museo del Prado"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190128",
+        "entityLabel": "Ha Long Bay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q99309",
+        "entityLabel": "Pantheon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160659",
+        "entityLabel": "London Eye"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q170495",
+        "entityLabel": "Topkapı Palace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q987729",
+        "entityLabel": "La Défense"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181185",
+        "entityLabel": "Disneyland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18068",
+        "entityLabel": "Milan Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23308",
+        "entityLabel": "British Library"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11245",
+        "entityLabel": "One World Trade Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106187",
+        "entityLabel": "Giant's Causeway"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129143",
+        "entityLabel": "Trafalgar Square"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q99236",
+        "entityLabel": "Millau Viaduct"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151897",
+        "entityLabel": "Reichstag"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173882",
+        "entityLabel": "St Paul's Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q172822",
+        "entityLabel": "Hoover Dam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11259",
+        "entityLabel": "Times Square"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q153494",
+        "entityLabel": "Rothenburg ob der Tauber"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173527",
+        "entityLabel": "Knossos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q180212",
+        "entityLabel": "Roman Forum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q71719",
+        "entityLabel": "Hollywood Walk of Fame"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q178114",
+        "entityLabel": "Washington Monument"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11812902",
+        "entityLabel": "Serengeti National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q274131",
+        "entityLabel": "Everglades National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q172125",
+        "entityLabel": "Lascaux"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183536",
+        "entityLabel": "Tokyo Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q178643",
+        "entityLabel": "Süleymaniye Mosque"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185382",
+        "entityLabel": "Trevi Fountain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q172988",
+        "entityLabel": "St Mark's Basilica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q489902",
+        "entityLabel": "Nördlingen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q152072",
+        "entityLabel": "Manneken Pis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q76122",
+        "entityLabel": "bomboclat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131354",
+        "entityLabel": "Alcatraz Island"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193369",
+        "entityLabel": "Prague Castle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q36698440",
+        "entityLabel": "Château de Montsoreau-Museum of Contemporary Art"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186115",
+        "entityLabel": "Montmartre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181324",
+        "entityLabel": "Ostankino Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192988",
+        "entityLabel": "Royal Observatory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q830054",
+        "entityLabel": "Saint Sophia Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208559",
+        "entityLabel": "Drottningholm Palace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4484",
+        "entityLabel": "15 July Martyrs Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80852",
+        "entityLabel": "Shanghai World Financial Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190063",
+        "entityLabel": "île de la Cité"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201469",
+        "entityLabel": "Solomon R. Guggenheim Museum"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215003",
+        "entityLabel": "Belém Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q272153",
+        "entityLabel": "Sigiriya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q546010",
+        "entityLabel": "Ani"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151356",
+        "entityLabel": "Fernsehturm Berlin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189764",
+        "entityLabel": "Pont du Gard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189883",
+        "entityLabel": "Doge's Palace"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192017",
+        "entityLabel": "Monument Valley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q205131",
+        "entityLabel": "Leshan Giant Buddha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q274120",
+        "entityLabel": "Niagara Falls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28785",
+        "entityLabel": "Sacré-Cœur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55019",
+        "entityLabel": "Covent Garden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151963",
+        "entityLabel": "Museum Island"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212065",
+        "entityLabel": "Edinburgh Castle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q91274",
+        "entityLabel": "Galata Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202175",
+        "entityLabel": "Ellis Island"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q214619",
+        "entityLabel": "The Little Mermaid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q223385",
+        "entityLabel": "Cueva de las Manos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q658437",
+        "entityLabel": "Imbros"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q672936",
+        "entityLabel": "Rysy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q151030",
+        "entityLabel": "Moulin Rouge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q235242",
+        "entityLabel": "Pietà"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62149",
+        "entityLabel": "Juventus Stadium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q695604",
+        "entityLabel": "Sheikh Zayed Mosque"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207028",
+        "entityLabel": "Mariinsky Theatre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213559",
+        "entityLabel": "Lincoln Memorial"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217527",
+        "entityLabel": "Piazza San Marco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q309243",
+        "entityLabel": "Grand Canal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q206859",
+        "entityLabel": "Walt Disney World Resort"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207808",
+        "entityLabel": "Circus Maximus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215255",
+        "entityLabel": "Piccadilly Circus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q223969",
+        "entityLabel": "Arches National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43282",
+        "entityLabel": "Alexander Nevsky Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52505",
+        "entityLabel": "Rialto Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q68689",
+        "entityLabel": "Checkpoint Charlie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154563",
+        "entityLabel": "Berlin Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q738015",
+        "entityLabel": "Helsinki Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1244337",
+        "entityLabel": "Canaima National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1601986",
+        "entityLabel": "The Motherland Calls"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207486",
+        "entityLabel": "Basilica of San Francesco d'Assisi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q211823",
+        "entityLabel": "Lake Tuz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q309458",
+        "entityLabel": "Jardin du Luxembourg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109858",
+        "entityLabel": "Fifth Avenue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q154828",
+        "entityLabel": "Berlin Zoological Garden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191161",
+        "entityLabel": "30 St Mary Axe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192687",
+        "entityLabel": "Downing Street"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18769666",
+        "entityLabel": "Keukenhof"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207945",
+        "entityLabel": "Rila Monastery"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208633",
+        "entityLabel": "Ponte Vecchio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q52517",
+        "entityLabel": "Bridge of Sighs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q690323",
+        "entityLabel": "High Tatras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126804",
+        "entityLabel": "Mount Erciyes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q152783",
+        "entityLabel": "Alexanderplatz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192721",
+        "entityLabel": "Củ Chi tunnels"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q223207",
+        "entityLabel": "Oriental Pearl Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q239477",
+        "entityLabel": "Cliffs of Moher"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q323767",
+        "entityLabel": "Montparnasse Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q431381",
+        "entityLabel": "Meteor Crater"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208811",
+        "entityLabel": "Panathenaic Stadium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215208",
+        "entityLabel": "Church of the Savior on Blood"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q271928",
+        "entityLabel": "Palazzo Vecchio"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11277",
+        "entityLabel": "Rockefeller Center"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q11290",
+        "entityLabel": "Grand Central Terminal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q46313",
+        "entityLabel": "Buda Castle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q404571",
+        "entityLabel": "Kazan Cathedral"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41135",
+        "entityLabel": "Ming tombs"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q463400",
+        "entityLabel": "Piazza Navona"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q503368",
+        "entityLabel": "Carrauntoohil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q143463",
+        "entityLabel": "Palais des Papes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q152660",
+        "entityLabel": "Sequoia National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q171517",
+        "entityLabel": "Royal Palace of Madrid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7784788",
+        "entityLabel": "Yavuz Sultan Selim Bridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q339503",
+        "entityLabel": "Newgrange"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q390306",
+        "entityLabel": "Liberty Bell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q622796",
+        "entityLabel": "Milad Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q148554",
+        "entityLabel": "National Museum of Natural History"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q729370",
+        "entityLabel": "Prague Astronomical Clock"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848397",
+        "entityLabel": "Maiden's Tower"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30",
+        "entityLabel": "United States of America"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17",
+        "entityLabel": "Japan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q43",
+        "entityLabel": "Turkey"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q159",
+        "entityLabel": "Russia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q38",
+        "entityLabel": "Italy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96",
+        "entityLabel": "Mexico"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q142",
+        "entityLabel": "France"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q33",
+        "entityLabel": "Finland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183",
+        "entityLabel": "Germany"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q668",
+        "entityLabel": "India"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29",
+        "entityLabel": "Spain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q148",
+        "entityLabel": "People's Republic of China"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q408",
+        "entityLabel": "Australia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16",
+        "entityLabel": "Canada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q36",
+        "entityLabel": "Poland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q20",
+        "entityLabel": "Norway"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155",
+        "entityLabel": "Brazil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q298",
+        "entityLabel": "Chile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q145",
+        "entityLabel": "United Kingdom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q39",
+        "entityLabel": "Switzerland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79",
+        "entityLabel": "Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q801",
+        "entityLabel": "Israel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41",
+        "entityLabel": "Greece"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q794",
+        "entityLabel": "Iran"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q222",
+        "entityLabel": "Albania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40",
+        "entityLabel": "Austria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q414",
+        "entityLabel": "Argentina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q739",
+        "entityLabel": "Colombia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35",
+        "entityLabel": "Denmark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55",
+        "entityLabel": "Netherlands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q31",
+        "entityLabel": "Belgium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q34",
+        "entityLabel": "Sweden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q227",
+        "entityLabel": "Azerbaijan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q881",
+        "entityLabel": "Vietnam"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q45",
+        "entityLabel": "Portugal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q219",
+        "entityLabel": "Bulgaria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q252",
+        "entityLabel": "Indonesia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q889",
+        "entityLabel": "Afghanistan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184",
+        "entityLabel": "Belarus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q258",
+        "entityLabel": "South Africa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191",
+        "entityLabel": "Estonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q28",
+        "entityLabel": "Hungary"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213",
+        "entityLabel": "Czech Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189",
+        "entityLabel": "Iceland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q843",
+        "entityLabel": "Pakistan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q37",
+        "entityLabel": "Lithuania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q224",
+        "entityLabel": "Croatia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q262",
+        "entityLabel": "Algeria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q399",
+        "entityLabel": "Armenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q884",
+        "entityLabel": "South Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q232",
+        "entityLabel": "Kazakhstan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q869",
+        "entityLabel": "Thailand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q717",
+        "entityLabel": "Venezuela"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q218",
+        "entityLabel": "Romania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q796",
+        "entityLabel": "Iraq"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q214",
+        "entityLabel": "Slovakia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q851",
+        "entityLabel": "Saudi Arabia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q664",
+        "entityLabel": "New Zealand"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q902",
+        "entityLabel": "Bangladesh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q833",
+        "entityLabel": "Malaysia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115",
+        "entityLabel": "Ethiopia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1033",
+        "entityLabel": "Nigeria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q211",
+        "entityLabel": "Latvia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q241",
+        "entityLabel": "Cuba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215",
+        "entityLabel": "Slovenia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q858",
+        "entityLabel": "Syria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q928",
+        "entityLabel": "Philippines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q228",
+        "entityLabel": "Andorra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1016",
+        "entityLabel": "Libya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q114",
+        "entityLabel": "Kenya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q334",
+        "entityLabel": "Singapore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q423",
+        "entityLabel": "North Korea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q419",
+        "entityLabel": "Peru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q822",
+        "entityLabel": "Lebanon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1049",
+        "entityLabel": "Sudan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837",
+        "entityLabel": "Nepal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q974",
+        "entityLabel": "Democratic Republic of the Congo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1028",
+        "entityLabel": "Morocco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q221",
+        "entityLabel": "North Macedonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q229",
+        "entityLabel": "Cyprus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233",
+        "entityLabel": "Malta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q424",
+        "entityLabel": "Cambodia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q236",
+        "entityLabel": "Montenegro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q77",
+        "entityLabel": "Uruguay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q117",
+        "entityLabel": "Ghana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q916",
+        "entityLabel": "Angola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q711",
+        "entityLabel": "Mongolia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q948",
+        "entityLabel": "Tunisia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27",
+        "entityLabel": "Ireland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q347",
+        "entityLabel": "Liechtenstein"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1045",
+        "entityLabel": "Somalia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q736",
+        "entityLabel": "Ecuador"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q813",
+        "entityLabel": "Kyrgyzstan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q810",
+        "entityLabel": "Jordan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q836",
+        "entityLabel": "Myanmar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1019",
+        "entityLabel": "Madagascar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q750",
+        "entityLabel": "Bolivia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q924",
+        "entityLabel": "Tanzania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q954",
+        "entityLabel": "Zimbabwe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q878",
+        "entityLabel": "United Arab Emirates"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1030",
+        "entityLabel": "Namibia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q733",
+        "entityLabel": "Paraguay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q805",
+        "entityLabel": "Yemen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q963",
+        "entityLabel": "Botswana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q265",
+        "entityLabel": "Uzbekistan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q657",
+        "entityLabel": "Chad"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q819",
+        "entityLabel": "Laos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q865",
+        "entityLabel": "Taiwan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q863",
+        "entityLabel": "Tajikistan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1008",
+        "entityLabel": "Ivory Coast"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1036",
+        "entityLabel": "Uganda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q854",
+        "entityLabel": "Sri Lanka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q912",
+        "entityLabel": "Mali"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1009",
+        "entityLabel": "Cameroon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q962",
+        "entityLabel": "Benin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q398",
+        "entityLabel": "Bahrain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1025",
+        "entityLabel": "Mauritania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q917",
+        "entityLabel": "Bhutan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q953",
+        "entityLabel": "Zambia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q965",
+        "entityLabel": "Burkina Faso"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1029",
+        "entityLabel": "Mozambique"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q874",
+        "entityLabel": "Turkmenistan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q986",
+        "entityLabel": "Eritrea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q800",
+        "entityLabel": "Costa Rica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q929",
+        "entityLabel": "Central African Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1032",
+        "entityLabel": "Niger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q783",
+        "entityLabel": "Honduras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q971",
+        "entityLabel": "Republic of the Congo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q977",
+        "entityLabel": "Djibouti"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1041",
+        "entityLabel": "Senegal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q967",
+        "entityLabel": "Burundi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1005",
+        "entityLabel": "The Gambia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q842",
+        "entityLabel": "Oman"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1000",
+        "entityLabel": "Gabon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1006",
+        "entityLabel": "Guinea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q921",
+        "entityLabel": "Brunei"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q945",
+        "entityLabel": "Togo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1007",
+        "entityLabel": "Guinea-Bissau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1020",
+        "entityLabel": "Malawi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1037",
+        "entityLabel": "Rwanda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q574",
+        "entityLabel": "East Timor"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826",
+        "entityLabel": "Maldives"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q691",
+        "entityLabel": "Papua New Guinea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1014",
+        "entityLabel": "Liberia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q734",
+        "entityLabel": "Guyana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q792",
+        "entityLabel": "El Salvador"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1011",
+        "entityLabel": "Cape Verde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q774",
+        "entityLabel": "Guatemala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1044",
+        "entityLabel": "Sierra Leone"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q766",
+        "entityLabel": "Jamaica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1013",
+        "entityLabel": "Lesotho"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q811",
+        "entityLabel": "Nicaragua"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q970",
+        "entityLabel": "Comoros"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1027",
+        "entityLabel": "Mauritius"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q778",
+        "entityLabel": "The Bahamas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1246",
+        "entityLabel": "Kosovo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q958",
+        "entityLabel": "South Sudan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q786",
+        "entityLabel": "Dominican Republic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q712",
+        "entityLabel": "Fiji"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1042",
+        "entityLabel": "Seychelles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1039",
+        "entityLabel": "São Tomé and Príncipe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q697",
+        "entityLabel": "Nauru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q781",
+        "entityLabel": "Antigua and Barbuda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q784",
+        "entityLabel": "Dominica"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q683",
+        "entityLabel": "Samoa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q686",
+        "entityLabel": "Vanuatu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q695",
+        "entityLabel": "Palau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q754",
+        "entityLabel": "Trinidad and Tobago"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q769",
+        "entityLabel": "Grenada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q672",
+        "entityLabel": "Tuvalu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q685",
+        "entityLabel": "Solomon Islands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q763",
+        "entityLabel": "Saint Kitts and Nevis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q757",
+        "entityLabel": "Saint Vincent and the Grenadines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q760",
+        "entityLabel": "Saint Lucia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q702",
+        "entityLabel": "Federated States of Micronesia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q219060",
+        "entityLabel": "State of Palestine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q21203",
+        "entityLabel": "Aruba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26988",
+        "entityLabel": "Cook Islands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q34020",
+        "entityLabel": "Niue"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26273",
+        "entityLabel": "Sint Maarten"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29999",
+        "entityLabel": "Kingdom of the Netherlands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q29520",
+        "entityLabel": "China"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q756617",
+        "entityLabel": "Kingdom of Denmark"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q44826",
+        "entityLabel": "Tarshish"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q854850",
+        "entityLabel": "Bharatpur State"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124153644",
+        "entityLabel": "Chinland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1926952",
+        "entityLabel": "Calvinist Republic of Ghent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q109534069",
+        "entityLabel": "Kingdom of Wolaita"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126362486",
+        "entityLabel": "Kerajaan Patipi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126726574",
+        "entityLabel": "Kingdom of Martabam-hongsawatoi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124535978",
+        "entityLabel": "Ashkenaz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124536190",
+        "entityLabel": "Havilah"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125422413",
+        "entityLabel": "Persia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q46733",
+        "entityLabel": "Darfur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q32579",
+        "entityLabel": "Phrygia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q620864",
+        "entityLabel": "Cilicia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q373189",
+        "entityLabel": "Bithynia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q621672",
+        "entityLabel": "Pontus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193214",
+        "entityLabel": "Caria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q275491",
+        "entityLabel": "Rif"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q244482",
+        "entityLabel": "Romagna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q505632",
+        "entityLabel": "Padania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q654252",
+        "entityLabel": "Scottish Lowlands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q622032",
+        "entityLabel": "Paphlagonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q621805",
+        "entityLabel": "Pisidia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1309492",
+        "entityLabel": "Syrmia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1191358",
+        "entityLabel": "Western Siberia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q842184",
+        "entityLabel": "Cilento"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q622598",
+        "entityLabel": "Lycaonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184430",
+        "entityLabel": "Zeelandic Flanders"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q558603",
+        "entityLabel": "Panchala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1779054",
+        "entityLabel": "Bosanska Krajina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1233184",
+        "entityLabel": "Maremma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1455944",
+        "entityLabel": "Twente"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q913914",
+        "entityLabel": "Selonia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1153251",
+        "entityLabel": "Veluwe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q278582",
+        "entityLabel": "North Tyrol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1135779",
+        "entityLabel": "Emilia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q652729",
+        "entityLabel": "Brianza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q612952",
+        "entityLabel": "Bashan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q616286",
+        "entityLabel": "Eastphalia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1515626",
+        "entityLabel": "Roslagen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q771808",
+        "entityLabel": "Salland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1078270",
+        "entityLabel": "Campine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q652480",
+        "entityLabel": "Kennemerland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q820245",
+        "entityLabel": "Bergslagen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q504552",
+        "entityLabel": "Ommelanden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2061038",
+        "entityLabel": "Riviera Maya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q917134",
+        "entityLabel": "Northern Transylvania"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q426213",
+        "entityLabel": "Versilia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q649520",
+        "entityLabel": "Partium"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1521564",
+        "entityLabel": "Liptov"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2033383",
+        "entityLabel": "Baikalia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q625636",
+        "entityLabel": "Aram-Naharaim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q690221",
+        "entityLabel": "Insubria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1658318",
+        "entityLabel": "Wine Country"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13427561",
+        "entityLabel": "Negroland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1853415",
+        "entityLabel": "Huasteca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1314309",
+        "entityLabel": "Ny-Friesland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1626793",
+        "entityLabel": "Hondsrug"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2656295",
+        "entityLabel": "Terek–Kuma Lowland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2051339",
+        "entityLabel": "Voorne-Putten"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q659667",
+        "entityLabel": "Kop van Overijssel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q768571",
+        "entityLabel": "Țara Moților"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1103865",
+        "entityLabel": "Haakon VII Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1322315",
+        "entityLabel": "Sabine Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1395106",
+        "entityLabel": "Famenne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1496259",
+        "entityLabel": "Gaume"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1758227",
+        "entityLabel": "Westerwolde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q494341",
+        "entityLabel": "Stellingwerven"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q644966",
+        "entityLabel": "Ager Gallicus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1103486",
+        "entityLabel": "Albert I Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1443781",
+        "entityLabel": "Andrée Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2688885",
+        "entityLabel": "Oscar II Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2155652",
+        "entityLabel": "Amstelland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2255186",
+        "entityLabel": "Land of Herve"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q725827",
+        "entityLabel": "Kiskunság"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q786624",
+        "entityLabel": "Thiérache"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q787040",
+        "entityLabel": "Thy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1020908",
+        "entityLabel": "Bünsow Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1164241",
+        "entityLabel": "Nordenskiöld Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1210158",
+        "entityLabel": "Dickson Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1360273",
+        "entityLabel": "James I Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1530142",
+        "entityLabel": "Utrecht Hill Ridge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3291139",
+        "entityLabel": "Zuid-Hollandse Eilanden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3439448",
+        "entityLabel": "Liangguang"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2018576",
+        "entityLabel": "Oldambt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q328761",
+        "entityLabel": "Overledingerland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q499390",
+        "entityLabel": "Hunsingo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q955146",
+        "entityLabel": "Liemers (region)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q972371",
+        "entityLabel": "Riviera Romagnola"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1190077",
+        "entityLabel": "Snowbelt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1302769",
+        "entityLabel": "Eierland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1421904",
+        "entityLabel": "Fivelingo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1783654",
+        "entityLabel": "Westerkwartier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4939761",
+        "entityLabel": "Bollenstreek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10261201",
+        "entityLabel": "Costa do Sol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2214209",
+        "entityLabel": "Hageland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q427860",
+        "entityLabel": "Nassfeld"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q474770",
+        "entityLabel": "Jeverland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q492526",
+        "entityLabel": "Mărginimea Sibiului"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q509677",
+        "entityLabel": "Pale of Calais"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q815504",
+        "entityLabel": "Belgian Eifel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q939519",
+        "entityLabel": "Dropull"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2613828",
+        "entityLabel": "Westergoa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2924361",
+        "entityLabel": "Gelderse Vallei"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3259666",
+        "entityLabel": "Belgian Lorraine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3566682",
+        "entityLabel": "Waterland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3635541",
+        "entityLabel": "Limbuwan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8010242",
+        "entityLabel": "Little Karoo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1966834",
+        "entityLabel": "Nathorst Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2219212",
+        "entityLabel": "Comarca Lagunera"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2224284",
+        "entityLabel": "Meetjesland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2393494",
+        "entityLabel": "South Texas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q384852",
+        "entityLabel": "province of Capitanata"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q874361",
+        "entityLabel": "Tyrolean Unterland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q882031",
+        "entityLabel": "Bay Point"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q940458",
+        "entityLabel": "Bommelerwaard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1691893",
+        "entityLabel": "Joglland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2890516",
+        "entityLabel": "Hevel Shalom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2928746",
+        "entityLabel": "The Rosses"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2938768",
+        "entityLabel": "Cariboo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3002893",
+        "entityLabel": "Eastergoa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3064449",
+        "entityLabel": "Fagne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3373444",
+        "entityLabel": "Pays Noir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5330629",
+        "entityLabel": "Eastern states of Australia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5516648",
+        "entityLabel": "Gaeltacht Cois Fharraige"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6338703",
+        "entityLabel": "Prins Oscars Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1990604",
+        "entityLabel": "Regio Rivierenland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2113002",
+        "entityLabel": "Frisian Lakes"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2381445",
+        "entityLabel": "Gustav Adolf Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2443902",
+        "entityLabel": "Torell Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2444429",
+        "entityLabel": "Land van Heusden en Altena"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2484116",
+        "entityLabel": "Vechtstreek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2553952",
+        "entityLabel": "Wedel Jarlsberg Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q495523",
+        "entityLabel": "Seven Frisian sea-lands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q599196",
+        "entityLabel": "Gorecht"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q874380",
+        "entityLabel": "Tyrolean Oberland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q897329",
+        "entityLabel": "Stedingen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q923152",
+        "entityLabel": "Mélantois"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1593505",
+        "entityLabel": "Heer Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2757742",
+        "entityLabel": "Hanherred"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2802543",
+        "entityLabel": "Sørkapp Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2944791",
+        "entityLabel": "Centre region, Hainaut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3198027",
+        "entityLabel": "Knobs region"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3613297",
+        "entityLabel": "Alto Mantovano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3643161",
+        "entityLabel": "Northeast Kingdom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4805057",
+        "entityLabel": "Cape Winelands"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5001536",
+        "entityLabel": "Bushmanland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16257024",
+        "entityLabel": "Chaderghat"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16897218",
+        "entityLabel": "Søhøjlandet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17017944",
+        "entityLabel": "Northern Australia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1816810",
+        "entityLabel": "Palmar de las Islas"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1841716",
+        "entityLabel": "Brabantse Kouters"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1996602",
+        "entityLabel": "Calestienne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2105146",
+        "entityLabel": "Rijk van Nijmegen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2130210",
+        "entityLabel": "Friese Wouden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q82163",
+        "entityLabel": "French Hainaut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q166014",
+        "entityLabel": "Mendoza wine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1271641",
+        "entityLabel": "Düffel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1298596",
+        "entityLabel": "Szilágyság"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1302975",
+        "entityLabel": "Eifionydd"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1324262",
+        "entityLabel": "Lechrain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1402011",
+        "entityLabel": "Außerfern"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2651128",
+        "entityLabel": "Leiestreek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2652943",
+        "entityLabel": "Anahuac"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2660663",
+        "entityLabel": "Bachten de Kupe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2796347",
+        "entityLabel": "Maasland (Noord-Brabant)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3366631",
+        "entityLabel": "Bullaren"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5060498",
+        "entityLabel": "Central California"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5065584",
+        "entityLabel": "Cessnock"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5376176",
+        "entityLabel": "Endless Mountains"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7569653",
+        "entityLabel": "Southern Australia"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10903734",
+        "entityLabel": "Pak Tam Au"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14201940",
+        "entityLabel": "Ashanti-Kwahu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14204015",
+        "entityLabel": "Capital Region (Nicaragua)"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14209598",
+        "entityLabel": "Cap Vert-Thies"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15900643",
+        "entityLabel": "Entre-Sambre-et-Meuse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1827025",
+        "entityLabel": "Đàng Ngoài"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1827039",
+        "entityLabel": "Đàng Trong"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1892176",
+        "entityLabel": "Kempens Bekken"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2128439",
+        "entityLabel": "Eemland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2271408",
+        "entityLabel": "Orvin Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2390250",
+        "entityLabel": "Veurne-Ambacht"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2426633",
+        "entityLabel": "Brugse Ommeland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2459155",
+        "entityLabel": "Gaasterland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2519031",
+        "entityLabel": "Fagne-Famenne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2524810",
+        "entityLabel": "Marnewaard"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q62538375",
+        "entityLabel": "De Zanden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126453145",
+        "entityLabel": "Bay of Fundy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1261197",
+        "entityLabel": "Druivenstreek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1470928",
+        "entityLabel": "Érmellék"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1807977",
+        "entityLabel": "Veenkoloniën"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2569788",
+        "entityLabel": "Pays des Collines"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2585059",
+        "entityLabel": "Thudinie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2848721",
+        "entityLabel": "Westelijke Mijnstreek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3022450",
+        "entityLabel": "Lepontin dome"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4585452",
+        "entityLabel": "Scheldeland"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6872738",
+        "entityLabel": "Miramichi Valley"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7083395",
+        "entityLabel": "Old Armenian Town, Fresno, California"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7163095",
+        "entityLabel": "Penllyn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7182738",
+        "entityLabel": "Philadelphia Main Line"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7979151",
+        "entityLabel": "Wedge"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13137126",
+        "entityLabel": "Mooie Paal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16923591",
+        "entityLabel": "Mau Ping"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q25425331",
+        "entityLabel": "Harald V Land"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1813159",
+        "entityLabel": "Duurswold"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5484",
+        "entityLabel": "Caspian Sea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5513",
+        "entityLabel": "Lake Baikal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5505",
+        "entityLabel": "Lake Victoria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5511",
+        "entityLabel": "Lake Tanganyika"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1066",
+        "entityLabel": "Lake Superior"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1062",
+        "entityLabel": "Lake Ontario"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4127",
+        "entityLabel": "Lake Constance"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6403",
+        "entityLabel": "Lake Geneva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1169",
+        "entityLabel": "Lake Michigan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5532",
+        "entityLabel": "Lake Malawi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1383",
+        "entityLabel": "Lake Huron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5492",
+        "entityLabel": "Lake Erie"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6383",
+        "entityLabel": "Lake Balaton"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15288",
+        "entityLabel": "Lake Ladoga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134485",
+        "entityLabel": "Lake Balkhash"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6414",
+        "entityLabel": "Lake Garda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125888",
+        "entityLabel": "Lake Albert"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q166162",
+        "entityLabel": "Lake Onega"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q42191",
+        "entityLabel": "Issyk-Kul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14379",
+        "entityLabel": "Lake Maggiore"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q49650",
+        "entityLabel": "Loch Ness"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125912",
+        "entityLabel": "Lake Kivu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173596",
+        "entityLabel": "Vänern"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173862",
+        "entityLabel": "Lake Nicaragua"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5525",
+        "entityLabel": "Great Bear Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192770",
+        "entityLabel": "Saimaa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3272",
+        "entityLabel": "Lake Winnipeg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181932",
+        "entityLabel": "Lake Sevan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q116685",
+        "entityLabel": "Lake Tana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179970",
+        "entityLabel": "Kati Thanda–Lake Eyre"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182137",
+        "entityLabel": "Lake Maracaibo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q125211",
+        "entityLabel": "Lake Edward"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188195",
+        "entityLabel": "Vättern"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14418",
+        "entityLabel": "Lake Lugano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19253",
+        "entityLabel": "Lake Peipus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207690",
+        "entityLabel": "Poyang Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q156258",
+        "entityLabel": "Lake Ohrid"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q184492",
+        "entityLabel": "Mälaren"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14407",
+        "entityLabel": "Lake Zurich"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203137",
+        "entityLabel": "Lake Inari"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q199938",
+        "entityLabel": "Tonlé Sap"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4138",
+        "entityLabel": "Chiemsee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14381",
+        "entityLabel": "Lake Lucerne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188487",
+        "entityLabel": "Lake Trasimeno"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q233627",
+        "entityLabel": "Lake Manasarovar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201843",
+        "entityLabel": "Khanka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204392",
+        "entityLabel": "Lake Prespa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q504433",
+        "entityLabel": "Lake Mweru"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14375",
+        "entityLabel": "Lake Neuchâtel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208926",
+        "entityLabel": "Loch Lomond"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q272463",
+        "entityLabel": "Lake Athabasca"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q648902",
+        "entityLabel": "Lake Bled"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q502371",
+        "entityLabel": "West Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q206942",
+        "entityLabel": "Lough Neagh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203462",
+        "entityLabel": "Ilmen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q216083",
+        "entityLabel": "Dongting Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q140712",
+        "entityLabel": "Lake Tai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q329266",
+        "entityLabel": "Crater Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q464945",
+        "entityLabel": "Poopó Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15648",
+        "entityLabel": "Lake Iseo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q211516",
+        "entityLabel": "Võrtsjärv"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q156715",
+        "entityLabel": "Königssee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q272380",
+        "entityLabel": "Lake Managua"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q651294",
+        "entityLabel": "Namtso"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212051",
+        "entityLabel": "Mývatn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131615",
+        "entityLabel": "Lake Starnberg"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q332628",
+        "entityLabel": "Lake Nyos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1032254",
+        "entityLabel": "Pangong Tso"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14429",
+        "entityLabel": "Lake Biel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217109",
+        "entityLabel": "Teletskoe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212209",
+        "entityLabel": "Mjøsa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q216621",
+        "entityLabel": "Lake Zaysan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q753898",
+        "entityLabel": "Argentino Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q946194",
+        "entityLabel": "Lake Ritsa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q337",
+        "entityLabel": "Lake Chaubunagungamaug"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14442",
+        "entityLabel": "Lake Brienz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q257416",
+        "entityLabel": "Sarygamysh Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q334761",
+        "entityLabel": "Lake Ülemiste"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q387256",
+        "entityLabel": "Śniardwy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q714023",
+        "entityLabel": "Heaven Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q845868",
+        "entityLabel": "Taymyr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3369",
+        "entityLabel": "Müritz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14426",
+        "entityLabel": "Lake Thun"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q68467",
+        "entityLabel": "Lake Champlain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q211425",
+        "entityLabel": "Hjälmaren"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213769",
+        "entityLabel": "Päijänne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q158077",
+        "entityLabel": "Dojran Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q325391",
+        "entityLabel": "Dal Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q537374",
+        "entityLabel": "Hulun Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14448",
+        "entityLabel": "Lake Murten"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q335432",
+        "entityLabel": "Þingvallavatn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q720015",
+        "entityLabel": "Karakul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14436",
+        "entityLabel": "Lake Zug"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q498671",
+        "entityLabel": "Lake Hillier"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q613251",
+        "entityLabel": "Band-e Amir National Park"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q645901",
+        "entityLabel": "Lake Manitoba"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q736707",
+        "entityLabel": "Lake Saint Clair"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q886946",
+        "entityLabel": "Blue Lagoon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200003",
+        "entityLabel": "Hornindalsvatnet"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q265336",
+        "entityLabel": "Ammersee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q611206",
+        "entityLabel": "Bosten Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q831903",
+        "entityLabel": "Lake Bohinj"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13700",
+        "entityLabel": "Lake Texcoco"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q226748",
+        "entityLabel": "Zorkul"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q503842",
+        "entityLabel": "Lake General Carrera/Buenos Aires"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q580019",
+        "entityLabel": "Oulujärvi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q265997",
+        "entityLabel": "Imandra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q390370",
+        "entityLabel": "Windermere"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1072342",
+        "entityLabel": "Moraine Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q546146",
+        "entityLabel": "Lake Wörther"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q750025",
+        "entityLabel": "Pool Malebo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q845876",
+        "entityLabel": "Lake of the Woods"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1365115",
+        "entityLabel": "Lake Naivasha"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q890651",
+        "entityLabel": "Lake Bogoria"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q953140",
+        "entityLabel": "Beloye Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63141",
+        "entityLabel": "Lake Orta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202905",
+        "entityLabel": "Lake Okeechobee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q628327",
+        "entityLabel": "Lake Rakshastal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q673169",
+        "entityLabel": "Lake Bangweulu"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q698516",
+        "entityLabel": "Attersee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q747554",
+        "entityLabel": "Narač"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826464",
+        "entityLabel": "Llanquihue Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47136",
+        "entityLabel": "Laguna Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q310547",
+        "entityLabel": "Lake Alakol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q163246",
+        "entityLabel": "Morskie Oko"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q575679",
+        "entityLabel": "Lake Alaotra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q629354",
+        "entityLabel": "Storsjön"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q661235",
+        "entityLabel": "Lagoa dos Patos"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q716206",
+        "entityLabel": "Sun Moon Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q746975",
+        "entityLabel": "Lake Chilwa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1422965",
+        "entityLabel": "Lake Trichonida"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q931708",
+        "entityLabel": "Lake Tengiz"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14444",
+        "entityLabel": "Walensee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q187763",
+        "entityLabel": "Lake Zell"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q215818",
+        "entityLabel": "Torneträsk"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q217430",
+        "entityLabel": "Siljan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q250907",
+        "entityLabel": "Traunsee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q120352",
+        "entityLabel": "Paravani Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q526440",
+        "entityLabel": "Great Bitter Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1132211",
+        "entityLabel": "Nettilling Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q746304",
+        "entityLabel": "Seliger"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q824371",
+        "entityLabel": "Näsijärvi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q827202",
+        "entityLabel": "Lake Karachay"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q845891",
+        "entityLabel": "Pielinen"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q848917",
+        "entityLabel": "Lough Corrib"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1334148",
+        "entityLabel": "Lake Eğirdir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q934638",
+        "entityLabel": "Lake Winnipegosis"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q939604",
+        "entityLabel": "Yamdrok Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q318350",
+        "entityLabel": "Lake Chapala"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q220241",
+        "entityLabel": "Millstätter See"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q138637",
+        "entityLabel": "Lake Izabal"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q369923",
+        "entityLabel": "Lake Beyşehir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q597311",
+        "entityLabel": "Drūkšiai"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q790453",
+        "entityLabel": "Lake Baringo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1330952",
+        "entityLabel": "Lake Moeris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q304933",
+        "entityLabel": "Lake Abaya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q615711",
+        "entityLabel": "Achensee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q845880",
+        "entityLabel": "Hornavan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1330800",
+        "entityLabel": "Lake Mamry"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q876280",
+        "entityLabel": "Lagoa Mirim"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q939766",
+        "entityLabel": "Markermeer"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q945753",
+        "entityLabel": "Tjörnin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q280771",
+        "entityLabel": "Aydar Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q83628",
+        "entityLabel": "Erhai Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1154914",
+        "entityLabel": "Hongze Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1922031",
+        "entityLabel": "Aibi Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q683100",
+        "entityLabel": "Lake Mai-Ndombe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q696445",
+        "entityLabel": "Tyrifjorden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2471326",
+        "entityLabel": "Lake Kari"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1315765",
+        "entityLabel": "Vygozero"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1324180",
+        "entityLabel": "Lough Erne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q871584",
+        "entityLabel": "Wolfgangsee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q932408",
+        "entityLabel": "Sørvágsvatn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q517633",
+        "entityLabel": "Lake Elmenteita"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1188040",
+        "entityLabel": "Synevyr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1723644",
+        "entityLabel": "Kanas Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1315570",
+        "entityLabel": "Lake Fagnano"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q826447",
+        "entityLabel": "Lake Bodom"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3358037",
+        "entityLabel": "North Aral Sea"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q941342",
+        "entityLabel": "Lake Junín"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q956201",
+        "entityLabel": "Lesser Slave Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14459",
+        "entityLabel": "Lake Sempach"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14512",
+        "entityLabel": "Lake Sils"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q311217",
+        "entityLabel": "Schweriner See"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q384811",
+        "entityLabel": "Don Juan Pond"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q577148",
+        "entityLabel": "Lake Manyara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q584201",
+        "entityLabel": "Lake Amadeus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1135655",
+        "entityLabel": "Lake Magadi"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1140471",
+        "entityLabel": "Lake Te Anau"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q700635",
+        "entityLabel": "Weissensee"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q792880",
+        "entityLabel": "Ayding Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2005708",
+        "entityLabel": "O'Higgins/San Martín Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1324437",
+        "entityLabel": "Femund"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1327873",
+        "entityLabel": "Laguna Colorada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1331750",
+        "entityLabel": "Lake Pontchartrain"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1367398",
+        "entityLabel": "Lake Louise"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1474460",
+        "entityLabel": "Sarez Lake"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3392",
+        "entityLabel": "Nile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3783",
+        "entityLabel": "Amazon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1653",
+        "entityLabel": "Danube"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q584",
+        "entityLabel": "Rhine"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q626",
+        "entityLabel": "Volga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5089",
+        "entityLabel": "Ganges"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5413",
+        "entityLabel": "Yangtze"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3503",
+        "entityLabel": "Congo"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7348",
+        "entityLabel": "Indus River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3542",
+        "entityLabel": "Niger River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7355",
+        "entityLabel": "Yellow River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q34589",
+        "entityLabel": "Euphrates"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40855",
+        "entityLabel": "Dnieper"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19686",
+        "entityLabel": "River Thames"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35591",
+        "entityLabel": "Tigris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1644",
+        "entityLabel": "Elbe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q40059",
+        "entityLabel": "Jordan River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q548",
+        "entityLabel": "Vistula"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q973",
+        "entityLabel": "Ob"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q552",
+        "entityLabel": "Oder"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q643",
+        "entityLabel": "Po"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1229",
+        "entityLabel": "Don"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q46841",
+        "entityLabel": "Lena River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q80240",
+        "entityLabel": "Ural River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5419",
+        "entityLabel": "Missouri River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134750",
+        "entityLabel": "St. Lawrence River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13712",
+        "entityLabel": "Tiber"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131210",
+        "entityLabel": "Dniester"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q78707",
+        "entityLabel": "Yenisey"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8493",
+        "entityLabel": "Amu Darya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14294",
+        "entityLabel": "Tagus River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1265",
+        "entityLabel": "Colorado River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131792",
+        "entityLabel": "Orinoco River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q132726",
+        "entityLabel": "Yamuna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q645",
+        "entityLabel": "Neva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q128102",
+        "entityLabel": "Irtysh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41986",
+        "entityLabel": "Meuse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q483159",
+        "entityLabel": "Syr Darya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8197",
+        "entityLabel": "Daugava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3140",
+        "entityLabel": "Hudson River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q104437",
+        "entityLabel": "Yukon River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q882739",
+        "entityLabel": "Blue Nile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10965",
+        "entityLabel": "Ebro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1670",
+        "entityLabel": "Main"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160636",
+        "entityLabel": "Rio Grande"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1667",
+        "entityLabel": "Moselle"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2251",
+        "entityLabel": "Columbia River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14299",
+        "entityLabel": "Douro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q35827",
+        "entityLabel": "Río de la Plata"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q127892",
+        "entityLabel": "Paraná River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q183078",
+        "entityLabel": "Murray River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4915",
+        "entityLabel": "Ohio River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q175117",
+        "entityLabel": "Moskva River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191314",
+        "entityLabel": "Godavari River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14383",
+        "entityLabel": "Sava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q131574",
+        "entityLabel": "Vltava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q162737",
+        "entityLabel": "Angara"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q172089",
+        "entityLabel": "Oka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q173017",
+        "entityLabel": "Limpopo River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4814791",
+        "entityLabel": "White Nile"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q134350",
+        "entityLabel": "Tisza"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181475",
+        "entityLabel": "Orange River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q18278",
+        "entityLabel": "Uruguay River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q79082",
+        "entityLabel": "Kama"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3569",
+        "entityLabel": "Senegal River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5622",
+        "entityLabel": "Neman"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8168",
+        "entityLabel": "Pechora"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3411",
+        "entityLabel": "Mackenzie River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193499",
+        "entityLabel": "Krishna River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179751",
+        "entityLabel": "Aras River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q13696",
+        "entityLabel": "Adige"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14309",
+        "entityLabel": "Guadalquivir"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14369",
+        "entityLabel": "Inn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118771",
+        "entityLabel": "Rio Negro"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q156557",
+        "entityLabel": "Kura River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q160819",
+        "entityLabel": "Gambia River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179396",
+        "entityLabel": "Paraguay River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1673",
+        "entityLabel": "Neckar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1684",
+        "entityLabel": "Spree"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q78879",
+        "entityLabel": "Kolyma"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q93360",
+        "entityLabel": "Bío Bío River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q166966",
+        "entityLabel": "Shatt al-Arab"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1675",
+        "entityLabel": "Aare"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8187",
+        "entityLabel": "Northern Dvina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118251",
+        "entityLabel": "Madeira River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q181482",
+        "entityLabel": "Darling River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q171009",
+        "entityLabel": "Drava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179444",
+        "entityLabel": "Potomac River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188773",
+        "entityLabel": "Okavango River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1650",
+        "entityLabel": "Weser"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q82776",
+        "entityLabel": "Terek"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201463",
+        "entityLabel": "Pearl River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q216875",
+        "entityLabel": "Chenab River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q171649",
+        "entityLabel": "Ubangi River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191829",
+        "entityLabel": "Magdalena River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192415",
+        "entityLabel": "Volta River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8319",
+        "entityLabel": "Arkansas River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182445",
+        "entityLabel": "Prut"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19682",
+        "entityLabel": "River Severn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201823",
+        "entityLabel": "Warta"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q106588",
+        "entityLabel": "Isar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q172572",
+        "entityLabel": "Rubicon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q142148",
+        "entityLabel": "São Francisco River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191238",
+        "entityLabel": "Donets"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q82207",
+        "entityLabel": "Indigirka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q82308",
+        "entityLabel": "Kuban"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204806",
+        "entityLabel": "Benue River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q118850",
+        "entityLabel": "Chao Phraya River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q156237",
+        "entityLabel": "Western Bug"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q257785",
+        "entityLabel": "Kızılırmak River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q171675",
+        "entityLabel": "Sutlej"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1682",
+        "entityLabel": "Havel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q75745",
+        "entityLabel": "Selenga"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q103148",
+        "entityLabel": "Lahn"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q143762",
+        "entityLabel": "Delaware River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q156054",
+        "entityLabel": "Tocantins River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186901",
+        "entityLabel": "Drina"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1664",
+        "entityLabel": "Ruhr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q182343",
+        "entityLabel": "Niagara River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q187834",
+        "entityLabel": "Saône"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188940",
+        "entityLabel": "Southern Bug"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192567",
+        "entityLabel": "Ili River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26439",
+        "entityLabel": "Argun River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55500",
+        "entityLabel": "Han River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192820",
+        "entityLabel": "River Shannon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q193737",
+        "entityLabel": "Tennessee River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202796",
+        "entityLabel": "Desna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q203409",
+        "entityLabel": "Rioni"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q179251",
+        "entityLabel": "Morava"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q214874",
+        "entityLabel": "Jhelum River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q234004",
+        "entityLabel": "Narmada"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q157042",
+        "entityLabel": "Pripyat River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q186541",
+        "entityLabel": "Kasai River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191524",
+        "entityLabel": "Yessil"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41983",
+        "entityLabel": "Marne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208174",
+        "entityLabel": "Dordogne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q559661",
+        "entityLabel": "Liao River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8510",
+        "entityLabel": "Helmand River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204347",
+        "entityLabel": "Maritsa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q206850",
+        "entityLabel": "Red River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q209891",
+        "entityLabel": "Sura"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192157",
+        "entityLabel": "Belaya"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14366",
+        "entityLabel": "Ticino"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1678",
+        "entityLabel": "Saale"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q209031",
+        "entityLabel": "Narva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210326",
+        "entityLabel": "Songhua River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q135477",
+        "entityLabel": "Chari River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200952",
+        "entityLabel": "Ucayali River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q155841",
+        "entityLabel": "Lech"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q188871",
+        "entityLabel": "Orontes River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q189596",
+        "entityLabel": "Vardar"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q190777",
+        "entityLabel": "Neretva"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q192495",
+        "entityLabel": "Vyatka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8515",
+        "entityLabel": "Kabul River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19721",
+        "entityLabel": "River Clyde"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1648",
+        "entityLabel": "Ems"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26433",
+        "entityLabel": "Vilyuy"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q63109",
+        "entityLabel": "Adda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200174",
+        "entityLabel": "Marañón River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4534",
+        "entityLabel": "Andalien River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5602",
+        "entityLabel": "Lusatian Neisse"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26428",
+        "entityLabel": "Nizhnyaya Tunguska"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q200231",
+        "entityLabel": "Oise"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207777",
+        "entityLabel": "Ussuri"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q207903",
+        "entityLabel": "Neris"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q272074",
+        "entityLabel": "Snake River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q317899",
+        "entityLabel": "Ravi River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q185405",
+        "entityLabel": "Amstel"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q8505",
+        "entityLabel": "Hari River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q19714",
+        "entityLabel": "River Trent"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q26390",
+        "entityLabel": "Anadyr"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q204040",
+        "entityLabel": "Mur"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q206694",
+        "entityLabel": "Onon"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q124653",
+        "entityLabel": "Tobol"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q461557",
+        "entityLabel": "Karun River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2750140",
+        "entityLabel": "Kagera River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q14554",
+        "entityLabel": "Minho River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q237901",
+        "entityLabel": "Tarim River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q319590",
+        "entityLabel": "Beas River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q126822",
+        "entityLabel": "Olt River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q41962",
+        "entityLabel": "Aisne"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q202598",
+        "entityLabel": "Váh"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208009",
+        "entityLabel": "Liffey"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208302",
+        "entityLabel": "Siret River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q210870",
+        "entityLabel": "Ufa"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q212795",
+        "entityLabel": "Alazani"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q273456",
+        "entityLabel": "Omo River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q115456",
+        "entityLabel": "Shilka"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191087",
+        "entityLabel": "Acheron"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q191832",
+        "entityLabel": "Aldan"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q55499",
+        "entityLabel": "Tumen River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q208367",
+        "entityLabel": "Bosna"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q209530",
+        "entityLabel": "Vaal River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q27538",
+        "entityLabel": "Susquehanna River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60055",
+        "entityLabel": "Narew"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q65383",
+        "entityLabel": "Vychegda"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q78861",
+        "entityLabel": "Yana"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q201341",
+        "entityLabel": "Isère"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213576",
+        "entityLabel": "Huai River"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q213975",
+        "entityLabel": "Drin"
+    }
+]
