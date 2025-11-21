@@ -130,7 +130,13 @@ Each item in the dataset follows the structure below:
 │   ├── openai_interaction.py
 │   └── test_vllm.py
 ├── 4.response_evaluation
-│   └── answer_test.py
+│   ├── answer_test.py
+│   ├── extract_triple.py
+│   ├── get_all_pred.py
+│   ├── __init__.py
+│   ├── sim_calc.py
+│   └── utils
+│       └── wordnet_synonyms.json
 └── utils
     ├── file_ops.py
     └── wiki_property_cat_v1.xlsx
